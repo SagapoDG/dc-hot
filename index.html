@@ -1,0 +1,423 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>DC·HOT — 数据合规与争议解决热点</title>
+<style>
+  :root {
+    --bg: #f6f7f9;
+    --card: #ffffff;
+    --text: #1a1d24;
+    --text2: #5b6472;
+    --text3: #8b93a1;
+    --accent: #1456d6;
+    --accent-bg: #eaf0fd;
+    --hot: #e8590c;
+    --border: #e5e8ee;
+    --reason-bg: #f3f5f8;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Segoe UI", sans-serif;
+    line-height: 1.6;
+  }
+  a { color: inherit; text-decoration: none; }
+
+  /* ---- 顶栏 ---- */
+  header {
+    background: var(--card);
+    border-bottom: 1px solid var(--border);
+    position: sticky; top: 0; z-index: 10;
+  }
+  .header-inner {
+    max-width: 880px; margin: 0 auto; padding: 0 16px;
+    display: flex; align-items: center; gap: 20px; height: 56px;
+  }
+  .logo { font-size: 20px; font-weight: 800; letter-spacing: .5px; white-space: nowrap; }
+  .logo .dc { color: var(--accent); }
+  .logo .hot { color: var(--hot); }
+  .logo-sub { font-size: 12px; color: var(--text3); font-weight: 400; margin-left: 8px; white-space: nowrap; }
+  nav { display: flex; gap: 4px; margin-left: auto; }
+  nav button {
+    border: none; background: none; cursor: pointer;
+    font-size: 14px; color: var(--text2); padding: 6px 12px; border-radius: 8px;
+  }
+  nav button.active { color: var(--accent); background: var(--accent-bg); font-weight: 600; }
+  nav button:hover { background: var(--accent-bg); }
+
+  /* ---- 工具栏 ---- */
+  .toolbar { max-width: 880px; margin: 16px auto 0; padding: 0 16px; }
+  .search-row { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; }
+  .search-row input {
+    flex: 1; min-width: 200px;
+    border: 1px solid var(--border); border-radius: 10px;
+    padding: 9px 14px; font-size: 14px; background: var(--card); color: var(--text);
+    outline: none;
+  }
+  .search-row input:focus { border-color: var(--accent); }
+  .search-row select {
+    border: 1px solid var(--border); border-radius: 10px; padding: 9px 10px;
+    font-size: 14px; background: var(--card); color: var(--text2); outline: none; cursor: pointer;
+  }
+  .refresh-btn {
+    border: 1px solid var(--border); border-radius: 10px; padding: 9px 16px;
+    font-size: 14px; background: var(--card); color: var(--accent); cursor: pointer; white-space: nowrap;
+  }
+  .refresh-btn:hover { background: var(--accent-bg); }
+  .refresh-btn:disabled { opacity: .5; cursor: wait; }
+  .updated { font-size: 12px; color: var(--text3); white-space: nowrap; }
+  .chips { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 12px; }
+  .chips button {
+    border: 1px solid var(--border); background: var(--card); color: var(--text2);
+    font-size: 13px; padding: 5px 14px; border-radius: 999px; cursor: pointer;
+  }
+  .chips button.active { background: var(--accent); border-color: var(--accent); color: #fff; font-weight: 600; }
+
+  /* ---- 列表 ---- */
+  main { max-width: 880px; margin: 0 auto; padding: 8px 16px 60px; }
+  .date-head {
+    font-size: 15px; font-weight: 700; color: var(--text);
+    margin: 24px 0 10px; display: flex; align-items: center; gap: 8px;
+  }
+  .date-head .count { font-size: 12px; color: var(--text3); font-weight: 400; }
+  .card {
+    background: var(--card); border: 1px solid var(--border); border-radius: 14px;
+    padding: 16px 18px; margin-bottom: 12px; display: flex; gap: 14px;
+  }
+  .rank { font-size: 18px; font-weight: 800; color: var(--text3); min-width: 26px; text-align: center; line-height: 1.4; }
+  .rank.top { color: var(--hot); }
+  .card-body { flex: 1; min-width: 0; }
+  .card-title { font-size: 16px; font-weight: 650; line-height: 1.45; }
+  .card-title a:hover { color: var(--accent); }
+  .hot-badge { font-size: 12px; color: var(--hot); font-weight: 700; margin-left: 6px; white-space: nowrap; }
+  .meta { font-size: 12.5px; color: var(--text3); margin-top: 5px; display: flex; gap: 10px; flex-wrap: wrap; align-items: center; }
+  .meta .heat { color: var(--hot); font-weight: 600; }
+  .region-tag {
+    font-size: 11px; padding: 1px 7px; border-radius: 5px;
+    background: var(--accent-bg); color: var(--accent);
+  }
+  .region-tag.intl { background: #eef9f0; color: #18794e; }
+  .srcs { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 7px; }
+  .src-chip {
+    font-size: 11.5px; color: var(--text2); background: var(--bg);
+    border: 1px solid var(--border); padding: 1px 8px; border-radius: 6px;
+  }
+  .summary { font-size: 13.5px; color: var(--text2); margin-top: 8px; }
+  .tags { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 9px; }
+  .tag { font-size: 11.5px; padding: 2px 9px; border-radius: 999px; background: var(--accent-bg); color: var(--accent); }
+  .tag.kw { background: #fff7ed; color: #b45309; }
+  .reason {
+    margin-top: 10px; padding: 8px 12px; border-radius: 8px;
+    background: var(--reason-bg); font-size: 12.5px; color: var(--text2);
+  }
+  .reason b { color: var(--text); font-weight: 600; }
+  .empty { text-align: center; color: var(--text3); padding: 60px 0; font-size: 14px; }
+
+  /* ---- 实时板块 ---- */
+  .live-dot {
+    display: inline-block; width: 8px; height: 8px; border-radius: 50%;
+    background: #2eb872; animation: pulse 1.6s ease-in-out infinite;
+  }
+  @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: .25; } }
+  .new-badge {
+    font-size: 10px; font-weight: 700; color: #fff; background: var(--hot);
+    padding: 1px 6px; border-radius: 5px; margin-left: 6px; vertical-align: 2px;
+  }
+  .live-time { font-size: 12.5px; font-weight: 700; color: var(--accent); min-width: 42px; text-align: center; white-space: nowrap; line-height: 1.35; padding-top: 2px; }
+
+  /* ---- 关于页 ---- */
+  .about { background: var(--card); border: 1px solid var(--border); border-radius: 14px; padding: 24px; margin-top: 20px; }
+  .about h2 { font-size: 17px; margin-bottom: 10px; }
+  .about p, .about li { font-size: 14px; color: var(--text2); margin-bottom: 6px; }
+  .about ul { padding-left: 20px; margin-bottom: 14px; }
+
+  footer { text-align: center; font-size: 12px; color: var(--text3); padding: 20px 0 40px; }
+
+  @media (max-width: 600px) {
+    .header-inner { gap: 8px; }
+    .logo-sub { display: none; }
+    .card { padding: 13px 14px; gap: 10px; }
+    .card-title { font-size: 15px; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="header-inner">
+    <div class="logo"><span class="dc">DC</span>·<span class="hot">HOT</span><span class="logo-sub">数据合规与争议解决热点</span></div>
+    <nav id="nav">
+      <button data-view="live" class="active">实时</button>
+      <button data-view="featured">精选</button>
+      <button data-view="highlights">要闻</button>
+      <button data-view="all">全部动态</button>
+      <button data-view="about">关于</button>
+    </nav>
+  </div>
+</header>
+
+<div class="toolbar" id="toolbar">
+  <div class="search-row">
+    <input id="search" type="search" placeholder="搜索标题、摘要、信源…">
+    <select id="region">
+      <option value="">全部地区</option>
+      <option value="国内">国内</option>
+      <option value="国际">国际</option>
+    </select>
+    <button class="refresh-btn" id="refresh">↻ 刷新</button>
+    <span class="updated" id="updated"></span>
+  </div>
+  <div class="chips" id="chips"></div>
+</div>
+
+<main id="main"><div class="empty">加载中…</div></main>
+
+<footer>DC·HOT · 多信源自动聚合，内容版权归原作者所有 · 仅供学习研究参考，不构成法律意见</footer>
+
+<script>
+const CATEGORIES = ["全部", "立法监管", "执法处罚", "跨境数据", "个人信息保护", "诉讼仲裁", "安全事件", "行业实践"];
+const state = { view: "live", category: "全部", region: "", query: "", data: null };
+
+const $main = document.getElementById("main");
+const $chips = document.getElementById("chips");
+const $updated = document.getElementById("updated");
+const $toolbar = document.getElementById("toolbar");
+
+/* ---------- 工具函数 ---------- */
+function esc(s) {
+  return (s || "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+}
+function timeAgo(iso) {
+  const m = Math.max(1, Math.round((Date.now() - new Date(iso)) / 60000));
+  if (m < 60) return m + " 分钟前";
+  const h = Math.round(m / 60);
+  if (h < 24) return h + " 小时前";
+  return Math.round(h / 24) + " 天前";
+}
+/* 所有日期/时刻均按北京时间（Asia/Shanghai）计算，与浏览器本地时区无关 */
+const BJ = { timeZone: "Asia/Shanghai" };
+function bjDateStr(offsetDays) {
+  return new Date(Date.now() - offsetDays * 86400000).toLocaleDateString("en-CA", BJ); // YYYY-MM-DD
+}
+function bjClock(iso) {
+  const d = new Date(iso);
+  const hm = d.toLocaleTimeString("zh-CN", { ...BJ, hour: "2-digit", minute: "2-digit", hour12: false });
+  const ds = d.toLocaleDateString("en-CA", BJ);
+  if (ds === bjDateStr(0)) return hm;
+  if (ds === bjDateStr(1)) return `昨天<br>${hm}`;
+  const [, m, day] = ds.split("-");
+  return `${+m}.${+day}<br>${hm}`;
+}
+function dateLabel(d) {
+  if (d === bjDateStr(0)) return "今天";
+  if (d === bjDateStr(1)) return "昨天";
+  const [, m, day] = d.split("-");
+  return `${+m}月${+day}日`;
+}
+
+/* ---------- 渲染 ---------- */
+function renderChips() {
+  $chips.innerHTML = CATEGORIES.map(c =>
+    `<button class="${c === state.category ? "active" : ""}" data-cat="${c}">${c}</button>`).join("");
+}
+
+function matches(item) {
+  if (state.category !== "全部" && item.category !== state.category) return false;
+  if (state.region && item.region !== state.region) return false;
+  if (state.query) {
+    const q = state.query.toLowerCase();
+    const hay = (item.title + " " + item.summary + " " + item.sources.join(" ") + " " + item.category).toLowerCase();
+    if (!hay.includes(q)) return false;
+  }
+  return true;
+}
+
+function cardHTML(item, rank, showDate) {
+  const srcs = item.sources.map(s => `<span class="src-chip">${esc(s)}</span>`).join("");
+  const kwTags = (item.tags || []).map(t => `<span class="tag kw">${esc(t)}</span>`).join("");
+  const lead = rank == null
+    ? `<div class="live-time">${bjClock(item.time)}</div>`
+    : `<div class="rank ${rank <= 3 ? "top" : ""}">${rank}</div>`;
+  return `<div class="card">
+    ${lead}
+    <div class="card-body">
+      <div class="card-title">
+        <a href="${esc(item.url)}" target="_blank" rel="noopener noreferrer">${esc(item.title)}</a>
+        ${item.hot ? '<span class="hot-badge">🔥 热点</span>' : ""}
+        ${item._new ? '<span class="new-badge">NEW</span>' : ""}
+      </div>
+      <div class="meta">
+        <span class="heat">🔥 ${item.sources.length} 个信源</span>
+        <span>${showDate ? dateLabel(item.date) : timeAgo(item.time)}</span>
+        <span class="region-tag ${item.region === "国际" ? "intl" : ""}">${item.region}</span>
+      </div>
+      <div class="srcs">${srcs}</div>
+      ${item.summary ? `<div class="summary">${esc(item.summary)}</div>` : ""}
+      <div class="tags"><span class="tag">${esc(item.category)}</span>${kwTags}</div>
+      <div class="reason"><b>入选理由：</b>${esc(item.reason)}</div>
+    </div>
+  </div>`;
+}
+
+function render() {
+  document.querySelectorAll("#nav button").forEach(b =>
+    b.classList.toggle("active", b.dataset.view === state.view));
+  $toolbar.style.display = state.view === "about" ? "none" : "";
+
+  if (state.view === "about") { renderAbout(); return; }
+  if (!state.data) { $main.innerHTML = '<div class="empty">加载中…</div>'; return; }
+
+  const items = state.data.items.filter(matches);
+  if (!items.length) { $main.innerHTML = '<div class="empty">没有符合条件的资讯，换个筛选条件试试</div>'; return; }
+
+  let html = "";
+  if (state.view === "featured") {
+    const top = [...items].sort((a, b) => b.heat - a.heat).slice(0, 20);
+    html += `<div class="date-head">🏆 精选 Top ${top.length}<span class="count">多信源热度 · 随时间消退 · 近 7 天</span></div>`;
+    html += top.map((it, i) => cardHTML(it, i + 1)).join("");
+  } else if (state.view === "live") {
+    const cutoff = Date.now() - 48 * 3600 * 1000;
+    const latest = [...items].filter(it => new Date(it.time).getTime() >= cutoff)
+      .sort((a, b) => new Date(b.time) - new Date(a.time));
+    html += `<div class="date-head"><span class="live-dot"></span> 实时动态<span class="count">近 48 小时全部 ${latest.length} 条 · 北京时间倒序 · 每分钟自动更新</span></div>`;
+    html += latest.length ? latest.map(it => cardHTML(it, null)).join("")
+                          : '<div class="empty">近 48 小时暂无符合条件的资讯</div>';
+  } else if (state.view === "highlights") {
+    const hl = state.data.highlights || { legislation: [], cases: [] };
+    const section = (icon, title, arr) => {
+      const list = (arr || []).filter(matches);
+      if (!list.length) return "";
+      return `<div class="date-head">${icon} ${title}<span class="count">${list.length} 条 · 近两个月 · 按重要度排序</span></div>` +
+             list.map((it, i) => cardHTML(it, i + 1, true)).join("");
+    };
+    html += section("⚖️", "重要立法与监管", hl.legislation);
+    html += section("🧑‍⚖️", "重要案例与执法", hl.cases);
+    if (!html) html = '<div class="empty">近两个月暂无符合条件的要闻</div>';
+  } else {
+    const byDate = {};
+    items.forEach(it => (byDate[it.date] = byDate[it.date] || []).push(it));
+    Object.keys(byDate).sort().reverse().forEach(d => {
+      const list = byDate[d].sort((a, b) => b.heat - a.heat);
+      html += `<div class="date-head">${dateLabel(d)}<span class="count">${list.length} 条</span></div>`;
+      html += list.map((it, i) => cardHTML(it, i + 1)).join("");
+    });
+  }
+  $main.innerHTML = html;
+}
+
+function renderAbout() {
+  $main.innerHTML = `<div class="about">
+    <h2>关于 DC·HOT</h2>
+    <p>DC·HOT 是一个聚焦<b>数据合规与争议解决</b>领域的国内外资讯聚合页面：自动抓取多个信源，
+       按关键词相关性、信源数量与时效计算热度并排序，相同事件自动聚合去重，并附自动生成的入选理由。</p>
+    <p><b>相关性控制：</b>每条资讯必须同时命中「数据维度」（数据/隐私/个人信息/GDPR…）与「法律维度」
+       （合规/监管/处罚/诉讼/立法…），或命中仲裁/争议解决专门词，才会被收录，避免泛科技新闻混入。</p>
+    <p><b>实时更新：</b>服务端每 10 分钟自动重抓全部信源，页面每分钟轮询一次，新出现的条目会标记
+       <span style="color:#e8590c;font-weight:700">NEW</span>；「实时」标签页完整展示<b>近 48 小时</b>的全部资讯，
+       统一按<b>北京时间</b>倒序排列（与浏览器所在时区无关）。</p>
+    <p><b>分类口径：</b>「立法监管」仅收录官方部门动作（立法、规章、征求意见、官方指南等），
+       企业自身的合规实践归入「行业实践」。</p>
+    <p><b>要闻回顾：</b>「要闻」标签页汇总<b>近两个月</b>最重要的动态，分「重要立法与监管」与
+       「重要案例与执法」两栏，按重要度排序（关键词相关性 + 信源权重 + 立法/案例类别加成 +
+       里程碑事件加成，如首例判决、法律生效、创纪录罚款）；数据来自 60 天滚动档案，随每次抓取持续累积。</p>
+    <h2>分类说明</h2>
+    <ul>
+      <li><b>立法监管</b> — 法律法规、部门规章、征求意见稿、合规指南与标准</li>
+      <li><b>执法处罚</b> — 监管执法、行政处罚、约谈通报</li>
+      <li><b>跨境数据</b> — 数据出境安全评估、标准合同、跨境传输规则（GDPR 充分性认定、SCCs 等）</li>
+      <li><b>个人信息保护</b> — 个人信息处理、隐私政策、人脸识别/生物识别等</li>
+      <li><b>诉讼仲裁</b> — 数据相关诉讼、集体诉讼、商事仲裁与争议解决案例</li>
+      <li><b>安全事件</b> — 数据泄露、网络攻击等（通常伴随合规与索赔风险）</li>
+      <li><b>行业实践</b> — 企业合规建设、行业动态</li>
+    </ul>
+    <h2>信源</h2>
+    <ul>
+      <li><b>国际：</b>EDPB（欧盟数据保护委员会）、FTC（美国联邦贸易委员会）、noyb、Hunton 隐私与信息安全博客、Global Arbitration News、The Hacker News，以及 Google News 英文关键词检索</li>
+      <li><b>国内：</b>36氪、Solidot、cnBeta（按合规关键词过滤），以及 Google News 中文关键词检索（覆盖网信办、执法处罚、数据出境、诉讼仲裁等主题）</li>
+    </ul>
+    <p>信源与关键词均可在 <code>fetch_news.py</code> 顶部配置中增删。本页面仅供学习研究参考，不构成法律意见。</p>
+  </div>`;
+}
+
+/* ---------- 数据加载 ---------- */
+const knownUrls = new Set();
+
+function ingest(data) {
+  // 已有数据后到达的新条目标记 NEW（保留到下次手动切换视图）
+  const firstLoad = knownUrls.size === 0;
+  data.items.forEach(it => {
+    it._new = !firstLoad && !knownUrls.has(it.url);
+    knownUrls.add(it.url);
+  });
+  state.data = data;
+  $updated.innerHTML = '<span class="live-dot"></span> 自动更新中 · 北京时间 ' +
+    new Date(data.generated_at).toLocaleTimeString("zh-CN", { ...BJ, hour12: false });
+}
+
+// 取数：优先本地服务 API；静态托管（如 GitHub Pages，无后端）时回退读同目录 news.json。
+// 注意 fetch 对 404 不会 reject，必须检查 resp.ok。
+async function fetchData() {
+  const api = await fetch("/api/news").catch(() => null);
+  if (api && api.ok) return api.json();
+  const stat = await fetch("./news.json", { cache: "no-store" });
+  if (!stat.ok) throw new Error("HTTP " + stat.status);
+  return stat.json();
+}
+
+async function load(refresh) {
+  try {
+    let data;
+    if (refresh) {
+      const r = await fetch("/api/refresh", { method: "POST" }).catch(() => null);
+      data = r && r.ok ? await r.json() : await fetchData(); // 静态托管时刷新=重新拉取
+    } else {
+      data = await fetchData();
+    }
+    if (data.error) throw new Error(data.error);
+    ingest(data);
+    render();
+  } catch (e) {
+    $main.innerHTML = `<div class="empty">数据加载失败：${esc(e.message)}<br>请稍后重试（本地运行可用 <code>python3 app.py</code> 启动服务）</div>`;
+  }
+}
+
+// 每 60 秒静默轮询（服务端每 10 分钟自动重抓，generated_at 变化才重渲染）
+setInterval(async () => {
+  try {
+    const data = await fetchData();
+    if (data.error || !state.data) return;
+    if (data.generated_at !== state.data.generated_at) {
+      ingest(data);
+      if (state.view !== "about") render();
+    }
+  } catch (e) { /* 静默失败，下个周期重试 */ }
+}, 60000);
+
+/* ---------- 事件 ---------- */
+document.getElementById("nav").addEventListener("click", e => {
+  if (e.target.dataset.view) { state.view = e.target.dataset.view; render(); }
+});
+$chips.addEventListener("click", e => {
+  if (e.target.dataset.cat) { state.category = e.target.dataset.cat; renderChips(); render(); }
+});
+document.getElementById("region").addEventListener("change", e => { state.region = e.target.value; render(); });
+let timer;
+document.getElementById("search").addEventListener("input", e => {
+  clearTimeout(timer);
+  timer = setTimeout(() => { state.query = e.target.value.trim(); render(); }, 200);
+});
+document.getElementById("refresh").addEventListener("click", async e => {
+  const btn = e.target;
+  btn.disabled = true; btn.textContent = "刷新中…";
+  await load(true);
+  btn.disabled = false; btn.textContent = "↻ 刷新";
+});
+
+renderChips();
+load(false);
+</script>
+</body>
+</html>
