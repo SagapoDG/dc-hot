@@ -517,10 +517,11 @@ def fetch_all():
             "sources": c["sources"], "region": c["region"], "category": category,
             "heat": heat, "hot": False, "tags": top_kw,
             "importance": round(importance, 1),
+            "kw_score": round(c["kw_score"], 1), "weight": c["weight"],
             "reason": REASONS[category],
         })
 
-    # —— 档案：60 天滚动合并（跨运行累积，供「要闻」回顾）——
+    # —— 档案：60 天滚动合并（跨运行累积，供「要闻」回顾与主列表回填）——
     archive = load_archive()
     for r in results:
         archive[r["url"]] = r
@@ -529,8 +530,26 @@ def fetch_all():
     ARCHIVE_FILE.write_text(json.dumps(archive, ensure_ascii=False, indent=1), encoding="utf-8")
     highlights = pick_highlights(list(archive.values()))
 
-    # —— 主列表（实时/精选/全部动态）只取近 7 天 ——
+    # —— 主列表回填：信源轮换/限流导致本轮未抓到、但仍在 7 天窗口内的档案条目补回。
+    #     主列表不再随单轮抓取波动丢条目；公众号等仅本地可抓的信源，在云端（Actions）
+    #     重新生成数据时也能从仓库档案中保留下来 ——
     cut7 = (now - timedelta(days=MAX_AGE_DAYS)).isoformat()
+    seen_urls = {r["url"] for r in results}
+    for a in archive.values():
+        if a["url"] in seen_urls or a["time"] < cut7:
+            continue
+        item = dict(a)
+        age_h = (now - datetime.fromisoformat(item["time"])).total_seconds() / 3600
+        recency = max(0.0, 4.0 - age_h / 18.0)
+        if "kw_score" in item:
+            base = item["kw_score"] + item["weight"]
+        else:  # 旧档案条目无组件字段，用重要度近似（扣除类别加成）
+            base = max(0.0, item.get("importance", 6.0) - 2.5)
+        item["heat"] = round(base + recency + 2.0 * (len(item["sources"]) - 1), 1)
+        item["hot"] = False
+        results.append(item)
+
+    # —— 主列表（实时/精选/全部动态）只取近 7 天 ——
     items_main = [r for r in results if r["time"] >= cut7]
     for r in sorted(items_main, key=lambda x: -x["heat"])[:10]:
         r["hot"] = True  # 全局热度 Top 10 标记为热点

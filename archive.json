@@ -10,7 +10,7 @@
   ],
   "region": "国际",
   "category": "立法监管",
-  "heat": 15.8,
+  "heat": 15.7,
   "hot": false,
   "tags": [
    "data protection",
@@ -18,6 +18,8 @@
    "data breach"
   ],
   "importance": 18.0,
+  "kw_score": 12.0,
+  "weight": 3.0,
   "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
  },
  "https://www.edpb.europa.eu/news/news/2026/marking-10-years-gdpr-evolution-european-data-protection-landscape_en": {
@@ -39,6 +41,8 @@
    "privacy"
   ],
   "importance": 15.0,
+  "kw_score": 12.0,
+  "weight": 3.0,
   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
  },
  "https://noyb.eu/en/secret-scoring-join-crif-class-action-now": {
@@ -60,6 +64,8 @@
    "regulation"
   ],
   "importance": 17.0,
+  "kw_score": 12.0,
+  "weight": 2.5,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  },
  "https://noyb.eu/en/nordic-media-giant-schibsted-switches-pay-or-okay-complaint-filed": {
@@ -77,10 +83,12 @@
   "hot": false,
   "tags": [
    "data protection",
-   "privacy",
-   "consent"
+   "consent",
+   "Schrems"
   ],
   "importance": 14.5,
+  "kw_score": 12.0,
+  "weight": 2.5,
   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
  },
  "https://noyb.eu/en/noyb-success-orfat-must-correct-misleading-cookie-banner": {
@@ -98,10 +106,12 @@
   "hot": false,
   "tags": [
    "data protection",
-   "consent",
-   "Schrems"
+   "Schrems",
+   "consent"
   ],
   "importance": 14.5,
+  "kw_score": 12.0,
+  "weight": 2.5,
   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
  },
  "https://noyb.eu/en/no-action-taken-against-pimeyes-noyb-lawsuit-against-hamburg-dpa": {
@@ -120,9 +130,11 @@
   "tags": [
    "data protection",
    "biometric",
-   "lawsuit"
+   "Schrems"
   ],
   "importance": 17.0,
+  "kw_score": 12.0,
+  "weight": 2.5,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  },
  "https://www.edpb.europa.eu/news/news/2026/enhancing-compliance-and-consistency-edpb-adopts-dpia-template_en": {
@@ -140,10 +152,12 @@
   "hot": false,
   "tags": [
    "data protection",
-   "GDPR",
+   "EDPB",
    "fine"
   ],
   "importance": 17.0,
+  "kw_score": 11.0,
+  "weight": 3.0,
   "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
  },
  "https://noyb.eu/en/digital-omnibus-reality-check-835-access-requests-not-properly-answered": {
@@ -165,6 +179,8 @@
    "Schrems"
   ],
   "importance": 13.5,
+  "kw_score": 11.0,
+  "weight": 2.5,
   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
  },
  "https://news.google.com/rss/articles/CBMiWEFVX3lxTE95ck9KRUVxQ203NldqWnduU3lWekdzNmNzUGVMUERjYmdSSzd4cHlrenJLNXBYQlktNWQySndsSW9UNXN0UUR3ek1ka1NNRFpNR0tIZjkzcEg?oc=5": {
@@ -181,11 +197,13 @@
   "heat": 13.0,
   "hot": false,
   "tags": [
-   "数据跨境",
    "数据合规",
-   "征求意见"
+   "征求意见",
+   "数据跨境"
   ],
   "importance": 16.0,
+  "kw_score": 11.0,
+  "weight": 2.0,
   "reason": "涉及数据跨境流动规则，可能影响出境安全评估、标准合同备案等合规路径，建议出海/跨国业务团队关注。"
  },
  "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVFZPWmVuZGFLOHliVFB0WGkyejFKSFN5YnFBdFR5aXZodk9SNmdod3F0TWdtaTlYTENEM1VKSG9Fck9sOHFTUDNpaHYxUHFEYmVSTkUwMmQxRFdQUmttaUF0NTQ4N1ZJNjFoV2tWVEdiNmJ0SWMzT21JMWd0MmM2b0tBYjBwZFFmTm9pcnlzQnhwTEQ3RW1VaXB6TTRJVEU0YUk0cnhDZV9KWUhyanpQa1lJNENyQ1VMWE9mNmJ1Q2ZmQQ?oc=5": {
@@ -203,10 +221,12 @@
   "hot": false,
   "tags": [
    "investigation",
-   "GDPR",
+   "EDPB",
    "fine"
   ],
   "importance": 13.5,
+  "kw_score": 9.0,
+  "weight": 2.0,
   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
  },
  "https://www.cnbeta.com.tw/articles/tech/1565432.htm": {
@@ -220,14 +240,16 @@
   ],
   "region": "国内",
   "category": "执法处罚",
-  "heat": 12.5,
+  "heat": 12.4,
   "hot": false,
   "tags": [
-   "数据泄露",
    "个人信息",
-   "处罚"
+   "数据泄露",
+   "罚款"
   ],
   "importance": 16.0,
+  "kw_score": 9.0,
+  "weight": 1.5,
   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
  },
  "https://news.google.com/rss/articles/CBMiU0FVX3lxTFByeXgyeXJnZkx6RV9pUlg1ckJvVzc4QzNDWUVIdnRQWWxRR3cwU0stRU1BVm1BOEpBcl9tY2RtdHFBWTk1Q1pZX240Y2lsTVY1OUpr?oc=5": {
@@ -246,9 +268,11 @@
   "tags": [
    "个人信息保护法",
    "个人信息",
-   "泄露"
+   "罚款"
   ],
   "importance": 15.5,
+  "kw_score": 8.0,
+  "weight": 2.0,
   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
  },
  "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5oUzE4T21UMGpTSTg0alJ4SldtNzdHSXc5U3V6bktSajlualUxampQdWpka1NfQVQtc0NRRjN3TkpPZmpJUHhnYTF0OA?oc=5": {
@@ -267,9 +291,11 @@
   "tags": [
    "个人信息保护法",
    "个人信息",
-   "泄露"
+   "罚款"
   ],
   "importance": 12.5,
+  "kw_score": 8.0,
+  "weight": 2.0,
   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
  },
  "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQVQxdUc1SzNBUVJHMllqalhYRm16akFCY1c1c0RkRENwY2k3TFB1bnNQcVlPWVJUSy1EUElCNnNnQ01XSTh0SUxWU1ozUDUzUlhuOUpkck5XM2hneEs5blhHZFRoRGhSdzNHUEJpWmZuYnlqYm5MbThaSzI3dWNZdkRBS0tMWWIzQTNHdElSYw?oc=5": {
@@ -286,11 +312,13 @@
   "heat": 10.0,
   "hot": false,
   "tags": [
-   "GDPR",
+   "EDPB",
    "fine",
-   "EDPB"
+   "GDPR"
   ],
   "importance": 12.5,
+  "kw_score": 8.0,
+  "weight": 2.0,
   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
  },
  "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeS0zd0ExeVhmaDVIQUU5NkR0VUV4cmU2Wk1SY0VfdUdMeWg0bGNTVWszR25CLXZDRWkxdkRCd1V5MjBtNlRWdkw0Q2xmRTZ1UEFyZVJOb0lWSHVMc1Y5MUtCTFRXLXRqR1RjbmotT0VfOUpnMmxQVG1hZUIwaVpxV1VsWDZaeElnczRqbW9xN2FMQTI0ZDhlUUFQamIzTTJ4X3VKaVEzaHFXNFBjRWI4SGowNVhkdUp5My1yaTctS29kUklIUHNBNA?oc=5": {
@@ -313,20 +341,22 @@
    "settlement"
   ],
   "importance": 14.5,
+  "kw_score": 8.0,
+  "weight": 2.0,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  },
  "https://news.google.com/rss/articles/CBMixAFBVV95cUxNLUlhT2M2Um0tcWZnQ2ZEYndaTmExRXZGc2dYU2Qzdjl3T0tjZWgzVXFhSi15WnBNWEFCWWRFa2NRRDQ3QUFadXJwM2RoV2tYcko0RmxhT1RkOUtlUHJGMF92bmpqc3h0M20wNzJaQk5GN3NSeVpvaFZTdnEzSV9lOWh2VFNhQUpUR04wZ3E0TWVjbUp2eGpTdUo2MkxpOHBlcUVzV0RFVjBDajkzRm9VN1FXdVZSLWw5eS1pcERoM21UWUFM?oc=5": {
   "title": "$2.5M Esse Health data breach class action settlement",
   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNLUlhT2M2Um0tcWZnQ2ZEYndaTmExRXZGc2dYU2Qzdjl3T0tjZWgzVXFhSi15WnBNWEFCWWRFa2NRRDQ3QUFadXJwM2RoV2tYcko0RmxhT1RkOUtlUHJGMF92bmpqc3h0M20wNzJaQk5GN3NSeVpvaFZTdnEzSV9lOWh2VFNhQUpUR04wZ3E0TWVjbUp2eGpTdUo2MkxpOHBlcUVzV0RFVjBDajkzRm9VN1FXdVZSLWw5eS1pcERoM21UWUFM?oc=5",
   "summary": "",
-  "time": "2026-06-13T03:31:04+08:00",
-  "date": "2026-06-13",
+  "time": "2026-06-11T01:04:55+08:00",
+  "date": "2026-06-11",
   "sources": [
    "Class Action Lawsuits"
   ],
   "region": "国际",
   "category": "诉讼仲裁",
-  "heat": 13.8,
+  "heat": 11.0,
   "hot": false,
   "tags": [
    "class action",
@@ -334,6 +364,8 @@
    "settlement"
   ],
   "importance": 12.5,
+  "kw_score": 8.0,
+  "weight": 2.0,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  },
  "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYi1lb0Y3T0ZEcWFRS0pDVi1KUThMWV9Kd0NsaWxseUtlbll6UVJxQWtscWhFWUZyYU95ZFY2dS1IWDE2aUUwekdBcUFJeTUzRTZwcFdsTlNsaGVBZHJzaVRzQXlDRHBSNmVaakJHRno1NVJTQ1JNdDdlV0dUQ3dsOFBuSEIyeGtMR3k2ejlHeHBTdFhWN252Q240bEFYT1dnM29FQ2I4TkJJYmRDaXN1dlU1d0V3LUNETld4NXB2MloyUHBr?oc=5": {
@@ -376,6 +408,8 @@
    "GDPR"
   ],
   "importance": 11.5,
+  "kw_score": 7.0,
+  "weight": 2.0,
   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
  },
  "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbzR2cEtmZmRJbEhIMmMtdnFlT2lobjZ0NTg5X1JKWmExTFhHeGQ4eDByWDVZUlgzWndhV2tpekttMTZXSGc4cTJMckp2Y0hyb2lYNnFBa1Nhci1acWdyNnAwOWhGQ1FJWEV2YUN0YjNNQ3RTTzhYQ1hxdlFxeFFfeTFOd1dwRGZnY19TeHNQaW1XOWFzYlFIbVVWQUZVblpkdERCRWp6eGQ?oc=5": {
@@ -397,6 +431,8 @@
    "GDPR"
   ],
   "importance": 11.5,
+  "kw_score": 7.0,
+  "weight": 2.0,
   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
  },
  "https://news.google.com/rss/articles/CBMib0FVX3lxTFAzaWZiaXBERnUxRllVVHlpcHkzUE9FUXJaS2lCcUxISi1uVzZ4UDg1aXh4ZzhiRm9hZklIM3JNN2JEOGlvOTdONHhuOTRtQXJmb29keDZqNXpOZXRQMjhfSkZ4TE9NaFZ3MGhGS2Judw?oc=5": {
@@ -418,6 +454,8 @@
    "GDPR"
   ],
   "importance": 9.0,
+  "kw_score": 7.0,
+  "weight": 2.0,
   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
  },
  "https://www.edpb.europa.eu/news/news/2026/stakeholder-event-competition-and-data-protection_en": {
@@ -438,6 +476,8 @@
    "EDPB"
   ],
   "importance": 12.0,
+  "kw_score": 6.0,
+  "weight": 3.0,
   "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
  },
  "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRVRvTGZjdlNnSnFiOXJzb0pIT3djbE1DQlEya2c5QmpqMXF3bVV4RFZtdExMc2g3YmVpaEZZRm9qQzNSZnM2RnNPaWVQRVkwX08zdWl0cnRIOTFXclprUnlvZHltM3ZhRWdXX1RldklFOURHeEpmYU9vSm9wd1YwZzZkNzhEUTNnTk9Z?oc=5": {
@@ -459,6 +499,8 @@
    "合规"
   ],
   "importance": 8.0,
+  "kw_score": 6.0,
+  "weight": 2.0,
   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
  },
  "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQbUpqVTZjaUtacktVdlduVHVrazJWUWN5ZmdNeUE2NUJ4dWYxLVVNZWRHTllwNnMyU2FJZ0xMWWtEUjZPMVNLMkNMT2M4bHVxcDljZjk1RElfeUFycURvNEdWVTMzc01EM0RQOXIxNWJFWGdhWmJhcVgwZC1qQ1BxUFBORG9EQU9laE9yY1I1WFdaMW9fY1lpRERtdEVGenpQRGkyUHBILTl5aWhkUHBUVW5xOEhFV2FRNVhoNWJuRHJBUjlxRE5BZkdBRmV3S0t3M2FTVTZIaTdMSWhmUU0tQVh3SzU1bkJKVkxXRW93YmY2VTlpRFc3dzcxaTRJWngxNGhJN09mY28yM1RMTmRGUUptaHJKOWNqQklQczN0OXNCOVVmTEhENEdHLTZlTVdZUnhaa21KVzNnd3I1SHFXalhPU1BBdkUzYU1aUWJ2QkxlYVVvVEloZjdwT3V0MEgzWUNFM2xQajU?oc=5": {
@@ -501,6 +543,8 @@
    "GDPR"
   ],
   "importance": 10.5,
+  "kw_score": 6.0,
+  "weight": 2.0,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  },
  "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWnNiUElFUmJTSENBc2xvY0dEbXQ5NFpNWlNhSjRvUE5VNE50WjV4WmNldnBYd3V4eDFLUTJzbVRFbmxaWFNac0REdk5xVlM2bmE5V0tjQ0RkUWw4X0IzeXdLQndXRGZVYWs5VTBUeEN2cW04QnlOcWM3dmt3U1dKMk5CQ2tDVGhmcFJRb2g5SU05TWdzOGpxZktLZWo?oc=5": {
@@ -521,6 +565,8 @@
    "GDPR"
   ],
   "importance": 11.0,
+  "kw_score": 6.0,
+  "weight": 2.0,
   "reason": "涉及数据跨境流动规则，可能影响出境安全评估、标准合同备案等合规路径，建议出海/跨国业务团队关注。"
  },
  "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQVR4c0oxLWNCVk5MU1RqYnlQcVNmOWI1dnN1M1VIQXlrdVhKbDNVdEpXaXM3dEhPSGhLS0tZbktlZzYzeGtTTE1WYWhpMWgyMXJMVVZuWGpRMnVoSmdjTzR3QW5tTTFfNEIyZDl0VVBaV0N0UHdVR0RnSHpnUDJ0QWc5Y2ttQUw4V3lB?oc=5": {
@@ -542,6 +588,8 @@
    "lawsuit"
   ],
   "importance": 10.5,
+  "kw_score": 6.0,
+  "weight": 2.0,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  },
  "https://news.google.com/rss/articles/CBMingFBVV95cUxNcm9ER0thdi1XZTN5UHFzTzJna25SVUVxQkFRalpHcmJPNFZxVFlVa3dLbUZDTVFEaU1Rc01hRVgwbHhESzVkZkluUnpNVU9lZDBpWDZSM1Q3bm9ZUFF4cm1xdDAwck93QV81SmotNDFWRDBEQ3c5Nmp2MkFTdEZhNDhQWHAwaWVLOWNEUlo0clgyeVFKcUNmY1gwdmF4QdIBsgFBVV95cUxQbXNVTUN4YXFJX1JWbUg5UXZ2LWxhMU5mRWstRDR2VmpSTmtSbnZnNUhlRUphYlJDRnROSHIxUHJqd0xQYVhIdkpNVWFQZHpmMWFhODcxTkwtV0dCcjlYSmZBa1l6cVo0SWNrUE94SEJ6aWNiRDBKTzU2Y0JrZXFBMWVnb0ZxM0dhSzBHVlFMS19aOWR1MnI0NFExRHJQenZ4N19pU09rbnBaNzdPbzd2TUh3?oc=5": {
@@ -563,6 +611,8 @@
    "lawsuit"
   ],
   "importance": 10.5,
+  "kw_score": 6.0,
+  "weight": 2.0,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  },
  "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Vc3dkdWo4dzQ3NEU2VjQtTXh6WWltczFEWENDR19hMmhMZkIwS2lORWZPd1hCQUdOVXpSUHlSNTlZLUM0WnN1djlFOGZlZXF2My1XQWVGV0xDalBRakR4Ny0ydUI2MV96VjlYWkZsNHNfbjN6dXc?oc=5": {
@@ -584,6 +634,8 @@
    "lawsuit"
   ],
   "importance": 10.5,
+  "kw_score": 6.0,
+  "weight": 2.0,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  },
  "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMm4wUTV3emNWdlJUMm5IQXpkWUZEZjFiSjFJX0psaTVINGU0aFp4ZnM2WUhZajJtVlZiZWpTLTNpYmYxOS01ODVmb2dsY2ZRMHJUWTZLSUcyYjRZaUIxUW1MNW9PZkRHT05NMkJ1OG1CV0NZRzhmTkxSdnZGNlRYOHB5cUNrekpqUVozT19UQjdRLVZNYXNsUTNQOGF0TGRRNTUxcFlaXzZydTFuaG12R9IBtgFBVV95cUxNdE9mZzE1UXNhRk1nRmFqMWYwUlVqSnRmNjN6cVRsSTdTOFQ4OUFWTkRPdHlQaWJyQzBrZ2NkLUhDZXdhUWpDWG5zZkRkNDBQYVZoZHhXTGgzNUQxUWhaT3hhTjF6RF81U0JlTnB6VEFoQnFSaEJMMTJfZVJFZ0V4NFFWYkw1R09Ub3RPLXJLZm9heksyTkdiWllNcVkwWmExSkJTS05KWmw2V2ZxRUJ3TkkwOWpldw?oc=5": {
@@ -605,6 +657,8 @@
    "lawsuit"
   ],
   "importance": 10.5,
+  "kw_score": 6.0,
+  "weight": 2.0,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  },
  "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSkdLdjV4cUVlc1BuQjFCMTlPOFRIazN2RVp0bXdxdElVVkxKeEw4ZHdXVFM2ek4ydTdvSlpza0ctaHJ1ZkpwM1VSYkczS0kzbkFHTXdSS0JPTElTU1FXNTVZOWpRVlBhY1Nlcjl0QjRLUVNZOTk2a21qQVdYQmNhWmZWcDVhZm56TUdEbWpKVVoxZDdiVkZJYUtnbGdFZVo5?oc=5": {
@@ -626,6 +680,8 @@
    "lawsuit"
   ],
   "importance": 10.5,
+  "kw_score": 6.0,
+  "weight": 2.0,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  },
  "https://news.google.com/rss/articles/CBMibkFVX3lxTE9NZlRwZFZqWlhuTERpTWdYckZ4ZEFwdFk2eE5LUnd4Mnd1RGJ3dTZfNjBOMUFycUJhUDhBUUhpb2Fua2F4cjRnci1jNnB0RHJRanlJMTVKZS1WY0VDSTVZZGpvRkxKT1VqRDk0YmlR?oc=5": {
@@ -647,6 +703,8 @@
    "lawsuit"
   ],
   "importance": 10.5,
+  "kw_score": 6.0,
+  "weight": 2.0,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  },
  "https://news.google.com/rss/articles/CBMidEFVX3lxTE5HN2VUX2xPeTRJVVhmOEQ4Y3EwWDN2QXhpYXV3MHh0ZThSZHVnVVc5QlFpRmxDNU5vdHBlVWNwOGxTUk1zaUlhQzhiVkExU1lwN19BRmpDNWZwcHFFRzRqUGJZTFktRENLdFhnTjZlTzhDSzdl?oc=5": {
@@ -668,6 +726,8 @@
    "settlement"
   ],
   "importance": 10.5,
+  "kw_score": 6.0,
+  "weight": 2.0,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  },
  "https://www.globalarbitrationnews.com/2026/05/27/hong-kong-court-upholds-an-hkiac-award-issued-under-the-early-determination-procedure/": {
@@ -689,6 +749,8 @@
    "court"
   ],
   "importance": 10.5,
+  "kw_score": 5.0,
+  "weight": 3.0,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  },
  "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBlc2pQNjBiNlhJdm1fSUoxV1B5Q1FjZlpiTGdTQTRpbTQ0T1l5dmJqRFp4NlpSdWFtYjgzQ2x3V19yVnNWNFk5dnEweGsyQkxrN1h5NnZMNjFnckxxQ1E?oc=5": {
@@ -709,6 +771,8 @@
    "合规"
   ],
   "importance": 7.0,
+  "kw_score": 5.0,
+  "weight": 2.0,
   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
  },
  "https://news.google.com/rss/articles/CBMieEFVX3lxTFBUYnJOZjJDcEpmQU9ncmZjdzFmbHRQcnlUZ3BtVTRGcmRkYnU0Sl9MVlNPcjRFbGI0eGk5V3ozbkdaOHdpMWRPRHV5cUhyMVpjOW1PQUVrMXBpT1ZWRDJnLW5fSnh1ZjdpSUlKWmJBcHdVN1pnS0tnUA?oc=5": {
@@ -730,6 +794,8 @@
    "合规"
   ],
   "importance": 9.0,
+  "kw_score": 5.0,
+  "weight": 2.0,
   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
  },
  "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOHRhdzNMVDcza2xwRVJUSXc2V0wyZHJCejVnMk5oQmdxd3lfQzJKRlZOQ2E0Szl4ckNPTC1URW5Mdlk2SWRCSUNtYUVmX3pPR0ZoYWxrZWR4M3V6ODBud3BCdmZXMGFYRTE5bFdXcWZqV3MxUnhFMHRMRFNzbVNOOEw1WWFVZXlOaU1R?oc=5": {
@@ -750,6 +816,8 @@
    "合规"
   ],
   "importance": 7.0,
+  "kw_score": 5.0,
+  "weight": 2.0,
   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
  },
  "https://news.google.com/rss/articles/CBMibkFVX3lxTE81SzlvcnJhaUQ1a3VsTzFjUW9OaHR4RC10QW9ZdFNKZXItcU1nRGtEdE04YTlTMjA1LU1OTno2YlFPT3N1amFiTDdvcFBBbl9qYzc4WlMyU3lzZmlITE4xMWF3aDJRcTZHSmNmZHBB?oc=5": {
@@ -790,6 +858,8 @@
    "合规"
   ],
   "importance": 7.0,
+  "kw_score": 5.0,
+  "weight": 2.0,
   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
  },
  "https://news.google.com/rss/articles/CBMi-ANBVV95cUxORzlzSnBDZ3MwYmtkZlRxLTZtdlZmN3ljN1c5R2xudmtYMGcyeW1fbFRfVG5GMUp2MjNpTXpfTEVzRUVuRThFWHdDRW53d2RLOC1IOWxnajhYSnNRTUZ5R0tqWl9OSVMxQlNkOTl5UHlSU1FqX25RVnYydFlQemxFdWt4Z0FoUUVfMUU5QVJYZTdnT0hfczlveHBNOHdYLUdnWGpMd0dEOW5WSzhJSDhiRmVvRGUwd1N4T1NlclVRN3hleHp0amhsaGVRQ1RURkdMN0t4eHJJTUJyQUFtZFp1WURJSEVEV3U3WXBFT3hYLXFIRzVpVlV5VGRkNVp1QTduRjlsQWJVVGg5aUd4bDF2R19xV2lRcE9Mb2dZb0ZZV2d4N2RvUzJfMUNBM2VMLWJLa2kxSk1zV0FhaW5qWXFEZ3BGZlFtM3ZXUExUV1RmT0FFQkpwMjJ4cGcwR1RiQmp2UVNWMzJfeXE1cFNRSnNvUEVWVFpmd1NYUEJodFlLNDhlX0F0a1ZRRzZYVHVTRzNmU1Bnd0pUc3hzVVNTZEROdGx5THBneVY4Znk0TXdTd2x4ZFJfclVMSzVjRU1SRDJyellqMGxUU0MyTHNyU2c2MUJRbGdwbms0QlJCU3d6WV9ZREJjUnZjUzRabUlVTDB6TFBsOTZJTzU?oc=5": {
@@ -810,6 +880,8 @@
    "合规"
   ],
   "importance": 7.0,
+  "kw_score": 5.0,
+  "weight": 2.0,
   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
  },
  "https://news.google.com/rss/articles/CBMifkFVX3lxTE9jWExZTnZGZ2lUUmdtV1FZaTdYZlBCRk5PVEU1Q2pNdGxQby1xOV9feUp3UUY1ZW96SmpjS0NzWmN5V1BlTGpvYWNOYjU0NUtlVzl4WFhZeE5XdzdvbENrcENvdGkzSXdfRGxjdEV3UTBsSjhOWkM1MWlCYjl6UQ?oc=5": {
@@ -833,6 +905,8 @@
    "网信办"
   ],
   "importance": 15.5,
+  "kw_score": 5.0,
+  "weight": 2.0,
   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
  },
  "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa3BYZkYzcnRGclFuV0R3elFVNEJzWnhueVBnaUx5VE1tS3R6M3J2WkczMUQ0WTdJQjItUFRQNzdzRVVvajFtckpuWDhXcDFGMmdCWjFmSUxLenhVZjhTQXBjbnJTZWhwQmxQUmt4UWcxV1NuRkNKU1M0S09zQXB3N1BObG1kSWxH?oc=5": {
@@ -846,13 +920,15 @@
   ],
   "region": "国内",
   "category": "个人信息保护",
-  "heat": 10.0,
+  "heat": 9.9,
   "hot": false,
   "tags": [
    "个人信息",
    "网信办"
   ],
   "importance": 7.0,
+  "kw_score": 5.0,
+  "weight": 2.0,
   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
  },
  "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CSDdYZUZqOUFNYmNySExYUUNudVE3Y0dxMzJua3NUQjlwSXIxTHlHNEp0RnJmNmZzSFp4VkdISXhtaHV5RjFnRVdrMWRFUlhiYlZrSDNQTGFlSmRmVk13WjRsT0xKekdU?oc=5": {
@@ -871,11 +947,13 @@
   "heat": 11.0,
   "hot": false,
   "tags": [
-   "仲裁",
    "起诉",
-   "诉讼"
+   "诉讼",
+   "仲裁"
   ],
   "importance": 13.5,
+  "kw_score": 5.0,
+  "weight": 2.0,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  },
  "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MVm1uODRVQmN6R051NFFlTTZYVFNOazNPVGp2Y2xNdUpteTI1Wm50dG0tODNacjNTV3VkZGVQY2tyelh1SHhPU2lEUklRTlo5UHhTTDlrZ21FQ0VXZGRsVzAtbThWb0xOdkx6ckZvQ0hUNEo0OU1kNlJ0RmRydE0?oc=5": {
@@ -896,6 +974,8 @@
    "GDPR"
   ],
   "importance": 9.5,
+  "kw_score": 5.0,
+  "weight": 2.0,
   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
  },
  "https://news.google.com/rss/articles/CBMidkFVX3lxTE4wNTJBeXFqVnhYVm9nQi1pa18zb1Q1ZTRieHlPYjc5clNsUDVBUWR6emZ1SkNSR01IT3ZzU05uY1F6a1A1LTVsRzhOZldPRFdFcGdWOTJhaExSN0NrYmhhTTMyMU9sY0VzV052SDZodVhNdGp6eVE?oc=5": {
@@ -916,6 +996,8 @@
    "GDPR"
   ],
   "importance": 9.5,
+  "kw_score": 5.0,
+  "weight": 2.0,
   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
  },
  "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMVJNVzF4V3cxaXh2VFlWV0Z4NDh5MDF5VkowYzRJcExYOTdMdWNaWEJXSWZfWjY4NTZfUy1SVU5iQ1kya1VVSURQa09BUlFkRWZMVzZBalp4Q2g3UG1zTFhYbnkzbzJLWmxuV28zZlFMaG9mZmVXcTlHSmN2SW83N19xenBjU0h6?oc=5": {
@@ -956,6 +1038,8 @@
    "GDPR"
   ],
   "importance": 9.5,
+  "kw_score": 5.0,
+  "weight": 2.0,
   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
  },
  "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbHhfRldadG55YXVnOXRlSWstdkVmdDZhczJybHZaeUtPeV9ydjlZYnRpVjN6U2dqLXhhSTVZeThaaWQ5Z0xDZWdsdTNnbkUyYmRMN3E1aGJZWm90dHJvdnNJZTU3MU8tTEpoaWJ3UHRGM0NOQW10SXRlV05Gc3BsRGY4S3AwVWtzakZGYkNfcXdGN3ZtMmlJeUNnOGt5TXN1VldRUjRpQzNGNlR6anE0eQ?oc=5": {
@@ -976,6 +1060,8 @@
    "GDPR"
   ],
   "importance": 9.5,
+  "kw_score": 5.0,
+  "weight": 2.0,
   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
  },
  "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUHVtcDBVdUJVY01ucnlKeGFkNFgyc2NudXlQVFk0WHI3LXFTQVM5UjFTQlNVUmc5R3lEa193WHNTcjFRXy10cnZDcV9ZWi1WeXJFZWNlcmxUQXpySHhoeTd5OEZJcVFkOU1TSXFBZWtOdWZOWERmVjl5SXpuSGF4WFgwQ2QzLWp4Y0I3bDFKSGJFTjNiUmhlejdyRENqN2hnazRHeUdBNEw?oc=5": {
@@ -996,6 +1082,8 @@
    "GDPR"
   ],
   "importance": 9.5,
+  "kw_score": 5.0,
+  "weight": 2.0,
   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
  },
  "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcm1NelF4dThyQlpQQWFEWV91SG9sdUVmdWpueFVaU1lVbERaTW10OVZYSl9NUDBqbmdoVURnUEJGUkpQdDNCaUkyWndRb2NsaGR4WE5EZm1ic2NkSkFweGJPb1VTSTZQMGxCZjNrQkVVbzNjRDdwQjU5U19kY3YzXzRsemhpS2dU?oc=5": {
@@ -1016,6 +1104,8 @@
    "GDPR"
   ],
   "importance": 9.5,
+  "kw_score": 5.0,
+  "weight": 2.0,
   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
  },
  "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPejdDTXBmV2E3YzY3THJCeThEdjRVVk9kYW5MY0JGX0FUWm9BOWxERTM5OWFvTUlEc2NfZExYOWZ4QUJwc2lYQUV2cWt3dGxLRnBYc1E2SktXSFYzcHVydF8zUTZMcmN0cUk5WU5qM1V5bWFscXVxZTBTOU5sOWF2T2hwWEhnaFhfbXhzM01PT1NpaEhUMnpjSFpoMWNvVTlXck14amhWZmhuNjjSAVpBVV95cUxOOEN4RFhpMEs4N2MyNHUtWTZOTVc0dTB1b2ZrM2NiRWdfZHVKbGpPRnNJdWVIX1lBZmxycjNiZGI1RWFpT2xtM1NwRnhRc0J3VzZyVUprU0VBNkE?oc=5": {
@@ -1036,6 +1126,8 @@
    "GDPR"
   ],
   "importance": 9.5,
+  "kw_score": 5.0,
+  "weight": 2.0,
   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
  },
  "https://news.google.com/rss/articles/CBMingFBVV95cUxPT04wX2VtNWZvblJFTzlURTg0MmxOV2tQUjNsUEtaQVhHdEV5NVhaYi1ScGtmN2JCQTlEWlREN2dKNTEycFNmMHFzTURDZi1JbTZWYlpCZmNsaDhwODNPOW9NcUJ0VHFleDFPNm8xWTVvQ0N2bDh5TEktWUtIQWN3ZmVkSVFYa2tOVHZoRUNsQlVWVVpwejJzdEtJTGo2UQ?oc=5": {
@@ -1098,6 +1190,8 @@
    "court"
   ],
   "importance": 9.5,
+  "kw_score": 5.0,
+  "weight": 2.0,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  },
  "https://www.edpb.europa.eu/news/news/2026/europe-day-2026-lets-celebrate-together_en": {
@@ -1118,6 +1212,8 @@
    "cybersecurity"
   ],
   "importance": 7.0,
+  "kw_score": 4.0,
+  "weight": 3.0,
   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
  },
  "https://www.hunton.com/privacy-and-cybersecurity-law-blog/technology-companies-should-prepare-for-ftc-enforcement-of-take-it-down-act": {
@@ -1138,6 +1234,8 @@
    "FTC"
   ],
   "importance": 9.5,
+  "kw_score": 4.0,
+  "weight": 3.0,
   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
  },
  "https://www.hunton.com/privacy-and-cybersecurity-law-blog/ftc-announces-settlements-with-three-marketing-firms-over-allegations-of-deceptive-statements-about-active-listening-ai-powered-services": {
@@ -1158,6 +1256,8 @@
    "FTC"
   ],
   "importance": 9.5,
+  "kw_score": 4.0,
+  "weight": 3.0,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  },
  "https://www.solidot.org/story?sid=84550": {
@@ -1175,10 +1275,12 @@
   "hot": false,
   "tags": [
    "个人信息",
-   "泄露",
-   "罚款"
+   "罚款",
+   "泄露"
   ],
   "importance": 9.5,
+  "kw_score": 5.0,
+  "weight": 1.5,
   "reason": "数据安全事件通常伴随监管问询与索赔风险，可作为应急响应与合规复盘素材。"
  },
  "https://www.solidot.org/story?sid=84544": {
@@ -1220,6 +1322,8 @@
    "FTC"
   ],
   "importance": 6.5,
+  "kw_score": 4.0,
+  "weight": 2.5,
   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
  },
  "https://news.google.com/rss/articles/CBMid0FVX3lxTFBMaVNaM2hPVzh3ZkxOSWlTSDA0d2xLNmVORUZkakhNaE54VkhCeXA1bXVGVU9xOWxOSWFVTFdnUEhuRjRHUUU4ZGRUazdCaFlUSF9wUHZ0Nk1ibWtUd0NtUUxFX0xGNnlVWGlMSWJkaGtfb3htcnpn?oc=5": {
@@ -1240,6 +1344,8 @@
    "指南"
   ],
   "importance": 9.0,
+  "kw_score": 4.0,
+  "weight": 2.0,
   "reason": "涉及数据跨境流动规则，可能影响出境安全评估、标准合同备案等合规路径，建议出海/跨国业务团队关注。"
  },
  "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTkd0YUNxVDhlX3BYZ3lfZHZfdnA0dVg4S0NJcnZtTmo5QkhsYXNXeHpFcUU1a0ZSVDF4bTlGT0dlRkxrRFVwRUhuR0tjQVZxTzlkZFFWWTQweTJiaENacFJkdldNM3liOVROSVNsczBPTy1NOG82VGVWR3otMF9EVkdfeUtQUjRMUUdGXzV6SF83blNxLVlxNHY2OWNhR2M?oc=5": {
@@ -1260,6 +1366,8 @@
    "fine"
   ],
   "importance": 8.5,
+  "kw_score": 4.0,
+  "weight": 2.0,
   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
  },
  "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaFM0d2pGdUhqUFE2RHNwTUMwZkhhdkY3LWJ1YXpTM21qWUZ2U3A1Z29jVWY4b05HUnhhRUlJQjlkMnp5Q1E4VTRZb0IweC02STZILTFrWjZQNzVZcDdjQkxzNmY0VlRuNC1WY0ZsUjZvWE83Zk1mWDFZUFFsWFRaRFBYT1dNbFEyRV9TX0xPcE81WlNKM2JUazdjNHFEc3gx?oc=5": {
@@ -1280,6 +1388,8 @@
    "GDPR"
   ],
   "importance": 6.0,
+  "kw_score": 4.0,
+  "weight": 2.0,
   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
  },
  "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYmFZX2JRUko4ZmlZYV9NLVV2M2M4eTBQMzdQQXQycDY5ZDVqVHllM2ZoaVNyZkdBQVFWLTBUXzdyZUdIRHJWSmNHeVVmc1BRQWJOWDBkR3hiSkxzM2xjQ0dxSDhLY1VLbXc5cjJ5UTIwS2NVTnQxb3dIUUstV2tHQkhRQ2NPWHdrckJ2UXJHSEp5YVBfV01reEhSOG9BbFFLT2JzV2FZV3p6QUhIR3VDckh4eENjQQ?oc=5": {
@@ -1300,6 +1410,8 @@
    "data breach"
   ],
   "importance": 8.5,
+  "kw_score": 4.0,
+  "weight": 2.0,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  },
  "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWmNpQkFJRWdlbXoxT1BhOHF5RGktanFCZVFiMXB5RkREeG92cUdMdWtYWkRBQllvazlBcXprZ1RjekRhOHBiX2RTQ295ZjB4dWFHWnhOT2RJVDlNajVQLVlYR3NaaGl3djJnaWoxazhoVzBBbUI1R0tqWGJPbDZBTWxFUjhqUEpwODNSa2JXLVJZakhoSm8tSFZZTkJ3alpmTnIySEZfdVlzeE5ud0hEN2x4TVlsVmlkRVBPSkdTRHVSc0hpMjlTMnNlTzM?oc=5": {
@@ -1320,6 +1432,8 @@
    "data breach"
   ],
   "importance": 8.5,
+  "kw_score": 4.0,
+  "weight": 2.0,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  },
  "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZnlQWDJhWGF4N1dZenpYcW0yNkpBRXZzRFBsbzhYcmF3N25BNTExMHJjMEd3RFU0SURVclpfTE11QWZ3VkEwNEJzNDc4RHBHVzhiOEp0SG5mWTJnOXBVUjBMWEpILU5odVI3UkN5aEl0YkwxRjJZeVUxMUlqSjBKRm9xNXE?oc=5": {
@@ -1340,6 +1454,8 @@
    "data breach"
   ],
   "importance": 8.5,
+  "kw_score": 4.0,
+  "weight": 2.0,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  },
  "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTmluUDZCVTZURHkyYVF3QUpRb2N1dW9BWXVZcnc2WnRpU2JzQXdjT203RGRLVmoxRFpCZ0MwWlR6QjlUSmFqUjY5SUZVOUZiNkROZnlQYkRSRHNZY3FxQXFleXQzWGxQQV92c25lU0FWUWU2Um92LXFfeHlnMWNTN0lkeG53enlrUFN2eExNWVNUWGx5WnNDU2Y2UmZ0WVFlRXFSSnEzb1NXUmZuYndxTndTa1ZMWDh6S2JyMG4tS0dlYVJadXZJc1c0WGU0TVk5NmRiRmo5b0pibFhQREZuSQ?oc=5": {
@@ -1360,6 +1476,8 @@
    "lawsuit"
   ],
   "importance": 8.5,
+  "kw_score": 4.0,
+  "weight": 2.0,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  },
  "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMzhiWFB4WllucUJmbm9mV3lfaVlkQXV6NnhrWGRreW1wR29uQVpPTHlPcFVSUFVqQUdOT3BEbXBnLVkydWhVcXFzV1hWY1ZNNFNtblIxSVQtX0lUMk5Vci0zVzE3T2gzbmxETFZmYWdTZC03SS1QX08wZmdZM3N0eUR4dmV3ZnJGMngwSGozYi1KWVlXVjFFYkdnbnh2bjI1U1VrVFZIVm1JRUh6alNDQnYwLUjSAbwBQVVfeXFMUGpocnpnMS00Uk5wdVE3QXEtZ1UzU3ZCRTVVTktrcG1HdWcwZGgxQlVndzU5SjN1X3MydktCNUlaSExnVl9QNk9nRlFHYzY3QVFISTMxdzF2M2hrZVNJS1lEVWt6dy1XTnJtalFUaHJfZWhiTTVSRHktTXVXY2otWG9oS0hBaTN6ZElIMno3S1FEWmZlZ0xfOF9YeTBQbDZMZDhnMjcxYldVNXVldjFmX0N0THBodTg1d1lOSlo?oc=5": {
@@ -1380,6 +1498,8 @@
    "settlement"
   ],
   "importance": 8.5,
+  "kw_score": 4.0,
+  "weight": 2.0,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  },
  "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOR21WOWwyUnFYaVlsMnI1QmM3QkFHQmYtczFtbUZlb2ZINHljbzBJbnotVGZ6WGxUdW1vcGtTakE3dEx5aUd3V2drQ3JWTjQ4dEstWkJPaEZhMmpPd3l3X1J4a3huN1p6d1FlSW1VRWdscG1EQnQ5aHQ1aC1vQzNBdVZkZWIyOEpfaFZqS2FkM0p6ZFppV0stN3p4NHRvX2tKWnFQVmFhS2hfUFRLMkxjaldjN3dwZWEzWVRWOWpqQmlVWXl4ZFU1R1dyUV80UDEwS0E?oc=5": {
@@ -1400,6 +1520,8 @@
    "lawsuit"
   ],
   "importance": 8.5,
+  "kw_score": 4.0,
+  "weight": 2.0,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  },
  "https://news.google.com/rss/articles/CBMipwFBVV95cUxOczNjdG91dDBONGp3R2szV2FKTmpqSER5UmktRS1mY0FnWVZkSC1WcnFtZ0V2SmM1UW5MeDNVbW1XbFp5N0M5Sk1RdjRzbTJyVm5vNUJhUVU1aWFBbUJIQ2xCVTMzejVxWmVaZnRHYjVCZ2R4RkRjWUctamE0WlpHMnlUcmQxdXhZY2huRVlfZ0JMV1BBRTVHbDY0YWFXSFVsQVhMQzVSZw?oc=5": {
@@ -1420,6 +1542,8 @@
    "settlement"
   ],
   "importance": 8.5,
+  "kw_score": 4.0,
+  "weight": 2.0,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  },
  "https://news.google.com/rss/articles/CBMid0FVX3lxTE1EZWZiQnZxMnRqaEJmbXlWQUx4eXF4ZmNrX0lwZ0kwSXNWbGJpdW1UVXY5MFhweHlEZWxrUWNNVnUxejRLQllYRVAza3BFeExLQmhacnE2QVFqTjNxeWR4N1prRlRJLV8taWw4aFUtUXdMVEFpS1Zn?oc=5": {
@@ -1440,6 +1564,8 @@
    "settlement"
   ],
   "importance": 8.5,
+  "kw_score": 4.0,
+  "weight": 2.0,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  },
  "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWlY5MnR0Mm1ESHROamRRYm9Cb2JRVjVPeVdEQXZsQXBZRWdJdVNiRmRqQzQ3b2Z2Mm45M2ZKRllWczlTTXZoUlZ6UXZ0YUtzRmRsX2ZWUjVFUVd3YWdLc1E3XzhadVVQcDFrUUlCY1lBWkREaDJxYWRwLVV5TU1ZckpoQ09tMUJ0UmZkdTBZVkdUYVNtMFJfUklZX2RjWWgyczRZ?oc=5": {
@@ -1460,6 +1586,8 @@
    "data breach"
   ],
   "importance": 8.5,
+  "kw_score": 4.0,
+  "weight": 2.0,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  },
  "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNm5XQURvMHlnRUxBUDd2emZPSmV0VzNBMnRFRm1LMWlMQ1hqRk5uSUJHcGdPVmw0V1VIa0YwaS0yaTBpUHRaZ2pmTjFjOHRqVlZmMm53WThUbl9WODVBeVB1eWJKdmdCUFpMb0Z0bllYeWtIMG95YXBtajBMNXRnc1RiSld3RjI1UllxMzc2OUJjbVpoNTJpalFvOUo1MjF0d0lxU1pjRWsxUXBMb3BjUnJFekFvdDZESk84RzdtWnpGZVh0NTVHQjNINlk2a19OSHFZTGp0OUcxeFYtZ05rUjVQSQ?oc=5": {
@@ -1480,6 +1608,8 @@
    "settlement"
   ],
   "importance": 8.5,
+  "kw_score": 4.0,
+  "weight": 2.0,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  },
  "https://news.google.com/rss/articles/CBMifkFVX3lxTE1lYm40a2xEYVF2OWl1T1BJaGRpTWFWRHR0bkFjcTFIRzNlZHdZdUw0NlVpN09pX19qQ0lpUWNkZWtRLWY0Ml9hdVBHNUJlR3M3NU1JbWJMLXBCLUwzYTBzdEFoWGE3TzBjWkoxemV6QzRwanNZQUJGXzhrMkJ1d9IBgwFBVV95cUxOOE5YQXVvLW5iSzBRaUR5Q0JIQm9NWXlucWhzYWhrSFA1Z2I5bzExME9iVjFYb3NITFNjdXpSNDc3YnFhdWdoVTRNWGU1R3ljQk5GbzQ0c0dJOXBOQnRsY2c0c0EzZ1lzNWVVVlVWa05MVGFPZkE5aGZPNll3NzlWTUUwZw?oc=5": {
@@ -1500,6 +1630,8 @@
    "lawsuit"
   ],
   "importance": 8.5,
+  "kw_score": 4.0,
+  "weight": 2.0,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  },
  "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMEltRUg4eWNLWFFYeTBOM2p5b3hwdFEzYjJZYkx1YUNHMXhyX0FGVmFZbnNQTE5KVk94NVY4b1pKb2NaY0hVT0lRMExhdWItU0xVS1VsMk94YXRTUnJVQ1gwUHhiRXAxcktlR3VCNmZwdzFFMm12SmpCR0FQU2NuYlp4T3YwWGPSAYwBQVVfeXFMT1Ywa05XUklIUmlNcWlFRVB4bXlfNEJkdTVzcXBxOUFCQjlGN2FjZU10MlNMNGlMUk5mN1hVMDV3RFNDbXQwU0xoVTBmNGk0MXl4ZlZGTllXZjFDQjExTkFyVUZvRzdaaWVQZVBqN3NwekFHd1VyT1JaeDBXUUR4YVVWLTFxbzBRaFgzelQ?oc=5": {
@@ -1520,6 +1652,8 @@
    "settlement"
   ],
   "importance": 8.5,
+  "kw_score": 4.0,
+  "weight": 2.0,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  },
  "https://news.google.com/rss/articles/CBMiggFBVV95cUxONm1CWE1acTEyTEs2MjhQekVucWdqU01ZRERVcW5LVTNaMnVVNk1kVURhY01MZ3NvcjM5QzBxTkEwek5TUUxTaEM1azA0NVhCZWV6c2RJM093VktOel90MVktaHkzNUhZcUlCR2h3U3RNU0NvTmhWMXFqaUNOUEI2S1J3?oc=5": {
@@ -1540,6 +1674,8 @@
    "fine"
   ],
   "importance": 11.5,
+  "kw_score": 4.0,
+  "weight": 2.0,
   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
  },
  "https://www.hunton.com/privacy-and-cybersecurity-law-blog/connecticut-privacy-law-updates-data-broker-rules-geolocation-sale-ban-surveillance-pricing-restrictions-and-genetic-data-regulations": {
@@ -1560,6 +1696,8 @@
    "privacy"
   ],
   "importance": 9.0,
+  "kw_score": 3.0,
+  "weight": 3.0,
   "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
  },
  "https://www.globalarbitrationnews.com/2026/06/10/german-federal-court-of-justice-affirms-international-treaties-trump-political-tensions-in-cases-for-security-of-costs/": {
@@ -1573,13 +1711,15 @@
   ],
   "region": "国际",
   "category": "诉讼仲裁",
-  "heat": 6.7,
+  "heat": 6.6,
   "hot": false,
   "tags": [
    "arbitration",
    "court"
   ],
   "importance": 8.5,
+  "kw_score": 3.0,
+  "weight": 3.0,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  },
  "https://www.globalarbitrationnews.com/2026/05/11/2025-arbitration-annual-review-key-developments-and-emerging-trends-in-luxembourg/": {
@@ -1600,6 +1740,8 @@
    "court"
   ],
   "importance": 8.5,
+  "kw_score": 3.0,
+  "weight": 3.0,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  },
  "https://www.globalarbitrationnews.com/2026/04/29/the-year-in-review-a-selection-of-arbitration-related-court-decisions-in-singapore/": {
@@ -1620,6 +1762,8 @@
    "court"
   ],
   "importance": 8.5,
+  "kw_score": 3.0,
+  "weight": 3.0,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  },
  "https://36kr.com/newsflashes/3849602939753477?f=rss": {
@@ -1659,6 +1803,8 @@
    "数据出境"
   ],
   "importance": 8.0,
+  "kw_score": 3.0,
+  "weight": 2.0,
   "reason": "涉及数据跨境流动规则，可能影响出境安全评估、标准合同备案等合规路径，建议出海/跨国业务团队关注。"
  },
  "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5RTklZbEx6Z2RZcWVKdXdWZzlSUndXUlEta3RXUENjdzhQanhvUUN0U2JWZUxRQWhMNnRpd2VLZVItUkFQcUdITHJsalVSd1hJMm44VHQ2aGRISm1sWkE?oc=5": {
@@ -1678,6 +1824,8 @@
    "数据出境"
   ],
   "importance": 8.0,
+  "kw_score": 3.0,
+  "weight": 2.0,
   "reason": "涉及数据跨境流动规则，可能影响出境安全评估、标准合同备案等合规路径，建议出海/跨国业务团队关注。"
  },
  "https://news.google.com/rss/articles/CBMif0FVX3lxTE51a0h6X1cySnRLRGZMRFZFdXNBM0NCM2ZHMHdTam1MSEhTbWdDUHR6b202XzlqTVNQbDZ3V2NtOTJ2SEYzaFhmbWZiZjJFNFdqY195d0lVV24waUdCb2c3TkhoTnRUMTBUdDNLY29qZHBMczgzdHowS0ljNE0tX2s?oc=5": {
@@ -1699,6 +1847,8 @@
    "法院"
   ],
   "importance": 9.5,
+  "kw_score": 3.0,
+  "weight": 2.0,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  },
  "https://news.google.com/rss/articles/CBMitAZBVV95cUxQbTd5bjlzNHRndTZwbFc3SkRtVF9jUElZRkJEbWktRVAwQ0tJb3BHQ0t3Vjk2ZUVVWDczeG1IanlDOHV3WFRydkZtdXo5cDJCaVBjaHhOMjVNdmtLSXhsOXM5LV9lQTg0YnpfbUx2SmJzQXM4WE9TTk1ibEQ4QV9ZMUlTZU84Z2NzcndNYy1HUVBybGdkY1pENzMwcXJXSlFXMmxBa1dWVHBlNWE3UWJrN29NcUVqVjR5cnZTVHE3OUVXNWpINVV0aElIdjhKTXJzMXVyOHM3M3NhaTRDakRJRHdSSHFSTGViR1pZc0hxcURzWnJQelA4dk1JbEhOaVdhTmlybUcwaERiQ3RRR3pTbDQ0OHhVSFNUYmZSdjA4T3Q2Nlk4YjdFdXk3c3JEX09YN2JrSXMwTXRneXR0dFhITkZUR2VtNnhGajAtZ1ZiMkVRZFFzRl85MmlsNGM3Z1RQblh1RzM3enhFeTd5NlJZT25IajdDNV91bUdzdW51aklqZXg2U0VTeWdRbl9LX0QzeElfSGJycUFCMVk5RTNuMVl1VnFORDFlUVJ3LTdneVFOcGxtd25HQmlsWFVBUDY0QVZLajFCd3lXTFNrOGczSVFDWmF5X1FlUmIxb2hhTFlDUVg5ekRuMWdNQ29EdDVXY1NJZklTV0JTREU5X3ZtWmxEa2pGLU5HRWctd09zV2hYSTFZR0NSSlNaS3IycUlIVml5UjdWX0xaVi1jWGxsZl9hakZVOHlnTUdPTkw2TndRQWNtQTBZV1JGTDFTazhCZ3U0Rjg0ZUxNeHItVmVvUzY3M3YxX2pjWEEwbzdhM0x5QW1YZ183bFVkWGtqWEVVdEpZb29OV1ZNWDVhNnJLcWNMcVZCSFc1RXAyS0x3VFRMZHhOczhQSGVCV2k1YnBqMXZMNWFidU5zSnpNeUVRZEpreGxoLWU2WTVRTG93c05yY2Z2MUd2ZUdCZFd3aWR5UmJ0OV9SUDZCWnBhaFpOQzZNNHNkV1FCdVpENi1qYk1IaWxpSzNvV3F1VWNNLTZZRUFfTlJlQkwyUnhjbzdSYTVuV19PazI1T3o5eElHckIxa1Rt?oc=5": {
@@ -1739,6 +1889,8 @@
    "privacy"
   ],
   "importance": 5.0,
+  "kw_score": 3.0,
+  "weight": 2.0,
   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
  },
  "https://news.google.com/rss/articles/CBMid0FVX3lxTE9QOUtGeHJmaGxZaElEdkdWdzlES3JZYW5lb2NzLW5RTEdNak9LQXNJLWZqVGxvM1UwOVp1cWxCdE5uU2p4MG52VFNxMlMtQnNrMDBFZE1wa3lkY0J1TnREQXlCM1k3U1ZxR2h6RUFLd0RETktjdmNV?oc=5": {
@@ -1758,6 +1910,8 @@
    "GDPR"
   ],
   "importance": 8.0,
+  "kw_score": 3.0,
+  "weight": 2.0,
   "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
  },
  "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTjVIdkRvR3FmNDBkaGw3Wm5CeTZWbHNMVTFYM1ZEVUxFRXJsMVA1NU9NSnJmWWkxVkxWVURkRFdqbnBFamNGbC02RTdzQWVHaXdTSlZUY3JWVk81QUxWcFd1TlVUT3dzdUpIT21xR3V1dm12OWRyQm9yT1NVdkd4aDNoLWZGdThMWmFWSGR1YW1lT3NTTDhKZFppcHFEVFFINVZlbg?oc=5": {
@@ -1778,6 +1932,8 @@
    "court"
   ],
   "importance": 7.5,
+  "kw_score": 3.0,
+  "weight": 2.0,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  },
  "https://news.google.com/rss/articles/CBMikAFBVV95cUxOek1vS0VCUXZUendDTlRFNldtUkx2elU3WlNUdkVYaW5KYlViaWtlc3lnRmVTTm5Sd2FqWU1mZDNYbjBrQUhpdFIxSWxZMnlqaTRic28zN3NOV1hPMjBFbW1Fc2FUVnhaX2RXdGtNTkpnbXVCY1MzVEpXaEFQdElBVE5UNU5yZTZvNjBTWFZVdmM?oc=5": {
@@ -1798,6 +1954,8 @@
    "regulation"
   ],
   "importance": 7.5,
+  "kw_score": 3.0,
+  "weight": 2.0,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  },
  "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNX2h4X3lFSWRfajFaSzRKSUVtdzZFd0w4RGxsWTFuVTEzU3pQTFVxOF9xSHZxckJTakpoM005SkwzQW1YcDRmem1EUDZZNXhVRmJHdDV4bjBNTm9fSlFwckRWTXhneTRnVlY1a0dTNHR6cm91MnBPSUktYzQycGFmdlh4aE02LWZZdkVCby13dE9xU3VKZkFFSDMxT2hHa2VXRkFYVWpjNEpYaVdrRlhGdlBiS3BqMk9TYkhoOWlqanlEeUJLbzZmNVc3UEp3N2lCenkxQ0Q2LTl0SV9wUk84VWtWYW5DcUnSAewBQVVfeXFMTmVvZzB5VFpkUWdUWkhuX04tUW1PUkJ6Yks5bUtldFN6OWxNZS1yWExrT215QkFQQUJIZkYwV1FMX0R6MmowWE45aFFyRVBERjE0czM3RTlGeEpSOGdCQS1pYWF0Mzlaemk1M0JheHpQUV9vRFRra29HY3Q4NHEwMTZXUG5LZXRzMXlPdmZna091NnBTVnh6Z2xUSDZhc0FRVTRuUmFIVGpPalFMSjlGMS1PT3MwbElaeWRFMXJUVUtsbVcybE8tRzZiMXVhYlY2VzFxbkRMTF9BTTdjWkVvR0VSYnFEWTVDWWl2YkE?oc=5": {
@@ -1818,6 +1976,8 @@
    "court"
   ],
   "importance": 7.5,
+  "kw_score": 3.0,
+  "weight": 2.0,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  },
  "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA2a2Rfd05jUGE4OWJFTFBzbG42SnZVQnRzdUNOcjMzSmhFYVF0MGdveUwyQnF4QUZjQU82Y2MtQkVIQXczdkxrWFVGejNPZw?oc=5": {
@@ -1838,6 +1998,8 @@
    "数据安全"
   ],
   "importance": 8.0,
+  "kw_score": 3.0,
+  "weight": 2.0,
   "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
  },
  "https://news.google.com/rss/articles/CBMigAFBVV95cUxQS3pFX1Y4N2xmejdxcW9IY2FCREV1Tk5HbG9pVXROQnM2bFhCZlVrNUtxd1BsR3hVS3pyaHdVZHhlNlZITUhmY1EzNEtFeEdZbXoxaFpZc21WREtyenNKbnZXYW1rSG94RzN0TFVxWklqbE9WWlVBUDdhcms1N3dUMw?oc=5": {
@@ -1858,6 +2020,8 @@
    "data protection"
   ],
   "importance": 7.0,
+  "kw_score": 3.0,
+  "weight": 2.0,
   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
  },
  "https://news.google.com/rss/articles/CBMisAFBVV95cUxPM293YzNsREZ5S3hfb3JCc1I4Q1dBLW1BRmNKQjY2S2FqVWIzYUZsU2tMQlVlLWVQRmtMN0QxNGxORFFBRi04ZHByQlVaSHI4Z3pIZHVIZS1jamVSaXhGTzRxNWdwUDB1dzdjWEN2aEVUVnRqQm1pUUJBYURzVmhyQTJQd0dUam11cVB4TE1vcVlDbS13R1d1aXhiNjlvaTdwUkRFNVVQQ3UxVThYa1dodg?oc=5": {
@@ -1877,6 +2041,8 @@
    "data protection"
   ],
   "importance": 8.0,
+  "kw_score": 3.0,
+  "weight": 2.0,
   "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
  },
  "https://news.google.com/rss/articles/CBMic0FVX3lxTE83bklGSXVNZ0RfUU5EZHYwUVE0dWJHckVMMGp4Wl9NRnhQN3FIOW9yRGZnNHg1ZG9SZXNaNkY1cmwxcVZvNTdRR2VBd2E2Mk5HcHdWdXRab2RIUGxSdDNjTG9Pemt6dW9NMG0wX3oxN0Rya2c?oc=5": {
@@ -1896,6 +2062,8 @@
    "data protection"
   ],
   "importance": 5.0,
+  "kw_score": 3.0,
+  "weight": 2.0,
   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
  },
  "https://www.hunton.com/privacy-and-cybersecurity-law-blog/hhs-reorganizes-office-for-civil-rights": {
@@ -1915,6 +2083,8 @@
    "privacy"
   ],
   "importance": 5.0,
+  "kw_score": 2.0,
+  "weight": 3.0,
   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
  },
  "https://www.hunton.com/privacy-and-cybersecurity-law-blog/cybersecurity-authorities-issue-joint-guidance-on-the-adoption-of-agentic-ai-systems": {
@@ -1954,6 +2124,8 @@
    "arbitration"
   ],
   "importance": 7.5,
+  "kw_score": 2.0,
+  "weight": 3.0,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  },
  "https://www.globalarbitrationnews.com/2026/04/22/sixth-circuit-clarifies-multi-factor-analysis-for-when-online-proposals-create-binding-contracts-with-arbitration-clauses/": {
@@ -1973,6 +2145,8 @@
    "arbitration"
   ],
   "importance": 7.5,
+  "kw_score": 2.0,
+  "weight": 3.0,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  },
  "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUmU2ZmZhbWUtQzRNajNKZXpCWjdHRU12akRQTnRyQmZpbnVIMExJMWtORmZWUEEzcFVYQjZtd04tXzVaTkhqSGhOSkxtYVdGQXc3LU9MLTVxNVJQckh5SXBZeFR6UVMtczN3RmUtV2Z0Q0w1REI3MFdWN0RMOXdranY4SnM?oc=5": {
@@ -1993,6 +2167,8 @@
    "数据要素"
   ],
   "importance": 6.0,
+  "kw_score": 2.0,
+  "weight": 2.0,
   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
  },
  "https://news.google.com/rss/articles/CBMifkFVX3lxTFB2c01KaHhEdGRob1FzNFVQcmJGWXB2LTByY0FiSEJGMWtuQlJZeUVMOVhXcDM5OHNSTFo4WW1yeWVkWUJGd0VEOHd4bVB4cGNFb0xfTlh3RThUV2tOWkVOc0pTSzFpQlViYk5zX19jdVRGa3RTMDZFSkI0NGlsQQ?oc=5": {
@@ -2012,6 +2188,8 @@
    "数据要素"
   ],
   "importance": 7.0,
+  "kw_score": 2.0,
+  "weight": 2.0,
   "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
  },
  "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMW5ZNzB1OEhyamtwTURqQ01xSE9kb0EwbHItNjBjakgxM2Z3cEJfRnNpMVlvdkZ5cTZEMWh1a2tJVU5YTWJUX0tqTURjZUdBQ19udjZvMURDR1RKWU9UcUU2YThIVmxUR0VjMTFyQlBLUWhMV2E3MkJWZVR4QkFiaXNSem9EQzRUeTNj?oc=5": {
@@ -2050,6 +2228,8 @@
    "仲裁"
   ],
   "importance": 6.5,
+  "kw_score": 2.0,
+  "weight": 2.0,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  },
  "https://news.google.com/rss/articles/CBMid0FVX3lxTE9zMDgtdTRacWU0cW1tbkhjUjNWakhTQlRiM0ZPczlacFB5Z0pyVHVIQWs2WnF4cVZ5dHZDTmY1aS1iQ3pSaXRJXzZlbng1aHZGemVsMUc3WXZfSlEyS3VqaWJLWjBWcDQtMXpFM2xrMWFja254bFJv?oc=5": {
@@ -2070,6 +2250,8 @@
    "仲裁"
   ],
   "importance": 8.5,
+  "kw_score": 2.0,
+  "weight": 2.0,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  },
  "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRENNNGk3b3BzSU5GMkxZSzRFS05MQjdvd3A4a09Wb2FERVhDUWlkeENQN3BjdFlyMGFfam5RaTZUR1FhM2piZnBHajJoYUNXUFlXRXIxLURpQWtQa09ybmpDa2RZNzhza1l5ZGdfb0cyQTdnUnRtQnBkTC03RHZkc0t0Tnh4OHN2X0lUczNNSUJ4LW8?oc=5": {
@@ -2089,6 +2271,8 @@
    "仲裁"
   ],
   "importance": 6.5,
+  "kw_score": 2.0,
+  "weight": 2.0,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  },
  "https://news.google.com/rss/articles/CBMiakFVX3lxTE5reVRUOG9GR2d5WVJxM0gzdzd4VV9tbFJiTzlja1JTa3NBdHVteXNLV0VjcG1sMXd0djlVekZyVVlRbDdiMkZhbmJQc0ozSzlWQ2hucXl6S1JoSWN6WUtCa05oS1hFclBkdXc?oc=5": {
@@ -2108,6 +2292,8 @@
    "仲裁"
   ],
   "importance": 6.5,
+  "kw_score": 2.0,
+  "weight": 2.0,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  },
  "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CZklqNTQ5dEtKRV9tck1LMUNkbE1rX0lnR0ZEcGdmWndYblp4d0hpczBBNGpaamFFNG5Xb2lnTG5xUm5HODFWSm5HcjJsRDlwQXZ3Q2NR?oc=5": {
@@ -2146,6 +2332,8 @@
    "仲裁"
   ],
   "importance": 6.5,
+  "kw_score": 2.0,
+  "weight": 2.0,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  },
  "https://news.google.com/rss/articles/CBMimgNBVV95cUxOanVCRFBoSC00M29lemZ3Njh5YXJfR0Y1VEhndlVHYVVrc2FPY05nc3BkRmwwdlZPS0xHUzlYNDZVRVhOY1hmS2FnZGJIWkRrajM4M0tUSWlhcktUQVByeVVrdURWb2NuaU80MlZYeVJkS1R3cmhyZXlRUTF5cV9DT29kbWhLNGFqRXREbWMxNnNPNTJTZzJOeWRMaXo4Uzhoc1FFYzhwc2lqNGxtMF9TRm40eEd3Vjg3SFlFMGRhRmQxbGg5bzEtZ1FHVGVUMGg1dEVyYVp5SVJXV1FWcXNzeW4tSmlJLVNUVkhucThsNDNNSXNreWtNTlhoRndycjk0N1BUWlBidWYtXzJETm9Lb245NjJEVXVNS1N0MDhuREVPYlNySXdwN2tENU5Ob0k4NHJKWnNOaG5hM203ekVhZ0tCUFE0Wk14Z0gzMW1ZOXNKV2w5UWRIa1ZreDVXc0NaX0FSVjhhYzF4ZVhBUDU2elZuVlFneUVzbkpBdndjU0lhb3V1QjZqQmVvdnlxMy1VVXpMdnpfek1KQQ?oc=5": {
@@ -2165,6 +2353,8 @@
    "仲裁"
   ],
   "importance": 6.5,
+  "kw_score": 2.0,
+  "weight": 2.0,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  },
  "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBsTEFFMjdpdUdEVVE1ZXhUZk1zb2lzRkFaMmNBS1pwVkV4bkZqdWVTQVl4d3hSTWRzQmVXYl9fRkpaaUNpQ3RxWk9YZE5GNXdBaUlWRnp5cTNrX1VxTjE3ZUpHUnM?oc=5": {
@@ -2184,6 +2374,8 @@
    "仲裁"
   ],
   "importance": 9.5,
+  "kw_score": 2.0,
+  "weight": 2.0,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  },
  "https://news.google.com/rss/articles/CBMijAJBVV95cUxNS2NUMGNaSEo1MUQ2TkltaUlRdlBBalQ1cTBSX1huOEdqd0NCTnRGcENYMlU4MlJya3ZieXUzYmJnOTA0ZXFzcG5oTTkydGZHZUpDdUxOT1UyZDZSOEtMb3hYbGFjb050aVJBXy1VUjFxNHFWS1VEUlJyUno4cDVPUkQyT3VZZGJzWHctSHNtTG5tY2ROVGZjeXdSOU1KRTJ4aER2OFlUQ3pSV3hnUFp2NE1ob29KWnotR2VpTlVnY01NRENqblBiNG5IRFI1VmJJWTFwSDBkaUp6dHFKUzI2WG0xMXE2SG5XNjNfSTBPZlRHSnluSzE3bXp0SDJ3aGo0ZFlBdGVPdVAzc25Z?oc=5": {
@@ -2203,6 +2395,8 @@
    "仲裁"
   ],
   "importance": 6.5,
+  "kw_score": 2.0,
+  "weight": 2.0,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  },
  "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9McldjVUpRZTRna1EycU1Lb3NNdGJfbVp4MG03NzdlVUJCRmoxSmk0LWY4MFRzMy1XSXFKUXZ5ZlctTFhURjNMTWVhTnBXQ3M4MFE?oc=5": {
@@ -2222,6 +2416,8 @@
    "仲裁"
   ],
   "importance": 6.5,
+  "kw_score": 2.0,
+  "weight": 2.0,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  },
  "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBaHoxNzNpUjhWVDU2SjRNX2RRbFlzbzBsMDBJR04tZGcyUGxKT0xTbUViWklSNTVBMVR1Y2tSLUF1TmVuVXJ1MWNOSlJLZTdzMjZSZzNWN1pRN0ktcC1ubE9USWI?oc=5": {
@@ -2241,6 +2437,8 @@
    "仲裁"
   ],
   "importance": 6.5,
+  "kw_score": 2.0,
+  "weight": 2.0,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  },
  "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLUpQRmxzTVpRNkxOb1NYb2Qtb243VXlzT1kzOE56VHo3dGFXYlVtSkdRdXdOOUpQajdtWXRXU285cnpMX1o4eVluZ21wbmRMb3RnRmxxZVN6MDVMRFVlOVIyUFRqdG5ncW5BVkZRdHBrT0dIdnRPMlZkN3lESVNqaTkwUVg4T2J4RUhvTQ?oc=5": {
@@ -2279,6 +2477,8 @@
    "仲裁"
   ],
   "importance": 6.5,
+  "kw_score": 2.0,
+  "weight": 2.0,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  },
  "https://news.google.com/rss/articles/CBMikwRBVV95cUxOajJMN3NFWXBFdjhOZWl0QzAtcV81WmtiM0Jmc1NBY28yUk84aktTUTJ5NHRtdGNubGhRNnBaSENYRklfOE10SXZnQWIySjNBN3FLS1FnTG1XYUUzSUQ5eC1uZC00cEs5Q0IxMDduMmR3SnQ5T3hjVWQ5ZkU2aXA1S1NveVRiNEUzSXdtV1NhMWZBYlFLVFltalRGQTNoM19UQ2hjY1UyWkppSWFfMDRrSk5UMXNSTnU4dFZVRFN1cXNLVlZUYk9ZbDFwUUdQTXNTSXBMMHN1c3FiZ2VXNWFPZXhSd3NLLVB6V0t2MDN5RjV4cFFhS0ZtS0prRExHM1UyNXk0Ykg2N29iMmNNQ3R2QlNzMjhNTG1peERQblhEMEowVkNHWHMzLUthMTN2YjhQS0RYTWh4bFBDQl9WRV9XVDd6bWxCbDNFV2V6VVNraVpvUHJ1ZFdDSC1PbW56ODdwWmc5M3RRVWdwZ0pHU0FUWGUtTXYwRW56aUdvSXhHZFBVVHNZV3dHYkRLaFVwVXpLZ2UzOHUtQy1QM2xpZmxQZkJsSDZ4emEzMW94eGpkX081dXVYRTBJZHRlbUZPWUlCRVZhWV9TNWhJT0ZQSE91Q0hBbnlFTVVnaTkzQmNOWVVnaHdpdVowcXBfVE5jZUFZR1htbjNjX1ZYTF82YkJNdDhzX1ZwMldmSlpnZFJhSjZ3bHc?oc=5": {
@@ -2317,6 +2517,8 @@
    "仲裁"
   ],
   "importance": 6.5,
+  "kw_score": 2.0,
+  "weight": 2.0,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  },
  "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3VmctUVowLUxYNzVsdTJiVWszb1lySThiUlFxN1ZfMlBNNGlaV05RTWwxS0VtalY2NnlYalpmVElqd2RveE1ZMm9lNFlDMl9QbERJc1Q3c2F3NlRlOF9rVmprUnBPaGx6YmfSAWdBVV95cUxQQW9oXzBZZk1wUlItdmVDWVMyZklrWS00MWFIbW5RSUVKbzUyTnBMRVpDeXhPUzV6TVF2TXRhVGRSWUQ2VWhlTTFOYjJNelh2YmxxcWtKaUl6a0wyWGI4b1NOTUZzVWdj?oc=5": {
@@ -2336,6 +2538,8 @@
    "仲裁"
   ],
   "importance": 6.5,
+  "kw_score": 2.0,
+  "weight": 2.0,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  },
  "https://news.google.com/rss/articles/CBMihgNBVV95cUxPUjN1OEpzY25mbHdOZTBrQVpEOWxsR0VpaENsNS14eHEwZ1UyU2ZmcTJFNkZjUjcydlBPSkhySGlyQTMwVXZ0aDR0aGtsaldFdTRpMGg1ZHR0YUxvajd3VmpSaHQzX1F2bWVZUlJVdC0zMXAxQmlyZUVWOXZIblotMzBheU5ZeHhueHVoRVpEZE5BQnN0QjdOQWYwVVRyYlJQMUtBT21felh2djNUd2dKMk9KN1N1bG9GdlY2WUsyeGl6bmlzZ05LSlczaFhJakVCTUVkblpTNGJDSDl4TlhtOFYxU3JTUmtOWGlmdVNrVG5wV25Hb3EzbENwU1pCeWw2QWFZWVdYQmhZaFJYQ05CcXdDU3pSbFpPSmR4a3dxbXRocTVjYkpLQUprT0d0VzBDQ0s1NDJSYk1vVWhZZXVsQ2FlUXA5Q1J2ekZpV0hHRURhNXNDNzRyZks2TlRYejNWOS1FOHR6ZzE0NDE3c1NPQ1c3QTJjbWlta0hMWm96WEZqZ09zUXc?oc=5": {
@@ -2355,6 +2559,8 @@
    "仲裁"
   ],
   "importance": 6.5,
+  "kw_score": 2.0,
+  "weight": 2.0,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  },
  "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOYkhYVmc1ZUJ2cEhBSi1LM2RjTXFMbFhiOTlGenlrcy1qNGpjZjFNQjhUZzNDcmhpWGFWc0M2OEZFS2NnTzlxWUhZNEh1dzNvVllVVGhtNmZUQkdqNEFJbE9OWVpkMDhadXBXQm56cUlCSFAyZ0pNUzRSTHdLREpCc2thWXlLVFhFaUV3U1lhaUdqNklPX1MwNDZ1bkpyRXJ6emtSZEM3d3hCRC13UnNUUUNzYXpUZ2dIa29FdWd3bFlUd2tpdUtYZHNHT0pPZXBhQVF4MzA2NU1QREEzaDFYZmtqbExrTDlfSGJydHcteTNHYVR2V2lvejB3?oc=5": {
@@ -2368,12 +2574,14 @@
   ],
   "region": "国际",
   "category": "个人信息保护",
-  "heat": 6.1,
+  "heat": 6.0,
   "hot": false,
   "tags": [
    "privacy"
   ],
   "importance": 4.0,
+  "kw_score": 2.0,
+  "weight": 2.0,
   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
  },
  "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMG9vcExiVnVZbVNkSVZYUE9kRVVNc0tDV0dEOTdUU3o4LWg4X0s0Qi0yOVRzRXJEZGZsTklRZzRYSVlRNWdHUFlnX3cxdk54S241ZE9JREtVSWdPZWsxMVBQeEQ5TUUwZENvQkx1dUczSGVQVmN2VVUwdF9PSk9ZQ1U3TW9CZU96SWllZ1pld3R5OEt3RWp3UnY3aWFGQzJHaU9TdmFmamo3R2VnNXlHZ2JIX1U3YmhMekkyX1VSaUtmOUJnQ29FalQtdw?oc=5": {
@@ -2412,6 +2620,8 @@
    "privacy"
   ],
   "importance": 7.0,
+  "kw_score": 2.0,
+  "weight": 2.0,
   "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
  },
  "https://news.google.com/rss/articles/CBMihwFBVV95cUxOR0ZQZUFjRUtCZ1JtcnRuZXdpWThISmpRZXNmOWZKZEMxRV9hYzlROVJLUm9mT3MyUnZuZWZZUTd4eHBKek1OMl9pSkw3eExmb0hxWVhTM2F2REJtMk44VjA2RHZkeFJMN2dObEtreTFMSE1pV0FOeVh5R2NKWkU4b2hZaEE2eDQ?oc=5": {
@@ -2431,6 +2641,8 @@
    "privacy"
   ],
   "importance": 7.0,
+  "kw_score": 2.0,
+  "weight": 2.0,
   "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
  },
  "https://news.google.com/rss/articles/CBMikwFBVV95cUxObWhScmpZVXR0SlJsY2dsRFVPM0NaZDFrdGtOcXRuMFV3TXY0V3NFbzFYXzNMQWxPNGxhLW9JTWN1OVJCVHBBOVVvTUFETThjV21TS0MwbXU4RWVsZUFIUVJab3FFekttVmhWd1RQUk1adEpFb2hFWE9UY2hlV3k5bzMtRF9wamZMWHRvQmNraEpkNXM?oc=5": {
@@ -2450,6 +2662,8 @@
    "privacy"
   ],
   "importance": 4.0,
+  "kw_score": 2.0,
+  "weight": 2.0,
   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
  },
  "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSXk0bmpqS2dkYlktNUxzMGJXVHRmQWpJZHNwdXZQa2NMSlBOUnBmR2FCWDdwUWg3aXhzU1gwOXl0ejVSVGw0ME1UNktyVDhxRzlmMjM4b0hWbGRPYXFHdzRhUXFKT3RfaVE5OXcxZTJhS2xVTHQ0VkM5WVpJbE5JTjNScmllX3BOOG1nMDNYT0tIZ3F5OTRkR3EzV3U?oc=5": {
@@ -2469,6 +2683,8 @@
    "privacy"
   ],
   "importance": 4.0,
+  "kw_score": 2.0,
+  "weight": 2.0,
   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
  },
  "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSGJCV1FxNHIxOXdRTi0xQ3pyNXBXbGZ4RnRhX0hQeWdBTmlZQ2YyYmVJbjVzOUhrYlRsLUh5WnJlUmZMM3BUa2cxV2dRb3FhN0Fpc09aUEEzamZuRS0yTFBkcWhZNjl0T2JJNTNwdE5YM2F5VlNmRHRQOW5HOTRhNFMzaS1UTllKczlLWVYxaw?oc=5": {
@@ -2488,6 +2704,8 @@
    "arbitration"
   ],
   "importance": 6.5,
+  "kw_score": 2.0,
+  "weight": 2.0,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  },
  "https://news.google.com/rss/articles/CBMixwFBVV95cUxONmw0d2c5Nkc5dXRUcUdYU0ZDNmVQZlhyNXlfX0JmaEozZ2F2cjEwOXBHRVc4eDBrOXRuNGRBcUVtRjR0bGZ3S3YwczVaaHRabG5SQWVhSTZjMnBsZWVOckdFQkV1dEZpUVlUa1BYUDFfTEdVdjNHdW5YZjVCbWE2TTlETWJsMjl3X0RWUGg4R09ORlFGRWllaS1ZN09pY0tlNTllXy01eWxUMm9NSEQ5TGpDTEFSc3M1dmJSeHpHM3JxOHE1Uzlj?oc=5": {
@@ -2507,6 +2725,8 @@
    "arbitration"
   ],
   "importance": 6.5,
+  "kw_score": 2.0,
+  "weight": 2.0,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  },
  "https://news.google.com/rss/articles/CBMipgJBVV95cUxQcG85ckZoVEV3eThkOWxJdDhRZjZSek40ODZRcklOVmZLRElrRG1qU0RGck1xYWJNX2RBeS13MUxmU1JVSVo2YllpVDJ3S3FqbFBBa1MtUllGTFQ0ZHBrMUpBSHBVR0lfTTJkNk5naXJSamNlRmNUcERGSDBiNVBMaFlCMGgtZG1nODQ4c1BhLXR6dnNOdTdQOXlZLVVSTnE3WFhON21fZDlMUjRRMTM3dVlkOFh1X3l0akJVRnI4VGJrcW1Ga294eTFybGtreDAxNW4teU1vNWkzUHprbHhhNmVVYi1YenZfTG9MTjQ4TUtVNlFrMmFRWW1KVWhNb3dPbjFXM0JOR0d3WUZnOExsNng3MGRaOEZTMEVOY1F5VmV6RDhKSGc?oc=5": {
@@ -2545,6 +2765,8 @@
    "arbitration"
   ],
   "importance": 6.5,
+  "kw_score": 2.0,
+  "weight": 2.0,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  },
  "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRE94TFlBR1RfVXlwQTlZSGM2ZlRqYmVlM2NUaC1HQnBmOG1oZUhfRFhUOTFCNnkzamdyZVJRU2xOS19sSzQtaXhaclA0T3NmTUdIbjNBc1pMTVhWWnpMakRoeTFoLTdUYVhYeUlHT1I5MVFIbG8tZkFrWnpxcWZDcXVn?oc=5": {
@@ -2564,6 +2786,8 @@
    "privacy"
   ],
   "importance": 7.0,
+  "kw_score": 2.0,
+  "weight": 2.0,
   "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
  },
  "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRHVDVXJIazJKTEFraGd3QklzWGVSTUI1SFhsSEFFRzd6OUNtMVFtNm1FYUxwMEI1Xzg4TEVXN2xkX1JkUHoyU2FfN1lkVEJFaVRkdjBlSzVzcGJ2dTQ5aElUVi1wRG1hckw2aF9hMWlUUVpMczFJQzFwWWlPWEJKd2RMdExvYWpsS3A5RlBLMUZ1VnNBejNZRTllOXQ2ZTZ1ZmlYTzIwYTd4cjY1U0lDaHlJZHlzUQ?oc=5": {
@@ -2583,6 +2807,8 @@
    "privacy"
   ],
   "importance": 7.0,
+  "kw_score": 2.0,
+  "weight": 2.0,
   "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
  },
  "https://news.google.com/rss/articles/CBMif0FVX3lxTE9raTZUU1NyVS1KeUxlNlN6cGwzTFhOeFpaVW1yQ3hMc2JKX3Z6SWRBR010SThYNTNmcEtxTGJBQnRpRHRMVllhY2tHRmlEcjV1MEdrYWhhc25lWEk4SV9KNUc0QTY3aHNEdUFheWlfbkJQU0VySUxCUVVTWVdFNDg?oc=5": {
@@ -2602,6 +2828,8 @@
    "privacy"
   ],
   "importance": 7.0,
+  "kw_score": 2.0,
+  "weight": 2.0,
   "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
  },
  "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTm1lUDNfZ1Z1b081MENMYTJ6NnZ5aUpLYW1BSUlZY0xueWEzWmppNFhLSGxMZzFpeFBINkppS2Q1anVQaWFSenhUNF9PVG0wMVJKcFAzcVlkM1dSOHZvZUpmWi1IVzRXX1p0Ukhzd0EzbnVUQVY5THplX1kzMXItYl9NY2tlZmpaZzZya1h5dzl4aXlkMVE?oc=5": {
@@ -2621,6 +2849,8 @@
    "privacy"
   ],
   "importance": 7.0,
+  "kw_score": 2.0,
+  "weight": 2.0,
   "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
  },
  "https://news.google.com/rss/articles/CBMicEFVX3lxTFBPMXh3TXIzZGN3Qk5NSlBXeW1KOS01TmsxODdzUXdtTHM2SlJ5emVKVHZHY3FjdE1RX1ZpaEdkb18za04wRVBLYWxiaFVKV2JzWkUxVkRhaWdNdXliSk93NHVnWkl3R2xOdEtKbzlrR2o?oc=5": {
@@ -2640,6 +2870,8 @@
    "privacy"
   ],
   "importance": 7.0,
+  "kw_score": 2.0,
+  "weight": 2.0,
   "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
  },
  "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbnVwb0JMRjB0Ul9ERHdONERBSDd4SFNXU0xjVkFLWndTOVlqOURpeTV3ckZla2k2NU9FamdicktUWk5BcVlLVWRVYTdPV0xWR3ZZdEJUSFJOMkRhQklFSkhtX2N3NW5SdFh1Y0FTQ1MxVkRSZmFVYldMbTNLTjdFRlJnU08yMTJqX3dEcmxUY2E4RmdZX2pfczFxOV9nT1Z3WFpUU1VnZWlTbWIwNVZZdHRuUW9nM0lGOXJQOVc3aFVIM3Z6?oc=5": {
@@ -2659,6 +2891,8 @@
    "privacy"
   ],
   "importance": 7.0,
+  "kw_score": 2.0,
+  "weight": 2.0,
   "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
  },
  "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOa3c4WnBYVWRNcjA1RTVpbERDWDc5Nm5UNkpuRmFCS0xmOEdjSGs1bzZ6VEpBcmJNNVlwVkxjTVI4NG5pNGYxQlZUX19EcFJOSVJvN180RGlpU3Yxdncycy1OVFhiTXdfOXluZEw3Ujd1emRQZDJibVpPY3d6Vm5HRnhpX3VxTWMyS3hOZVBLbzJmWGNjUU9LdXNlX2JuX21HQm9hb0VaYnAwOG9iWHN2NHJFeUtTdVdYMVh5VnVJbVdKVEp0N21XdEZKQUVVUGVhMm5GNGFndVdWS1E5eDJ5NmhOSVcyN1paSGo3TtIB8gFBVV95cUxPUHpOekJWSFF5SFYxeWdGWjYxeGMxRXNkSUpOS1RxaWd4cjFxWnRWYUY2Smk4MHVjV0U3LVgzSkllRE51a1FGcDgtaEstOUJjNnRRRHFpbEVPS0ZJNjRTMXB2SWRiQUp1N0Mzc1ppMEM2WWtPaV93QVR4cG9tNFRVd3ZnTzJMRlB1QTJ6aGVubEZ1amZOUWgwX1RSRjh1OFZYemJhWUV4LU1yYWFwbWtDOUVud1Z5RHZyVThLb3dtUkJTVXVaWFJqSWFjcDlaVnpmWktQOW1UWGstU256RTZRWkt1Sl9YYnlJaHJiSDdueXBHZw?oc=5": {
@@ -2678,6 +2912,8 @@
    "privacy"
   ],
   "importance": 4.0,
+  "kw_score": 2.0,
+  "weight": 2.0,
   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
  },
  "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNUtvajU0Ym0wVkZkQmVRU3hoQUFjYTdiREdfQm9wamxWTnZyMFc4Zmd3ZWppcUdKUHhGSmlIRlZvNXRBRnJHUEV0eHp0MTFkXzRaSFB6VUJ4VkZEVGdXbU50dVlFVW5kNzA3elBIeEJoTTZKek93NkFfSkk0cnNtbThRdldZcl82VUdxSFFJYzJod2RFdXA3NGNRYUotSU9xUmJpWHl1SlA5Ni1uME0yWVBCazZwZXpMMDVCMHdfZ045N0Iy?oc=5": {
@@ -2697,6 +2933,8 @@
    "privacy"
   ],
   "importance": 4.0,
+  "kw_score": 2.0,
+  "weight": 2.0,
   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
  },
  "https://news.google.com/rss/articles/CBMihAFBVV95cUxNT3Q4cWxwemJsRjZEVkVBdVNac29hRVpVSE5HaTdtbGt5MG14LUtqU1RTVGw3QW1Zb1pzNmF5TXJhS0tVaTg5YThGa3E3cGIxQ2otTVRNM2dQeVFhckJiWkZ5djBkZW5kOHlQdEctZzhhZzhQSXROQzFwREdrUERXeDd2cVI?oc=5": {
@@ -2716,6 +2954,8 @@
    "privacy"
   ],
   "importance": 7.0,
+  "kw_score": 2.0,
+  "weight": 2.0,
   "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
  },
  "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uLTlzR1ZpZE9rZVhkNTBKY1NqYjh0SXlvYVNWelBlNF9ONlM3NGU3ODhGRDQ0aDBneXJFZm8tRnd0YV9xZTBPZGVvMlNKRHFBbVY5UTl3a1Rtd2dvOEdldmhRbGxxOUJURkJ0aU5sUGtjMC1yZFBvSnBtMlF6S1k?oc=5": {
@@ -2735,6 +2975,8 @@
    "privacy"
   ],
   "importance": 4.0,
+  "kw_score": 2.0,
+  "weight": 2.0,
   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
  },
  "https://news.google.com/rss/articles/CBMihwFBVV95cUxPamZ5emhpTk16T21kaTc1Rm1PaUYxeFNBc1NBNS1ZUG5yUXpJdmZ3VF9rbEdJZ0J0eDMzWDU4UmhIVEc0dEZZd3VlWThQUnFfazBwdl9OUFgzU3J5QUJCSDg1TUJYYlJoZXR5M0d2UGVqY090ZkFfY1pNdzJMT1VzRWo5VVhrLUE?oc=5": {
@@ -2754,6 +2996,8 @@
    "privacy"
   ],
   "importance": 7.0,
+  "kw_score": 2.0,
+  "weight": 2.0,
   "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
  },
  "https://news.google.com/rss/articles/CBMilgFBVV95cUxNb2MyLVlSSGdYNzFKdUZOZFN6MUNQc2hleGRrZlJsZkdtUnFjMEo3QWhiZEtfUVRNUEtQeTlzMTEzYUYwd1hCTjVkempnejdfU2Nrcy05bGlqWW5lQkZ1a292U1llZWk3NkZjUDJodFk1SENyRmNTamFGWTlQcHZJME1pdjdHdU9wblRuVm5USUZuR2ZmblE?oc=5": {
@@ -2773,6 +3017,8 @@
    "privacy"
   ],
   "importance": 7.0,
+  "kw_score": 2.0,
+  "weight": 2.0,
   "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
  },
  "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaEFjQlNTNmp3NlZwXzdfZGpHX080a2Y4RTBGLXU1bmVGWmRMN1czUlo4Tjd3RlBLaVAtemhtbkZzOWViRFZHTk0wMzFYWlNlczBpdFI1YW14NFQwRDd0Y19CX0VlNEktSWlkcTFYelo0VUJSbVlyaktudkE5T21BZUJlLVhRcmtLdHlnVVZ4X3VNYVUw?oc=5": {
@@ -2811,6 +3057,8 @@
    "privacy"
   ],
   "importance": 7.0,
+  "kw_score": 2.0,
+  "weight": 2.0,
   "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
  },
  "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRDdVVklsVlRIR3E4eUxRYURqMWVZTlVkMWZqWjJyRGZlNlByOVFXX2lJVTBaa0FEV2JjeWM5aEh6UENsQ19BQlNkazFuRlpqb2RTYnVxX19XZUw0Vm81ZmxYRXlva21TcFR5bzNtaFU1Sl9QVlVzWURTWlkyS3V2XzJackt1Y0dLTzlEWTI4WE51aXVNOHFFNU4tQmktMmct0gGmAUFVX3lxTFB6NldFZU9hcGxKQlJkOTZiZ3FFNFNNQm1pVERPdFd5YzhqdXU1SkxKc3lXdlBONnhqU0ZIa0E4Q1duNHhSa2pZeWpncW1DUGktalZnX3hXYV9FWjlTNmdCTldDLUwwT1FMYWp2TXRkQUZVSzNPNmNzTXpNRTl1MmFDUjFFLURXZGNjSzVYMDE4Z0taZGJyelpIUkdPTmhUaHpmaUdFVFE?oc=5": {
@@ -2830,6 +3078,8 @@
    "privacy"
   ],
   "importance": 7.0,
+  "kw_score": 2.0,
+  "weight": 2.0,
   "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
  },
  "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdHRWUFRka1NEUXlNX3l0YW0xOFlucHJXVjBsTC1Jakp2SmRJbXhIcXVzbGJEZDltdG5WY0FhSGplVTkybWZXY3M3Y2s0V0pvU0RmR3Q0S2tiRnowbUlLT0FNaC1mVDd2RHJpS19RSUVIdzhFbVF1ZGlXTXpDSTVQQVJOeXIyVEgxdXpXajhmTnFjZ3dCalNITTFZYUNXWnJTQzViemJQT1ZaUQ?oc=5": {
@@ -2849,6 +3099,8 @@
    "privacy"
   ],
   "importance": 7.0,
+  "kw_score": 2.0,
+  "weight": 2.0,
   "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
  },
  "https://news.google.com/rss/articles/CBMiekFVX3lxTE5jQUI3NTNYZUVkWklnRG9SVl9sV3F4SmlBaFBhUlNRUktWanFUX0tRNHZCOXY4MkV4ZW5qenByWGJpNE92UEpKQ1FJWkhXRWNhU0RJOHhwenJmZUJUeDcxTzJRTTkxc3RqejUtMU8yc25IeHpkWmpUWjd30gF_QVVfeXFMT3ZLalVsVm9QdzNYTXVzRGpzTzZ4VEZXUFJOR2drSnhmNGVuQTAweTF5YlJ5ajE1Ymt5Tnl5VWY1THl3WFhvY3RUU3hiVXdPRThKci1fRUVwelNWTEF3TUMyelFfc1dnR2dmQURVdVpJcjNWX0RjRnFTZmVQRENsVQ?oc=5": {
@@ -2868,6 +3120,8 @@
    "privacy"
   ],
   "importance": 7.0,
+  "kw_score": 2.0,
+  "weight": 2.0,
   "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
  },
  "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV1hYSTllci10MGJoX0liYU1COFY0ekk1OURvY1FlZGd4VmcxT0tLNjV6UG5BUDVrTnNYQW81ektJZ05uLXdyVXBHeGdPMy1YUnNDX2t4U3M1YkxiaEt3cXR3OWZKUWZqRThVR0M0cm1LNGNCdVY0SThib0Z6NWpfd00xRzZrMXJzWWJNR0l0ZVkyZmdndUZHSURwNjBHWUpTa3V4ejdjRFRhR2dWN3VGS25vZGc1dDZF?oc=5": {
@@ -2887,6 +3141,8 @@
    "privacy"
   ],
   "importance": 7.0,
+  "kw_score": 2.0,
+  "weight": 2.0,
   "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
  },
  "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYWVrZ1pwU0o0TkVwZ2hOUE5aeExCOWFCOEFVWEFlc2NiMEtLVDJQSS1kcXV5cWVuZzctVmxSOE8wN3I1bHB2WEc5NGJuYXRiWDBzR0NRcG0tWm1tZG94THVxMTdQeFdjMHZ0dE5OMkl5dlFaa21Uak5LM0o3UDZiWmpvQ2JmNk05dFdNdlhyZzd0VDA2VnRaRkdfb3dwdHlaZHlxR095ckRXNW9IRkpxVnd0UzJudjlabmR0NTRDOUlQQU9fMWZJbm12WDBuQnowNUE?oc=5": {
@@ -2907,6 +3163,8 @@
    "privacy"
   ],
   "importance": 9.0,
+  "kw_score": 2.0,
+  "weight": 2.0,
   "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
  },
  "https://news.google.com/rss/articles/CBMirwFBVV95cUxQd3lBM2FQSnpfeTVWRGdXTnpDczZwc3J6WDNMNmtWak9fSW0yNmRVYUg1cnE0R1VpSE8wQ1NwS2YyZWxFT01QMVpsemRkQTE1ZDctSV8tbWRwNXlTR2lWNzVGMUtzTWhRdGtNcHBxdlRiQTlSZThHalJQb0FWc3N4a1VxUFFFSFEwT1FIV0ExV2xWMmxINThlcldkaGFQVXFKSVJFTUxRamFtaTQ5dDhN?oc=5": {
@@ -2926,6 +3184,8 @@
    "privacy"
   ],
   "importance": 7.0,
+  "kw_score": 2.0,
+  "weight": 2.0,
   "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
  },
  "https://news.google.com/rss/articles/CBMihAFBVV95cUxQT1JlS2o3TjdBeUtsdHNBZGtOY1B3N2pGNjVRYnV0aU80WDQ2SzBLYkR1V2ZXQ1h3YlJ1UFJwTHpaLWVBczZ2Szl6RFNyZWZ6YmlWTjhGbmpuUWdrVjE4Z0hsTVVsQ08xVDlzNGpxNUNnZndhdmNJYnlDSVZJaWEwQUhxbUw?oc=5": {
@@ -2945,6 +3205,8 @@
    "privacy"
   ],
   "importance": 4.0,
+  "kw_score": 2.0,
+  "weight": 2.0,
   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
  },
  "https://news.google.com/rss/articles/CBMifkFVX3lxTE16VFZkY2xzZ0Z4ZHdZeXc0dmdseXIyQ3lOeXdtdWVvNEMwQlpqTExqQTROclVpSkNGVzlwWlhJY1ZmTjh0Ymp4QUJESGtMQW1FVjh3ZndvN1VHMldzY0QtTV9YT00wWVVGWVpGYkhCVVZnNlQ5VkNVT21CSEFDUQ?oc=5": {
@@ -2958,12 +3220,14 @@
   ],
   "region": "国际",
   "category": "个人信息保护",
-  "heat": 5.2,
+  "heat": 5.1,
   "hot": false,
   "tags": [
    "privacy"
   ],
   "importance": 4.0,
+  "kw_score": 2.0,
+  "weight": 2.0,
   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
  },
  "https://news.google.com/rss/articles/CBMirgFBVV95cUxNakY2RWp6aUJ2amF0YWI3WmFGX2dLbWIzcW1Qc29KS095NU5wRXZFWjZPXzRiTGpMcXo0MG9MckNkcXdHd3BKbGhtNVFCU1d2bXlRdTlFUmNnTVI4TGtWaU9PZU83VUd3Ri1iNnBRYkpLWVZkNGlzRWlYb0c5d0dENG1ZX2pER0RxYWllUmw4S2ZYLWNaOUdyUElsZnVFVmd3TXNNRnIyX3FVbk9YaXc?oc=5": {
@@ -2983,6 +3247,8 @@
    "privacy"
   ],
   "importance": 7.0,
+  "kw_score": 2.0,
+  "weight": 2.0,
   "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
  },
  "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcjFvUXJ6TVJHbUUyaklMYTBfbzlRckZVaWd5Rkwwdkc5ZzZfYlRaZFpXWGNMdm5vd0N1RWdkZWdYZ2dJQmdmTnZUTDVPTHprQV83U0V4b3p4VmJJS3d1Tk1RcHBYaEYyVUc5Q3VHcjhnTFBQbE9kMXNJWDNCcmoxby1YQQ?oc=5": {
@@ -3002,6 +3268,8 @@
    "privacy"
   ],
   "importance": 7.0,
+  "kw_score": 2.0,
+  "weight": 2.0,
   "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
  },
  "https://news.google.com/rss/articles/CBMijAFBVV95cUxQXzZ0YmNPR1Yxajd2Y3J5RWJkdjIxOGNCbmRaX2xiaU1KeEpVa3YxUVBqV01sLTFRNERUQVgtcnRLYXY3aGRoMHlaZW1yWTdzWENneTBPVVlCUkxWOWo3NHVqaXhMRUd3cjA4R2ExTEtUV0pxTDhLa0dXNG1HcVM3dVZvdGhPU1o2NkoxYg?oc=5": {
@@ -3021,6 +3289,8 @@
    "privacy"
   ],
   "importance": 4.0,
+  "kw_score": 2.0,
+  "weight": 2.0,
   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
  },
  "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNUFiekFZdHd6R0VNMlpLMzBJZGY0aTRfUzhyWUJHS3RKRjIyYVBNOHQ1d1FrYy0zTHZ3SVVoR01vWGk3eUd3MmpDSTdlZDl5OElfU1pjU2RwZC1yQk5vLThNT2RNaUZST3FncWt1UlhiRzR5Rm9rSnBuVE5aMHJoVHc0Wk5uVnZBaVBCMVE0d3NIZ09abnNrRjU2c0ZkY2NmNFJiS0MyT1BiYmc2dHJnamZoQ3IyMTNHd3hIcVhmU2hKRUxDWVktZktZMzlETmxMT2ExTTVYaGFfOG94MXhr?oc=5": {
@@ -3040,6 +3310,8 @@
    "enforcement"
   ],
   "importance": 6.5,
+  "kw_score": 2.0,
+  "weight": 2.0,
   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
  },
  "https://www.hunton.com/privacy-and-cybersecurity-law-blog/china-cac-issues-guidance-on-conducting-audits": {
@@ -3059,6 +3331,8 @@
    "guidance"
   ],
   "importance": 7.0,
+  "kw_score": 1.0,
+  "weight": 3.0,
   "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
  },
  "https://www.hunton.com/privacy-and-cybersecurity-law-blog/nydfs-warns-of-cybersecurity-risks-from-frontier-ai-models": {
@@ -3078,6 +3352,8 @@
    "cybersecurity"
   ],
   "importance": 4.0,
+  "kw_score": 1.0,
+  "weight": 3.0,
   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
  },
  "https://36kr.com/p/3846798967818752?f=rss": {
@@ -3097,6 +3373,8 @@
    "合规"
   ],
   "importance": 6.0,
+  "kw_score": 2.0,
+  "weight": 1.5,
   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
  },
  "https://www.cnbeta.com.tw/articles/tech/1565336.htm": {
@@ -3110,12 +3388,14 @@
   ],
   "region": "国内",
   "category": "行业实践",
-  "heat": 4.6,
+  "heat": 4.5,
   "hot": false,
   "tags": [
    "合规"
   ],
   "importance": 3.5,
+  "kw_score": 2.0,
+  "weight": 1.5,
   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
  },
  "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTms5aEJ3VzFqSmNGUGVMUkxCMUp4SXBmTXBmZnVEMUNkdUZtOUxNTkdUWTlRb2RfVFVQN25RY21EWnd4NFNINTFrV1djTVBvZmJZTVJ0SUNBcTc3Wk1Qblg0ckRmTkdNR3NYcU8tUlBhOUgyejVfM2xMdUlFOFo3dHlDSEVMQXBkTDA2djZSYw?oc=5": {
@@ -3154,6 +3434,8 @@
    "regulation"
   ],
   "importance": 3.0,
+  "kw_score": 1.0,
+  "weight": 2.0,
   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
  },
  "https://www.hunton.com/privacy-and-cybersecurity-law-blog/connecticut-signs-comprehensive-ai-bill-into-law": {
@@ -3167,10 +3449,12 @@
   ],
   "region": "国际",
   "category": "立法监管",
-  "heat": 5.2,
+  "heat": 5.1,
   "hot": false,
   "tags": [],
   "importance": 6.0,
+  "kw_score": 0.0,
+  "weight": 3.0,
   "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
  },
  "https://www.hunton.com/privacy-and-cybersecurity-law-blog/oregon-prohibition-on-public-body-disclosures-to-data-brokers-for-federal-immigration-purposes-now-in-effect": {
@@ -3188,6 +3472,8 @@
   "hot": false,
   "tags": [],
   "importance": 6.0,
+  "kw_score": 0.0,
+  "weight": 3.0,
   "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
  },
  "https://www.hunton.com/privacy-and-cybersecurity-law-blog/uk-and-australia-announce-memorandum-of-understanding-on-ai-security": {
@@ -3205,6 +3491,8 @@
   "hot": false,
   "tags": [],
   "importance": 3.0,
+  "kw_score": 0.0,
+  "weight": 3.0,
   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
  },
  "https://thehackernews.com/2026/06/meta-blocks-nso-groups-new-whatsapp.html": {
@@ -3224,6 +3512,8 @@
    "court"
   ],
   "importance": 5.0,
+  "kw_score": 1.0,
+  "weight": 1.5,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  },
  "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzM3phbVVPVDBTMl9iM0NHZ1VDMVZBMFZnQ2ZyZzZFMFB2ZE4yNGFMRllTYmJjbkN5aTRSRWdNMUs2ZS1CTHRVcFFlakV2VlJRSXRKNzhEOUE3UHBUY01jZUlta1hJVWFpU1FlYVFZWUc?oc=5": {
@@ -3241,6 +3531,8 @@
   "hot": false,
   "tags": [],
   "importance": 2.0,
+  "kw_score": 0.0,
+  "weight": 2.0,
   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
  },
  "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMTRoY2sxVjJLNXBQd2Y4U1FSX3RrYWtXbEFTalBfMjhVNkktWWZaZU9MMzdKdndUQ3QzbnN3ZnJlRV9jZDhUb0J4SFJhaTJoUWdkVEdSR2Z6UURlX2RWVE03RHdkV0p5MFgyc0dUTHo5Nk5FSkVDb2VTa3hhZHRESGEtbWpSdGhNUGRuX3Y5TQ?oc=5": {
@@ -3271,10 +3563,12 @@
   ],
   "region": "国内",
   "category": "行业实践",
-  "heat": 4.3,
+  "heat": 4.2,
   "hot": false,
   "tags": [],
   "importance": 2.0,
+  "kw_score": 0.0,
+  "weight": 2.0,
   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
  },
  "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNZ2NlMVNOa3RrTnNST1hibkNhYU40czRjM2E0enRXSjBfcjQzb01LUEhMZU5kOFN1UGtfUUpFekEtaExubjIxbjk0QlJJaWdPVU11cUlpLU5pTXRtUV9qNUdfU243NEVXZVltX3hPSV8ySHcycXItZ2x4ZnFLWVdsYUlGRF9rdFJkRUJKYXJTZDFXWTM1SlI1QS1DbFBxNVNoa3Y5ZWI2WFdockNYUnJDZGVMdWJ1R2hvNU5EOUEycHVRd29ZeHVPb3FVU29KdEpWVzNxUXBSbms4MzdXZ0c3c0syVE1kYXRkWmxyUjJNbHBEWC1xWkt6MHlqVGhIUQ?oc=5": {
@@ -3292,6 +3586,8 @@
   "hot": false,
   "tags": [],
   "importance": 2.0,
+  "kw_score": 0.0,
+  "weight": 2.0,
   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
  },
  "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdHJ0cjZ6ZVJVM0RRQXpEajVnYVNpd1R2dWQyWGtTMWNhWjBSNkFrTXp6YjlRQU9UcHlpZ2pCSHRWUVRFbVUwQlRlRXN1UDZ6dTVkbElsOV9nYWQzUVB1M2phdjN2N0lnM082Q3g3VVljYUdyQlAtYUVnSksyQmVmNU1JTC02M1liV2tNMXhLeUl5ZjNDaEhpVms3QTdyZXJBOFhHWHJvdXh4dExW?oc=5": {
@@ -3309,6 +3605,8 @@
   "hot": false,
   "tags": [],
   "importance": 5.0,
+  "kw_score": 0.0,
+  "weight": 2.0,
   "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
  },
  "https://news.google.com/rss/articles/CBMifkFVX3lxTE9rQTNjV2RxMTNJZG95S3Y0LU1McDlOX3RoYWdWUU5wVVZGYzJIMTJDYnhtOV9FUHVIY0xpTnhpTjRGaVltQU41V0RFVUZpb2NxZ3BmQnRLR2YyZ21Dam82d3E5dlhkd0ZvdlhKdUVCLWZULXNtQW50a291Y2Y4UQ?oc=5": {
@@ -3343,6 +3641,8 @@
   "hot": false,
   "tags": [],
   "importance": 2.0,
+  "kw_score": 0.0,
+  "weight": 2.0,
   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
  },
  "https://news.google.com/rss/articles/CBMiekFVX3lxTFBmMWlXaUNyVTNyY0IxcDkxT0VLdGQxSTZqdVJJM1VtVWpqb1NvUGFCcm4tVGxwNjk2UFBSQUtOb1BvUHBzXzdqTy12emhJal9PV01RTTVqSGVXWjhtUkxIOXpMdUV2THdkM1Z3dHBOVXJ5QzVaZkFUVnZ3?oc=5": {
@@ -3377,6 +3677,8 @@
   "hot": false,
   "tags": [],
   "importance": 2.0,
+  "kw_score": 0.0,
+  "weight": 2.0,
   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
  },
  "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYjR1N1BGRXZYa1dvRy1IN3JDSU9Yd184RlpGbWU4YWtRVXE5YVI2X2hudkU3TVVhWWFOV0x4Z0FhWEZwSk9yWGRSeVlEWGlXZ0cwaW5nQWJlb0wtQ21JUHlXNnVtVWxZUmVTVnh6SzZfZXZ1VVpKdFloMjFyQ1dTRDNNVXAwOFBfZmU3bA?oc=5": {
@@ -3411,6 +3713,8 @@
   "hot": false,
   "tags": [],
   "importance": 2.0,
+  "kw_score": 0.0,
+  "weight": 2.0,
   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
  },
  "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHcDdBWHdWRTItUjBvSjNJZHRqUzdyaEtwZjFJUGYxelZDeXZyZGZ5elU1WWVDTGJoNFFraTUzVkUydzVQQ0JnblV3SDVCc21OQjBabzRZc2Qyb1JXcE42SlRra3hGMHpnS2JTMGpHOEJhQlNQN2c?oc=5": {
@@ -3428,6 +3732,8 @@
   "hot": false,
   "tags": [],
   "importance": 2.0,
+  "kw_score": 0.0,
+  "weight": 2.0,
   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
  },
  "https://news.google.com/rss/articles/CBMiywJBVV95cUxPbUF6eUdlclBMemVjUjdFZDl1TmJWME5vc3FxVDJ3YjZDWmhaRnJvZjliejBwQjJQLVp2QXZybTVRV3l5UExGcFVuYjNwNEVFMzNnMVZGbkVaemlYSHl1cS1iLVNBUHVFbG10RElDUS1weHQzOXZySU9DZFlFQXgzZmRoMDBCM2ZuNGFiZUlkSGgtV2I5LW1uYi1ZeEQyYXNxYm9reWpLV0tlWVIzZmpnY1NMMFlwMmI1SUNOb1liQ0ZueHBsdktWT0lTbkpRRy1yb25VM2d1ekx1enIxVWEzdURqNUdaTjN1U2tzaUI0emdZSmkwQnhTR25hV1ZTbnowb191WFV4WmQ1T2o0ZHNDbVo0V1RBYlRLVl9meTktRzN4TG5CbWF4Ti1ORUlldnRCZUIyTE4xR2xxaXQ0OThwUWp3UjhhNXFHQkVn?oc=5": {
@@ -3445,6 +3751,8 @@
   "hot": false,
   "tags": [],
   "importance": 2.0,
+  "kw_score": 0.0,
+  "weight": 2.0,
   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
  },
  "https://news.google.com/rss/articles/CBMiywJBVV95cUxOQkRQNTFtSkNILXdnZGVyeElzNTd1a25GSXJ3eE1yRFY2Yzgta3R5V0d3RWdUSjNITnlnOXRtQVpxaXR5b2VmNURiaGFnV2FVdG1KVlNEZjlyYUl1c04wRWlna1pPWnZndUNTazlzTURkeWZQQm1LbTdrbnRpTmtHQlNYU1V2Q3Y4OEN5VlhjOGI4a1NVQy1BTjhVdHJzaFd4dm5WT3lHdy1ab0dVVGJnbUhDeXF3QklZVjc3ak9qWVNtQWlmX0RCRThpRXdCaDlkaWRqclRQZ0k0My1HdXlGeW1yNGRZbWt3OUdHMEQ1WGtVSlQ5dEJHT3V2M2I4bzRaVDkzdWh4ZGctWjJZbU1fdW5sV1Z2anFfbFJuYmF1anNuOGZ6NURZay1VQXpaSXNUZ2htLXlFRGFEaU91REpBbFZwcUVPT21WVlBz?oc=5": {
@@ -3462,6 +3770,8 @@
   "hot": false,
   "tags": [],
   "importance": 2.0,
+  "kw_score": 0.0,
+  "weight": 2.0,
   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
  },
  "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96MXFOSnBNb3JxelJxLXA5VjN0RUxBVkxuQnhwZmM1Zjk0ZkR0N2ZiRjZ5QTJYSmN2WFZlS2Y4aUZpd1VxbnJkVHAwS21mTzRLOWc?oc=5": {
@@ -3479,6 +3789,8 @@
   "hot": false,
   "tags": [],
   "importance": 2.0,
+  "kw_score": 0.0,
+  "weight": 2.0,
   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
  },
  "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1lYmVxaUR3VEdzRGIwQ0lHdXpvSjgtZTBMejdKMHlxbVFObXRvUUZsUThWazhCdGVOSzhvZnJfU1NNTkE1c3lRekd6eThkUQ?oc=5": {
@@ -3496,6 +3808,8 @@
   "hot": false,
   "tags": [],
   "importance": 5.0,
+  "kw_score": 0.0,
+  "weight": 2.0,
   "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
  },
  "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5OTndBQWZvbi1yOFk5S2QxbmREYW9kT0lHTFdJdmp3UjRqMTdfR084aUpzYTBBUG1XM2hlbGJWMTU3UW1GLWNReU5RRFc2WlNCdU96NXg2cnFfOXhD?oc=5": {
@@ -3513,6 +3827,8 @@
   "hot": false,
   "tags": [],
   "importance": 2.0,
+  "kw_score": 0.0,
+  "weight": 2.0,
   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
  },
  "https://news.google.com/rss/articles/CBMiYEFVX3lxTE80dkpVcmczZFZDS2hva0I2b2Q0WGUteGg2azV6Q0V4YTBYaWlhNlJFMlRxa3FfNWNSZ0hsOXg2OTUzREtKOXpRRmNzMjAwaHJJcFdBd2pHSDYwUnZ5aG1ESQ?oc=5": {
@@ -3547,6 +3863,8 @@
   "hot": false,
   "tags": [],
   "importance": 2.0,
+  "kw_score": 0.0,
+  "weight": 2.0,
   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
  },
  "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZmJFZkdtajdCbnAtSldjN2lBT0Uxb1dSU3YtMTdCamd2dzJFb0hEYVFfWUZaSGt3LTJ0TFVCbVQ0UzRnMjg0RlYzWk1rYzhFd3R4cUg5YnR3c3FHOEtGR19tUW00Uy10WnhOWGdXQWoxSHpXTHdtLUZtTWlSZnJGQ1ZtSmMyN09Jb3pGOTFiaWhrUTVBVE43U1VSck1pOTdDeDRhOFNOcw?oc=5": {
@@ -3564,6 +3882,8 @@
   "hot": false,
   "tags": [],
   "importance": 5.0,
+  "kw_score": 0.0,
+  "weight": 2.0,
   "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
  },
  "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdGVEWXFTTzEtcmRyQ1lqS3hzUWhlb0doVUU5VjktRXl6TFVwdnI4b2JMdGtieHFHZmgzWklSQjdxbUlPekpjSTJRTjYtc1I4eVdTMWlGc2pFWnpobU5Hd0FKeE9CbDRQMzZ1aF82ckpJNmo1UUxlNzdKWTJFQzMzdlY0YWRpeUxZMFd2eTV3QUFOVnRCTkFyMW01ZW9OUC1w?oc=5": {
@@ -3581,6 +3901,8 @@
   "hot": false,
   "tags": [],
   "importance": 5.0,
+  "kw_score": 0.0,
+  "weight": 2.0,
   "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
  },
  "https://news.google.com/rss/articles/CBMixgFBVV95cUxNd1RoVGJDZ1FmS1IyMEFWTjBzNkZFOS1JWVRpTDlFRm83RnIzQlRjUmdLNURSZFc0UEtzbFVYTnVUZGcwN1hfbjlpY0Vuajd2U2M2U2dGY3JpNm5mQmdGX2c4NUlzRW5kaGg2NXUzRFVHSGppR1dTVmxvRkw3TnZ5YnhfTnVsR2tzUUJNb0k5ejMtbE9VQWJDQTlDVFVsUzFOM0Y3UnRSMDIzNnZvTmJuQ05HYlc1WjM0VEM5aDRxMFBFR091Z1E?oc=5": {
@@ -3598,6 +3920,8 @@
   "hot": false,
   "tags": [],
   "importance": 2.0,
+  "kw_score": 0.0,
+  "weight": 2.0,
   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
  },
  "https://news.google.com/rss/articles/CBMisAFBVV95cUxORnF2VmE0Wk9TSzZRdmczYlVmeUU1eEY3MkZIeW9MeXdaQ0NLa2Q0RGhlZW5EQkJFVm05UGpPOHhKSUtkQ1IzY0FlZENrRHJxTk96WF9NamFkVU0yUlpWWVVDTWFjN0ZtcDJMa1VESm1nUEJXLWsxZ2dZbTUzUUR4eXg4VWpTRTZ5RFV2dm90Z2hBSTFZTlQ4SUl1QzhmTU5mZnFvb3dQTkstWS1mMExWUA?oc=5": {
@@ -3615,6 +3939,8 @@
   "hot": false,
   "tags": [],
   "importance": 2.0,
+  "kw_score": 0.0,
+  "weight": 2.0,
   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
  },
  "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNWpiQlN0djU2YklQN19OeGkzbkctRWhFZk1MRDYtWjFST2xaNUFWdnlhUUdHdmoxbGxlVkY1VzlVMDZNYnJ1SjBzcjdqaW51TVM2N3RIRkEzdzR1OEVtM1pOaXFRZmhfYWxlTXd1WWRrb0hicDJ5Ukt3eFl6SnpmVkoyUDVRQ3RveDd4bk8xaUZCNTI3WDV6dXBMZGZvc0ZRU1FtS0xpZkd5QnJBVXBQX1IwN2J6ZGfSAVpBVV95cUxPbXNaZldWcllPTjZza1FsN0hhU2pRTEZnY0ZtNUlVaXY4bUZobV9GeDdzSTY0ajluZDh5TFNaelRMVWJiT3ZEWU5Rb0tlaDVzMHZ6RzV6NW9KQXc?oc=5": {
@@ -3632,6 +3958,8 @@
   "hot": false,
   "tags": [],
   "importance": 2.0,
+  "kw_score": 0.0,
+  "weight": 2.0,
   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
  },
  "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLTRFLXJMVktVTEtjdkFiWVBCM0g1MWpkT1YxdlNCVS1GNXVJTVFTcnJPaTVxeFVDRlB2NjZ0TnhXOUVTbWxMWWdtMGtJU2J5WXh0NVprU0NvTmpBWG1Zc3ljdUc0dHVuODFwU0hDdVVhdUotemlwY1VCaVNmSmp3SXkwNU9nTHFYc1Rsdk96ZlcxQzdsNmE0Vi1yWlhULVBaQlBiSHV1enl3ZTNJUVJwTC10Q19iNmR6T1hYbmVB?oc=5": {
@@ -3649,6 +3977,8 @@
   "hot": false,
   "tags": [],
   "importance": 5.0,
+  "kw_score": 0.0,
+  "weight": 2.0,
   "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
  },
  "https://news.google.com/rss/articles/CBMihgFBVV95cUxORHJEWm1lVnRqOEhaZGNUbU9NQWdKd0FJYzE5N1dXdUZieThBaEF6bDVHZ1Z2eUNkZmpsX0RXRlVoWFo3bHBnOUNoNzlMY1Vteks5VnFIcVBMc190bXVueXF4T1g0UXZZbHVHV0FYOWVSRUVZX3M1TmpYcEZGcTI2a1Q4SVhVQQ?oc=5": {
@@ -3662,10 +3992,12 @@
   ],
   "region": "国际",
   "category": "立法监管",
-  "heat": 2.8,
+  "heat": 2.7,
   "hot": false,
   "tags": [],
   "importance": 5.0,
+  "kw_score": 0.0,
+  "weight": 2.0,
   "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
  },
  "https://news.google.com/rss/articles/CBMiekFVX3lxTFBvOU10Mlh4cWVqSXFVTi1Ub0h2aWgwZDFnLW1XTTM3ME10cTh1bUZkNkxPZEJ3N0ZTM0hqMEdmdzF4TzJJMkNzOVVrNS1BdmtNdDRqTTRWaUloQ0w0MjI4dEZDV2ZMb3dqajVKWXpvbGhJanZSTkF1RXBR0gF6QVVfeXFMUG85TXQyWHhxZWpJcVVOLVRvSHZpaDBkMWctbVdNMzcwTXRxOHVtRmQ2TE9kQnc3RlMzSGowR2Z3MXhPMkkyQ3M5VWs1LUF2a010NGpNNFZpSWhDTDQyMjh0RkNXZkxvd2pqNUpZem9saElqdlJOQXVFcFE?oc=5": {
@@ -3683,6 +4015,8 @@
   "hot": false,
   "tags": [],
   "importance": 2.0,
+  "kw_score": 0.0,
+  "weight": 2.0,
   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
  },
  "https://news.google.com/rss/articles/CBMiswFBVV95cUxQLWQ2TnQ2STJ4ZXhVb2RtV1Nya0RRdTRPai01aXlhV01BdGJOdkI4TkU0cEFBVWV0UGR0QXJTaTdrVTFnQ0pVOU83R1lOcmFYRVRucXlLVFJfdFhZcFB6Vy01eS14S0F5QVJ4dVoxOGZ3SjZZQlpFNEJUZXlvcXY5TzNMaVo4ZmZaQmMtLXV3UFU5eXZZQUE4ck8xZUphcV9IdElod04xTE9ydEdCOFNlbDMwcw?oc=5": {
@@ -3756,6 +4090,8 @@
   "hot": false,
   "tags": [],
   "importance": 2.0,
+  "kw_score": 0.0,
+  "weight": 2.0,
   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
  },
  "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQcTZXVUgtRGVnRzRUbTE5M0ZjVnp6U2dHWW53VzBwN2EtdS1Da2ZGSjByZ1BycVY2WDloaC1GbFhLVDdvekFod2NEY0V2RTRja2NSOUQ5cmZxdW9PRlpMWDExTC11Z2I3SGMza2NfdW9jVUh6ZlBja0F2RE9sTzZfLVB0aDQ3MWc0VlB4eWQyV1FkN2VVVDJiLThMdjkyUXdqYkg2a1czYmpLMHRuNG1NN0JDaDliMVNnTXU1WG9IS0o0S1ZNUkRmWUJsRUpfdG4zejZxbTJWMjJHT1NsMzBDdFFWUWdfZnl2ZUtxMGpMbnBaNzhYUHJOQXJpNGdkdlpLWjdrZlFRTTYxNm12S3oxTWhldzNOd1hiNk5hWU5JMDhYWExsZ1Nhd1FlMA?oc=5": {
@@ -3775,6 +4111,8 @@
    "arbitration"
   ],
   "importance": 6.5,
+  "kw_score": 2.0,
+  "weight": 2.0,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  },
  "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1DemlTS3RLZHRmd1FpMTVLMzJRTUt5ckFnOFVlRXJaMTc2MnR6X1JBc2FaTTlDcmFwdGZMekF5M2J1WUgtQ2FZa2Z6Q2JJQlgwYjBkSWdOZWwtS0dEbHc?oc=5": {
@@ -3794,6 +4132,8 @@
    "仲裁"
   ],
   "importance": 6.5,
+  "kw_score": 2.0,
+  "weight": 2.0,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  },
  "https://news.google.com/rss/articles/CBMieEFVX3lxTE0yLURkcFBWdlgxNFRxT1ZyeWkwb0I3SUxtLVlqLUlHVUdYOG16eUlMU3BYVXRORV90UXhSMDFISzlTT3VGR1gtTEtfSVZFNjlvLXpDZFZ2YUN4cmNaMWF6eDBVVUpRcmV1UjhLYmxVTUlrRjgyMFFOdw?oc=5": {
@@ -3873,6 +4213,8 @@
    "EDPB"
   ],
   "importance": 12.0,
+  "kw_score": 9.0,
+  "weight": 3.0,
   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
  },
  "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRkFHWWYzNzhna1plNXhuRkFFeWJEbzlYb1hPZEtjQnlBSDREZlFtdURza0dRQ3lnRUZTN2xZeDREaWZQN3FVRXU2Z0l4U0FKRzJETm9EcWNjZ0NxeEUtN0tDdUczeDVUQ3EyakpERkFxNm92dzV6bXRpeG80Z3JmcnVIQnhSSnVMdWwxYnVoS00?oc=5": {
@@ -3936,6 +4278,8 @@
    "privacy"
   ],
   "importance": 10.5,
+  "kw_score": 6.0,
+  "weight": 2.0,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  },
  "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEWFdCeFNoMlpwd1FLaDlBNzZGb3BFRFRLNm9oVDl5Zi1ESUktRzdkeFp1eW5hcTJ6UUliWTM3empaWGRwanExUGpZWUJLa05sM3ZybmZB?oc=5": {
@@ -3977,6 +4321,8 @@
    "合规"
   ],
   "importance": 10.0,
+  "kw_score": 5.0,
+  "weight": 2.0,
   "reason": "涉及数据跨境流动规则，可能影响出境安全评估、标准合同备案等合规路径，建议出海/跨国业务团队关注。"
  },
  "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9IYUdBSUI1TjgxamZ0UlN2UmNkYXJkTmpoOFBQSTFDc2o4akdkejhRcmEwaERVeXctbkhhRVZteDBGZzBUdnFOMEtYWFRZYkxKMmcySFdvanhuRHBub3czUUVZX2pLSWxR?oc=5": {
@@ -4013,7 +4359,7 @@
   ],
   "region": "国内",
   "category": "执法处罚",
-  "heat": 15.8,
+  "heat": 15.9,
   "hot": false,
   "tags": [
    "个人信息",
@@ -4040,6 +4386,8 @@
    "网信办"
   ],
   "importance": 6.0,
+  "kw_score": 4.0,
+  "weight": 2.0,
   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
  },
  "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX3MzWWk0STNtRmVPOWhtZjZLaWZsVEpfam5ObGVvM292Z2V6SGotYWV5RU95SDd3d1B0VFhDUkJUMlh5SWIzeG5DcXdTeVU0VllTR2lQVjRwTVp3WjVWbFFmby1LZm5jVDVzTDRSS3dUUFVUYU1XWGhPNk5udjdHSUVtZXU1QWFDRm1rQ0loY19HU0NmZ3FiOWdzS0EwbGRGRkRVNHY0ZWk?oc=5": {
@@ -4060,6 +4408,8 @@
    "lawsuit"
   ],
   "importance": 8.5,
+  "kw_score": 4.0,
+  "weight": 2.0,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  },
  "https://news.google.com/rss/articles/CBMib0FVX3lxTE83S2NDWmpxQmZhRUVLTHRkVjZDbExvNFVpSWlObnB3RF9rZEpEbGk0cl9DRGkyMXFhblMwWkpuZTVoLVh3bjVmazFGcGhZYWQ4cnRVTzJrTnJGVUJ3a25MNDdOWFN2ZTU3M1lUVU9pbw?oc=5": {
@@ -4080,6 +4430,8 @@
    "settlement"
   ],
   "importance": 8.5,
+  "kw_score": 4.0,
+  "weight": 2.0,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  },
  "https://news.google.com/rss/articles/CBMixwFBVV95cUxQR0VyelNSQUhHXzlFRzNSYkh4Y0dMVzFlaVRYc0tfQTZleVNSUDh3YzRJOWh2cG96M2FsaV96LUhhRlBjMGJtbmpZLU5RaElSOVNiclExYWxpVWVCVHl4X2NhYWV0aFpKREgtUmQ5bHlqaVlWR3c3cWVYcnF3VFEydWd4OGY3SDhKMkd0ZzFEYWk5LWtnMnFFWDhYQ00yWU5LSTlRbFdYS2JWMXdkcTBoUF9yRjkwMDhIQ3A0NmpnQ3YzWERMM2Nr?oc=5": {
@@ -4100,6 +4452,8 @@
    "court"
   ],
   "importance": 7.5,
+  "kw_score": 3.0,
+  "weight": 2.0,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  },
  "https://news.google.com/rss/articles/CBMilgFBVV95cUxObjVNdzJDQ2FELXViQVZPVE52Mmp0ZHVkUFNGRWIyTWpyN1phRWZheTFLTllHRmZRenRpc2s1SV8tTjlVVFV5SEczZHlIYUEwSWd5ZmhHb25uOUpxVzh1VEpXMGlEWk1fRnRYT0U4ZUEyemgyWkx3ZzYyODFiLTFIbnlsOHNEQVd3X1JJeDhUQmUyU29kclE?oc=5": {
@@ -4119,6 +4473,8 @@
    "数据要素"
   ],
   "importance": 4.0,
+  "kw_score": 2.0,
+  "weight": 2.0,
   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
  },
  "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTFF0OFlOZEJHaWxWandjMVkxZGZ1UnB6dTR3OVNDNF9ZeUh0RFcyRzgwQ18xck5lMFlvQUZWV3FocDV5S2J0NXdQTm94Q0YxNmlJZ2dBLWZBb2hmMnlacE5iaWVtMzlzMEF3Q1FNcTZ4NnpmX3l4ZE9XLU8tVlctZ3FPLWNuYlJs?oc=5": {
@@ -4138,6 +4494,8 @@
    "数据要素"
   ],
   "importance": 7.0,
+  "kw_score": 2.0,
+  "weight": 2.0,
   "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
  },
  "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Yb2VzMS1CeXd4N0RpbHJta0RWa2NrQmUwcG8tV3N5VnJ1UlFiN0NGWGZXSDJ0bFU2S2VabHpDTXNyenc1N2dQbDM3Vzg4ZVk1TnNzQkVNd2RISWs5NDZid08wMEZhTC1aYkE?oc=5": {
@@ -4157,6 +4515,8 @@
    "仲裁"
   ],
   "importance": 6.5,
+  "kw_score": 2.0,
+  "weight": 2.0,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  },
  "https://news.google.com/rss/articles/CBMickFVX3lxTE0xazJOSllQcGs1NGZyb1d0MVkwa0J1aVVIekxTMjRoM3BBU2hBRFRYakxzakNJTW1OTzZNYnAxZ2M5UUlPV2VaczFGUVUtZjNNS3RldlhVS3dQUXFjQzFCNFc2VkNJdFJDQnRHTG5XRnJDUQ?oc=5": {
@@ -4174,6 +4534,8 @@
   "hot": false,
   "tags": [],
   "importance": 2.0,
+  "kw_score": 0.0,
+  "weight": 2.0,
   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
  },
  "https://news.google.com/rss/articles/CBMifkFVX3lxTFBvbjlSejdDLV9rN3B3M3p4M043TXdzUHUxRGV2THI2WV8wRm9kS2JpMlV5WmIwQjZqSUpUY2JfUnctMWNVRkd3Q0Zsanl3bjF1dEZscWt0NHhpRzhzXzQ0SGlfN3BVR1M4ZThBMXhHcXRHVHRuRVlNbU1HUWhYZw?oc=5": {
@@ -4191,6 +4553,8 @@
   "hot": false,
   "tags": [],
   "importance": 2.0,
+  "kw_score": 0.0,
+  "weight": 2.0,
   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
  },
  "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMWNsX2JCekZFMWtkQVRGR1RrX1I1NXpxQU9rd2ctcUdzeERJR0VTU0kwMTREalhMWVVaVzJ2dFRRMWUxd3BxVmdZN2hFV0hYY3R4OUk5S3pkRzZ2VGxua0o1THV3c1JtSEVIbjZ3MTRCbnpvWE5SZ256ZGxGbUhSZno0VFE?oc=5": {
@@ -4207,11 +4571,13 @@
   "heat": 7.0,
   "hot": false,
   "tags": [
-   "仲裁",
    "起诉",
-   "诉讼"
+   "诉讼",
+   "仲裁"
   ],
   "importance": 9.5,
+  "kw_score": 5.0,
+  "weight": 2.0,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  },
  "https://news.google.com/rss/articles/CBMifkFVX3lxTE1DTWpfTXVabEg0WWZjNVd4dlV4OEkwaDdrcVc3UkFqRkdXUFNNcHU5NllmSHVxU1g3R014WmtJWmFtcmk2TVVHZnhlUG9rZDluenNKS3VvWXFnR1ZISmpsQnFnOG5GTHUzdDZma3JJaVNwUjEyZWhTRmZnVzVsQQ?oc=5": {
@@ -4251,6 +4617,8 @@
    "fine"
   ],
   "importance": 8.5,
+  "kw_score": 4.0,
+  "weight": 2.0,
   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
  },
  "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpYXJWbVJjUFhTMExHMXpxdUd5SVVxTXhvLTF3T3BkMENpZlQ3cHJob3hGajBsRU1abG5EY2d0Y3doNUhYOWloRmc5RWVUbEhMM19fZm5RTVY4SkZmdEFtVQ?oc=5": {
@@ -4271,6 +4639,8 @@
    "网信办"
   ],
   "importance": 10.0,
+  "kw_score": 5.0,
+  "weight": 2.0,
   "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
  },
  "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU2V4amIzeTZiRTRHeVpLc2hHVTlkTEtROExPazlZUWhJQ1FqcnRDYjdUWWc4N09OLXd6dUQ0VlF4N0s0Sk0wM3VnTXVBSkliMXNyb2djRk9qU0c5MVlxX0dqZjJLakpLV29QVkVJWEk4X2pyWnlJSmtiWWM3QmZHZ2NKdE5xTjc5?oc=5": {
@@ -4291,6 +4661,8 @@
    "网信办"
   ],
   "importance": 9.5,
+  "kw_score": 5.0,
+  "weight": 2.0,
   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
  },
  "https://news.google.com/rss/articles/CBMipgFBVV95cUxQemVIOF9lQVYxdnE2T0xvNUF2Rnh0eWg2M0pTRWp3VlZ2eC00MlBud1IzZjc3N1NtZ3Z2V3kzdVlDWDZNZElwWE9ORE55N19ib3MxN0dESW8wdGlzYjVSdmlVZGVMUEUza3A5Y0pGRWt1Q1EtUkE3eUxWUzNzb2VtZmVqcG5WUVNkVmxxY1dxNUVVVzVqNE5LbUZjZFItcEt6T1pmNThR?oc=5": {
@@ -4329,6 +4701,8 @@
    "lawsuit"
   ],
   "importance": 12.5,
+  "kw_score": 8.0,
+  "weight": 2.0,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  },
  "https://news.google.com/rss/articles/CBMic0FVX3lxTFBWb0FSWk5hMDJkMDkweF9hWVBkWUx2cm1hejNkUnRuaWtmLVMyd19JMGYybi1LVm1rSjZpZlBfMWRrTFY4YzR5bnAtbi15ejVSeXZJcXM2Q2hFcmZqR0tWekhoX1ZhYTV6cHlhdmtFVjVFYzQ?oc=5": {
@@ -4346,10 +4720,12 @@
   "hot": false,
   "tags": [
    "data breach",
-   "litigation",
-   "settlement"
+   "settlement",
+   "litigation"
   ],
   "importance": 10.5,
+  "kw_score": 6.0,
+  "weight": 2.0,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  },
  "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00RXNIWG1wcVk0REFPNFlscjlmS2R6b3NfdlRPa1laNjhYRWxmaS1iUDJVTjlaSVlqOHR2bWZQQXJmYVY5N1BVM1hxWnhSZmx5XzlIVHd4U2NxOTM2Sk9rRzFjU25pQQ?oc=5": {
@@ -4370,6 +4746,8 @@
    "网信办"
   ],
   "importance": 9.5,
+  "kw_score": 5.0,
+  "weight": 2.0,
   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
  },
  "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSy0xTkJRa1oya2FVdjQ4MjJsaVduWmRxbmk4QmhJN3UwOEtOX01IbnZocDFvLTl4eVZab09iM2pPdHFQV3pBMW9VNlBYZTRDMjZIRjRtckpRZ2NDODZlcEtnTGx3WU1tSFhyNVhFQm9VZTh2WjFHLWJWN1VEcHZrM19ZaVlyTk5IUjVXdnpMQTdhUzFRUXhKT1FVTGZPbkNiUlJlYjhTYzZTY0hLWENOVjlWd2xRaEtYZ0F4MUljT1hiNDNCSmt6OWFPY1U?oc=5": {
@@ -4527,6 +4905,8 @@
    "arbitration"
   ],
   "importance": 6.5,
+  "kw_score": 2.0,
+  "weight": 2.0,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  },
  "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMkEySlVFMHZPdWRmaENmSEZfdDFvTFV0NlVuVEFUTXIzNDZaeWtuNURQUHRuQ19mUTBkczFjaWFmVklQbDZ1ZTRvdG8wb2hqVjQzcU1FbWRNbVlvRXpkdHlNb0JXdXZ1anFabGRCdU1qcUV5a0hqUFpmemVMd0duQ3gwVkF4U2p1N2FxT1hST292TWN1OWZB?oc=5": {
@@ -4543,8 +4923,8 @@
   "heat": 7.0,
   "hot": false,
   "tags": [
-   "GDPR",
-   "fine"
+   "fine",
+   "GDPR"
   ],
   "importance": 9.5,
   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
@@ -4560,7 +4940,7 @@
   ],
   "region": "国内",
   "category": "行业实践",
-  "heat": 7.1,
+  "heat": 6.9,
   "hot": false,
   "tags": [
    "数据要素"
@@ -4774,6 +5154,8 @@
   "hot": false,
   "tags": [],
   "importance": 4.0,
+  "kw_score": 0.0,
+  "weight": 1.5,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  },
  "https://www.hunton.com/privacy-and-cybersecurity-law-blog/louisiana-enacts-comprehensive-consumer-privacy-law": {
@@ -4793,6 +5175,8 @@
    "privacy"
   ],
   "importance": 5.0,
+  "kw_score": 2.0,
+  "weight": 3.0,
   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
  },
  "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXMVVXTGsya2xBbWRJcnVFZnpxYm1yY0VoajRvbWxVSFFUZjBoQ3hqRm5NMXRVRUltX012dFJFY3RBd3NidktEbG1CcVlyXzJrbzA5dXpGZjdEQU95S0pfeGpJODcyckJJNXRZRXBtQTA1MGd0TWVwaDJrckFDaHM?oc=5": {
@@ -4810,430 +5194,9 @@
   "hot": false,
   "tags": [],
   "importance": 2.0,
+  "kw_score": 0.0,
+  "weight": 2.0,
   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
- },
- "https://www.edpb.europa.eu/news/news/2026/coordinated-supervision-committee-extends-scope-include-eurodac_en": {
-  "title": "Coordinated Supervision Committee extends scope to include Eurodac",
-  "url": "https://www.edpb.europa.eu/news/news/2026/coordinated-supervision-committee-extends-scope-include-eurodac_en",
-  "summary": "Brussels, 12 June – As of today, coordinated supervision of the European Union’s asylum and migration database (Eurodac) will be carried out by the Coordinated Supervision Commit…",
-  "time": "2026-06-12T20:00:00+08:00",
-  "date": "2026-06-12",
-  "sources": [
-   "EDPB 欧盟数据保护委员会"
-  ],
-  "region": "国际",
-  "category": "行业实践",
-  "heat": 15.5,
-  "hot": false,
-  "tags": [
-   "data protection",
-   "regulation",
-   "EDPB"
-  ],
-  "importance": 12.0,
-  "reason": "行业合规实践动态，可作为制度建设与对标参考。"
- },
- "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZ0FpajQ3enlKR2VVN2NfUWV5VUxFYk4wNUlUU3VoS3BDSjdHTlF1bDhaZjBpMERPNHh5ZkswR2dsVEFlUVdxZ1BNQ0NVWlJnazM2SGZqUXBGSFd5V2VydS1WVXRjcVQ1WndITHVVR0RDM3Jremo0RE1YckxqNXZmMU42OFVCQkR2ZVBCdEhPLTNSdHNhYUZHc0hfOFhwMHNxcVYySXJqQldCbkxJb0FIU2ZWZlhZSDNJRy13NTVobHdDaDBRZ1RpM3NlV0QtRy1EZVNMR1pnd1k3eHZ4RHJORE5R?oc=5": {
-  "title": "$3.74M Duke University Health System privacy breach class action settlement",
-  "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZ0FpajQ3enlKR2VVN2NfUWV5VUxFYk4wNUlUU3VoS3BDSjdHTlF1bDhaZjBpMERPNHh5ZkswR2dsVEFlUVdxZ1BNQ0NVWlJnazM2SGZqUXBGSFd5V2VydS1WVXRjcVQ1WndITHVVR0RDM3Jremo0RE1YckxqNXZmMU42OFVCQkR2ZVBCdEhPLTNSdHNhYUZHc0hfOFhwMHNxcVYySXJqQldCbkxJb0FIU2ZWZlhZSDNJRy13NTVobHdDaDBRZ1RpM3NlV0QtRy1EZVNMR1pnd1k3eHZ4RHJORE5R?oc=5",
-  "summary": "",
-  "time": "2026-06-09T01:03:10+08:00",
-  "date": "2026-06-09",
-  "sources": [
-   "Class Action Lawsuits"
-  ],
-  "region": "国际",
-  "category": "诉讼仲裁",
-  "heat": 10.0,
-  "hot": false,
-  "tags": [
-   "class action",
-   "settlement",
-   "lawsuit"
-  ],
-  "importance": 12.5,
-  "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
- },
- "https://news.google.com/rss/articles/CBMic0FVX3lxTFBWb0FSWk5hMDJkMDkweF9hWVBkWUx2cm1hejNkUnRuaWtmLVMyd19JMGYybi1LVm1rSjZpZlBfMWRrTFY4YzR5bnAtbi15ejVSeXZJcXM2Q2hFcmZqR0tWekhoX1ZhYTV6cHlhdmtFVjVFYzQ?oc=5": {
-  "title": "Labcorp Agrees to $35M Settlement to Resolve AMCA Data Breach Litigation",
-  "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBWb0FSWk5hMDJkMDkweF9hWVBkWUx2cm1hejNkUnRuaWtmLVMyd19JMGYybi1LVm1rSjZpZlBfMWRrTFY4YzR5bnAtbi15ejVSeXZJcXM2Q2hFcmZqR0tWekhoX1ZhYTV6cHlhdmtFVjVFYzQ?oc=5",
-  "summary": "",
-  "time": "2026-06-12T21:04:04+08:00",
-  "date": "2026-06-12",
-  "sources": [
-   "The HIPAA Journal"
-  ],
-  "region": "国际",
-  "category": "诉讼仲裁",
-  "heat": 11.5,
-  "hot": false,
-  "tags": [
-   "data breach",
-   "litigation",
-   "settlement"
-  ],
-  "importance": 10.5,
-  "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
- },
- "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Ebk5PRk1xZEl1VmVzbXBMVGw0TmZGdW4xdE5WUFIxNTNsY3JESWFmNXN1b0VEdmVPRDlPVlVDV2huXzBTc0tVQ0N6dzFwRnFWdW85RFM0Y1R1dlNEdWFVWTNPWDBab3pPVUgweTNqWklwT2s?oc=5": {
-  "title": "Google Play $8.25M Children's Privacy Class Action Settlement",
-  "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Ebk5PRk1xZEl1VmVzbXBMVGw0TmZGdW4xdE5WUFIxNTNsY3JESWFmNXN1b0VEdmVPRDlPVlVDV2huXzBTc0tVQ0N6dzFwRnFWdW85RFM0Y1R1dlNEdWFVWTNPWDBab3pPVUgweTNqWklwT2s?oc=5",
-  "summary": "",
-  "time": "2026-05-29T15:00:00+08:00",
-  "date": "2026-05-29",
-  "sources": [
-   "Claim Depot"
-  ],
-  "region": "国际",
-  "category": "诉讼仲裁",
-  "heat": 8.0,
-  "hot": false,
-  "tags": [
-   "class action",
-   "settlement",
-   "privacy"
-  ],
-  "importance": 10.5,
-  "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
- },
- "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX2ZCQmczMUh4eG90Q2ZkTHJkWnJrbXE4a19vUnRjWFlfT01vSDNKcGV6OUhwUHNOa1AwOElQbjI3Nlp1TTJwZG1zcGtmUzRPcUQyOFR1Szlpb0tySFBVa2d3bHR1RlhCNlJQSFJsMHN4R0YyOENueUxpOXVIWXVtemFSbS1Ebnc?oc=5": {
-  "title": "从Manus禁止交易案看中国企业对外投资的合规框架：基于数据出境、出口管制、技术进出口等实务视角",
-  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX2ZCQmczMUh4eG90Q2ZkTHJkWnJrbXE4a19vUnRjWFlfT01vSDNKcGV6OUhwUHNOa1AwOElQbjI3Nlp1TTJwZG1zcGtmUzRPcUQyOFR1Szlpb0tySFBVa2d3bHR1RlhCNlJQSFJsMHN4R0YyOENueUxpOXVIWXVtemFSbS1Ebnc?oc=5",
-  "summary": "",
-  "time": "2026-04-27T15:00:00+08:00",
-  "date": "2026-04-27",
-  "sources": [
-   "新浪财经"
-  ],
-  "region": "国内",
-  "category": "跨境数据",
-  "heat": 7.0,
-  "hot": false,
-  "tags": [
-   "数据出境",
-   "合规"
-  ],
-  "importance": 10.0,
-  "reason": "涉及数据跨境流动规则，可能影响出境安全评估、标准合同备案等合规路径，建议出海/跨国业务团队关注。"
- },
- "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpYXJWbVJjUFhTMExHMXpxdUd5SVVxTXhvLTF3T3BkMENpZlQ3cHJob3hGajBsRU1abG5EY2d0Y3doNUhYOWloRmc5RWVUbEhMM19fZm5RTVY4SkZmdEFtVQ?oc=5": {
-  "title": "国家网信办发布《中国个人信息保护报告（2025年）》",
-  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpYXJWbVJjUFhTMExHMXpxdUd5SVVxTXhvLTF3T3BkMENpZlQ3cHJob3hGajBsRU1abG5EY2d0Y3doNUhYOWloRmc5RWVUbEhMM19fZm5RTVY4SkZmdEFtVQ?oc=5",
-  "summary": "",
-  "time": "2026-06-12T17:36:00+08:00",
-  "date": "2026-06-12",
-  "sources": [
-   "thepaper.cn"
-  ],
-  "region": "国内",
-  "category": "立法监管",
-  "heat": 10.3,
-  "hot": false,
-  "tags": [
-   "个人信息",
-   "网信办"
-  ],
-  "importance": 10.0,
-  "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
- },
- "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10bW1paUd5TzdxRW44WDBQeU5Id2N5bHRzbzMtY3R4VklrWENRY29vaUh4cDB3bzU3b3MtUFVXSVpLWTl6LXRZT2J1TWxHNTduaWVxMm9EeEN1dVo5MVI4RA?oc=5": {
-  "title": "中央网信办通报30款App个人信息收集使用问题",
-  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10bW1paUd5TzdxRW44WDBQeU5Id2N5bHRzbzMtY3R4VklrWENRY29vaUh4cDB3bzU3b3MtUFVXSVpLWTl6LXRZT2J1TWxHNTduaWVxMm9EeEN1dVo5MVI4RA?oc=5",
-  "summary": "",
-  "time": "2026-06-12T08:56:08+08:00",
-  "date": "2026-06-12",
-  "sources": [
-   "信息化观察网",
-   "新华网",
-   "搜狐网",
-   "QQ News"
-  ],
-  "region": "国内",
-  "category": "执法处罚",
-  "heat": 15.9,
-  "hot": false,
-  "tags": [
-   "个人信息",
-   "网信办"
-  ],
-  "importance": 15.5,
-  "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
- },
- "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU2V4amIzeTZiRTRHeVpLc2hHVTlkTEtROExPazlZUWhJQ1FqcnRDYjdUWWc4N09OLXd6dUQ0VlF4N0s0Sk0wM3VnTXVBSkliMXNyb2djRk9qU0c5MVlxX0dqZjJLakpLV29QVkVJWEk4X2pyWnlJSmtiWWM3QmZHZ2NKdE5xTjc5?oc=5": {
-  "title": "去年通报超千款问题App！国家网信办首发个人信息保护报告",
-  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU2V4amIzeTZiRTRHeVpLc2hHVTlkTEtROExPazlZUWhJQ1FqcnRDYjdUWWc4N09OLXd6dUQ0VlF4N0s0Sk0wM3VnTXVBSkliMXNyb2djRk9qU0c5MVlxX0dqZjJLakpLV29QVkVJWEk4X2pyWnlJSmtiWWM3QmZHZ2NKdE5xTjc5?oc=5",
-  "summary": "",
-  "time": "2026-06-12T21:13:50+08:00",
-  "date": "2026-06-12",
-  "sources": [
-   "搜狐网"
-  ],
-  "region": "国内",
-  "category": "执法处罚",
-  "heat": 10.5,
-  "hot": false,
-  "tags": [
-   "个人信息",
-   "网信办"
-  ],
-  "importance": 9.5,
-  "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
- },
- "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMWNsX2JCekZFMWtkQVRGR1RrX1I1NXpxQU9rd2ctcUdzeERJR0VTU0kwMTREalhMWVVaVzJ2dFRRMWUxd3BxVmdZN2hFV0hYY3R4OUk5S3pkRzZ2VGxua0o1THV3c1JtSEVIbjZ3MTRCbnpvWE5SZ256ZGxGbUhSZno0VFE?oc=5": {
-  "title": "美伊谈判关键议题存在分歧，伊朗向国际仲裁机构提起诉讼",
-  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMWNsX2JCekZFMWtkQVRGR1RrX1I1NXpxQU9rd2ctcUdzeERJR0VTU0kwMTREalhMWVVaVzJ2dFRRMWUxd3BxVmdZN2hFV0hYY3R4OUk5S3pkRzZ2VGxua0o1THV3c1JtSEVIbjZ3MTRCbnpvWE5SZ256ZGxGbUhSZno0VFE?oc=5",
-  "summary": "",
-  "time": "2026-05-13T15:00:00+08:00",
-  "date": "2026-05-13",
-  "sources": [
-   "新浪财经"
-  ],
-  "region": "国内",
-  "category": "诉讼仲裁",
-  "heat": 7.0,
-  "hot": false,
-  "tags": [
-   "诉讼",
-   "仲裁",
-   "起诉"
-  ],
-  "importance": 9.5,
-  "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
- },
- "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMkEySlVFMHZPdWRmaENmSEZfdDFvTFV0NlVuVEFUTXIzNDZaeWtuNURQUHRuQ19mUTBkczFjaWFmVklQbDZ1ZTRvdG8wb2hqVjQzcU1FbWRNbVlvRXpkdHlNb0JXdXZ1anFabGRCdU1qcUV5a0hqUFpmemVMd0duQ3gwVkF4U2p1N2FxT1hST292TWN1OWZB?oc=5": {
-  "title": "Eight years of GDPR: 40% of the €7.1B in fines annulled or under challenge",
-  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMkEySlVFMHZPdWRmaENmSEZfdDFvTFV0NlVuVEFUTXIzNDZaeWtuNURQUHRuQ19mUTBkczFjaWFmVklQbDZ1ZTRvdG8wb2hqVjQzcU1FbWRNbVlvRXpkdHlNb0JXdXZ1anFabGRCdU1qcUV5a0hqUFpmemVMd0duQ3gwVkF4U2p1N2FxT1hST292TWN1OWZB?oc=5",
-  "summary": "",
-  "time": "2026-05-30T12:02:20+08:00",
-  "date": "2026-05-30",
-  "sources": [
-   "PPC Land"
-  ],
-  "region": "国际",
-  "category": "执法处罚",
-  "heat": 7.0,
-  "hot": false,
-  "tags": [
-   "fine",
-   "GDPR"
-  ],
-  "importance": 9.5,
-  "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
- },
- "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00RXNIWG1wcVk0REFPNFlscjlmS2R6b3NfdlRPa1laNjhYRWxmaS1iUDJVTjlaSVlqOHR2bWZQQXJmYVY5N1BVM1hxWnhSZmx5XzlIVHd4U2NxOTM2Sk9rRzFjU25pQQ?oc=5": {
-  "title": "中央网信办通报30款App违规收集个人信息，涉教育旅游金融多领域_科技资讯_新闻频道",
-  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00RXNIWG1wcVk0REFPNFlscjlmS2R6b3NfdlRPa1laNjhYRWxmaS1iUDJVTjlaSVlqOHR2bWZQQXJmYVY5N1BVM1hxWnhSZmx5XzlIVHd4U2NxOTM2Sk9rRzFjU25pQQ?oc=5",
-  "summary": "",
-  "time": "2026-06-12T15:29:00+08:00",
-  "date": "2026-06-12",
-  "sources": [
-   "海峡网"
-  ],
-  "region": "国内",
-  "category": "执法处罚",
-  "heat": 10.2,
-  "hot": false,
-  "tags": [
-   "个人信息",
-   "网信办"
-  ],
-  "importance": 9.5,
-  "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
- },
- "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOZEhtS01LV3hXWnM0cTg3T0lIYTR5clduQ1hUVzFOQUdwR0NYY1lvSXRVMDlsN0V3U0M3cTV5S2VQaVpMX3lPZzllc1hsY05nTVl3b2dOa0lFTm04TU4wYVVsMGZwVEx3UUt6dzhiQlVETzAyemIwYWhMZmFvOTY1YVhKaVZYRzFfT2JCSGU4YS1CMm05aTNrV2R2bG9sM2NsWXdPcFlQRk95a3pxakZJejV4UVlwWEpZX2FxT0pnd0dpRGI5OGpJaElOODltNnUyZERlU2hBcUNoLXZWSE82eDdhZW16ZlRSaUU2WWQ5NmlXdFBxNGQzNDkzUUpRLWZsQVRKa2JWNzE?oc=5": {
-  "title": "市委网信办举办第六十六期网络安全技术沙龙",
-  "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOZEhtS01LV3hXWnM0cTg3T0lIYTR5clduQ1hUVzFOQUdwR0NYY1lvSXRVMDlsN0V3U0M3cTV5S2VQaVpMX3lPZzllc1hsY05nTVl3b2dOa0lFTm04TU4wYVVsMGZwVEx3UUt6dzhiQlVETzAyemIwYWhMZmFvOTY1YVhKaVZYRzFfT2JCSGU4YS1CMm05aTNrV2R2bG9sM2NsWXdPcFlQRk95a3pxakZJejV4UVlwWEpZX2FxT0pnd0dpRGI5OGpJaElOODltNnUyZERlU2hBcUNoLXZWSE82eDdhZW16ZlRSaUU2WWQ5NmlXdFBxNGQzNDkzUUpRLWZsQVRKa2JWNzE?oc=5",
-  "summary": "",
-  "time": "2026-06-12T18:27:44+08:00",
-  "date": "2026-06-12",
-  "sources": [
-   "新浪网"
-  ],
-  "region": "国内",
-  "category": "行业实践",
-  "heat": 9.4,
-  "hot": false,
-  "tags": [
-   "网络安全",
-   "网信办"
-  ],
-  "importance": 6.0,
-  "reason": "行业合规实践动态，可作为制度建设与对标参考。"
- },
- "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBveTZSRm9KU3UyX191dFVJOGV6c1d2cl92S0RwYUhOT0hYQUp0Wnd4SmF0SjVtRXNlbFIwMXNIeGdYaUJfMDN1VUdkengxZHRUUEVyZGRHRQ?oc=5": {
-  "title": "Could Coupang’s Record Privacy Fine Become a Trigger for U.S.-Korea Trade Frictions?",
-  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBveTZSRm9KU3UyX191dFVJOGV6c1d2cl92S0RwYUhOT0hYQUp0Wnd4SmF0SjVtRXNlbFIwMXNIeGdYaUJfMDN1VUdkengxZHRUUEVyZGRHRQ?oc=5",
-  "summary": "",
-  "time": "2026-06-11T15:55:54+08:00",
-  "date": "2026-06-11",
-  "sources": [
-   "economy.ac"
-  ],
-  "region": "国际",
-  "category": "执法处罚",
-  "heat": 7.9,
-  "hot": false,
-  "tags": [
-   "privacy",
-   "fine"
-  ],
-  "importance": 8.5,
-  "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
- },
- "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX3MzWWk0STNtRmVPOWhtZjZLaWZsVEpfam5ObGVvM292Z2V6SGotYWV5RU95SDd3d1B0VFhDUkJUMlh5SWIzeG5DcXdTeVU0VllTR2lQVjRwTVp3WjVWbFFmby1LZm5jVDVzTDRSS3dUUFVUYU1XWGhPNk5udjdHSUVtZXU1QWFDRm1rQ0loY19HU0NmZ3FiOWdzS0EwbGRGRkRVNHY0ZWk?oc=5": {
-  "title": "Everett-based Fluke Corp. failed to prevent data breach, lawsuit says",
-  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX3MzWWk0STNtRmVPOWhtZjZLaWZsVEpfam5ObGVvM292Z2V6SGotYWV5RU95SDd3d1B0VFhDUkJUMlh5SWIzeG5DcXdTeVU0VllTR2lQVjRwTVp3WjVWbFFmby1LZm5jVDVzTDRSS3dUUFVUYU1XWGhPNk5udjdHSUVtZXU1QWFDRm1rQ0loY19HU0NmZ3FiOWdzS0EwbGRGRkRVNHY0ZWk?oc=5",
-  "summary": "",
-  "time": "2026-06-12T16:33:45+08:00",
-  "date": "2026-06-12",
-  "sources": [
-   "HeraldNet.com"
-  ],
-  "region": "国际",
-  "category": "诉讼仲裁",
-  "heat": 9.3,
-  "hot": false,
-  "tags": [
-   "data breach",
-   "lawsuit"
-  ],
-  "importance": 8.5,
-  "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
- },
- "https://news.google.com/rss/articles/CBMib0FVX3lxTE83S2NDWmpxQmZhRUVLTHRkVjZDbExvNFVpSWlObnB3RF9rZEpEbGk0cl9DRGkyMXFhblMwWkpuZTVoLVh3bjVmazFGcGhZYWQ4cnRVTzJrTnJGVUJ3a25MNDdOWFN2ZTU3M1lUVU9pbw?oc=5": {
-  "title": "Krispy Kreme data breach settlement deadline approaches. Claim $75 to $3,500.",
-  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83S2NDWmpxQmZhRUVLTHRkVjZDbExvNFVpSWlObnB3RF9rZEpEbGk0cl9DRGkyMXFhblMwWkpuZTVoLVh3bjVmazFGcGhZYWQ4cnRVTzJrTnJGVUJ3a25MNDdOWFN2ZTU3M1lUVU9pbw?oc=5",
-  "summary": "",
-  "time": "2026-05-25T15:00:00+08:00",
-  "date": "2026-05-25",
-  "sources": [
-   "Mashable"
-  ],
-  "region": "国际",
-  "category": "诉讼仲裁",
-  "heat": 6.0,
-  "hot": false,
-  "tags": [
-   "data breach",
-   "settlement"
-  ],
-  "importance": 8.5,
-  "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
- },
- "https://news.google.com/rss/articles/CBMixwFBVV95cUxQR0VyelNSQUhHXzlFRzNSYkh4Y0dMVzFlaVRYc0tfQTZleVNSUDh3YzRJOWh2cG96M2FsaV96LUhhRlBjMGJtbmpZLU5RaElSOVNiclExYWxpVWVCVHl4X2NhYWV0aFpKREgtUmQ5bHlqaVlWR3c3cWVYcnF3VFEydWd4OGY3SDhKMkd0ZzFEYWk5LWtnMnFFWDhYQ00yWU5LSTlRbFdYS2JWMXdkcTBoUF9yRjkwMDhIQ3A0NmpnQ3YzWERMM2Nr?oc=5": {
-  "title": "Kampala court convicts businesswoman over mobile loan data privacy breach",
-  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQR0VyelNSQUhHXzlFRzNSYkh4Y0dMVzFlaVRYc0tfQTZleVNSUDh3YzRJOWh2cG96M2FsaV96LUhhRlBjMGJtbmpZLU5RaElSOVNiclExYWxpVWVCVHl4X2NhYWV0aFpKREgtUmQ5bHlqaVlWR3c3cWVYcnF3VFEydWd4OGY3SDhKMkd0ZzFEYWk5LWtnMnFFWDhYQ00yWU5LSTlRbFdYS2JWMXdkcTBoUF9yRjkwMDhIQ3A0NmpnQ3YzWERMM2Nr?oc=5",
-  "summary": "",
-  "time": "2026-06-12T20:03:13+08:00",
-  "date": "2026-06-12",
-  "sources": [
-   "Daily Monitor"
-  ],
-  "region": "国际",
-  "category": "诉讼仲裁",
-  "heat": 8.5,
-  "hot": false,
-  "tags": [
-   "privacy",
-   "court"
-  ],
-  "importance": 7.5,
-  "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
- },
- "https://www.hunton.com/privacy-and-cybersecurity-law-blog/louisiana-enacts-comprehensive-consumer-privacy-law": {
-  "title": "Louisiana Enacts Comprehensive Consumer Privacy Law",
-  "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/louisiana-enacts-comprehensive-consumer-privacy-law",
-  "summary": "Louisiana recently enacted the Louisiana Data Privacy Act, becoming the 22nd U.S. state to adopt a comprehensive consumer data privacy law. Continue Reading ›",
-  "time": "2026-06-12T21:00:01+08:00",
-  "date": "2026-06-12",
-  "sources": [
-   "Hunton 隐私与信息安全博客"
-  ],
-  "region": "国际",
-  "category": "个人信息保护",
-  "heat": 8.5,
-  "hot": false,
-  "tags": [
-   "privacy"
-  ],
-  "importance": 5.0,
-  "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
- },
- "https://news.google.com/rss/articles/CBMib0FVX3lxTE9yTzZ4TTN3c2ZjSEZKVmxKY3BnVjY1MWVoRFNTc1lKelNpSTdfQm1wai1tbnRVeUdFSDZ2VUYwRUo0SDMwRV8zOXdNcm5oR1BFSTVyTEl5X2dyRmhRSDF1c2ptcUcyeXU2ZjZzM1Q1aw?oc=5": {
-  "title": "国家数据局召开座谈会 促深入推进数据要素市场化配置改革",
-  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9yTzZ4TTN3c2ZjSEZKVmxKY3BnVjY1MWVoRFNTc1lKelNpSTdfQm1wai1tbnRVeUdFSDZ2VUYwRUo0SDMwRV8zOXdNcm5oR1BFSTVyTEl5X2dyRmhRSDF1c2ptcUcyeXU2ZjZzM1Q1aw?oc=5",
-  "summary": "",
-  "time": "2026-06-12T10:12:00+08:00",
-  "date": "2026-06-12",
-  "sources": [
-   "AASTOCKS.com"
-  ],
-  "region": "国内",
-  "category": "行业实践",
-  "heat": 6.9,
-  "hot": false,
-  "tags": [
-   "数据要素"
-  ],
-  "importance": 4.0,
-  "reason": "行业合规实践动态，可作为制度建设与对标参考。"
- },
- "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTFF0OFlOZEJHaWxWandjMVkxZGZ1UnB6dTR3OVNDNF9ZeUh0RFcyRzgwQ18xck5lMFlvQUZWV3FocDV5S2J0NXdQTm94Q0YxNmlJZ2dBLWZBb2hmMnlacE5iaWVtMzlzMEF3Q1FNcTZ4NnpmX3l4ZE9XLU8tVlctZ3FPLWNuYlJs?oc=5": {
-  "title": "国家数据局举行2026年“数据要素×”首场新闻发布会，指出“数据要素×”三年行动计划实施两年多来，在相关部门积极支持、各地大力推动和各界积极参与下，全社会数据意识明显提升，数据要素价值加快释放。#国家数据局 #数据 #数据要素× #数据要素",
-  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTFF0OFlOZEJHaWxWandjMVkxZGZ1UnB6dTR3OVNDNF9ZeUh0RFcyRzgwQ18xck5lMFlvQUZWV3FocDV5S2J0NXdQTm94Q0YxNmlJZ2dBLWZBb2hmMnlacE5iaWVtMzlzMEF3Q1FNcTZ4NnpmX3l4ZE9XLU8tVlctZ3FPLWNuYlJs?oc=5",
-  "summary": "",
-  "time": "2026-06-11T17:07:15+08:00",
-  "date": "2026-06-11",
-  "sources": [
-   "搜狐网"
-  ],
-  "region": "国内",
-  "category": "立法监管",
-  "heat": 6.0,
-  "hot": false,
-  "tags": [
-   "数据要素"
-  ],
-  "importance": 7.0,
-  "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
- },
- "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1DemlTS3RLZHRmd1FpMTVLMzJRTUt5ckFnOFVlRXJaMTc2MnR6X1JBc2FaTTlDcmFwdGZMekF5M2J1WUgtQ2FZa2Z6Q2JJQlgwYjBkSWdOZWwtS0dEbHc?oc=5": {
-  "title": "贸仲成功获得国际商事仲裁机构联合会（IFCAI）理事会席位",
-  "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1DemlTS3RLZHRmd1FpMTVLMzJRTUt5ckFnOFVlRXJaMTc2MnR6X1JBc2FaTTlDcmFwdGZMekF5M2J1WUgtQ2FZa2Z6Q2JJQlgwYjBkSWdOZWwtS0dEbHc?oc=5",
-  "summary": "贸仲成功获得国际商事仲裁机构联合会（IFCAI）理事会席位 中国国际贸易促进委员会",
-  "time": "2026-06-11T00:00:00+08:00",
-  "date": "2026-06-11",
-  "sources": [
-   "中国国际贸易促进委员会"
-  ],
-  "region": "国内",
-  "category": "诉讼仲裁",
-  "heat": 5.0,
-  "hot": false,
-  "tags": [
-   "仲裁"
-  ],
-  "importance": 6.5,
-  "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
- },
- "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Yb2VzMS1CeXd4N0RpbHJta0RWa2NrQmUwcG8tV3N5VnJ1UlFiN0NGWGZXSDJ0bFU2S2VabHpDTXNyenc1N2dQbDM3Vzg4ZVk1TnNzQkVNd2RISWs5NDZid08wMEZhTC1aYkE?oc=5": {
-  "title": "新加坡国际仲裁中心深圳工作委员会在前海揭牌",
-  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Yb2VzMS1CeXd4N0RpbHJta0RWa2NrQmUwcG8tV3N5VnJ1UlFiN0NGWGZXSDJ0bFU2S2VabHpDTXNyenc1N2dQbDM3Vzg4ZVk1TnNzQkVNd2RISWs5NDZid08wMEZhTC1aYkE?oc=5",
-  "summary": "",
-  "time": "2026-05-30T15:00:00+08:00",
-  "date": "2026-05-30",
-  "sources": [
-   "人民网"
-  ],
-  "region": "国内",
-  "category": "诉讼仲裁",
-  "heat": 4.0,
-  "hot": false,
-  "tags": [
-   "仲裁"
-  ],
-  "importance": 6.5,
-  "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  },
  "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EVnNTX28yOHlDTWRLMGdkd2R5dk1VM3hpbWR5a1dIMVVWREtpWVJUVnFlSmJLeFk4OVA5dEJsSEF0dDhMMVY5aGZKaEVzRERwVWI3bUZ3?oc=5": {
   "title": "80亿美元跨国索赔！闻泰科技正式启动国际仲裁，荷兰干预踢到铁板",
@@ -5254,44 +5217,6 @@
   "importance": 9.5,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  },
- "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ1RfYzhSS1l1SE1LUHRKUGhDNHZmYzJWRHBJTXVvZC00RzlkQnM5WmplTk5DSEM0VU5xX3FLR0d2ZlY1NWEwVVBXWlJBOGxCNmI0RUVqRHczMmlRbU5jQTMzSTB1VF9UOEtHcEhuU0Zac052ZC1FRzZvY0s3TEF4UExXZlBacENReWQycFU3M1ppaW1jcjk0YWttYVVtRGxCa2hGenVTNU41UnJLbm1BQw?oc=5": {
-  "title": "Pharma Equity Group prevails in international arbitration proceedings and is awarded EUR 10.5 million excluding interest and costs",
-  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ1RfYzhSS1l1SE1LUHRKUGhDNHZmYzJWRHBJTXVvZC00RzlkQnM5WmplTk5DSEM0VU5xX3FLR0d2ZlY1NWEwVVBXWlJBOGxCNmI0RUVqRHczMmlRbU5jQTMzSTB1VF9UOEtHcEhuU0Zac052ZC1FRzZvY0s3TEF4UExXZlBacENReWQycFU3M1ppaW1jcjk0YWttYVVtRGxCa2hGenVTNU41UnJLbm1BQw?oc=5",
-  "summary": "Pharma Equity Group prevails in international arbitration proceedings and is awarded EUR 10.5 million excluding interest and costs Yahoo Finance",
-  "time": "2026-06-12T23:24:00+08:00",
-  "date": "2026-06-12",
-  "sources": [
-   "Yahoo Finance"
-  ],
-  "region": "国际",
-  "category": "诉讼仲裁",
-  "heat": 7.7,
-  "hot": false,
-  "tags": [
-   "arbitration"
-  ],
-  "importance": 6.5,
-  "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
- },
- "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQcTZXVUgtRGVnRzRUbTE5M0ZjVnp6U2dHWW53VzBwN2EtdS1Da2ZGSjByZ1BycVY2WDloaC1GbFhLVDdvekFod2NEY0V2RTRja2NSOUQ5cmZxdW9PRlpMWDExTC11Z2I3SGMza2NfdW9jVUh6ZlBja0F2RE9sTzZfLVB0aDQ3MWc0VlB4eWQyV1FkN2VVVDJiLThMdjkyUXdqYkg2a1czYmpLMHRuNG1NN0JDaDliMVNnTXU1WG9IS0o0S1ZNUkRmWUJsRUpfdG4zejZxbTJWMjJHT1NsMzBDdFFWUWdfZnl2ZUtxMGpMbnBaNzhYUHJOQXJpNGdkdlpLWjdrZlFRTTYxNm12S3oxTWhldzNOd1hiNk5hWU5JMDhYWExsZ1Nhd1FlMA?oc=5": {
-  "title": "Enforcing Arbitral Awards In Nigeria Under the Arbitration and Mediation Act 2023: Legal framework, strategic challenges, and comparative perspectives",
-  "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQcTZXVUgtRGVnRzRUbTE5M0ZjVnp6U2dHWW53VzBwN2EtdS1Da2ZGSjByZ1BycVY2WDloaC1GbFhLVDdvekFod2NEY0V2RTRja2NSOUQ5cmZxdW9PRlpMWDExTC11Z2I3SGMza2NfdW9jVUh6ZlBja0F2RE9sTzZfLVB0aDQ3MWc0VlB4eWQyV1FkN2VVVDJiLThMdjkyUXdqYkg2a1czYmpLMHRuNG1NN0JDaDliMVNnTXU1WG9IS0o0S1ZNUkRmWUJsRUpfdG4zejZxbTJWMjJHT1NsMzBDdFFWUWdfZnl2ZUtxMGpMbnBaNzhYUHJOQXJpNGdkdlpLWjdrZlFRTTYxNm12S3oxTWhldzNOd1hiNk5hWU5JMDhYWExsZ1Nhd1FlMA?oc=5",
-  "summary": "Enforcing Arbitral Awards In Nigeria Under the Arbitration and Mediation Act 2023: Legal framework, strategic challenges, and comparative perspectives Business News Nigeria",
-  "time": "2026-06-11T19:42:38+08:00",
-  "date": "2026-06-11",
-  "sources": [
-   "Business News Nigeria"
-  ],
-  "region": "国际",
-  "category": "诉讼仲裁",
-  "heat": 6.1,
-  "hot": false,
-  "tags": [
-   "arbitration"
-  ],
-  "importance": 6.5,
-  "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
- },
  "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSzVnV3F0clk5OXd6ZlhRME9pbHJyamk1OVNFZUpNTlZXUW9EUDh5VG1INnUydHhvU0VQTlZTQWlrenJ2eEtNOUFyODVFN1BUMnVJM000eGtrSGN0OHNUWF9yc2NCVmtuVU9OMEUwdGlZRVNGX3BERERuclJLNHNUNlVSaEREZFc3VEg0OVpsUQ?oc=5": {
   "title": "国家数据局发文推进行业高质量数据集建设，将探索词元交易等新型交易模式",
   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSzVnV3F0clk5OXd6ZlhRME9pbHJyamk1OVNFZUpNTlZXUW9EUDh5VG1INnUydHhvU0VQTlZTQWlrenJ2eEtNOUFyODVFN1BUMnVJM000eGtrSGN0OHNUWF9yc2NCVmtuVU9OMEUwdGlZRVNGX3BERERuclJLNHNUNlVSaEREZFc3VEg0OVpsUQ?oc=5",
@@ -5308,73 +5233,5 @@
   "tags": [],
   "importance": 5.0,
   "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
- },
- "https://news.google.com/rss/articles/CBMickFVX3lxTE0xazJOSllQcGs1NGZyb1d0MVkwa0J1aVVIekxTMjRoM3BBU2hBRFRYakxzakNJTW1OTzZNYnAxZ2M5UUlPV2VaczFGUVUtZjNNS3RldlhVS3dQUXFjQzFCNFc2VkNJdFJDQnRHTG5XRnJDUQ?oc=5": {
-  "title": "国家数据局政策和规划司2026年课题委托研究入选公告-政企通",
-  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0xazJOSllQcGs1NGZyb1d0MVkwa0J1aVVIekxTMjRoM3BBU2hBRFRYakxzakNJTW1OTzZNYnAxZ2M5UUlPV2VaczFGUVUtZjNNS3RldlhVS3dQUXFjQzFCNFc2VkNJdFJDQnRHTG5XRnJDUQ?oc=5",
-  "summary": "",
-  "time": "2026-06-04T12:50:30+08:00",
-  "date": "2026-06-04",
-  "sources": [
-   "湖南省人民政府"
-  ],
-  "region": "国内",
-  "category": "行业实践",
-  "heat": 2.0,
-  "hot": false,
-  "tags": [],
-  "importance": 2.0,
-  "reason": "行业合规实践动态，可作为制度建设与对标参考。"
- },
- "https://news.google.com/rss/articles/CBMifkFVX3lxTFBvbjlSejdDLV9rN3B3M3p4M043TXdzUHUxRGV2THI2WV8wRm9kS2JpMlV5WmIwQjZqSUpUY2JfUnctMWNVRkd3Q0Zsanl3bjF1dEZscWt0NHhpRzhzXzQ0SGlfN3BVR1M4ZThBMXhHcXRHVHRuRVlNbU1HUWhYZw?oc=5": {
-  "title": "国家数据局2026年重大课题委托研究入选公告",
-  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBvbjlSejdDLV9rN3B3M3p4M043TXdzUHUxRGV2THI2WV8wRm9kS2JpMlV5WmIwQjZqSUpUY2JfUnctMWNVRkd3Q0Zsanl3bjF1dEZscWt0NHhpRzhzXzQ0SGlfN3BVR1M4ZThBMXhHcXRHVHRuRVlNbU1HUWhYZw?oc=5",
-  "summary": "",
-  "time": "2026-04-21T15:00:00+08:00",
-  "date": "2026-04-21",
-  "sources": [
-   "nda.gov.cn"
-  ],
-  "region": "国内",
-  "category": "行业实践",
-  "heat": 2.0,
-  "hot": false,
-  "tags": [],
-  "importance": 2.0,
-  "reason": "行业合规实践动态，可作为制度建设与对标参考。"
- },
- "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVDdqSzFXOTlTWE9OdlAyUkp2VXVlN1RZRTJjcW9Da3JmeWxYdXFIcXBJQ2RkY2Q3Z2JwellBX0h5RVZtWjRxaFhMLW5EeXdTWjdsZXlYcnNlQVNid0JtcUh1b2E4SXo4bDVfZkY3UG1vSEtBR29WZnE0QTRZMGNKOFh0ZURSelFBZVU1M3lB?oc=5": {
-  "title": "Lower House approves bill to revise personal information protection law",
-  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVDdqSzFXOTlTWE9OdlAyUkp2VXVlN1RZRTJjcW9Da3JmeWxYdXFIcXBJQ2RkY2Q3Z2JwellBX0h5RVZtWjRxaFhMLW5EeXdTWjdsZXlYcnNlQVNid0JtcUh1b2E4SXo4bDVfZkY3UG1vSEtBR29WZnE0QTRZMGNKOFh0ZURSelFBZVU1M3lB?oc=5",
-  "summary": "",
-  "time": "2026-05-26T15:00:00+08:00",
-  "date": "2026-05-26",
-  "sources": [
-   "The Japan Times"
-  ],
-  "region": "国际",
-  "category": "行业实践",
-  "heat": 2.0,
-  "hot": false,
-  "tags": [],
-  "importance": 2.0,
-  "reason": "行业合规实践动态，可作为制度建设与对标参考。"
- },
- "https://thehackernews.com/2026/06/google-sues-chinese-smishing-network.html": {
-  "title": "Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing",
-  "url": "https://thehackernews.com/2026/06/google-sues-chinese-smishing-network.html",
-  "summary": "Google on Friday said it's pursuing legal action against a Chinese cybercrime network, accusing it of using its Gemini artificial intelligence (AI) agent to send phishing text me…",
-  "time": "2026-06-13T02:59:32+08:00",
-  "date": "2026-06-13",
-  "sources": [
-   "The Hacker News"
-  ],
-  "region": "国际",
-  "category": "诉讼仲裁",
-  "heat": 5.4,
-  "hot": false,
-  "tags": [],
-  "importance": 4.0,
-  "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  }
 }
