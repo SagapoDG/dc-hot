@@ -1856,7 +1856,7 @@
   ],
   "region": "国际",
   "category": "诉讼仲裁",
-  "heat": 6.9,
+  "heat": 6.8,
   "hot": false,
   "tags": [
    "arbitration",
@@ -2090,7 +2090,7 @@
   ],
   "region": "国内",
   "category": "立法监管",
-  "heat": 5.4,
+  "heat": 5.3,
   "hot": false,
   "tags": [
    "数据要素"
@@ -4517,7 +4517,7 @@
   ],
   "region": "国内",
   "category": "立法监管",
-  "heat": 9.5,
+  "heat": 9.4,
   "hot": false,
   "tags": [
    "个人信息",
@@ -4539,7 +4539,7 @@
   ],
   "region": "国内",
   "category": "执法处罚",
-  "heat": 9.7,
+  "heat": 9.6,
   "hot": false,
   "tags": [
    "个人信息",
@@ -4565,6 +4565,8 @@
   "hot": false,
   "tags": [],
   "importance": 5.0,
+  "kw_score": 0.0,
+  "weight": 2.0,
   "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
  },
  "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZ0FpajQ3enlKR2VVN2NfUWV5VUxFYk4wNUlUU3VoS3BDSjdHTlF1bDhaZjBpMERPNHh5ZkswR2dsVEFlUVdxZ1BNQ0NVWlJnazM2SGZqUXBGSFd5V2VydS1WVXRjcVQ1WndITHVVR0RDM3Jremo0RE1YckxqNXZmMU42OFVCQkR2ZVBCdEhPLTNSdHNhYUZHc0hfOFhwMHNxcVYySXJqQldCbkxJb0FIU2ZWZlhZSDNJRy13NTVobHdDaDBRZ1RpM3NlV0QtRy1EZVNMR1pnd1k3eHZ4RHJORE5R?oc=5": {
@@ -6189,5 +6191,28 @@
   "kw_score": 5.0,
   "weight": 2.0,
   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
+ },
+ "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB1NVMzb2s3MHM3azBTckh5bXRMdlN6TTFjamVNQnVwSHdMZi10SU5uNGlIcXZLMUhLYm1uYjVWSXdsUEY4M01HX3hvYlliUDFkWlJLRmdRS2hSZjRPZFczU0FsWQ?oc=5": {
+  "title": "携程被罚款1000万元#“未落实数据出境安全评估要求、违法出境个人信息等行为”，携程这是干啥子了？？？",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB1NVMzb2s3MHM3azBTckh5bXRMdlN6TTFjamVNQnVwSHdMZi10SU5uNGlIcXZLMUhLYm1uYjVWSXdsUEY4M01HX3hvYlliUDFkWlJLRmdRS2hSZjRPZFczU0FsWQ?oc=5",
+  "summary": "",
+  "time": "2026-06-13T19:21:00+08:00",
+  "date": "2026-06-13",
+  "sources": [
+   "新浪网"
+  ],
+  "region": "国内",
+  "category": "跨境数据",
+  "heat": 17.9,
+  "hot": false,
+  "tags": [
+   "出境安全评估",
+   "个人信息",
+   "数据出境"
+  ],
+  "importance": 17.0,
+  "kw_score": 12.0,
+  "weight": 2.0,
+  "reason": "涉及数据跨境流动规则，可能影响出境安全评估、标准合同备案等合规路径，建议出海/跨国业务团队关注。"
  }
 }
