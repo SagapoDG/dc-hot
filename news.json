@@ -1,9 +1,11 @@
 {
- "generated_at": "2026-06-13T17:46:29.014403+08:00",
- "count": 110,
+ "generated_at": "2026-06-13T17:54:44.715233+08:00",
+ "count": 108,
  "highlight_count": 30,
  "errors": [
-  "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）"
+  "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）",
+  "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）",
+  "微信公众号: <urlopen error _ssl.c:1112: The handshake operation timed out>"
  ],
  "items": [
   {
@@ -111,7 +113,7 @@
    "region": "国内",
    "category": "个人信息保护",
    "heat": 13.5,
-   "hot": false,
+   "hot": true,
    "tags": [
     "数据合规",
     "个人信息",
@@ -158,7 +160,7 @@
    "region": "国际",
    "category": "诉讼仲裁",
    "heat": 12.1,
-   "hot": false,
+   "hot": true,
    "tags": [
     "investigation",
     "data breach",
@@ -198,7 +200,29 @@
    "time": "2026-06-13T15:02:35+08:00",
    "date": "2026-06-13",
    "sources": [
-    "搜狐网"
+    "Sohu"
+   ],
+   "region": "国内",
+   "category": "行业实践",
+   "heat": 10.8,
+   "hot": false,
+   "tags": [
+    "数据合规",
+    "合规"
+   ],
+   "importance": 7.0,
+   "kw_score": 5.0,
+   "weight": 2.0,
+   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
+  },
+  {
+   "title": "汽车出海新考：数据合规、智驾基建短缺成“拦路虎”",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSjdmVTYxTXBQNy1CajhPeXdMZ1Y5NUE4SDZUNHkzMkFGVkZRbjBTbDNWWUEzQ1pZVEp3bzRrRUd1Y2RpcU9uMWgyNS0xSHg3TVlzQkcyMUJDalotX0Y1cVd0U2t2c1NTNW13cXU0c0tFRjY4NVNUN0gtcWZIc0c2NUNpVzJLSlZu?oc=5",
+   "summary": "",
+   "time": "2026-06-13T13:58:24+08:00",
+   "date": "2026-06-13",
+   "sources": [
+    "Sohu"
    ],
    "region": "国内",
    "category": "行业实践",
@@ -247,7 +271,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 10.2,
+   "heat": 10.1,
    "hot": false,
    "tags": [
     "investigation",
@@ -544,19 +568,18 @@
    "time": "2026-06-12T01:01:22+08:00",
    "date": "2026-06-12",
    "sources": [
-    "Class Action Lawsuits",
-    "Claim Depot"
+    "Class Action Lawsuits"
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 13.7,
-   "hot": true,
+   "heat": 11.7,
+   "hot": false,
    "tags": [
     "class action",
     "data breach",
     "settlement"
    ],
-   "importance": 14.5,
+   "importance": 12.5,
    "kw_score": 8.0,
    "weight": 2.0,
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
@@ -611,7 +634,7 @@
    "time": "2026-06-12T21:13:50+08:00",
    "date": "2026-06-12",
    "sources": [
-    "搜狐网"
+    "Sohu"
    ],
    "region": "国内",
    "category": "执法处罚",
@@ -637,7 +660,7 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 9.7,
+   "heat": 9.6,
    "hot": false,
    "tags": [
     "个人信息",
@@ -659,7 +682,7 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 9.7,
+   "heat": 9.6,
    "hot": false,
    "tags": [
     "个人信息",
@@ -1010,8 +1033,8 @@
    "reason": "行业合规实践动态，可作为制度建设与对标参考。"
   },
   {
-   "title": "国家数据局召开座谈会 促深入推进数据要素市场化配置改革",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9yTzZ4TTN3c2ZjSEZKVmxKY3BnVjY1MWVoRFNTc1lKelNpSTdfQm1wai1tbnRVeUdFSDZ2VUYwRUo0SDMwRV8zOXdNcm5oR1BFSTVyTEl5X2dyRmhRSDF1c2ptcUcyeXU2ZjZzM1Q1aw?oc=5",
+   "title": "国家数据局召开座谈会促深入推进数据要素市场化配置改革财经新闻Financial News",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObjVNdzJDQ2FELXViQVZPVE52Mmp0ZHVkUFNGRWIyTWpyN1phRWZheTFLTllHRmZRenRpc2s1SV8tTjlVVFV5SEczZHlIYUEwSWd5ZmhHb25uOUpxVzh1VEpXMGlEWk1fRnRYT0U4ZUEyemgyWkx3ZzYyODFiLTFIbnlsOHNEQVd3X1JJeDhUQmUyU29kclE?oc=5",
    "summary": "",
    "time": "2026-06-12T10:12:00+08:00",
    "date": "2026-06-12",
@@ -1031,8 +1054,8 @@
    "reason": "行业合规实践动态，可作为制度建设与对标参考。"
   },
   {
-   "title": "国家数据局召开座谈会促深入推进数据要素市场化配置改革财经新闻Financial News",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObjVNdzJDQ2FELXViQVZPVE52Mmp0ZHVkUFNGRWIyTWpyN1phRWZheTFLTllHRmZRenRpc2s1SV8tTjlVVFV5SEczZHlIYUEwSWd5ZmhHb25uOUpxVzh1VEpXMGlEWk1fRnRYT0U4ZUEyemgyWkx3ZzYyODFiLTFIbnlsOHNEQVd3X1JJeDhUQmUyU29kclE?oc=5",
+   "title": "国家数据局召开座谈会 促深入推进数据要素市场化配置改革",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9yTzZ4TTN3c2ZjSEZKVmxKY3BnVjY1MWVoRFNTc1lKelNpSTdfQm1wai1tbnRVeUdFSDZ2VUYwRUo0SDMwRV8zOXdNcm5oR1BFSTVyTEl5X2dyRmhRSDF1c2ptcUcyeXU2ZjZzM1Q1aw?oc=5",
    "summary": "",
    "time": "2026-06-12T10:12:00+08:00",
    "date": "2026-06-12",
@@ -1447,7 +1470,7 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 5.6,
+   "heat": 5.5,
    "hot": false,
    "tags": [
     "数据要素"
@@ -1456,6 +1479,27 @@
    "kw_score": 2.0,
    "weight": 2.0,
    "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
+  },
+  {
+   "title": "Enforcing Arbitral Awards In Nigeria Under the Arbitration and Mediation Act 2023: Legal framework, strategic challenges, and comparative perspectives",
+   "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQcG85ckZoVEV3eThkOWxJdDhRZjZSek40ODZRcklOVmZLRElrRG1qU0RGck1xYWJNX2RBeS13MUxmU1JVSVo2YllpVDJ3S3FqbFBBa1MtUllGTFQ0ZHBrMUpBSHBVR0lfTTJkNk5naXJSamNlRmNUcERGSDBiNVBMaFlCMGgtZG1nODQ4c1BhLXR6dnNOdTdQOXlZLVVSTnE3WFhON21fZDlMUjRRMTM3dVlkOFh1X3l0akJVRnI4VGJrcW1Ga294eTFybGtreDAxNW4teU1vNWkzUHprbHhhNmVVYi1YenZfTG9MTjQ4TUtVNlFrMmFRWW1KVWhNb3dPbjFXM0JOR0d3WUZnOExsNng3MGRaOEZTMEVOY1F5VmV6RDhKSGc?oc=5",
+   "summary": "Enforcing Arbitral Awards In Nigeria Under the Arbitration and Mediation Act 2023: Legal framework, strategic challenges, and comparative perspectives Business News Nigeria",
+   "time": "2026-06-11T19:36:03+08:00",
+   "date": "2026-06-11",
+   "sources": [
+    "Business News Nigeria"
+   ],
+   "region": "国际",
+   "category": "诉讼仲裁",
+   "heat": 5.4,
+   "hot": false,
+   "tags": [
+    "arbitration"
+   ],
+   "importance": 6.5,
+   "kw_score": 2.0,
+   "weight": 2.0,
+   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
   },
   {
    "title": "“Hey Rocky, Watch Me Pull a Rabbit Out of My Hat!”. Is This the Year the Federal Government Passes Comprehensive Privacy Legislation?",
@@ -1644,9 +1688,9 @@
   },
   {
    "title": "AI进化速递丨国家数据局召开“完善数据相关规则 赋能人工智能创新发展”座谈会",
-   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNZ2NlMVNOa3RrTnNST1hibkNhYU40czRjM2E0enRXSjBfcjQzb01LUEhMZU5kOFN1UGtfUUpFekEtaExubjIxbjk0QlJJaWdPVU11cUlpLU5pTXRtUV9qNUdfU243NEVXZVltX3hPSV8ySHcycXItZ2x4ZnFLWVdsYUlGRF9rdFJkRUJKYXJTZDFXWTM1SlI1QS1DbFBxNVNoa3Y5ZWI2WFdockNYUnJDZGVMdWJ1R2hvNU5EOUEycHVRd29ZeHVPb3FVU29KdEpWVzNxUXBSbms4MzdXZ0c3c0syVE1kYXRkWmxyUjJNbHBEWC1xWkt6MHlqVGhIUQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQUkJrZ1hIZkFHN3VnOElEY3NhdEp5dk02X0NkMXFHRmlwY3pHOTlEa3hTcTR1RGFGVjAwVXE2WGdJV09qUHZ1TEI0THV5LTd1N0M1YUFxdGE0NE1tcUt0MGViVGtCQTVxUDhFOG5hYjVxSUU5WFhSVS1tLXZzU210em5TM04wRzRlQlZxSENFN3NSeTJhbzhPOWlHQmdLY2VmU2c3SEhHLUpYenlldG5nS3NPekRhc295Nll4WHlvRXVxVmtLTGQ1UGd2UXgxYVJnbW1jeGJ4Z1cwd0JOWUhDU1pzMkhfN0Q0dkt0dDJvZXBIYTZEelNoam5xenBEclJxSkhaVzFpS1BtTG5PdXc?oc=5",
    "summary": "",
-   "time": "2026-06-11T21:25:03+08:00",
+   "time": "2026-06-11T21:25:04+08:00",
    "date": "2026-06-11",
    "sources": [
     "手机新浪网"
@@ -1663,9 +1707,9 @@
   },
   {
    "title": "AI进化速递丨国家数据局召开“完善数据相关规则 赋能人工智能创新发展”座谈会",
-   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQUkJrZ1hIZkFHN3VnOElEY3NhdEp5dk02X0NkMXFHRmlwY3pHOTlEa3hTcTR1RGFGVjAwVXE2WGdJV09qUHZ1TEI0THV5LTd1N0M1YUFxdGE0NE1tcUt0MGViVGtCQTVxUDhFOG5hYjVxSUU5WFhSVS1tLXZzU210em5TM04wRzRlQlZxSENFN3NSeTJhbzhPOWlHQmdLY2VmU2c3SEhHLUpYenlldG5nS3NPekRhc295Nll4WHlvRXVxVmtLTGQ1UGd2UXgxYVJnbW1jeGJ4Z1cwd0JOWUhDU1pzMkhfN0Q0dkt0dDJvZXBIYTZEelNoam5xenBEclJxSkhaVzFpS1BtTG5PdXc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNZ2NlMVNOa3RrTnNST1hibkNhYU40czRjM2E0enRXSjBfcjQzb01LUEhMZU5kOFN1UGtfUUpFekEtaExubjIxbjk0QlJJaWdPVU11cUlpLU5pTXRtUV9qNUdfU243NEVXZVltX3hPSV8ySHcycXItZ2x4ZnFLWVdsYUlGRF9rdFJkRUJKYXJTZDFXWTM1SlI1QS1DbFBxNVNoa3Y5ZWI2WFdockNYUnJDZGVMdWJ1R2hvNU5EOUEycHVRd29ZeHVPb3FVU29KdEpWVzNxUXBSbms4MzdXZ0c3c0syVE1kYXRkWmxyUjJNbHBEWC1xWkt6MHlqVGhIUQ?oc=5",
    "summary": "",
-   "time": "2026-06-11T21:25:04+08:00",
+   "time": "2026-06-11T21:25:03+08:00",
    "date": "2026-06-11",
    "sources": [
     "手机新浪网"
@@ -2268,6 +2312,25 @@
    "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
   },
   {
+   "title": "国家数据局发布推进行业高质量数据集建设行动实施方案部署赋能人工智能发展财经新闻Financial News",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOV091RXdfUnprVUFybG1kZ0xPeXEtRzk0Y2gxanhBMDBXS0xsZGJBekFjNkY0ejJEYl9kcF90NVBNUkpaSWpFMW1FTEpoNGJnQVBVMGlBdjJWMURfMzlGaDQySzgxcFdYc3dIT3N3SWFqblJTcGtYVDhoaUtPVExwMUxsYlVVVUQ2cjB5RHRWMWRSaFFZN1E?oc=5",
+   "summary": "",
+   "time": "2026-06-09T11:26:00+08:00",
+   "date": "2026-06-09",
+   "sources": [
+    "AASTOCKS.com"
+   ],
+   "region": "国内",
+   "category": "立法监管",
+   "heat": 2.0,
+   "hot": false,
+   "tags": [],
+   "importance": 5.0,
+   "kw_score": 0.0,
+   "weight": 2.0,
+   "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
+  },
+  {
    "title": "Henderson & Walton Women’s Center Settles Class Action Data Breach Lawsuit",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQVR4c0oxLWNCVk5MU1RqYnlQcVNmOWI1dnN1M1VIQXlrdVhKbDNVdEpXaXM3dEhPSGhLS0tZbktlZzYzeGtTTE1WYWhpMWgyMXJMVVZuWGpRMnVoSmdjTzR3QW5tTTFfNEIyZDl0VVBaV0N0UHdVR0RnSHpnUDJ0QWc5Y2ttQUw4V3lB?oc=5",
    "summary": "",
@@ -2825,30 +2888,6 @@
     "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
    },
    {
-    "title": "$31.5M Flagstar Bank data breach class action settlement",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeS0zd0ExeVhmaDVIQUU5NkR0VUV4cmU2Wk1SY0VfdUdMeWg0bGNTVWszR25CLXZDRWkxdkRCd1V5MjBtNlRWdkw0Q2xmRTZ1UEFyZVJOb0lWSHVMc1Y5MUtCTFRXLXRqR1RjbmotT0VfOUpnMmxQVG1hZUIwaVpxV1VsWDZaeElnczRqbW9xN2FMQTI0ZDhlUUFQamIzTTJ4X3VKaVEzaHFXNFBjRWI4SGowNVhkdUp5My1yaTctS29kUklIUHNBNA?oc=5",
-    "summary": "",
-    "time": "2026-06-12T01:01:22+08:00",
-    "date": "2026-06-12",
-    "sources": [
-     "Class Action Lawsuits",
-     "Claim Depot"
-    ],
-    "region": "国际",
-    "category": "诉讼仲裁",
-    "heat": 13.7,
-    "hot": true,
-    "tags": [
-     "class action",
-     "data breach",
-     "settlement"
-    ],
-    "importance": 14.5,
-    "kw_score": 8.0,
-    "weight": 2.0,
-    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
-   },
-   {
     "title": "Companies should brace for scrutiny, fines after EDPB’s latest GDPR investigation",
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVFZPWmVuZGFLOHliVFB0WGkyejFKSFN5YnFBdFR5aXZodk9SNmdod3F0TWdtaTlYTENEM1VKSG9Fck9sOHFTUDNpaHYxUHFEYmVSTkUwMmQxRFdQUmttaUF0NTQ4N1ZJNjFoV2tWVEdiNmJ0SWMzT21JMWd0MmM2b0tBYjBwZFFmTm9pcnlzQnhwTEQ3RW1VaXB6TTRJVEU0YUk0cnhDZV9KWUhyanpQa1lJNENyQ1VMWE9mNmJ1Q2ZmQQ?oc=5",
     "summary": "",
@@ -2870,6 +2909,29 @@
     "kw_score": 9.0,
     "weight": 2.0,
     "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
+   },
+   {
+    "title": "$31.5M Flagstar Bank data breach class action settlement",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeS0zd0ExeVhmaDVIQUU5NkR0VUV4cmU2Wk1SY0VfdUdMeWg0bGNTVWszR25CLXZDRWkxdkRCd1V5MjBtNlRWdkw0Q2xmRTZ1UEFyZVJOb0lWSHVMc1Y5MUtCTFRXLXRqR1RjbmotT0VfOUpnMmxQVG1hZUIwaVpxV1VsWDZaeElnczRqbW9xN2FMQTI0ZDhlUUFQamIzTTJ4X3VKaVEzaHFXNFBjRWI4SGowNVhkdUp5My1yaTctS29kUklIUHNBNA?oc=5",
+    "summary": "",
+    "time": "2026-06-12T01:01:22+08:00",
+    "date": "2026-06-12",
+    "sources": [
+     "Class Action Lawsuits"
+    ],
+    "region": "国际",
+    "category": "诉讼仲裁",
+    "heat": 11.7,
+    "hot": false,
+    "tags": [
+     "class action",
+     "data breach",
+     "settlement"
+    ],
+    "importance": 12.5,
+    "kw_score": 8.0,
+    "weight": 2.0,
+    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
    },
    {
     "title": "$68M Google Assistant privacy class action settlement",
@@ -2914,30 +2976,6 @@
     ],
     "importance": 12.5,
     "kw_score": 8.0,
-    "weight": 2.0,
-    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
-   },
-   {
-    "title": "Datavant Group to Pay $900,000 to Settle Class Action Data Breach Lawsuit",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYU1IME5JWTl6cnBxV2dSUGtPMi1IR2hHSmhzeDV0dHRUdmZtdDgwQ2FkTHY2b3d2d0haYXNDTHhaNTZrX0lTZVNxeDd2VXVNVm85R25YZGZIbUtBa2I0dENnYUVWYk9ESHIyX0hPOUpnUmdLOGo4NVBITUc4dXFrNnAtaVVyTEE?oc=5",
-    "summary": "",
-    "time": "2026-05-22T15:00:00+08:00",
-    "date": "2026-05-22",
-    "sources": [
-     "The HIPAA Journal",
-     "Claim Depot"
-    ],
-    "region": "国际",
-    "category": "诉讼仲裁",
-    "heat": 10.0,
-    "hot": false,
-    "tags": [
-     "class action",
-     "data breach",
-     "lawsuit"
-    ],
-    "importance": 12.5,
-    "kw_score": 6.0,
     "weight": 2.0,
     "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
    },
@@ -3029,6 +3067,29 @@
      "lawsuit"
     ],
     "importance": 11.5,
+    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
+   },
+   {
+    "title": "Dresden court hits Meta with €1,500 GDPR fine over Instagram tracking",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNTRtcHl1U2pZNnRxR1pVWTVJU25TQXQ1SlpEbmZIakxyMEdOUTM1SHhaS0RBUlIxZzdPYmxlTmltRVZsckt4XzAyMTF6Y0g1ZlN2ajYtZWF2dE9lYzg4WjZLVHRDQm9UUHp0NTN5bnQ3UjNob0duUWx6RVgyNkxIWXNHcFF2ckJTejc4UnUxN3lEdGs?oc=5",
+    "summary": "",
+    "time": "2026-04-19T15:00:00+08:00",
+    "date": "2026-04-19",
+    "sources": [
+     "PPC Land"
+    ],
+    "region": "国际",
+    "category": "诉讼仲裁",
+    "heat": 8.0,
+    "hot": false,
+    "tags": [
+     "court",
+     "GDPR",
+     "fine"
+    ],
+    "importance": 10.5,
+    "kw_score": 6.0,
+    "weight": 2.0,
     "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
    }
   ]
