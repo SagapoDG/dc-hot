@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-06-13T10:14:53.888984+08:00",
+ "generated_at": "2026-06-13T10:45:56.488607+08:00",
  "count": 89,
  "highlight_count": 30,
  "errors": [
@@ -43,7 +43,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 10.6,
+   "heat": 10.5,
    "hot": false,
    "tags": [
     "investigation",
@@ -148,7 +148,7 @@
    "sources": [
     "新华网",
     "信息化观察网",
-    "搜狐网",
+    "Sohu",
     "QQ News"
    ],
    "region": "国内",
@@ -199,7 +199,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 14.2,
+   "heat": 14.1,
    "hot": true,
    "tags": [
     "class action",
@@ -222,7 +222,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 11.3,
+   "heat": 11.2,
    "hot": true,
    "tags": [
     "data breach",
@@ -245,7 +245,7 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 10.6,
+   "heat": 10.5,
    "hot": false,
    "tags": [
     "个人信息",
@@ -261,11 +261,11 @@
    "time": "2026-06-12T21:13:50+08:00",
    "date": "2026-06-12",
    "sources": [
-    "搜狐网"
+    "Sohu"
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 10.3,
+   "heat": 10.2,
    "hot": false,
    "tags": [
     "个人信息",
@@ -287,7 +287,7 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 10.1,
+   "heat": 10.0,
    "hot": false,
    "tags": [
     "个人信息",
@@ -309,7 +309,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 10.0,
+   "heat": 9.9,
    "hot": false,
    "tags": [
     "个人信息",
@@ -327,7 +327,7 @@
    "time": "2026-06-12T11:41:33+08:00",
    "date": "2026-06-12",
    "sources": [
-    "搜狐网"
+    "Sohu"
    ],
    "region": "国内",
    "category": "个人信息保护",
@@ -353,7 +353,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 9.6,
+   "heat": 9.5,
    "hot": false,
    "tags": [
     "investigation",
@@ -395,7 +395,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 9.4,
+   "heat": 9.3,
    "hot": false,
    "tags": [
     "investigation",
@@ -459,11 +459,11 @@
    "date": "2026-06-12",
    "sources": [
     "新华网",
-    "搜狐网"
+    "Sohu"
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 8.7,
+   "heat": 8.6,
    "hot": false,
    "tags": [
     "数据要素"
@@ -472,27 +472,6 @@
    "kw_score": 2.0,
    "weight": 2.0,
    "reason": "行业合规实践动态，可作为制度建设与对标参考。"
-  },
-  {
-   "title": "Louisiana Enacts Comprehensive Consumer Privacy Law",
-   "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/louisiana-enacts-comprehensive-consumer-privacy-law",
-   "summary": "Louisiana recently enacted the Louisiana Data Privacy Act, becoming the 22nd U.S. state to adopt a comprehensive consumer data privacy law. Continue Reading ›",
-   "time": "2026-06-12T21:00:01+08:00",
-   "date": "2026-06-12",
-   "sources": [
-    "Hunton 隐私与信息安全博客"
-   ],
-   "region": "国际",
-   "category": "个人信息保护",
-   "heat": 8.3,
-   "hot": false,
-   "tags": [
-    "privacy"
-   ],
-   "importance": 5.0,
-   "kw_score": 2.0,
-   "weight": 3.0,
-   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
   },
   {
    "title": "Kampala court convicts businesswoman over mobile loan data privacy breach",
@@ -515,6 +494,27 @@
    "kw_score": 3.0,
    "weight": 2.0,
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
+  },
+  {
+   "title": "Louisiana Enacts Comprehensive Consumer Privacy Law",
+   "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/louisiana-enacts-comprehensive-consumer-privacy-law",
+   "summary": "Louisiana recently enacted the Louisiana Data Privacy Act, becoming the 22nd U.S. state to adopt a comprehensive consumer data privacy law. Continue Reading ›",
+   "time": "2026-06-12T21:00:01+08:00",
+   "date": "2026-06-12",
+   "sources": [
+    "Hunton 隐私与信息安全博客"
+   ],
+   "region": "国际",
+   "category": "个人信息保护",
+   "heat": 8.2,
+   "hot": false,
+   "tags": [
+    "privacy"
+   ],
+   "importance": 5.0,
+   "kw_score": 2.0,
+   "weight": 3.0,
+   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
   },
   {
    "title": "InterDigital与亚马逊达成新的视频服务和设备许可协议",
@@ -628,7 +628,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 6.7,
+   "heat": 6.6,
    "hot": false,
    "tags": [
     "数据要素"
@@ -649,7 +649,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 6.7,
+   "heat": 6.6,
    "hot": false,
    "tags": [
     "数据要素"
@@ -658,27 +658,6 @@
    "kw_score": 2.0,
    "weight": 2.0,
    "reason": "行业合规实践动态，可作为制度建设与对标参考。"
-  },
-  {
-   "title": "36氪研究院 | 2026年中国工业用品制造与流通报告",
-   "url": "https://36kr.com/p/3846798967818752?f=rss",
-   "summary": "当前，中国制造业正进入以智能化、绿色化、融合化为主要特征的高质量发展新阶段。随着市场需求日趋多元、产品迭代加快、交付要求提升，叠加成本与合规压力的多重约束，传统“大而全”的内部一体化模式边际效率递减，制造企业愈发聚焦研发、制造、工艺等核心能力，并将采购、仓配和供应链协同等非核心职能加速向外部专业服务体系转移，推动生产性服务业深度嵌入制造业运行体系。作为制…",
-   "time": "2026-06-12T12:00:00+08:00",
-   "date": "2026-06-12",
-   "sources": [
-    "36氪"
-   ],
-   "region": "国内",
-   "category": "执法处罚",
-   "heat": 6.3,
-   "hot": false,
-   "tags": [
-    "合规"
-   ],
-   "importance": 6.0,
-   "kw_score": 2.0,
-   "weight": 1.5,
-   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
   },
   {
    "title": "Scathing class-action lawsuit accuses Washington Post of surveillance pricing: ‘Covert data-harvesting’",
@@ -697,7 +676,30 @@
     "lawsuit"
    ],
    "importance": 6.5,
+   "kw_score": 2.0,
+   "weight": 2.0,
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
+  },
+  {
+   "title": "36氪研究院 | 2026年中国工业用品制造与流通报告",
+   "url": "https://36kr.com/p/3846798967818752?f=rss",
+   "summary": "当前，中国制造业正进入以智能化、绿色化、融合化为主要特征的高质量发展新阶段。随着市场需求日趋多元、产品迭代加快、交付要求提升，叠加成本与合规压力的多重约束，传统“大而全”的内部一体化模式边际效率递减，制造企业愈发聚焦研发、制造、工艺等核心能力，并将采购、仓配和供应链协同等非核心职能加速向外部专业服务体系转移，推动生产性服务业深度嵌入制造业运行体系。作为制…",
+   "time": "2026-06-12T12:00:00+08:00",
+   "date": "2026-06-12",
+   "sources": [
+    "36氪"
+   ],
+   "region": "国内",
+   "category": "执法处罚",
+   "heat": 6.2,
+   "hot": false,
+   "tags": [
+    "合规"
+   ],
+   "importance": 6.0,
+   "kw_score": 2.0,
+   "weight": 1.5,
+   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
   },
   {
    "title": "国家数据局发文：鼓励探索数据保险等资产化模式",
@@ -729,7 +731,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 4.2,
+   "heat": 4.1,
    "hot": false,
    "tags": [
     "数据要素"
@@ -834,7 +836,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 9.5,
+   "heat": 9.4,
    "hot": false,
    "tags": [],
    "importance": 6.0,
@@ -896,7 +898,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 7.8,
+   "heat": 7.7,
    "hot": false,
    "tags": [
     "数据出境",
@@ -930,6 +932,28 @@
    "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
   },
   {
+   "title": "Facebook users to receive second privacy settlement payment from $725M pool",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdWJmcFRyb25qMklEdzJBWS1Ma24tN1VsUGR0XzlFNWlMWHlPWGIta25vbDNsSjhKdldMYTRLYUFncHBoQ3QxS2s3aVdKWTlkaW1LTDNnRWhDRHFFQ3RLM2VBZnpDRkk1N0VRUzNnOG9SelRncGtpZVRkX3VMblhPQnBNbEVnX0FQTVNQejRxUUZmX0ZiaVZNdkY5MWdPbnRld29wU0tISmJFMXBYOGJzcGtUY1HSAcgBQVVfeXFMT2lqS2pQQnlNQ0FZaEJhYk5ER2ZKcEd6NVg4d0VHOFMwSEFtOGRudkJUS0ZsdEFUYTc3WS0yYXl6eE56cGU0NjVjOEE4X281Z3pXbm9LZ3V2d3Vkc2xfRDBLbjVIX0NCeV9xZzVjN0RwQnRRQXZPbFBINVJKWURTQU9XOG1HakQxMGlBZzhsRmlUZXlFOWt3SFRqLWlTWThHM01DQUhHX2ZCbFhhNHFDeFB2bl92X09BWDUybkRkODZTTWJTMWxIUzU?oc=5",
+   "summary": "",
+   "time": "2026-06-11T00:21:00+08:00",
+   "date": "2026-06-11",
+   "sources": [
+    "MLive.com"
+   ],
+   "region": "国际",
+   "category": "诉讼仲裁",
+   "heat": 6.8,
+   "hot": false,
+   "tags": [
+    "settlement",
+    "privacy"
+   ],
+   "importance": 8.5,
+   "kw_score": 4.0,
+   "weight": 2.0,
+   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
+  },
+  {
    "title": "Brazil Steps Up Regulation of Violence Against Women in the Digital Environment",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORG9zZ01neUVDbVFDWVFjcndDWGVNZmx5d1pGUGxqMDhDUjVCWW9ZNENlSWdtalp5cXFUR01pN2ptMDY1WXQxVjFxdEdySHhrcVV3aWRSU2pBYzZvX3VEZ1Y2d3dxVkFOV1FFT1l0SExPYUxHaEFaYTduQ28zSERDZlFUQTYwOTNQanljbnl3U0hHWnk4X2U1UkdUR1h0VnlNWHN5N19FRDk2bXNoYU9hNk9TcUpuMEt3ZmVVYkpGU2NKdw?oc=5",
    "summary": "",
@@ -952,26 +976,6 @@
    "reason": "行业合规实践动态，可作为制度建设与对标参考。"
   },
   {
-   "title": "Facebook users to receive second privacy settlement payment from $725M pool",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdWJmcFRyb25qMklEdzJBWS1Ma24tN1VsUGR0XzlFNWlMWHlPWGIta25vbDNsSjhKdldMYTRLYUFncHBoQ3QxS2s3aVdKWTlkaW1LTDNnRWhDRHFFQ3RLM2VBZnpDRkk1N0VRUzNnOG9SelRncGtpZVRkX3VMblhPQnBNbEVnX0FQTVNQejRxUUZmX0ZiaVZNdkY5MWdPbnRld29wU0tISmJFMXBYOGJzcGtUY1HSAcgBQVVfeXFMT2lqS2pQQnlNQ0FZaEJhYk5ER2ZKcEd6NVg4d0VHOFMwSEFtOGRudkJUS0ZsdEFUYTc3WS0yYXl6eE56cGU0NjVjOEE4X281Z3pXbm9LZ3V2d3Vkc2xfRDBLbjVIX0NCeV9xZzVjN0RwQnRRQXZPbFBINVJKWURTQU9XOG1HakQxMGlBZzhsRmlUZXlFOWt3SFRqLWlTWThHM01DQUhHX2ZCbFhhNHFDeFB2bl92X09BWDUybkRkODZTTWJTMWxIUzU?oc=5",
-   "summary": "",
-   "time": "2026-06-11T00:21:00+08:00",
-   "date": "2026-06-11",
-   "sources": [
-    "MLive.com"
-   ],
-   "region": "国际",
-   "category": "诉讼仲裁",
-   "heat": 6.8,
-   "hot": false,
-   "tags": [
-    "settlement",
-    "privacy"
-   ],
-   "importance": 8.5,
-   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
-  },
-  {
    "title": "文字实录 | 国家数据局举办2026年“数据要素×”新闻发布会（第一场）",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB2c01KaHhEdGRob1FzNFVQcmJGWXB2LTByY0FiSEJGMWtuQlJZeUVMOVhXcDM5OHNSTFo4WW1yeWVkWUJGd0VEOHd4bVB4cGNFb0xfTlh3RThUV2tOWkVOc0pTSzFpQlViYk5zX19jdVRGa3RTMDZFSkI0NGlsQQ?oc=5",
    "summary": "",
@@ -982,7 +986,7 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 6.0,
+   "heat": 5.9,
    "hot": false,
    "tags": [
     "数据要素"
@@ -1003,7 +1007,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 5.9,
+   "heat": 5.8,
    "hot": false,
    "tags": [
     "arbitration"
@@ -1011,25 +1015,6 @@
    "importance": 6.5,
    "kw_score": 2.0,
    "weight": 2.0,
-   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
-  },
-  {
-   "title": "Enforcing Arbitral Awards In Nigeria Under the Arbitration and Mediation Act 2023: Legal framework, strategic challenges, and comparative perspectives",
-   "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQcG85ckZoVEV3eThkOWxJdDhRZjZSek40ODZRcklOVmZLRElrRG1qU0RGck1xYWJNX2RBeS13MUxmU1JVSVo2YllpVDJ3S3FqbFBBa1MtUllGTFQ0ZHBrMUpBSHBVR0lfTTJkNk5naXJSamNlRmNUcERGSDBiNVBMaFlCMGgtZG1nODQ4c1BhLXR6dnNOdTdQOXlZLVVSTnE3WFhON21fZDlMUjRRMTM3dVlkOFh1X3l0akJVRnI4VGJrcW1Ga294eTFybGtreDAxNW4teU1vNWkzUHprbHhhNmVVYi1YenZfTG9MTjQ4TUtVNlFrMmFRWW1KVWhNb3dPbjFXM0JOR0d3WUZnOExsNng3MGRaOEZTMEVOY1F5VmV6RDhKSGc?oc=5",
-   "summary": "Enforcing Arbitral Awards In Nigeria Under the Arbitration and Mediation Act 2023: Legal framework, strategic challenges, and comparative perspectives Business News Nigeria",
-   "time": "2026-06-11T19:36:03+08:00",
-   "date": "2026-06-11",
-   "sources": [
-    "Business News Nigeria"
-   ],
-   "region": "国际",
-   "category": "诉讼仲裁",
-   "heat": 5.9,
-   "hot": false,
-   "tags": [
-    "arbitration"
-   ],
-   "importance": 6.5,
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
   },
   {
@@ -1054,13 +1039,32 @@
    "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
   },
   {
+   "title": "Enforcing Arbitral Awards In Nigeria Under the Arbitration and Mediation Act 2023: Legal framework, strategic challenges, and comparative perspectives",
+   "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQcG85ckZoVEV3eThkOWxJdDhRZjZSek40ODZRcklOVmZLRElrRG1qU0RGck1xYWJNX2RBeS13MUxmU1JVSVo2YllpVDJ3S3FqbFBBa1MtUllGTFQ0ZHBrMUpBSHBVR0lfTTJkNk5naXJSamNlRmNUcERGSDBiNVBMaFlCMGgtZG1nODQ4c1BhLXR6dnNOdTdQOXlZLVVSTnE3WFhON21fZDlMUjRRMTM3dVlkOFh1X3l0akJVRnI4VGJrcW1Ga294eTFybGtreDAxNW4teU1vNWkzUHprbHhhNmVVYi1YenZfTG9MTjQ4TUtVNlFrMmFRWW1KVWhNb3dPbjFXM0JOR0d3WUZnOExsNng3MGRaOEZTMEVOY1F5VmV6RDhKSGc?oc=5",
+   "summary": "Enforcing Arbitral Awards In Nigeria Under the Arbitration and Mediation Act 2023: Legal framework, strategic challenges, and comparative perspectives Business News Nigeria",
+   "time": "2026-06-11T19:36:03+08:00",
+   "date": "2026-06-11",
+   "sources": [
+    "Business News Nigeria"
+   ],
+   "region": "国际",
+   "category": "诉讼仲裁",
+   "heat": 5.8,
+   "hot": false,
+   "tags": [
+    "arbitration"
+   ],
+   "importance": 6.5,
+   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
+  },
+  {
    "title": "国家数据局举行2026年“数据要素×”首场新闻发布会，指出“数据要素×”三年行动计划实施两年多来，在相关部门积极支持、各地大力推动和各界积极参与下，全社会数据意识明显提升，数据要素价值加快释放。#国家数据局 #数据 #数据要素× #数据要素",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTFF0OFlOZEJHaWxWandjMVkxZGZ1UnB6dTR3OVNDNF9ZeUh0RFcyRzgwQ18xck5lMFlvQUZWV3FocDV5S2J0NXdQTm94Q0YxNmlJZ2dBLWZBb2hmMnlacE5iaWVtMzlzMEF3Q1FNcTZ4NnpmX3l4ZE9XLU8tVlctZ3FPLWNuYlJs?oc=5",
    "summary": "",
    "time": "2026-06-11T17:07:15+08:00",
    "date": "2026-06-11",
    "sources": [
-    "搜狐网"
+    "Sohu"
    ],
    "region": "国内",
    "category": "立法监管",
@@ -1125,7 +1129,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 4.8,
+   "heat": 4.7,
    "hot": false,
    "tags": [
     "仲裁"
@@ -1154,25 +1158,6 @@
    "importance": 3.5,
    "kw_score": 2.0,
    "weight": 1.5,
-   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
-  },
-  {
-   "title": "AI进化速递丨国家数据局召开“完善数据相关规则 赋能人工智能创新发展”座谈会",
-   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQUkJrZ1hIZkFHN3VnOElEY3NhdEp5dk02X0NkMXFHRmlwY3pHOTlEa3hTcTR1RGFGVjAwVXE2WGdJV09qUHZ1TEI0THV5LTd1N0M1YUFxdGE0NE1tcUt0MGViVGtCQTVxUDhFOG5hYjVxSUU5WFhSVS1tLXZzU210em5TM04wRzRlQlZxSENFN3NSeTJhbzhPOWlHQmdLY2VmU2c3SEhHLUpYenlldG5nS3NPekRhc295Nll4WHlvRXVxVmtLTGQ1UGd2UXgxYVJnbW1jeGJ4Z1cwd0JOWUhDU1pzMkhfN0Q0dkt0dDJvZXBIYTZEelNoam5xenBEclJxSkhaVzFpS1BtTG5PdXc?oc=5",
-   "summary": "",
-   "time": "2026-06-11T21:25:04+08:00",
-   "date": "2026-06-11",
-   "sources": [
-    "新浪网"
-   ],
-   "region": "国内",
-   "category": "行业实践",
-   "heat": 4.0,
-   "hot": false,
-   "tags": [],
-   "importance": 2.0,
-   "kw_score": 0.0,
-   "weight": 2.0,
    "reason": "行业合规实践动态，可作为制度建设与对标参考。"
   },
   {
@@ -1205,7 +1190,26 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 4.0,
+   "heat": 3.9,
+   "hot": false,
+   "tags": [],
+   "importance": 2.0,
+   "kw_score": 0.0,
+   "weight": 2.0,
+   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
+  },
+  {
+   "title": "AI进化速递丨国家数据局召开“完善数据相关规则 赋能人工智能创新发展”座谈会",
+   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQUkJrZ1hIZkFHN3VnOElEY3NhdEp5dk02X0NkMXFHRmlwY3pHOTlEa3hTcTR1RGFGVjAwVXE2WGdJV09qUHZ1TEI0THV5LTd1N0M1YUFxdGE0NE1tcUt0MGViVGtCQTVxUDhFOG5hYjVxSUU5WFhSVS1tLXZzU210em5TM04wRzRlQlZxSENFN3NSeTJhbzhPOWlHQmdLY2VmU2c3SEhHLUpYenlldG5nS3NPekRhc295Nll4WHlvRXVxVmtLTGQ1UGd2UXgxYVJnbW1jeGJ4Z1cwd0JOWUhDU1pzMkhfN0Q0dkt0dDJvZXBIYTZEelNoam5xenBEclJxSkhaVzFpS1BtTG5PdXc?oc=5",
+   "summary": "",
+   "time": "2026-06-11T21:25:04+08:00",
+   "date": "2026-06-11",
+   "sources": [
+    "新浪网"
+   ],
+   "region": "国内",
+   "category": "行业实践",
+   "heat": 3.9,
    "hot": false,
    "tags": [],
    "importance": 2.0,
@@ -1308,6 +1312,8 @@
     "lawsuit"
    ],
    "importance": 12.5,
+   "kw_score": 8.0,
+   "weight": 2.0,
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
   },
   {
@@ -2108,7 +2114,7 @@
     ],
     "region": "国内",
     "category": "跨境数据",
-    "heat": 7.8,
+    "heat": 7.7,
     "hot": false,
     "tags": [
      "数据出境",
@@ -2308,7 +2314,7 @@
     "sources": [
      "新华网",
      "信息化观察网",
-     "搜狐网",
+     "Sohu",
      "QQ News"
     ],
     "region": "国内",
@@ -2336,7 +2342,7 @@
     ],
     "region": "国际",
     "category": "诉讼仲裁",
-    "heat": 14.2,
+    "heat": 14.1,
     "hot": true,
     "tags": [
      "class action",
@@ -2453,7 +2459,7 @@
     ],
     "region": "国际",
     "category": "诉讼仲裁",
-    "heat": 10.1,
+    "heat": 10.0,
     "hot": false,
     "tags": [
      "class action",
@@ -2461,6 +2467,8 @@
      "lawsuit"
     ],
     "importance": 12.5,
+    "kw_score": 8.0,
+    "weight": 2.0,
     "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
    },
    {
