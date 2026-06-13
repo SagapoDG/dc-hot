@@ -130,7 +130,7 @@
   "tags": [
    "data protection",
    "biometric",
-   "lawsuit"
+   "privacy"
   ],
   "importance": 17.0,
   "kw_score": 12.0,
@@ -197,9 +197,9 @@
   "heat": 13.0,
   "hot": false,
   "tags": [
+   "征求意见",
    "数据合规",
-   "数据跨境",
-   "征求意见"
+   "数据跨境"
   ],
   "importance": 16.0,
   "kw_score": 11.0,
@@ -222,7 +222,7 @@
   "tags": [
    "investigation",
    "GDPR",
-   "EDPB"
+   "fine"
   ],
   "importance": 13.5,
   "kw_score": 9.0,
@@ -245,7 +245,7 @@
   "tags": [
    "个人信息",
    "数据泄露",
-   "处罚"
+   "罚款"
   ],
   "importance": 16.0,
   "kw_score": 9.0,
@@ -310,7 +310,7 @@
   ],
   "region": "国际",
   "category": "诉讼仲裁",
-  "heat": 13.8,
+  "heat": 13.7,
   "hot": false,
   "tags": [
    "class action",
@@ -871,17 +871,19 @@
   "date": "2026-06-12",
   "sources": [
    "新华网",
-   "信息化观察网"
+   "信息化观察网",
+   "Jiemian.com",
+   "QQ News"
   ],
   "region": "国内",
   "category": "执法处罚",
-  "heat": 11.2,
+  "heat": 15.2,
   "hot": false,
   "tags": [
    "个人信息",
    "网信办"
   ],
-  "importance": 11.5,
+  "importance": 15.5,
   "kw_score": 5.0,
   "weight": 2.0,
   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
@@ -922,8 +924,8 @@
   "heat": 7.0,
   "hot": false,
   "tags": [
-   "起诉",
    "仲裁",
+   "起诉",
    "诉讼"
   ],
   "importance": 9.5,
@@ -1314,7 +1316,7 @@
   ],
   "region": "国内",
   "category": "跨境数据",
-  "heat": 7.4,
+  "heat": 7.3,
   "hot": false,
   "tags": [
    "数据出境",
@@ -2092,7 +2094,7 @@
   ],
   "region": "国内",
   "category": "行业实践",
-  "heat": 6.3,
+  "heat": 6.2,
   "hot": false,
   "tags": [
    "数据要素"
@@ -2505,7 +2507,7 @@
   ],
   "region": "国际",
   "category": "个人信息保护",
-  "heat": 5.5,
+  "heat": 5.4,
   "hot": false,
   "tags": [
    "privacy"
@@ -3477,7 +3479,7 @@
   ],
   "region": "国内",
   "category": "行业实践",
-  "heat": 3.7,
+  "heat": 3.6,
   "hot": false,
   "tags": [],
   "importance": 2.0,
@@ -3496,7 +3498,7 @@
   ],
   "region": "国内",
   "category": "行业实践",
-  "heat": 3.6,
+  "heat": 3.5,
   "hot": false,
   "tags": [],
   "importance": 2.0,
@@ -4042,7 +4044,7 @@
   ],
   "region": "国内",
   "category": "诉讼仲裁",
-  "heat": 4.4,
+  "heat": 4.3,
   "hot": false,
   "tags": [
    "仲裁"
@@ -4150,8 +4152,8 @@
   "heat": 8.0,
   "hot": false,
   "tags": [
-   "征求意见",
    "个人信息",
+   "征求意见",
    "网信办"
   ],
   "importance": 11.0,
@@ -4384,11 +4386,11 @@
   "time": "2026-06-11T17:07:15+08:00",
   "date": "2026-06-11",
   "sources": [
-   "Sohu"
+   "搜狐网"
   ],
   "region": "国内",
   "category": "立法监管",
-  "heat": 5.4,
+  "heat": 5.3,
   "hot": false,
   "tags": [
    "数据要素"
@@ -4471,8 +4473,8 @@
   "heat": 7.0,
   "hot": false,
   "tags": [
-   "起诉",
    "仲裁",
+   "起诉",
    "诉讼"
   ],
   "importance": 9.5,
@@ -4512,7 +4514,7 @@
   ],
   "region": "国际",
   "category": "执法处罚",
-  "heat": 7.3,
+  "heat": 7.2,
   "hot": false,
   "tags": [
    "privacy",
@@ -4600,7 +4602,7 @@
   "tags": [
    "class action",
    "settlement",
-   "lawsuit"
+   "privacy"
   ],
   "importance": 12.5,
   "kw_score": 8.0,
@@ -4618,12 +4620,12 @@
   ],
   "region": "国际",
   "category": "诉讼仲裁",
-  "heat": 10.9,
+  "heat": 10.8,
   "hot": false,
   "tags": [
    "data breach",
-   "settlement",
-   "litigation"
+   "litigation",
+   "settlement"
   ],
   "importance": 10.5,
   "kw_score": 6.0,
@@ -4812,7 +4814,7 @@
   ],
   "region": "国际",
   "category": "诉讼仲裁",
-  "heat": 7.1,
+  "heat": 7.0,
   "hot": false,
   "tags": [
    "arbitration"
@@ -4855,7 +4857,7 @@
   ],
   "region": "国内",
   "category": "行业实践",
-  "heat": 6.3,
+  "heat": 6.2,
   "hot": false,
   "tags": [
    "数据要素"
@@ -5094,7 +5096,7 @@
   ],
   "region": "国际",
   "category": "个人信息保护",
-  "heat": 7.9,
+  "heat": 7.8,
   "hot": false,
   "tags": [
    "privacy"
@@ -5501,7 +5503,7 @@
   ],
   "region": "国内",
   "category": "行业实践",
-  "heat": 6.3,
+  "heat": 6.2,
   "hot": false,
   "tags": [
    "监管"
@@ -5545,7 +5547,7 @@
   ],
   "region": "国际",
   "category": "诉讼仲裁",
-  "heat": 10.8,
+  "heat": 10.7,
   "hot": false,
   "tags": [
    "investigation",
@@ -5936,7 +5938,7 @@
   ],
   "region": "国内",
   "category": "行业实践",
-  "heat": 5.5,
+  "heat": 5.4,
   "hot": false,
   "tags": [],
   "importance": 1.5,
@@ -5963,6 +5965,97 @@
   ],
   "importance": 8.5,
   "kw_score": 4.0,
+  "weight": 2.0,
+  "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
+ },
+ "https://mp.weixin.qq.com/s?src=11&timestamp=1781343996&ver=6780&signature=lrbMRF0M3ZorHyyxrsd1FGMUj7HqXBhjlCYuyjRxJlfDf2nqGyn4M-RqtS-9reMJYBKPD-DIgj4*I9tIT7vPLsfPrHaWtnAJ-b4xCk0Z5JYgJt6iLUW3Q8w7CEerW2TL&new=1": {
+  "title": "数据合规 06:数据出境",
+  "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1781343996&ver=6780&signature=lrbMRF0M3ZorHyyxrsd1FGMUj7HqXBhjlCYuyjRxJlfDf2nqGyn4M-RqtS-9reMJYBKPD-DIgj4*I9tIT7vPLsfPrHaWtnAJ-b4xCk0Z5JYgJt6iLUW3Q8w7CEerW2TL&new=1",
+  "summary": "持续更新 数据合规 干货 联合课程六课完结!从网安法到数据安全法的体系已经完整覆盖01企业关系 → 02等保分级 → 03义务主体 → ...",
+  "time": "2026-06-13T09:35:38+08:00",
+  "date": "2026-06-13",
+  "sources": [
+   "微信公众号"
+  ],
+  "region": "国内",
+  "category": "跨境数据",
+  "heat": 17.5,
+  "hot": false,
+  "tags": [
+   "数据安全法",
+   "数据出境",
+   "数据合规"
+  ],
+  "importance": 17.0,
+  "kw_score": 12.0,
+  "weight": 2.0,
+  "reason": "涉及数据跨境流动规则，可能影响出境安全评估、标准合同备案等合规路径，建议出海/跨国业务团队关注。"
+ },
+ "https://mp.weixin.qq.com/s?src=11&timestamp=1781343996&ver=6780&signature=iUR1KRxl0agQjwUDkX-ZcT8fitKq3Zqa4UHfEDh2rGMWxiqNTfhZsLIf7WruyQUkF7xeraWLbWepFOY3vr24ESiM8UKejyx0-3wwrzOVaO24yo65HjMc4nf5R*JjqfT8&new=1": {
+  "title": "数据合规 |企业雇佣员工之个人信息保护合规指南",
+  "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1781343996&ver=6780&signature=iUR1KRxl0agQjwUDkX-ZcT8fitKq3Zqa4UHfEDh2rGMWxiqNTfhZsLIf7WruyQUkF7xeraWLbWepFOY3vr24ESiM8UKejyx0-3wwrzOVaO24yo65HjMc4nf5R*JjqfT8&new=1",
+  "summary": "【思维导图】员工的 个人信息保护 主要涉及到三个阶段:应聘阶段、入职阶段、工作阶段就 个人信息保护 ,无论哪个阶段,主要核心原...",
+  "time": "2026-06-13T09:23:45+08:00",
+  "date": "2026-06-13",
+  "sources": [
+   "微信公众号"
+  ],
+  "region": "国内",
+  "category": "个人信息保护",
+  "heat": 13.5,
+  "hot": false,
+  "tags": [
+   "数据合规",
+   "个人信息",
+   "合规"
+  ],
+  "importance": 10.0,
+  "kw_score": 8.0,
+  "weight": 2.0,
+  "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
+ },
+ "https://mp.weixin.qq.com/s?src=11&timestamp=1781343996&ver=6780&signature=aPIdGvW-FTp9xYv7OJJiNK1d0DRPh2vu7C3Q36aIrnUs-wZKAlcV3nTx4XQMGa*TWqNGVA4ul1VRnXGqFuBpwMyqs8Owqen9dgQAKarEyeR-izHITim-EsSSqa3we0qv&new=1": {
+  "title": "数据合规 |你的数据,谁在守护?——《中国个人信息保护报告(2025年)》双维度深度解读",
+  "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1781343996&ver=6780&signature=aPIdGvW-FTp9xYv7OJJiNK1d0DRPh2vu7C3Q36aIrnUs-wZKAlcV3nTx4XQMGa*TWqNGVA4ul1VRnXGqFuBpwMyqs8Owqen9dgQAKarEyeR-izHITim-EsSSqa3we0qv&new=1",
+  "summary": "跨境 数据 传输:找到你的” 合规 路径”报告原文 > 2025年,上海、浙江、广西、江苏、重庆、福建等6地自贸试验区和海南自贸港发布...",
+  "time": "2026-06-13T17:35:02+08:00",
+  "date": "2026-06-13",
+  "sources": [
+   "微信公众号"
+  ],
+  "region": "国内",
+  "category": "个人信息保护",
+  "heat": 13.0,
+  "hot": false,
+  "tags": [
+   "数据合规",
+   "个人信息",
+   "合规"
+  ],
+  "importance": 9.0,
+  "kw_score": 7.0,
+  "weight": 2.0,
+  "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
+ },
+ "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tT0JveTZ5WlRlODBpS1hiUmVtcm05UkJBLWtHODdCTnhVeGp4MEdXN3VXVU95ZTZLRFVoQkxnOEhzeWs2em12U0k0d2FmU3NraERJRjRPVldnSXl6T1MxR05RU3psZw?oc=5": {
+  "title": "伊朗向国际仲裁机构起诉美国：对伊朗核设施进行军事侵略、实施经济制裁等！伊方公布谈判5大先决条件：赔偿损失、解除制裁、解冻资金等",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tT0JveTZ5WlRlODBpS1hiUmVtcm05UkJBLWtHODdCTnhVeGp4MEdXN3VXVU95ZTZLRFVoQkxnOEhzeWs2em12U0k0d2FmU3NraERJRjRPVldnSXl6T1MxR05RU3psZw?oc=5",
+  "summary": "",
+  "time": "2026-05-13T15:00:00+08:00",
+  "date": "2026-05-13",
+  "sources": [
+   "每日经济新闻"
+  ],
+  "region": "国内",
+  "category": "诉讼仲裁",
+  "heat": 5.0,
+  "hot": false,
+  "tags": [
+   "仲裁",
+   "起诉"
+  ],
+  "importance": 7.5,
+  "kw_score": 3.0,
   "weight": 2.0,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
  }
