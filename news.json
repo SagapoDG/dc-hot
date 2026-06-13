@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-06-13T15:45:12.966177+08:00",
- "count": 104,
+ "generated_at": "2026-06-13T16:30:00.346728+08:00",
+ "count": 105,
  "highlight_count": 30,
  "errors": [
-  "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）",
+  "微信公众号: HTTP Error 502: Bad Gateway",
   "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）",
   "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）"
  ],
@@ -19,7 +19,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 17.7,
+   "heat": 17.6,
    "hot": true,
    "tags": [
     "数据安全法",
@@ -30,6 +30,29 @@
    "kw_score": 12.0,
    "weight": 2.0,
    "reason": "涉及数据跨境流动规则，可能影响出境安全评估、标准合同备案等合规路径，建议出海/跨国业务团队关注。"
+  },
+  {
+   "title": "《金融信息服务数据分类分级指南》印发",
+   "url": "https://36kr.com/newsflashes/3851331950728194?f=rss",
+   "summary": "36氪获悉，为指导金融信息服务机构开展数据分类分级和重要数据识别工作，提升金融信息服务数据安全水平，依据《中华人民共和国网络安全法》、《中华人民共和国数据安全法》、《中华人民共和国个人信息保护法》、《网络数据安全管理条例》、《金融信息服务管理规定》等法律法规规章和政策规定，国家互联网信息办公室、中国人民银行、国家金融监督管理总局、中国证券监督管理委员会、…",
+   "time": "2026-06-13T16:18:07+08:00",
+   "date": "2026-06-13",
+   "sources": [
+    "36氪"
+   ],
+   "region": "国内",
+   "category": "立法监管",
+   "heat": 17.5,
+   "hot": true,
+   "tags": [
+    "个人信息保护法",
+    "数据分类分级",
+    "数据安全法"
+   ],
+   "importance": 16.5,
+   "kw_score": 12.0,
+   "weight": 1.5,
+   "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
   },
   {
    "title": "数据合规 |企业雇佣员工之个人信息保护合规指南",
@@ -85,11 +108,11 @@
    "time": "2026-06-13T15:02:35+08:00",
    "date": "2026-06-13",
    "sources": [
-    "Sohu"
+    "搜狐网"
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 11.0,
+   "heat": 10.9,
    "hot": false,
    "tags": [
     "数据合规",
@@ -156,7 +179,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 10.3,
+   "heat": 10.2,
    "hot": false,
    "tags": [
     "investigation",
@@ -202,7 +225,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 7.8,
+   "heat": 7.7,
    "hot": false,
    "tags": [
     "仲裁"
@@ -303,7 +326,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 4.8,
+   "heat": 4.7,
    "hot": false,
    "tags": [],
    "importance": 4.0,
@@ -325,7 +348,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 21.3,
+   "heat": 21.2,
    "hot": true,
    "tags": [
     "个人信息",
@@ -345,7 +368,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 16.7,
+   "heat": 16.6,
    "hot": true,
    "tags": [
     "出境安全评估",
@@ -356,6 +379,31 @@
    "kw_score": 12.0,
    "weight": 2.0,
    "reason": "涉及数据跨境流动规则，可能影响出境安全评估、标准合同备案等合规路径，建议出海/跨国业务团队关注。"
+  },
+  {
+   "title": "中央网信办通报30款App个人信息收集使用问题",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9jWExZTnZGZ2lUUmdtV1FZaTdYZlBCRk5PVEU1Q2pNdGxQby1xOV9feUp3UUY1ZW96SmpjS0NzWmN5V1BlTGpvYWNOYjU0NUtlVzl4WFhZeE5XdzdvbENrcENvdGkzSXdfRGxjdEV3UTBsSjhOWkM1MWlCYjl6UQ?oc=5",
+   "summary": "",
+   "time": "2026-06-12T08:56:08+08:00",
+   "date": "2026-06-12",
+   "sources": [
+    "新华网",
+    "信息化观察网",
+    "大河网",
+    "QQ News"
+   ],
+   "region": "国内",
+   "category": "执法处罚",
+   "heat": 15.2,
+   "hot": true,
+   "tags": [
+    "个人信息",
+    "网信办"
+   ],
+   "importance": 15.5,
+   "kw_score": 5.0,
+   "weight": 2.0,
+   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
   },
   {
    "title": "Coordinated Supervision Committee extends scope to include Eurodac",
@@ -405,30 +453,6 @@
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
   },
   {
-   "title": "中央网信办通报30款App个人信息收集使用问题",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9jWExZTnZGZ2lUUmdtV1FZaTdYZlBCRk5PVEU1Q2pNdGxQby1xOV9feUp3UUY1ZW96SmpjS0NzWmN5V1BlTGpvYWNOYjU0NUtlVzl4WFhZeE5XdzdvbENrcENvdGkzSXdfRGxjdEV3UTBsSjhOWkM1MWlCYjl6UQ?oc=5",
-   "summary": "",
-   "time": "2026-06-12T08:56:08+08:00",
-   "date": "2026-06-12",
-   "sources": [
-    "新华网",
-    "信息化观察网",
-    "QQ News"
-   ],
-   "region": "国内",
-   "category": "执法处罚",
-   "heat": 13.3,
-   "hot": true,
-   "tags": [
-    "个人信息",
-    "网信办"
-   ],
-   "importance": 13.5,
-   "kw_score": 5.0,
-   "weight": 2.0,
-   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
-  },
-  {
    "title": "Labcorp Agrees to $35M Settlement to Resolve AMCA Data Breach Litigation",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBWb0FSWk5hMDJkMDkweF9hWVBkWUx2cm1hejNkUnRuaWtmLVMyd19JMGYybi1LVm1rSjZpZlBfMWRrTFY4YzR5bnAtbi15ejVSeXZJcXM2Q2hFcmZqR0tWekhoX1ZhYTV6cHlhdmtFVjVFYzQ?oc=5",
    "summary": "",
@@ -439,7 +463,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 11.0,
+   "heat": 10.9,
    "hot": false,
    "tags": [
     "data breach",
@@ -462,7 +486,7 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 10.3,
+   "heat": 10.2,
    "hot": false,
    "tags": [
     "个人信息",
@@ -478,11 +502,11 @@
    "time": "2026-06-12T21:13:50+08:00",
    "date": "2026-06-12",
    "sources": [
-    "Sohu"
+    "搜狐网"
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 10.0,
+   "heat": 9.9,
    "hot": false,
    "tags": [
     "个人信息",
@@ -495,7 +519,7 @@
   },
   {
    "title": "国家网信办发布《中国个人信息保护报告（2025年）》",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpYXJWbVJjUFhTMExHMXpxdUd5SVVxTXhvLTF3T3BkMENpZlQ3cHJob3hGajBsRU1abG5EY2d0Y3doNUhYOWloRmc5RWVUbEhMM19fZm5RTVY4SkZmdEFtVQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE92M1lYcFVRazgzaUl2MXdGSnRITlByeFl1MmFadndUSmVtYWhiMVZIQ3dRbnJJM25BeEY5MjZiOEljOXFkVTRYdWhUTGEyb1lwVU42TlZqZXBvMm5Uc1E?oc=5",
    "summary": "",
    "time": "2026-06-12T17:36:00+08:00",
    "date": "2026-06-12",
@@ -504,7 +528,7 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 9.8,
+   "heat": 9.7,
    "hot": false,
    "tags": [
     "个人信息",
@@ -517,7 +541,7 @@
   },
   {
    "title": "国家网信办发布《中国个人信息保护报告（2025年）》",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE92M1lYcFVRazgzaUl2MXdGSnRITlByeFl1MmFadndUSmVtYWhiMVZIQ3dRbnJJM25BeEY5MjZiOEljOXFkVTRYdWhUTGEyb1lwVU42TlZqZXBvMm5Uc1E?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpYXJWbVJjUFhTMExHMXpxdUd5SVVxTXhvLTF3T3BkMENpZlQ3cHJob3hGajBsRU1abG5EY2d0Y3doNUhYOWloRmc5RWVUbEhMM19fZm5RTVY4SkZmdEFtVQ?oc=5",
    "summary": "",
    "time": "2026-06-12T17:36:00+08:00",
    "date": "2026-06-12",
@@ -526,7 +550,7 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 9.8,
+   "heat": 9.7,
    "hot": false,
    "tags": [
     "个人信息",
@@ -548,7 +572,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 9.7,
+   "heat": 9.6,
    "hot": false,
    "tags": [
     "个人信息",
@@ -592,7 +616,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 9.3,
+   "heat": 9.2,
    "hot": false,
    "tags": [
     "investigation",
@@ -634,7 +658,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 9.1,
+   "heat": 9.0,
    "hot": false,
    "tags": [
     "investigation",
@@ -691,27 +715,6 @@
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
   },
   {
-   "title": "Louisiana Enacts Comprehensive Consumer Privacy Law",
-   "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/louisiana-enacts-comprehensive-consumer-privacy-law",
-   "summary": "Louisiana recently enacted the Louisiana Data Privacy Act, becoming the 22nd U.S. state to adopt a comprehensive consumer data privacy law. Continue Reading ›",
-   "time": "2026-06-12T21:00:01+08:00",
-   "date": "2026-06-12",
-   "sources": [
-    "Hunton 隐私与信息安全博客"
-   ],
-   "region": "国际",
-   "category": "个人信息保护",
-   "heat": 8.0,
-   "hot": false,
-   "tags": [
-    "privacy"
-   ],
-   "importance": 5.0,
-   "kw_score": 2.0,
-   "weight": 3.0,
-   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
-  },
-  {
    "title": "Kampala court convicts businesswoman over mobile loan data privacy breach",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQR0VyelNSQUhHXzlFRzNSYkh4Y0dMVzFlaVRYc0tfQTZleVNSUDh3YzRJOWh2cG96M2FsaV96LUhhRlBjMGJtbmpZLU5RaElSOVNiclExYWxpVWVCVHl4X2NhYWV0aFpKREgtUmQ5bHlqaVlWR3c3cWVYcnF3VFEydWd4OGY3SDhKMkd0ZzFEYWk5LWtnMnFFWDhYQ00yWU5LSTlRbFdYS2JWMXdkcTBoUF9yRjkwMDhIQ3A0NmpnQ3YzWERMM2Nr?oc=5",
    "summary": "",
@@ -732,6 +735,27 @@
    "kw_score": 3.0,
    "weight": 2.0,
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
+  },
+  {
+   "title": "Louisiana Enacts Comprehensive Consumer Privacy Law",
+   "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/louisiana-enacts-comprehensive-consumer-privacy-law",
+   "summary": "Louisiana recently enacted the Louisiana Data Privacy Act, becoming the 22nd U.S. state to adopt a comprehensive consumer data privacy law. Continue Reading ›",
+   "time": "2026-06-12T21:00:01+08:00",
+   "date": "2026-06-12",
+   "sources": [
+    "Hunton 隐私与信息安全博客"
+   ],
+   "region": "国际",
+   "category": "个人信息保护",
+   "heat": 7.9,
+   "hot": false,
+   "tags": [
+    "privacy"
+   ],
+   "importance": 5.0,
+   "kw_score": 2.0,
+   "weight": 3.0,
+   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
   },
   {
    "title": "InterDigital与亚马逊达成新的视频服务和设备许可协议",
@@ -764,7 +788,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 7.2,
+   "heat": 7.1,
    "hot": false,
    "tags": [
     "arbitration",
@@ -847,7 +871,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 7.1,
+   "heat": 7.0,
    "hot": false,
    "tags": [
     "arbitration"
@@ -866,7 +890,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 6.4,
+   "heat": 6.3,
    "hot": false,
    "tags": [
     "数据要素"
@@ -887,7 +911,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 6.4,
+   "heat": 6.3,
    "hot": false,
    "tags": [
     "数据要素"
@@ -908,7 +932,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 6.4,
+   "heat": 6.3,
    "hot": false,
    "tags": [
     "数据要素"
@@ -917,27 +941,6 @@
    "kw_score": 2.0,
    "weight": 2.0,
    "reason": "行业合规实践动态，可作为制度建设与对标参考。"
-  },
-  {
-   "title": "36氪研究院 | 2026年中国工业用品制造与流通报告",
-   "url": "https://36kr.com/p/3846798967818752?f=rss",
-   "summary": "当前，中国制造业正进入以智能化、绿色化、融合化为主要特征的高质量发展新阶段。随着市场需求日趋多元、产品迭代加快、交付要求提升，叠加成本与合规压力的多重约束，传统“大而全”的内部一体化模式边际效率递减，制造企业愈发聚焦研发、制造、工艺等核心能力，并将采购、仓配和供应链协同等非核心职能加速向外部专业服务体系转移，推动生产性服务业深度嵌入制造业运行体系。作为制…",
-   "time": "2026-06-12T12:00:00+08:00",
-   "date": "2026-06-12",
-   "sources": [
-    "36氪"
-   ],
-   "region": "国内",
-   "category": "执法处罚",
-   "heat": 6.0,
-   "hot": false,
-   "tags": [
-    "合规"
-   ],
-   "importance": 6.0,
-   "kw_score": 2.0,
-   "weight": 1.5,
-   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
   },
   {
    "title": "Scathing class-action lawsuit accuses Washington Post of surveillance pricing: ‘Covert data-harvesting’",
@@ -959,6 +962,27 @@
    "kw_score": 2.0,
    "weight": 2.0,
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
+  },
+  {
+   "title": "36氪研究院 | 2026年中国工业用品制造与流通报告",
+   "url": "https://36kr.com/p/3846798967818752?f=rss",
+   "summary": "当前，中国制造业正进入以智能化、绿色化、融合化为主要特征的高质量发展新阶段。随着市场需求日趋多元、产品迭代加快、交付要求提升，叠加成本与合规压力的多重约束，传统“大而全”的内部一体化模式边际效率递减，制造企业愈发聚焦研发、制造、工艺等核心能力，并将采购、仓配和供应链协同等非核心职能加速向外部专业服务体系转移，推动生产性服务业深度嵌入制造业运行体系。作为制…",
+   "time": "2026-06-12T12:00:00+08:00",
+   "date": "2026-06-12",
+   "sources": [
+    "36氪"
+   ],
+   "region": "国内",
+   "category": "执法处罚",
+   "heat": 5.9,
+   "hot": false,
+   "tags": [
+    "合规"
+   ],
+   "importance": 6.0,
+   "kw_score": 2.0,
+   "weight": 1.5,
+   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
   },
   {
    "title": "国家数据局发文：鼓励探索数据保险等资产化模式",
@@ -990,7 +1014,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 3.9,
+   "heat": 3.8,
    "hot": false,
    "tags": [
     "数据要素"
@@ -1028,7 +1052,7 @@
    "region": "国内",
    "category": "执法处罚",
    "heat": 12.4,
-   "hot": true,
+   "hot": false,
    "tags": [
     "个人信息",
     "网信办"
@@ -1158,7 +1182,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 8.7,
+   "heat": 8.6,
    "hot": false,
    "tags": [
     "investigation",
@@ -1226,7 +1250,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 7.5,
+   "heat": 7.4,
    "hot": false,
    "tags": [
     "数据出境",
@@ -1292,7 +1316,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 6.5,
+   "heat": 6.4,
    "hot": false,
    "tags": [
     "settlement",
@@ -1314,7 +1338,7 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 5.7,
+   "heat": 5.6,
    "hot": false,
    "tags": [
     "数据要素"
@@ -1323,27 +1347,6 @@
    "kw_score": 2.0,
    "weight": 2.0,
    "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
-  },
-  {
-   "title": "Enforcing Arbitral Awards In Nigeria Under the Arbitration and Mediation Act 2023: Legal framework, strategic challenges, and comparative perspectives",
-   "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQcTZXVUgtRGVnRzRUbTE5M0ZjVnp6U2dHWW53VzBwN2EtdS1Da2ZGSjByZ1BycVY2WDloaC1GbFhLVDdvekFod2NEY0V2RTRja2NSOUQ5cmZxdW9PRlpMWDExTC11Z2I3SGMza2NfdW9jVUh6ZlBja0F2RE9sTzZfLVB0aDQ3MWc0VlB4eWQyV1FkN2VVVDJiLThMdjkyUXdqYkg2a1czYmpLMHRuNG1NN0JDaDliMVNnTXU1WG9IS0o0S1ZNUkRmWUJsRUpfdG4zejZxbTJWMjJHT1NsMzBDdFFWUWdfZnl2ZUtxMGpMbnBaNzhYUHJOQXJpNGdkdlpLWjdrZlFRTTYxNm12S3oxTWhldzNOd1hiNk5hWU5JMDhYWExsZ1Nhd1FlMA?oc=5",
-   "summary": "Enforcing Arbitral Awards In Nigeria Under the Arbitration and Mediation Act 2023: Legal framework, strategic challenges, and comparative perspectives Business News Nigeria",
-   "time": "2026-06-11T19:42:38+08:00",
-   "date": "2026-06-11",
-   "sources": [
-    "Business News Nigeria"
-   ],
-   "region": "国际",
-   "category": "诉讼仲裁",
-   "heat": 5.6,
-   "hot": false,
-   "tags": [
-    "arbitration"
-   ],
-   "importance": 6.5,
-   "kw_score": 2.0,
-   "weight": 2.0,
-   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
   },
   {
    "title": "Enforcing Arbitral Awards In Nigeria Under the Arbitration and Mediation Act 2023: Legal framework, strategic challenges, and comparative perspectives",
@@ -1386,6 +1389,27 @@
    "kw_score": 2.0,
    "weight": 2.0,
    "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
+  },
+  {
+   "title": "Enforcing Arbitral Awards In Nigeria Under the Arbitration and Mediation Act 2023: Legal framework, strategic challenges, and comparative perspectives",
+   "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQcTZXVUgtRGVnRzRUbTE5M0ZjVnp6U2dHWW53VzBwN2EtdS1Da2ZGSjByZ1BycVY2WDloaC1GbFhLVDdvekFod2NEY0V2RTRja2NSOUQ5cmZxdW9PRlpMWDExTC11Z2I3SGMza2NfdW9jVUh6ZlBja0F2RE9sTzZfLVB0aDQ3MWc0VlB4eWQyV1FkN2VVVDJiLThMdjkyUXdqYkg2a1czYmpLMHRuNG1NN0JDaDliMVNnTXU1WG9IS0o0S1ZNUkRmWUJsRUpfdG4zejZxbTJWMjJHT1NsMzBDdFFWUWdfZnl2ZUtxMGpMbnBaNzhYUHJOQXJpNGdkdlpLWjdrZlFRTTYxNm12S3oxTWhldzNOd1hiNk5hWU5JMDhYWExsZ1Nhd1FlMA?oc=5",
+   "summary": "Enforcing Arbitral Awards In Nigeria Under the Arbitration and Mediation Act 2023: Legal framework, strategic challenges, and comparative perspectives Business News Nigeria",
+   "time": "2026-06-11T19:42:38+08:00",
+   "date": "2026-06-11",
+   "sources": [
+    "Business News Nigeria"
+   ],
+   "region": "国际",
+   "category": "诉讼仲裁",
+   "heat": 5.5,
+   "hot": false,
+   "tags": [
+    "arbitration"
+   ],
+   "importance": 6.5,
+   "kw_score": 2.0,
+   "weight": 2.0,
+   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
   },
   {
    "title": "国家数据局举行2026年“数据要素×”首场新闻发布会，指出“数据要素×”三年行动计划实施两年多来，在相关部门积极支持、各地大力推动和各界积极参与下，全社会数据意识明显提升，数据要素价值加快释放。#国家数据局 #数据 #数据要素× #数据要素",
@@ -1459,7 +1483,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 4.5,
+   "heat": 4.4,
    "hot": false,
    "tags": [
     "仲裁"
@@ -1594,7 +1618,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 1.2,
+   "heat": 1.1,
    "hot": false,
    "tags": [],
    "importance": 2.0,
@@ -1872,7 +1896,7 @@
    ],
    "region": "国际",
    "category": "行业实践",
-   "heat": 3.1,
+   "heat": 3.0,
    "hot": false,
    "tags": [
     "regulation"
@@ -2310,6 +2334,29 @@
     "reason": "涉及数据跨境流动规则，可能影响出境安全评估、标准合同备案等合规路径，建议出海/跨国业务团队关注。"
    },
    {
+    "title": "《金融信息服务数据分类分级指南》印发",
+    "url": "https://36kr.com/newsflashes/3851331950728194?f=rss",
+    "summary": "36氪获悉，为指导金融信息服务机构开展数据分类分级和重要数据识别工作，提升金融信息服务数据安全水平，依据《中华人民共和国网络安全法》、《中华人民共和国数据安全法》、《中华人民共和国个人信息保护法》、《网络数据安全管理条例》、《金融信息服务管理规定》等法律法规规章和政策规定，国家互联网信息办公室、中国人民银行、国家金融监督管理总局、中国证券监督管理委员会、…",
+    "time": "2026-06-13T16:18:07+08:00",
+    "date": "2026-06-13",
+    "sources": [
+     "36氪"
+    ],
+    "region": "国内",
+    "category": "立法监管",
+    "heat": 17.5,
+    "hot": true,
+    "tags": [
+     "个人信息保护法",
+     "数据分类分级",
+     "数据安全法"
+    ],
+    "importance": 16.5,
+    "kw_score": 12.0,
+    "weight": 1.5,
+    "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
+   },
+   {
     "title": "券商数据合规新规征求意见，严卡APP用户隐私与数据跨境流动",
     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE95ck9KRUVxQ203NldqWnduU3lWekdzNmNzUGVMUERjYmdSSzd4cHlrenJLNXBYQlktNWQySndsSW9UNXN0UUR3ek1ka1NNRFpNR0tIZjkzcEg?oc=5",
     "summary": "",
@@ -2470,7 +2517,7 @@
     ],
     "region": "国内",
     "category": "跨境数据",
-    "heat": 7.5,
+    "heat": 7.4,
     "hot": false,
     "tags": [
      "数据出境",
@@ -2524,27 +2571,6 @@
     "kw_score": 2.0,
     "weight": 2.0,
     "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
-   },
-   {
-    "title": "自由贸易试验区、国家服务业扩大开放综合试点地区（上海）数据出境负面清单管理办法及负面清单（2025版）答记者问",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TMmw0bHBKVnA1MTlWY28xOF9ZMGZHNTVmX1M3Zk9zQ2V2S0IzeENOV3RNNzN3N1VxMzNOVGRNMElzYmtyQjQ0MjVMTTRocElSdUxwdFRtVUktUzBMVXUxU3lSMzRBZE41dHU0V19KZmM?oc=5",
-    "summary": "",
-    "time": "2026-04-27T15:00:00+08:00",
-    "date": "2026-04-27",
-    "sources": [
-     "pudong.gov.cn"
-    ],
-    "region": "国内",
-    "category": "跨境数据",
-    "heat": 5.0,
-    "hot": false,
-    "tags": [
-     "数据出境"
-    ],
-    "importance": 8.0,
-    "kw_score": 3.0,
-    "weight": 2.0,
-    "reason": "涉及数据跨境流动规则，可能影响出境安全评估、标准合同备案等合规路径，建议出海/跨国业务团队关注。"
    }
   ],
   "cases": [
@@ -2642,25 +2668,27 @@
    },
    {
     "title": "中央网信办通报30款App个人信息收集使用问题",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10bW1paUd5TzdxRW44WDBQeU5Id2N5bHRzbzMtY3R4VklrWENRY29vaUh4cDB3bzU3b3MtUFVXSVpLWTl6LXRZT2J1TWxHNTduaWVxMm9EeEN1dVo5MVI4RA?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9jWExZTnZGZ2lUUmdtV1FZaTdYZlBCRk5PVEU1Q2pNdGxQby1xOV9feUp3UUY1ZW96SmpjS0NzWmN5V1BlTGpvYWNOYjU0NUtlVzl4WFhZeE5XdzdvbENrcENvdGkzSXdfRGxjdEV3UTBsSjhOWkM1MWlCYjl6UQ?oc=5",
     "summary": "",
     "time": "2026-06-12T08:56:08+08:00",
     "date": "2026-06-12",
     "sources": [
-     "信息化观察网",
      "新华网",
-     "搜狐网",
+     "信息化观察网",
+     "大河网",
      "QQ News"
     ],
     "region": "国内",
     "category": "执法处罚",
-    "heat": 15.9,
-    "hot": false,
+    "heat": 15.2,
+    "hot": true,
     "tags": [
      "个人信息",
      "网信办"
     ],
     "importance": 15.5,
+    "kw_score": 5.0,
+    "weight": 2.0,
     "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
    },
    {
@@ -2780,6 +2808,30 @@
     "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
    },
    {
+    "title": "Datavant Group to Pay $900,000 to Settle Class Action Data Breach Lawsuit",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYU1IME5JWTl6cnBxV2dSUGtPMi1IR2hHSmhzeDV0dHRUdmZtdDgwQ2FkTHY2b3d2d0haYXNDTHhaNTZrX0lTZVNxeDd2VXVNVm85R25YZGZIbUtBa2I0dENnYUVWYk9ESHIyX0hPOUpnUmdLOGo4NVBITUc4dXFrNnAtaVVyTEE?oc=5",
+    "summary": "",
+    "time": "2026-05-22T15:00:00+08:00",
+    "date": "2026-05-22",
+    "sources": [
+     "The HIPAA Journal",
+     "Claim Depot"
+    ],
+    "region": "国际",
+    "category": "诉讼仲裁",
+    "heat": 10.0,
+    "hot": false,
+    "tags": [
+     "class action",
+     "data breach",
+     "lawsuit"
+    ],
+    "importance": 12.5,
+    "kw_score": 6.0,
+    "weight": 2.0,
+    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
+   },
+   {
     "title": "Estée Lauder Companies reaches settlement in data breach class action lawsuit",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcTB0eWg2NnRMdXl5ZU05RTFYd0tXUUFEczVPbmVXYVN2TTV2aTQyYWYxTzFsaEZ3Z0hMX2tQamc2d0VHWUN3YTBxZWtpcE9kZW5USnRJQkhOUFAyYTZkYVpSNVl4MU5hSTY3aUdmaUZyeXJYUGllNERuSUQ5YU84T2lIa1dPclVzWHlHWmFKQnRMM0oycHc?oc=5",
     "summary": "",
@@ -2867,29 +2919,6 @@
      "lawsuit"
     ],
     "importance": 11.5,
-    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
-   },
-   {
-    "title": "Dresden court hits Meta with €1,500 GDPR fine over Instagram tracking",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNTRtcHl1U2pZNnRxR1pVWTVJU25TQXQ1SlpEbmZIakxyMEdOUTM1SHhaS0RBUlIxZzdPYmxlTmltRVZsckt4XzAyMTF6Y0g1ZlN2ajYtZWF2dE9lYzg4WjZLVHRDQm9UUHp0NTN5bnQ3UjNob0duUWx6RVgyNkxIWXNHcFF2ckJTejc4UnUxN3lEdGs?oc=5",
-    "summary": "",
-    "time": "2026-04-19T15:00:00+08:00",
-    "date": "2026-04-19",
-    "sources": [
-     "PPC Land"
-    ],
-    "region": "国际",
-    "category": "诉讼仲裁",
-    "heat": 8.0,
-    "hot": false,
-    "tags": [
-     "court",
-     "GDPR",
-     "fine"
-    ],
-    "importance": 10.5,
-    "kw_score": 6.0,
-    "weight": 2.0,
     "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
    }
   ]
