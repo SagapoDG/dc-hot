@@ -1,13 +1,11 @@
 {
- "generated_at": "2026-06-13T13:23:47.056574+08:00",
- "count": 96,
+ "generated_at": "2026-06-13T13:54:55.747877+08:00",
+ "count": 98,
  "highlight_count": 30,
  "errors": [
   "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）",
   "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）",
-  "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）",
-  "36氪: <urlopen error _ssl.c:1112: The handshake operation timed out>",
-  "Solidot: Remote end closed connection without response"
+  "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）"
  ],
  "items": [
   {
@@ -44,7 +42,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 13.8,
+   "heat": 13.7,
    "hot": true,
    "tags": [
     "数据合规",
@@ -76,6 +74,29 @@
     "lawsuit"
    ],
    "importance": 11.5,
+   "kw_score": 5.0,
+   "weight": 2.0,
+   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
+  },
+  {
+   "title": "Paylogix Data Breach Lawsuit Investigation",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45a2pCYkNnbnljazF6bVJDYk14c1F6OFJDNHNwSnFRWlZMckhZaVZTQ0R0TGxlbTNoMTdFdzVDT0ZObl80eVJNeTZQNE0yYm1mYnUyZklGclVvSkQ1N0dIZ3VHTXlaX2h0T1hsWVN0Z2p2LUpSZmc?oc=5",
+   "summary": "",
+   "time": "2026-06-13T12:51:30+08:00",
+   "date": "2026-06-13",
+   "sources": [
+    "Claim Depot"
+   ],
+   "region": "国际",
+   "category": "诉讼仲裁",
+   "heat": 10.9,
+   "hot": false,
+   "tags": [
+    "investigation",
+    "data breach",
+    "lawsuit"
+   ],
+   "importance": 9.5,
    "kw_score": 5.0,
    "weight": 2.0,
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
@@ -114,7 +135,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 10.3,
+   "heat": 10.2,
    "hot": false,
    "tags": [
     "fine",
@@ -158,7 +179,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 6.5,
+   "heat": 6.4,
    "hot": false,
    "tags": [
     "监管"
@@ -179,7 +200,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 5.3,
+   "heat": 5.2,
    "hot": false,
    "tags": [],
    "importance": 4.5,
@@ -262,7 +283,7 @@
     "新华网",
     "信息化观察网",
     "Sohu",
-    "qq.com"
+    "QQ News"
    ],
    "region": "国内",
    "category": "执法处罚",
@@ -466,7 +487,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 9.6,
+   "heat": 9.5,
    "hot": false,
    "tags": [
     "个人信息",
@@ -509,7 +530,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 9.4,
+   "heat": 9.3,
    "hot": false,
    "tags": [
     "investigation",
@@ -825,7 +846,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 6.2,
+   "heat": 6.1,
    "hot": false,
    "tags": [
     "lawsuit"
@@ -867,7 +888,7 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 4.9,
+   "heat": 4.8,
    "hot": false,
    "tags": [],
    "importance": 5.0,
@@ -905,7 +926,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 2.5,
+   "heat": 2.4,
    "hot": false,
    "tags": [],
    "importance": 2.0,
@@ -923,7 +944,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 12.6,
+   "heat": 12.5,
    "hot": true,
    "tags": [
     "个人信息",
@@ -943,7 +964,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 12.1,
+   "heat": 12.0,
    "hot": false,
    "tags": [
     "个人信息",
@@ -996,6 +1017,29 @@
    "tags": [],
    "importance": 6.0,
    "reason": "行业合规实践动态，可作为制度建设与对标参考。"
+  },
+  {
+   "title": "Taos Mountain Casino Data Breach Lawsuit Investigation",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQY0RmdDA3WDRwSDVvU3ZOWlRnNkhncHItYzVaaUJMNkY1NVR3ZHoxOWZKVFpQcGd0OE1kT0JaT1hQelBzeXJXQ3h2UTNIb2RIalFiTVNYVXc1bEJFaEh4bl9LZjBoQjdMNkxPWE55bDM3R2NPNkdobEhjbW9wOExONTMxV1VzQQ?oc=5",
+   "summary": "",
+   "time": "2026-06-11T21:55:54+08:00",
+   "date": "2026-06-11",
+   "sources": [
+    "Claim Depot"
+   ],
+   "region": "国际",
+   "category": "诉讼仲裁",
+   "heat": 8.8,
+   "hot": false,
+   "tags": [
+    "investigation",
+    "data breach",
+    "lawsuit"
+   ],
+   "importance": 9.5,
+   "kw_score": 5.0,
+   "weight": 2.0,
+   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
   },
   {
    "title": "GDPR Enforcement in Austria",
@@ -1075,7 +1119,7 @@
    ],
    "region": "国际",
    "category": "执法处罚",
-   "heat": 7.5,
+   "heat": 7.4,
    "hot": false,
    "tags": [
     "privacy",
@@ -1085,28 +1129,6 @@
    "kw_score": 4.0,
    "weight": 2.0,
    "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
-  },
-  {
-   "title": "Brazil Steps Up Regulation of Violence Against Women in the Digital Environment",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORG9zZ01neUVDbVFDWVFjcndDWGVNZmx5d1pGUGxqMDhDUjVCWW9ZNENlSWdtalp5cXFUR01pN2ptMDY1WXQxVjFxdEdySHhrcVV3aWRSU2pBYzZvX3VEZ1Y2d3dxVkFOV1FFT1l0SExPYUxHaEFaYTduQ28zSERDZlFUQTYwOTNQanljbnl3U0hHWnk4X2U1UkdUR1h0VnlNWHN5N19FRDk2bXNoYU9hNk9TcUpuMEt3ZmVVYkpGU2NKdw?oc=5",
-   "summary": "",
-   "time": "2026-06-11T19:09:01+08:00",
-   "date": "2026-06-11",
-   "sources": [
-    "Inside Privacy"
-   ],
-   "region": "国际",
-   "category": "行业实践",
-   "heat": 6.7,
-   "hot": false,
-   "tags": [
-    "regulation",
-    "privacy"
-   ],
-   "importance": 5.0,
-   "kw_score": 3.0,
-   "weight": 2.0,
-   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
   },
   {
    "title": "Facebook users to receive second privacy settlement payment from $725M pool",
@@ -1129,6 +1151,28 @@
    "kw_score": 4.0,
    "weight": 2.0,
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
+  },
+  {
+   "title": "Brazil Steps Up Regulation of Violence Against Women in the Digital Environment",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORG9zZ01neUVDbVFDWVFjcndDWGVNZmx5d1pGUGxqMDhDUjVCWW9ZNENlSWdtalp5cXFUR01pN2ptMDY1WXQxVjFxdEdySHhrcVV3aWRSU2pBYzZvX3VEZ1Y2d3dxVkFOV1FFT1l0SExPYUxHaEFaYTduQ28zSERDZlFUQTYwOTNQanljbnl3U0hHWnk4X2U1UkdUR1h0VnlNWHN5N19FRDk2bXNoYU9hNk9TcUpuMEt3ZmVVYkpGU2NKdw?oc=5",
+   "summary": "",
+   "time": "2026-06-11T19:09:01+08:00",
+   "date": "2026-06-11",
+   "sources": [
+    "Inside Privacy"
+   ],
+   "region": "国际",
+   "category": "行业实践",
+   "heat": 6.6,
+   "hot": false,
+   "tags": [
+    "regulation",
+    "privacy"
+   ],
+   "importance": 5.0,
+   "kw_score": 3.0,
+   "weight": 2.0,
+   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
   },
   {
    "title": "文字实录 | 国家数据局举办2026年“数据要素×”新闻发布会（第一场）",
@@ -1183,7 +1227,7 @@
    ],
    "region": "国际",
    "category": "个人信息保护",
-   "heat": 5.7,
+   "heat": 5.6,
    "hot": false,
    "tags": [
     "privacy"
@@ -1204,7 +1248,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 5.7,
+   "heat": 5.6,
    "hot": false,
    "tags": [
     "arbitration"
@@ -1244,7 +1288,7 @@
    ],
    "region": "国际",
    "category": "立法监管",
-   "heat": 4.8,
+   "heat": 4.7,
    "hot": false,
    "tags": [],
    "importance": 6.0,
@@ -1263,7 +1307,7 @@
    ],
    "region": "国际",
    "category": "个人信息保护",
-   "heat": 4.8,
+   "heat": 4.7,
    "hot": false,
    "tags": [
     "privacy"
@@ -1305,7 +1349,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 4.2,
+   "heat": 4.1,
    "hot": false,
    "tags": [
     "合规"
@@ -1316,29 +1360,10 @@
    "reason": "行业合规实践动态，可作为制度建设与对标参考。"
   },
   {
-   "title": "国家数据局：提前超额完成打造300个以上示范应用场景目标",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4zY20yX1htUnJvOWhwMENHTGxHUFB4Yi1pZHU0Z0dlYkRxcmpIWnNfV19saEQ1c1JXMFlPWW05THJhLTR4bDY4OFkzUjJYRTBOQ2JMMA?oc=5",
-   "summary": "",
-   "time": "2026-06-11T23:06:00+08:00",
-   "date": "2026-06-11",
-   "sources": [
-    "第一财经"
-   ],
-   "region": "国内",
-   "category": "行业实践",
-   "heat": 3.9,
-   "hot": false,
-   "tags": [],
-   "importance": 2.0,
-   "kw_score": 0.0,
-   "weight": 2.0,
-   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
-  },
-  {
    "title": "AI进化速递丨国家数据局召开“完善数据相关规则 赋能人工智能创新发展”座谈会",
-   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNZ2NlMVNOa3RrTnNST1hibkNhYU40czRjM2E0enRXSjBfcjQzb01LUEhMZU5kOFN1UGtfUUpFekEtaExubjIxbjk0QlJJaWdPVU11cUlpLU5pTXRtUV9qNUdfU243NEVXZVltX3hPSV8ySHcycXItZ2x4ZnFLWVdsYUlGRF9rdFJkRUJKYXJTZDFXWTM1SlI1QS1DbFBxNVNoa3Y5ZWI2WFdockNYUnJDZGVMdWJ1R2hvNU5EOUEycHVRd29ZeHVPb3FVU29KdEpWVzNxUXBSbms4MzdXZ0c3c0syVE1kYXRkWmxyUjJNbHBEWC1xWkt6MHlqVGhIUQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQUkJrZ1hIZkFHN3VnOElEY3NhdEp5dk02X0NkMXFHRmlwY3pHOTlEa3hTcTR1RGFGVjAwVXE2WGdJV09qUHZ1TEI0THV5LTd1N0M1YUFxdGE0NE1tcUt0MGViVGtCQTVxUDhFOG5hYjVxSUU5WFhSVS1tLXZzU210em5TM04wRzRlQlZxSENFN3NSeTJhbzhPOWlHQmdLY2VmU2c3SEhHLUpYenlldG5nS3NPekRhc295Nll4WHlvRXVxVmtLTGQ1UGd2UXgxYVJnbW1jeGJ4Z1cwd0JOWUhDU1pzMkhfN0Q0dkt0dDJvZXBIYTZEelNoam5xenBEclJxSkhaVzFpS1BtTG5PdXc?oc=5",
    "summary": "",
-   "time": "2026-06-11T21:25:03+08:00",
+   "time": "2026-06-11T21:25:04+08:00",
    "date": "2026-06-11",
    "sources": [
     "手机新浪网"
@@ -1354,10 +1379,29 @@
    "reason": "行业合规实践动态，可作为制度建设与对标参考。"
   },
   {
-   "title": "AI进化速递丨国家数据局召开“完善数据相关规则 赋能人工智能创新发展”座谈会",
-   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQUkJrZ1hIZkFHN3VnOElEY3NhdEp5dk02X0NkMXFHRmlwY3pHOTlEa3hTcTR1RGFGVjAwVXE2WGdJV09qUHZ1TEI0THV5LTd1N0M1YUFxdGE0NE1tcUt0MGViVGtCQTVxUDhFOG5hYjVxSUU5WFhSVS1tLXZzU210em5TM04wRzRlQlZxSENFN3NSeTJhbzhPOWlHQmdLY2VmU2c3SEhHLUpYenlldG5nS3NPekRhc295Nll4WHlvRXVxVmtLTGQ1UGd2UXgxYVJnbW1jeGJ4Z1cwd0JOWUhDU1pzMkhfN0Q0dkt0dDJvZXBIYTZEelNoam5xenBEclJxSkhaVzFpS1BtTG5PdXc?oc=5",
+   "title": "国家数据局：提前超额完成打造300个以上示范应用场景目标",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4zY20yX1htUnJvOWhwMENHTGxHUFB4Yi1pZHU0Z0dlYkRxcmpIWnNfV19saEQ1c1JXMFlPWW05THJhLTR4bDY4OFkzUjJYRTBOQ2JMMA?oc=5",
    "summary": "",
-   "time": "2026-06-11T21:25:04+08:00",
+   "time": "2026-06-11T23:06:00+08:00",
+   "date": "2026-06-11",
+   "sources": [
+    "第一财经"
+   ],
+   "region": "国内",
+   "category": "行业实践",
+   "heat": 3.8,
+   "hot": false,
+   "tags": [],
+   "importance": 2.0,
+   "kw_score": 0.0,
+   "weight": 2.0,
+   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
+  },
+  {
+   "title": "AI进化速递丨国家数据局召开“完善数据相关规则 赋能人工智能创新发展”座谈会",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNZ2NlMVNOa3RrTnNST1hibkNhYU40czRjM2E0enRXSjBfcjQzb01LUEhMZU5kOFN1UGtfUUpFekEtaExubjIxbjk0QlJJaWdPVU11cUlpLU5pTXRtUV9qNUdfU243NEVXZVltX3hPSV8ySHcycXItZ2x4ZnFLWVdsYUlGRF9rdFJkRUJKYXJTZDFXWTM1SlI1QS1DbFBxNVNoa3Y5ZWI2WFdockNYUnJDZGVMdWJ1R2hvNU5EOUEycHVRd29ZeHVPb3FVU29KdEpWVzNxUXBSbms4MzdXZ0c3c0syVE1kYXRkWmxyUjJNbHBEWC1xWkt6MHlqVGhIUQ?oc=5",
+   "summary": "",
+   "time": "2026-06-11T21:25:03+08:00",
    "date": "2026-06-11",
    "sources": [
     "手机新浪网"
@@ -1436,7 +1480,7 @@
    ],
    "region": "国际",
    "category": "立法监管",
-   "heat": 15.4,
+   "heat": 15.3,
    "hot": true,
    "tags": [
     "data protection",
@@ -1547,7 +1591,7 @@
    ],
    "region": "国际",
    "category": "执法处罚",
-   "heat": 7.1,
+   "heat": 7.0,
    "hot": false,
    "tags": [
     "个人信息",
@@ -1568,7 +1612,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 6.3,
+   "heat": 6.2,
    "hot": false,
    "tags": [
     "arbitration",
@@ -1718,7 +1762,7 @@
    ],
    "region": "国际",
    "category": "立法监管",
-   "heat": 2.4,
+   "heat": 2.3,
    "hot": false,
    "tags": [],
    "importance": 5.0,
@@ -1748,29 +1792,6 @@
    "kw_score": 12.0,
    "weight": 2.5,
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
-  },
-  {
-   "title": "对引发3370万件个人信息泄露事故的coupang的制裁力度最早将于10日决定。业界正在关注,由于泄露规模较大,再加上个人信息保护法上适用销售额联动罚款规定,因此有可能被处以历史最高水平的罚款。9日",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFByeXgyeXJnZkx6RV9pUlg1ckJvVzc4QzNDWUVIdnRQWWxRR3cwU0stRU1BVm1BOEpBcl9tY2RtdHFBWTk1Q1pZX240Y2lsTVY1OUpr?oc=5",
-   "summary": "",
-   "time": "2026-06-09T14:15:27+08:00",
-   "date": "2026-06-09",
-   "sources": [
-    "매일경제"
-   ],
-   "region": "国内",
-   "category": "执法处罚",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "个人信息保护法",
-    "个人信息",
-    "罚款"
-   ],
-   "importance": 15.5,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
   },
   {
    "title": "个人信息保护委员会9日表示,将于10日召开全体会议,审议Coupang是否违反《个人信息保护法》和罚款等制裁力度。 此次审议是自去年11月coupang个人信息泄露事实曝光后,时隔7个月再次进行审议。",
@@ -1817,6 +1838,29 @@
    "kw_score": 8.0,
    "weight": 2.0,
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
+  },
+  {
+   "title": "对引发3370万件个人信息泄露事故的coupang的制裁力度最早将于10日决定。业界正在关注,由于泄露规模较大,再加上个人信息保护法上适用销售额联动罚款规定,因此有可能被处以历史最高水平的罚款。9日",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFByeXgyeXJnZkx6RV9pUlg1ckJvVzc4QzNDWUVIdnRQWWxRR3cwU0stRU1BVm1BOEpBcl9tY2RtdHFBWTk1Q1pZX240Y2lsTVY1OUpr?oc=5",
+   "summary": "",
+   "time": "2026-06-09T14:15:27+08:00",
+   "date": "2026-06-09",
+   "sources": [
+    "매일경제"
+   ],
+   "region": "国内",
+   "category": "执法处罚",
+   "heat": 10.0,
+   "hot": false,
+   "tags": [
+    "个人信息保护法",
+    "个人信息",
+    "罚款"
+   ],
+   "importance": 15.5,
+   "kw_score": 8.0,
+   "weight": 2.0,
+   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
   },
   {
    "title": "Deutsche Wohnen's 2019 GDPR fine cut from €14.5m to €0.9m after appeal saga",
@@ -2053,7 +2097,7 @@
     ],
     "region": "国际",
     "category": "立法监管",
-    "heat": 15.4,
+    "heat": 15.3,
     "hot": true,
     "tags": [
      "data protection",
@@ -2429,7 +2473,7 @@
     ],
     "region": "国内",
     "category": "执法处罚",
-    "heat": 12.1,
+    "heat": 12.0,
     "hot": false,
     "tags": [
      "个人信息",
@@ -2474,7 +2518,7 @@
      "新华网",
      "信息化观察网",
      "Sohu",
-     "qq.com"
+     "QQ News"
     ],
     "region": "国内",
     "category": "执法处罚",
@@ -2629,6 +2673,29 @@
     "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
    },
    {
+    "title": "Estée Lauder Companies reaches settlement in data breach class action lawsuit",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcTB0eWg2NnRMdXl5ZU05RTFYd0tXUUFEczVPbmVXYVN2TTV2aTQyYWYxTzFsaEZ3Z0hMX2tQamc2d0VHWUN3YTBxZWtpcE9kZW5USnRJQkhOUFAyYTZkYVpSNVl4MU5hSTY3aUdmaUZyeXJYUGllNERuSUQ5YU84T2lIa1dPclVzWHlHWmFKQnRMM0oycHc?oc=5",
+    "summary": "",
+    "time": "2026-04-29T15:00:00+08:00",
+    "date": "2026-04-29",
+    "sources": [
+     "Cosmetics Business"
+    ],
+    "region": "国际",
+    "category": "诉讼仲裁",
+    "heat": 10.0,
+    "hot": false,
+    "tags": [
+     "class action",
+     "data breach",
+     "settlement"
+    ],
+    "importance": 12.5,
+    "kw_score": 8.0,
+    "weight": 2.0,
+    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
+   },
+   {
     "title": "Elkjop hit with NOK 20m GDPR fine over loyalty club consent failures",
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYnNNOElkeWtWM0hSTVdUZV9kQ2RnZTBDYXhwc2pmWG12clFkYURXTHR3YzFKQ2NPVVJjTTg0cVkzaFBMdlJ5ZWNGa2FmeHFMYjl4OWtiWGtmNFJkMG16b2VITVFRNWdRUko5ZzFrOVN5RW5OSnFGem4xT0E0VEgyQmNHTGxDOXVlUE96em5Iaw?oc=5",
     "summary": "",
@@ -2671,28 +2738,6 @@
     ],
     "importance": 11.5,
     "kw_score": 7.0,
-    "weight": 2.0,
-    "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
-   },
-   {
-    "title": "U.S. companies hit with record fines for privacy in 2025",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONm1CWE1acTEyTEs2MjhQekVucWdqU01ZRERVcW5LVTNaMnVVNk1kVURhY01MZ3NvcjM5QzBxTkEwek5TUUxTaEM1azA0NVhCZWV6c2RJM093VktOel90MVktaHkzNUhZcUlCR2h3U3RNU0NvTmhWMXFqaUNOUEI2S1J3?oc=5",
-    "summary": "",
-    "time": "2026-04-28T15:00:00+08:00",
-    "date": "2026-04-28",
-    "sources": [
-     "CyberScoop"
-    ],
-    "region": "国际",
-    "category": "执法处罚",
-    "heat": 6.0,
-    "hot": false,
-    "tags": [
-     "privacy",
-     "fine"
-    ],
-    "importance": 11.5,
-    "kw_score": 4.0,
     "weight": 2.0,
     "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
    },
