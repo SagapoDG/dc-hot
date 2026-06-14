@@ -1,11 +1,14 @@
 {
- "generated_at": "2026-06-14T08:20:42.233552+08:00",
+ "generated_at": "2026-06-14T08:50:07.242884+08:00",
  "count": 121,
  "highlight_count": 30,
  "errors": [
+  "noyb 欧洲数字权利中心: The read operation timed out",
+  "The Hacker News: The read operation timed out",
+  "微信公众号: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
   "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）",
   "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）",
-  "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）"
+  "36氪: <urlopen error _ssl.c:1112: The handshake operation timed out>"
  ],
  "items": [
   {
@@ -19,7 +22,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 10.6,
+   "heat": 10.5,
    "hot": false,
    "tags": [
     "数据合规",
@@ -41,7 +44,7 @@
    ],
    "region": "国际",
    "category": "行业实践",
-   "heat": 5.6,
+   "heat": 5.5,
    "hot": false,
    "tags": [],
    "importance": 2.0,
@@ -108,7 +111,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 17.2,
+   "heat": 17.1,
    "hot": true,
    "tags": [
     "出境安全评估",
@@ -189,6 +192,29 @@
    "kw_score": 5.0,
    "weight": 2.0,
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
+  },
+  {
+   "title": "周末重磅！六部门，联合印发金融信息服务数据分类分级指南！",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aWGRoZWV2WUNMaEpNTGxHMzI3aUhfd1dVS3ZUQ3JMRXhFZWZGMG16eXhudWdjQkNGY2ktV1pud0FUVFpSS0xfWXZPakF1OE9JZEVPcXRSWWh1NUR3?oc=5",
+   "summary": "",
+   "time": "2026-06-13T16:03:18+08:00",
+   "date": "2026-06-13",
+   "sources": [
+    "证券时报",
+    "新浪财经"
+   ],
+   "region": "国内",
+   "category": "行业实践",
+   "heat": 11.1,
+   "hot": false,
+   "tags": [
+    "数据分类分级",
+    "指南"
+   ],
+   "importance": 8.0,
+   "kw_score": 4.0,
+   "weight": 2.0,
+   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
   },
   {
    "title": "汽车出海新考：数据合规、智驾基建短缺成“拦路虎”",
@@ -423,7 +449,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 6.9,
+   "heat": 6.8,
    "hot": false,
    "tags": [
     "仲裁"
@@ -432,6 +458,25 @@
    "kw_score": 2.0,
    "weight": 2.0,
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
+  },
+  {
+   "title": "给AI装上'仪表盘'、国家数据局连出重拳：今天数据与科技政策密集发布",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObDBuUWZ2bE9Pc0VrQzFvX3hKM3lCbi1GUjVZMDBsT2MzYldkamMtRnkzQkFDdG5YbWdORDUwektGVDVzaGljbkhWRFVjdndiR0hoWDlsMVZaSGpJX0VmMjRlNzBQcVlxSDNWQ25maEsySzJXSGV4eVYwOUxfUmRJT2o4RWtrRVkwaUZvWUVJTWxvSWZGWUxlSA?oc=5",
+   "summary": "",
+   "time": "2026-06-13T23:34:48+08:00",
+   "date": "2026-06-13",
+   "sources": [
+    "积墨 AI"
+   ],
+   "region": "国内",
+   "category": "立法监管",
+   "heat": 5.5,
+   "hot": false,
+   "tags": [],
+   "importance": 5.0,
+   "kw_score": 0.0,
+   "weight": 2.0,
+   "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
   },
   {
    "title": "36氪研究院 | AI时代留学就业白皮书：中国留学生全球就业趋势与人才价值重塑",
@@ -455,44 +500,6 @@
    "reason": "行业合规实践动态，可作为制度建设与对标参考。"
   },
   {
-   "title": "清华孟庆国教授解读国家数据局行业高质量数据集行动方案：推动行业高质量数据集建设，实现与”人工智能+”同频共振",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zZWY0bldOdGFsQl9BSExuT2lMS2ZvN0w4TVdBVVFSSDVpNlNQY0tiUFVscXl5cWNZcGMwbzBVMUd6Nlhwb2huVEJZeHpSY1dqRkRPVF9YQ2hHOFJSQ0E5eThJcWxvNVhhLVB2Vw?oc=5",
-   "summary": "",
-   "time": "2026-06-13T22:41:00+08:00",
-   "date": "2026-06-13",
-   "sources": [
-    "智慧城市行业分析"
-   ],
-   "region": "国内",
-   "category": "行业实践",
-   "heat": 5.5,
-   "hot": false,
-   "tags": [],
-   "importance": 2.0,
-   "kw_score": 0.0,
-   "weight": 2.0,
-   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
-  },
-  {
-   "title": "给AI装上'仪表盘'、国家数据局连出重拳：今天数据与科技政策密集发布",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObDBuUWZ2bE9Pc0VrQzFvX3hKM3lCbi1GUjVZMDBsT2MzYldkamMtRnkzQkFDdG5YbWdORDUwektGVDVzaGljbkhWRFVjdndiR0hoWDlsMVZaSGpJX0VmMjRlNzBQcVlxSDNWQ25maEsySzJXSGV4eVYwOUxfUmRJT2o4RWtrRVkwaUZvWUVJTWxvSWZGWUxlSA?oc=5",
-   "summary": "",
-   "time": "2026-06-13T23:34:48+08:00",
-   "date": "2026-06-13",
-   "sources": [
-    "积墨 AI"
-   ],
-   "region": "国内",
-   "category": "立法监管",
-   "heat": 5.5,
-   "hot": false,
-   "tags": [],
-   "importance": 5.0,
-   "kw_score": 0.0,
-   "weight": 2.0,
-   "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
-  },
-  {
    "title": "给AI装上'仪表盘'、国家数据局连出重拳：今天数据与科技政策密集发布",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOT0d1YUNnQjd2ckxyR3N2NmlMSzZpdjRfYW94bjVSbkZ1eGlVUnU0NmZZRDQtZzZBdEFtdFVwb21vdWhNeDd5a0J5TlBNRHFMZnppekktX3gyYUcxdkdUZWhWRDhUdm9GaDhTTFJTYnExNlpXbWNVZ0VPTUg4SDRETXZlX0JjUldsNXNQM0hGYUZlRXo5TGpZ?oc=5",
    "summary": "",
@@ -510,6 +517,25 @@
    "kw_score": 0.0,
    "weight": 2.0,
    "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
+  },
+  {
+   "title": "清华孟庆国教授解读国家数据局行业高质量数据集行动方案：推动行业高质量数据集建设，实现与”人工智能+”同频共振",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zZWY0bldOdGFsQl9BSExuT2lMS2ZvN0w4TVdBVVFSSDVpNlNQY0tiUFVscXl5cWNZcGMwbzBVMUd6Nlhwb2huVEJZeHpSY1dqRkRPVF9YQ2hHOFJSQ0E5eThJcWxvNVhhLVB2Vw?oc=5",
+   "summary": "",
+   "time": "2026-06-13T22:41:00+08:00",
+   "date": "2026-06-13",
+   "sources": [
+    "智慧城市行业分析"
+   ],
+   "region": "国内",
+   "category": "行业实践",
+   "heat": 5.4,
+   "hot": false,
+   "tags": [],
+   "importance": 2.0,
+   "kw_score": 0.0,
+   "weight": 2.0,
+   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
   },
   {
    "title": "“宁王系”，排队 IPO",
@@ -600,7 +626,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 3.9,
+   "heat": 3.8,
    "hot": false,
    "tags": [],
    "importance": 4.0,
@@ -622,7 +648,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 20.4,
+   "heat": 20.3,
    "hot": true,
    "tags": [
     "个人信息",
@@ -714,7 +740,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 12.4,
+   "heat": 12.3,
    "hot": false,
    "tags": [
     "个人信息",
@@ -1010,28 +1036,6 @@
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
   },
   {
-   "title": "周末重磅！六部门，联合印发金融信息服务数据分类分级指南！",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aWGRoZWV2WUNMaEpNTGxHMzI3aUhfd1dVS3ZUQ3JMRXhFZWZGMG16eXhudWdjQkNGY2ktV1pud0FUVFpSS0xfWXZPakF1OE9JZEVPcXRSWWh1NUR3?oc=5",
-   "summary": "",
-   "time": "2026-06-12T17:09:00+08:00",
-   "date": "2026-06-12",
-   "sources": [
-    "证券时报"
-   ],
-   "region": "国内",
-   "category": "行业实践",
-   "heat": 7.8,
-   "hot": false,
-   "tags": [
-    "数据分类分级",
-    "指南"
-   ],
-   "importance": 6.0,
-   "kw_score": 4.0,
-   "weight": 2.0,
-   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
-  },
-  {
    "title": "Kampala court convicts businesswoman over mobile loan data privacy breach",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQR0VyelNSQUhHXzlFRzNSYkh4Y0dMVzFlaVRYc0tfQTZleVNSUDh3YzRJOWh2cG96M2FsaV96LUhhRlBjMGJtbmpZLU5RaElSOVNiclExYWxpVWVCVHl4X2NhYWV0aFpKREgtUmQ5bHlqaVlWR3c3cWVYcnF3VFEydWd4OGY3SDhKMkd0ZzFEYWk5LWtnMnFFWDhYQ00yWU5LSTlRbFdYS2JWMXdkcTBoUF9yRjkwMDhIQ3A0NmpnQ3YzWERMM2Nr?oc=5",
    "summary": "",
@@ -1105,7 +1109,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 6.3,
+   "heat": 6.2,
    "hot": false,
    "tags": [
     "arbitration",
@@ -1127,7 +1131,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 6.2,
+   "heat": 6.1,
    "hot": false,
    "tags": [
     "arbitration"
@@ -1148,7 +1152,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 6.2,
+   "heat": 6.1,
    "hot": false,
    "tags": [
     "arbitration"
@@ -1167,7 +1171,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 6.2,
+   "heat": 6.1,
    "hot": false,
    "tags": [
     "arbitration"
@@ -1188,7 +1192,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 6.2,
+   "heat": 6.1,
    "hot": false,
    "tags": [
     "arbitration"
@@ -1499,7 +1503,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 7.8,
+   "heat": 7.7,
    "hot": false,
    "tags": [
     "investigation",
@@ -1852,9 +1856,9 @@
   },
   {
    "title": "AI进化速递丨国家数据局召开“完善数据相关规则 赋能人工智能创新发展”座谈会",
-   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNZ2NlMVNOa3RrTnNST1hibkNhYU40czRjM2E0enRXSjBfcjQzb01LUEhMZU5kOFN1UGtfUUpFekEtaExubjIxbjk0QlJJaWdPVU11cUlpLU5pTXRtUV9qNUdfU243NEVXZVltX3hPSV8ySHcycXItZ2x4ZnFLWVdsYUlGRF9rdFJkRUJKYXJTZDFXWTM1SlI1QS1DbFBxNVNoa3Y5ZWI2WFdockNYUnJDZGVMdWJ1R2hvNU5EOUEycHVRd29ZeHVPb3FVU29KdEpWVzNxUXBSbms4MzdXZ0c3c0syVE1kYXRkWmxyUjJNbHBEWC1xWkt6MHlqVGhIUQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQUkJrZ1hIZkFHN3VnOElEY3NhdEp5dk02X0NkMXFHRmlwY3pHOTlEa3hTcTR1RGFGVjAwVXE2WGdJV09qUHZ1TEI0THV5LTd1N0M1YUFxdGE0NE1tcUt0MGViVGtCQTVxUDhFOG5hYjVxSUU5WFhSVS1tLXZzU210em5TM04wRzRlQlZxSENFN3NSeTJhbzhPOWlHQmdLY2VmU2c3SEhHLUpYenlldG5nS3NPekRhc295Nll4WHlvRXVxVmtLTGQ1UGd2UXgxYVJnbW1jeGJ4Z1cwd0JOWUhDU1pzMkhfN0Q0dkt0dDJvZXBIYTZEelNoam5xenBEclJxSkhaVzFpS1BtTG5PdXc?oc=5",
    "summary": "",
-   "time": "2026-06-11T21:25:03+08:00",
+   "time": "2026-06-11T21:25:04+08:00",
    "date": "2026-06-11",
    "sources": [
     "新浪网"
@@ -1871,9 +1875,9 @@
   },
   {
    "title": "AI进化速递丨国家数据局召开“完善数据相关规则 赋能人工智能创新发展”座谈会",
-   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQUkJrZ1hIZkFHN3VnOElEY3NhdEp5dk02X0NkMXFHRmlwY3pHOTlEa3hTcTR1RGFGVjAwVXE2WGdJV09qUHZ1TEI0THV5LTd1N0M1YUFxdGE0NE1tcUt0MGViVGtCQTVxUDhFOG5hYjVxSUU5WFhSVS1tLXZzU210em5TM04wRzRlQlZxSENFN3NSeTJhbzhPOWlHQmdLY2VmU2c3SEhHLUpYenlldG5nS3NPekRhc295Nll4WHlvRXVxVmtLTGQ1UGd2UXgxYVJnbW1jeGJ4Z1cwd0JOWUhDU1pzMkhfN0Q0dkt0dDJvZXBIYTZEelNoam5xenBEclJxSkhaVzFpS1BtTG5PdXc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNZ2NlMVNOa3RrTnNST1hibkNhYU40czRjM2E0enRXSjBfcjQzb01LUEhMZU5kOFN1UGtfUUpFekEtaExubjIxbjk0QlJJaWdPVU11cUlpLU5pTXRtUV9qNUdfU243NEVXZVltX3hPSV8ySHcycXItZ2x4ZnFLWVdsYUlGRF9rdFJkRUJKYXJTZDFXWTM1SlI1QS1DbFBxNVNoa3Y5ZWI2WFdockNYUnJDZGVMdWJ1R2hvNU5EOUEycHVRd29ZeHVPb3FVU29KdEpWVzNxUXBSbms4MzdXZ0c3c0syVE1kYXRkWmxyUjJNbHBEWC1xWkt6MHlqVGhIUQ?oc=5",
    "summary": "",
-   "time": "2026-06-11T21:25:04+08:00",
+   "time": "2026-06-11T21:25:03+08:00",
    "date": "2026-06-11",
    "sources": [
     "新浪网"
@@ -1937,7 +1941,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 0.3,
+   "heat": 0.2,
    "hot": false,
    "tags": [],
    "importance": 2.0,
@@ -2144,6 +2148,27 @@
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
   },
   {
+   "title": "“对方交5页书面意见，我们就用20页反驳”……太平洋在2200亿韩元规模国际仲裁中完胜[胜诉的设计]",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBsTEFFMjdpdUdEVVE1ZXhUZk1zb2lzRkFaMmNBS1pwVkV4bkZqdWVTQVl4d3hSTWRzQmVXYl9fRkpaaUNpQ3RxWk9YZE5GNXdBaUlWRnp5cTNrX1VxTjE3ZUpHUnM?oc=5",
+   "summary": "",
+   "time": "2026-06-10T08:19:21+08:00",
+   "date": "2026-06-10",
+   "sources": [
+    "아시아경제"
+   ],
+   "region": "国内",
+   "category": "诉讼仲裁",
+   "heat": 4.0,
+   "hot": false,
+   "tags": [
+    "仲裁"
+   ],
+   "importance": 9.5,
+   "kw_score": 2.0,
+   "weight": 2.0,
+   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
+  },
+  {
    "title": "贸仲应邀出席2026年伦敦国际争议周仲裁机构大会",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hRDJZeXIyNkhCcnBORUhpZG8wTmh5Qm1fS0lDOEFtTmpNaGZYUUcxTU1hWTZ4UElsU3FQcEZWbDgzVS0wT0dNZU9sa25jWHVicGN3bnZfWUpLdC1fUFR3?oc=5",
    "summary": "贸仲应邀出席2026年伦敦国际争议周仲裁机构大会 中国国际贸易促进委员会",
@@ -2184,27 +2209,6 @@
    "kw_score": 1.0,
    "weight": 3.0,
    "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
-  },
-  {
-   "title": "“对方交5页书面意见，我们就用20页反驳”……太平洋在2200亿韩元规模国际仲裁中完胜[胜诉的设计]",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBsTEFFMjdpdUdEVVE1ZXhUZk1zb2lzRkFaMmNBS1pwVkV4bkZqdWVTQVl4d3hSTWRzQmVXYl9fRkpaaUNpQ3RxWk9YZE5GNXdBaUlWRnp5cTNrX1VxTjE3ZUpHUnM?oc=5",
-   "summary": "",
-   "time": "2026-06-10T08:19:21+08:00",
-   "date": "2026-06-10",
-   "sources": [
-    "아시아경제"
-   ],
-   "region": "国内",
-   "category": "诉讼仲裁",
-   "heat": 4.0,
-   "hot": false,
-   "tags": [
-    "仲裁"
-   ],
-   "importance": 9.5,
-   "kw_score": 2.0,
-   "weight": 2.0,
-   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
   },
   {
    "title": "Governing Learner Data Risks in India: The DPDP Act and the Case for EdTech-Specific Regulation",
@@ -2595,7 +2599,7 @@
     "region": "国内",
     "category": "立法监管",
     "heat": 20.6,
-    "hot": true,
+    "hot": false,
     "tags": [
      "个人信息保护法",
      "数据分类分级",
@@ -2931,7 +2935,7 @@
     "region": "国际",
     "category": "诉讼仲裁",
     "heat": 14.5,
-    "hot": true,
+    "hot": false,
     "tags": [
      "data protection",
      "class action",
