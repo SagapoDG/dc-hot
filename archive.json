@@ -83,8 +83,8 @@
   "hot": false,
   "tags": [
    "data protection",
-   "privacy",
-   "consent"
+   "consent",
+   "privacy"
   ],
   "importance": 14.5,
   "kw_score": 12.0,
@@ -130,7 +130,7 @@
   "tags": [
    "data protection",
    "biometric",
-   "lawsuit"
+   "privacy"
   ],
   "importance": 17.0,
   "kw_score": 12.0,
@@ -151,9 +151,9 @@
   "heat": 13.0,
   "hot": false,
   "tags": [
+   "征求意见",
    "数据合规",
-   "数据跨境",
-   "征求意见"
+   "数据跨境"
   ],
   "importance": 16.0,
   "kw_score": 11.0,
@@ -175,7 +175,7 @@
   "hot": false,
   "tags": [
    "investigation",
-   "GDPR",
+   "fine",
    "EDPB"
   ],
   "importance": 13.5,
@@ -259,19 +259,18 @@
   "time": "2026-06-12T01:01:22+08:00",
   "date": "2026-06-12",
   "sources": [
-   "Class Action Lawsuits",
-   "Claim Depot"
+   "Class Action Lawsuits"
   ],
   "region": "国际",
   "category": "诉讼仲裁",
-  "heat": 12.0,
+  "heat": 10.0,
   "hot": false,
   "tags": [
    "class action",
    "data breach",
    "settlement"
   ],
-  "importance": 14.5,
+  "importance": 12.5,
   "kw_score": 8.0,
   "weight": 2.0,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
@@ -337,8 +336,8 @@
   "hot": false,
   "tags": [
    "consent",
-   "GDPR",
-   "fine"
+   "fine",
+   "GDPR"
   ],
   "importance": 11.5,
   "kw_score": 7.0,
@@ -360,8 +359,8 @@
   "hot": false,
   "tags": [
    "enforcement",
-   "GDPR",
-   "fine"
+   "fine",
+   "GDPR"
   ],
   "importance": 11.5,
   "kw_score": 7.0,
@@ -428,8 +427,8 @@
   "hot": false,
   "tags": [
    "数据合规",
-   "合规",
-   "监管"
+   "监管",
+   "合规"
   ],
   "importance": 8.0,
   "kw_score": 6.0,
@@ -472,8 +471,8 @@
   "hot": false,
   "tags": [
    "court",
-   "GDPR",
-   "fine"
+   "fine",
+   "GDPR"
   ],
   "importance": 10.5,
   "kw_score": 6.0,
@@ -715,7 +714,7 @@
   "time": "2026-06-02T15:00:00+08:00",
   "date": "2026-06-02",
   "sources": [
-   "Sina finance",
+   "新浪财经",
    "Sohu"
   ],
   "region": "国内",
@@ -922,8 +921,8 @@
   "heat": 7.0,
   "hot": false,
   "tags": [
-   "GDPR",
-   "fine"
+   "fine",
+   "GDPR"
   ],
   "importance": 9.5,
   "kw_score": 5.0,
@@ -966,8 +965,8 @@
   "heat": 7.0,
   "hot": false,
   "tags": [
-   "GDPR",
-   "fine"
+   "fine",
+   "GDPR"
   ],
   "importance": 9.5,
   "kw_score": 5.0,
@@ -988,8 +987,8 @@
   "heat": 7.0,
   "hot": false,
   "tags": [
-   "GDPR",
-   "fine"
+   "fine",
+   "GDPR"
   ],
   "importance": 9.5,
   "kw_score": 5.0,
@@ -1010,8 +1009,8 @@
   "heat": 7.0,
   "hot": false,
   "tags": [
-   "GDPR",
-   "fine"
+   "fine",
+   "GDPR"
   ],
   "importance": 9.5,
   "kw_score": 5.0,
@@ -1032,8 +1031,8 @@
   "heat": 7.0,
   "hot": false,
   "tags": [
-   "GDPR",
-   "fine"
+   "fine",
+   "GDPR"
   ],
   "importance": 9.5,
   "kw_score": 5.0,
@@ -1662,7 +1661,7 @@
   "date": "2026-04-27",
   "sources": [
    "pudong.gov.cn",
-   "Sina finance"
+   "新浪财经"
   ],
   "region": "国内",
   "category": "跨境数据",
@@ -1733,8 +1732,8 @@
   "heat": 5.0,
   "hot": false,
   "tags": [
-   "起诉",
-   "仲裁"
+   "仲裁",
+   "起诉"
   ],
   "importance": 7.5,
   "kw_score": 3.0,
@@ -4085,7 +4084,7 @@
   ],
   "region": "国内",
   "category": "行业实践",
-  "heat": 7.8,
+  "heat": 6.0,
   "hot": false,
   "tags": [
    "网络安全",
@@ -4151,7 +4150,7 @@
   ],
   "region": "国际",
   "category": "诉讼仲裁",
-  "heat": 5.1,
+  "heat": 5.0,
   "hot": false,
   "tags": [
    "privacy",
@@ -4362,7 +4361,7 @@
   ],
   "region": "国内",
   "category": "执法处罚",
-  "heat": 7.2,
+  "heat": 7.0,
   "hot": false,
   "tags": [
    "个人信息",
@@ -4426,12 +4425,12 @@
   ],
   "region": "国际",
   "category": "诉讼仲裁",
-  "heat": 8.2,
+  "heat": 8.0,
   "hot": false,
   "tags": [
    "data breach",
-   "settlement",
-   "litigation"
+   "litigation",
+   "settlement"
   ],
   "importance": 10.5,
   "kw_score": 6.0,
@@ -4594,19 +4593,18 @@
   "time": "2026-05-22T15:00:00+08:00",
   "date": "2026-05-22",
   "sources": [
-   "The HIPAA Journal",
-   "Claim Depot"
+   "The HIPAA Journal"
   ],
   "region": "国际",
   "category": "诉讼仲裁",
-  "heat": 10.0,
+  "heat": 8.0,
   "hot": false,
   "tags": [
    "class action",
    "data breach",
    "lawsuit"
   ],
-  "importance": 12.5,
+  "importance": 10.5,
   "kw_score": 6.0,
   "weight": 2.0,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
@@ -4646,8 +4644,8 @@
   "heat": 7.0,
   "hot": false,
   "tags": [
-   "GDPR",
-   "fine"
+   "fine",
+   "GDPR"
   ],
   "importance": 9.5,
   "kw_score": 5.0,
@@ -4838,6 +4836,8 @@
    "arbitration"
   ],
   "importance": 7.0,
+  "kw_score": 2.0,
+  "weight": 2.0,
   "reason": "涉及数据跨境流动规则，可能影响出境安全评估、标准合同备案等合规路径，建议出海/跨国业务团队关注。"
  },
  "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNzVyay14dFFmUVJ4Z1NGb0pRc3pZNHF3bUwxYmVxbFRFNDVmdW1fVERFX1BsX2pPRXVrbG5rcklKeGxwbzA0MU5xaDY4TFNiQXN6ODBja0d5U3ljbUt4ZkU4dlc2eXBkVTk3VDdsczBZUjJuRXB2ZjVrMkVWUjdwQnN3aWphMVlKcUE?oc=5": {
@@ -4889,7 +4889,7 @@
   ],
   "region": "国际",
   "category": "诉讼仲裁",
-  "heat": 2.0,
+  "heat": 1.6,
   "hot": false,
   "tags": [],
   "importance": 4.0,
@@ -5274,7 +5274,7 @@
   ],
   "region": "国内",
   "category": "诉讼仲裁",
-  "heat": 7.2,
+  "heat": 6.9,
   "hot": false,
   "tags": [
    "仲裁"
@@ -5559,7 +5559,7 @@
   ],
   "region": "国内",
   "category": "行业实践",
-  "heat": 3.0,
+  "heat": 2.7,
   "hot": false,
   "tags": [],
   "importance": 2.0,
@@ -5709,7 +5709,7 @@
   ],
   "region": "国内",
   "category": "行业实践",
-  "heat": 2.5,
+  "heat": 2.4,
   "hot": false,
   "tags": [],
   "importance": 1.5,
@@ -5991,12 +5991,12 @@
   ],
   "region": "国内",
   "category": "跨境数据",
-  "heat": 15.4,
+  "heat": 15.1,
   "hot": false,
   "tags": [
    "出境安全评估",
-   "个人信息",
-   "数据出境"
+   "安全评估",
+   "个人信息"
   ],
   "importance": 17.0,
   "kw_score": 12.0,
@@ -6060,8 +6060,8 @@
   "heat": 6.0,
   "hot": false,
   "tags": [
-   "arbitration",
-   "enforcement"
+   "enforcement",
+   "arbitration"
   ],
   "importance": 8.5,
   "kw_score": 4.0,
@@ -6142,7 +6142,7 @@
   ],
   "region": "国内",
   "category": "行业实践",
-  "heat": 3.6,
+  "heat": 3.2,
   "hot": false,
   "tags": [],
   "importance": 2.0,
@@ -6223,11 +6223,11 @@
   "time": "2026-06-14T00:38:00+08:00",
   "date": "2026-06-14",
   "sources": [
-   "Sina finance"
+   "新浪财经"
   ],
   "region": "国内",
   "category": "行业实践",
-  "heat": 8.7,
+  "heat": 8.3,
   "hot": false,
   "tags": [
    "数据合规",
@@ -6439,7 +6439,7 @@
   ],
   "region": "国际",
   "category": "诉讼仲裁",
-  "heat": 6.2,
+  "heat": 6.0,
   "hot": false,
   "tags": [
    "data breach",
@@ -7357,12 +7357,12 @@
   ],
   "region": "国内",
   "category": "跨境数据",
-  "heat": 15.6,
+  "heat": 15.2,
   "hot": false,
   "tags": [
    "出境安全评估",
-   "数据出境",
-   "安全评估"
+   "安全评估",
+   "数据出境"
   ],
   "importance": 17.0,
   "kw_score": 12.0,
@@ -7666,21 +7666,19 @@
   "date": "2026-06-14",
   "sources": [
    "安全内参",
-   "证券时报",
    "新浪财经",
-   "财经号",
    "凤凰网"
   ],
   "region": "国内",
   "category": "立法监管",
-  "heat": 19.5,
+  "heat": 15.2,
   "hot": false,
   "tags": [
    "数据分类分级",
    "网信办",
    "指南"
   ],
-  "importance": 20.0,
+  "importance": 16.0,
   "kw_score": 7.0,
   "weight": 2.0,
   "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
@@ -7696,7 +7694,7 @@
   ],
   "region": "国内",
   "category": "行业实践",
-  "heat": 10.5,
+  "heat": 10.2,
   "hot": false,
   "tags": [
    "数据合规",
@@ -7718,7 +7716,7 @@
   ],
   "region": "国内",
   "category": "行业实践",
-  "heat": 8.1,
+  "heat": 7.8,
   "hot": false,
   "tags": [
    "数据合规",
@@ -7787,12 +7785,12 @@
   ],
   "region": "国内",
   "category": "跨境数据",
-  "heat": 17.7,
+  "heat": 17.3,
   "hot": false,
   "tags": [
    "出境安全评估",
-   "数据出境",
-   "安全评估"
+   "安全评估",
+   "数据出境"
   ],
   "importance": 17.0,
   "kw_score": 12.0,
@@ -8190,7 +8188,7 @@
   ],
   "region": "国内",
   "category": "行业实践",
-  "heat": 5.9,
+  "heat": 5.6,
   "hot": false,
   "tags": [],
   "importance": 2.0,
@@ -8249,7 +8247,7 @@
   ],
   "region": "国内",
   "category": "个人信息保护",
-  "heat": 7.9,
+  "heat": 7.6,
   "hot": false,
   "tags": [
    "个人信息"
@@ -8270,7 +8268,7 @@
   ],
   "region": "国际",
   "category": "跨境数据",
-  "heat": 14.0,
+  "heat": 13.6,
   "hot": false,
   "tags": [
    "cross-border data",
@@ -8293,7 +8291,7 @@
   ],
   "region": "国内",
   "category": "行业实践",
-  "heat": 5.2,
+  "heat": 5.1,
   "hot": false,
   "tags": [],
   "importance": 1.5,
@@ -8840,7 +8838,7 @@
   ],
   "region": "国内",
   "category": "行业实践",
-  "heat": 5.3,
+  "heat": 5.2,
   "hot": false,
   "tags": [],
   "importance": 4.5,
@@ -9261,5 +9259,207 @@
   "kw_score": 7.0,
   "weight": 2.0,
   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
+ },
+ "https://mp.weixin.qq.com/s?src=11&timestamp=1781540582&ver=6784&signature=vq5uRweZ7lv-uJGYqZ*2TT3GWegA0D1RBBWCRB3M2MNOWZnyiGOYBNwnW7-UXeyeTRs5uTR2PO*jQZYGUcw-edD3F9uSY8mqInfh6ssXcEGtm*8yPv0fgnklmnI0ILhv&new=1": {
+  "title": "律科周报 | 全球AI与 数据合规 观察:跨境数据执法、欧盟技术主权、美国AI备忘录",
+  "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1781540582&ver=6784&signature=vq5uRweZ7lv-uJGYqZ*2TT3GWegA0D1RBBWCRB3M2MNOWZnyiGOYBNwnW7-UXeyeTRs5uTR2PO*jQZYGUcw-edD3F9uSY8mqInfh6ssXcEGtm*8yPv0fgnklmnI0ILhv&new=1",
+  "summary": "监管部门对 数据 出境 合规 问题保持高压监管态势,尤其是涉及大规模个人信息跨境传输的互联网平台企业,已成为执法重点关注对象....",
+  "time": "2026-06-15T21:07:32+08:00",
+  "date": "2026-06-15",
+  "sources": [
+   "微信公众号"
+  ],
+  "region": "国内",
+  "category": "跨境数据",
+  "heat": 17.8,
+  "hot": false,
+  "tags": [
+   "数据合规",
+   "个人信息",
+   "跨境数据"
+  ],
+  "importance": 17.0,
+  "kw_score": 12.0,
+  "weight": 2.0,
+  "reason": "涉及数据跨境流动规则，可能影响出境安全评估、标准合同备案等合规路径，建议出海/跨国业务团队关注。"
+ },
+ "https://mp.weixin.qq.com/s?src=11&timestamp=1781540618&ver=6784&signature=70woszE*glOtEaAgqMAyb6rKBlQe86xLVGPqgfiMoX*2SF1nLdzL9*XVHu7iFxeV*e-VBMdEkJuNS83MRYM0K8cOYF6shkjlnf6DhXMH7Ka-32ckeZ6QKUzpvOidVItz&new=1": {
+  "title": "【清朗网络】2025 个人信息保护 报告,指引游戏行业合规新方向",
+  "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1781540618&ver=6784&signature=70woszE*glOtEaAgqMAyb6rKBlQe86xLVGPqgfiMoX*2SF1nLdzL9*XVHu7iFxeV*e-VBMdEkJuNS83MRYM0K8cOYF6shkjlnf6DhXMH7Ka-32ckeZ6QKUzpvOidVItz&new=1",
+  "summary": "近日,国家网信办发布我国首部年度综合 个人信息保护 治理文献《中国 个人信息保护 报告(2025年)》,全面复盘了全年立法、执法、...",
+  "time": "2026-06-15T18:30:22+08:00",
+  "date": "2026-06-15",
+  "sources": [
+   "微信公众号"
+  ],
+  "region": "国内",
+  "category": "个人信息保护",
+  "heat": 15.7,
+  "hot": false,
+  "tags": [
+   "个人信息",
+   "网信办",
+   "立法"
+  ],
+  "importance": 12.0,
+  "kw_score": 10.0,
+  "weight": 2.0,
+  "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
+ },
+ "https://mp.weixin.qq.com/s?src=11&timestamp=1781540618&ver=6784&signature=xXuJM9PzNrf6t2NVNmuKN2OHyh*8ejlMIZWl9erhOcD9bNaq*8poKTS*WJZMS2l1FWJTDtNo-UZmOek0KritOA*uhYqZjNYVRwKCgskB1-1B95aYH**iYr4N1HpjDEuC&new=1": {
+  "title": "附简版合规指南 | 国家首发 个人信息保护 年度报告!",
+  "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1781540618&ver=6784&signature=xXuJM9PzNrf6t2NVNmuKN2OHyh*8ejlMIZWl9erhOcD9bNaq*8poKTS*WJZMS2l1FWJTDtNo-UZmOek0KritOA*uhYqZjNYVRwKCgskB1-1B95aYH**iYr4N1HpjDEuC&new=1",
+  "summary": "2026年6月,国家网信办发布首份全国 个人信息保护 年度报告,直接晒出2025年监管成绩单: 通报1100+款违规App、SDK 侦办信息...",
+  "time": "2026-06-15T19:21:26+08:00",
+  "date": "2026-06-15",
+  "sources": [
+   "微信公众号"
+  ],
+  "region": "国内",
+  "category": "立法监管",
+  "heat": 14.7,
+  "hot": false,
+  "tags": [
+   "个人信息",
+   "网信办",
+   "监管"
+  ],
+  "importance": 14.0,
+  "kw_score": 9.0,
+  "weight": 2.0,
+  "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
+ },
+ "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNjhXYUlNUy0yM0hSckZRZmZaWXhPUDhyY3gxazRHWTlXVWpvbXpvWkFsbjNmMmp6NjNzLW9KTk02c3JTTVZxNzZPVHhsbzZvRjQ0SHFNMnNfX1ZDbWtLXzA0TDVOZDQtblVTNkcwYkVJUkkyLW9GMmRnZUJiZlhGVkNYNEdKTjZVcjEwVXBlaVB4ejdkNHZHQWdDSFFYZkgzVFpuMVpGYURfZ3paMnFrQWhwTHVTRDJKUUMyc1VoaEt2MlpTai1MR3pOeHB6cFpTOGdxOVJhdS1qdw?oc=5": {
+  "title": "Surprise bonus payment in $725M Facebook privacy class action settlement goes out",
+  "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNjhXYUlNUy0yM0hSckZRZmZaWXhPUDhyY3gxazRHWTlXVWpvbXpvWkFsbjNmMmp6NjNzLW9KTk02c3JTTVZxNzZPVHhsbzZvRjQ0SHFNMnNfX1ZDbWtLXzA0TDVOZDQtblVTNkcwYkVJUkkyLW9GMmRnZUJiZlhGVkNYNEdKTjZVcjEwVXBlaVB4ejdkNHZHQWdDSFFYZkgzVFpuMVpGYURfZ3paMnFrQWhwTHVTRDJKUUMyc1VoaEt2MlpTai1MR3pOeHB6cFpTOGdxOVJhdS1qdw?oc=5",
+  "summary": "",
+  "time": "2026-06-15T21:04:49+08:00",
+  "date": "2026-06-15",
+  "sources": [
+   "Class Action Lawsuits"
+  ],
+  "region": "国际",
+  "category": "诉讼仲裁",
+  "heat": 13.8,
+  "hot": false,
+  "tags": [
+   "class action",
+   "settlement",
+   "privacy"
+  ],
+  "importance": 12.5,
+  "kw_score": 8.0,
+  "weight": 2.0,
+  "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
+ },
+ "https://news.google.com/rss/articles/CBMidEFVX3lxTE5VeXZkVXNDUlZJRmN2cHRXMWlfZUw3YmdFY0ZxSlRYYU0wVElhcW9oM2tId3I5VU9lc3hnakJ6a1RSMURSeDNMeGZaMV9PS2cwNUF1SFVMN2x3VW1DVFpqZnhzcXRIR1gyX3ZjZWpKbHQwTU16?oc=5": {
+  "title": "You may qualify for a new Alera Group data breach class action settlement",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5VeXZkVXNDUlZJRmN2cHRXMWlfZUw3YmdFY0ZxSlRYYU0wVElhcW9oM2tId3I5VU9lc3hnakJ6a1RSMURSeDNMeGZaMV9PS2cwNUF1SFVMN2x3VW1DVFpqZnhzcXRIR1gyX3ZjZWpKbHQwTU16?oc=5",
+  "summary": "",
+  "time": "2026-05-06T15:00:00+08:00",
+  "date": "2026-05-06",
+  "sources": [
+   "Claim Depot"
+  ],
+  "region": "国际",
+  "category": "诉讼仲裁",
+  "heat": 8.0,
+  "hot": false,
+  "tags": [
+   "class action",
+   "data breach",
+   "settlement"
+  ],
+  "importance": 10.5,
+  "kw_score": 6.0,
+  "weight": 2.0,
+  "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
+ },
+ "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTTAzVFFzdjBWXzFYOVRCZDdHaWlnemhod0V2WlM0OTgycktSaHlmNFVfQl9VYUw4LWRMTVBBTWtNa2VEbGRkcXV1RDN5anFUYnZ4MDl3enFpYlJWMjQ0ZFlXbFlBZ2NZd3FKbVd0bVBRS0dJWkFJUzRLb25ld1lMc1c1RVdPZjdBd3ZmRWV4MEpYdw?oc=5": {
+  "title": "Legal Services of Long Island Data Breach Lawsuit Investigation",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTTAzVFFzdjBWXzFYOVRCZDdHaWlnemhod0V2WlM0OTgycktSaHlmNFVfQl9VYUw4LWRMTVBBTWtNa2VEbGRkcXV1RDN5anFUYnZ4MDl3enFpYlJWMjQ0ZFlXbFlBZ2NZd3FKbVd0bVBRS0dJWkFJUzRLb25ld1lMc1c1RVdPZjdBd3ZmRWV4MEpYdw?oc=5",
+  "summary": "",
+  "time": "2026-06-15T22:57:57+08:00",
+  "date": "2026-06-15",
+  "sources": [
+   "Claim Depot"
+  ],
+  "region": "国际",
+  "category": "诉讼仲裁",
+  "heat": 10.9,
+  "hot": false,
+  "tags": [
+   "investigation",
+   "data breach",
+   "lawsuit"
+  ],
+  "importance": 9.5,
+  "kw_score": 5.0,
+  "weight": 2.0,
+  "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
+ },
+ "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hWVhtWVVpcmRfSFpFRWtQLU03UXNUekdlRGpMQVpZT2dUV1V3b1RQMVhoMGpmZjI3a2ZNQUN2R2VDYTRCWjN3c2Q2LXdIVnVrbmRpYzgxcU9WczA?oc=5": {
+  "title": "个人信息保护委员会对CU便利店快递个人信息泄露事件展开调查",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hWVhtWVVpcmRfSFpFRWtQLU03UXNUekdlRGpMQVpZT2dUV1V3b1RQMVhoMGpmZjI3a2ZNQUN2R2VDYTRCWjN3c2Q2LXdIVnVrbmRpYzgxcU9WczA?oc=5",
+  "summary": "",
+  "time": "2026-06-15T18:48:00+08:00",
+  "date": "2026-06-15",
+  "sources": [
+   "亚洲日报"
+  ],
+  "region": "国内",
+  "category": "个人信息保护",
+  "heat": 8.7,
+  "hot": false,
+  "tags": [
+   "个人信息",
+   "泄露"
+  ],
+  "importance": 5.0,
+  "kw_score": 3.0,
+  "weight": 2.0,
+  "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
+ },
+ "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html": {
+  "title": "152 Chrome Wallpaper Extensions with 105K Installs Linked to Adware and Fake Traffic",
+  "url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+  "summary": "Cybersecurity researchers have discovered a network of 152 Google Chrome extensions that act as new tab live wallpaper add-ons to distribute a potentially unwanted program (PUP)…",
+  "time": "2026-06-15T19:07:50+08:00",
+  "date": "2026-06-15",
+  "sources": [
+   "The Hacker News"
+  ],
+  "region": "国际",
+  "category": "行业实践",
+  "heat": 6.2,
+  "hot": false,
+  "tags": [
+   "cybersecurity"
+  ],
+  "importance": 2.5,
+  "kw_score": 1.0,
+  "weight": 1.5,
+  "reason": "行业合规实践动态，可作为制度建设与对标参考。"
+ },
+ "https://www.cnbeta.com.tw/articles/tech/1565830.htm": {
+  "title": "特斯拉被指向欧洲监管机构提供误导性FSD安全数据",
+  "url": "https://www.cnbeta.com.tw/articles/tech/1565830.htm",
+  "summary": "特斯拉为了在欧洲获得其“完全自动驾驶”（Full Self-Driving，简称FSD）系统的批准，向瑞典和荷兰的监管机构提交了由公司自行发布的安全统计数据，但独立交通安全研究人员认为，这些数据相当于具有误导性的营销宣传。 阅读全文",
+  "time": "2026-06-15T22:01:03+08:00",
+  "date": "2026-06-15",
+  "sources": [
+   "cnBeta.COM"
+  ],
+  "region": "国内",
+  "category": "立法监管",
+  "heat": 6.4,
+  "hot": false,
+  "tags": [
+   "监管"
+  ],
+  "importance": 5.5,
+  "kw_score": 1.0,
+  "weight": 1.5,
+  "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
  }
 }
