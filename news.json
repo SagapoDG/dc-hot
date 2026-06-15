@@ -1,13 +1,12 @@
 {
- "generated_at": "2026-06-15T09:56:56.722941+08:00",
- "count": 152,
+ "generated_at": "2026-06-15T10:30:36.397377+08:00",
+ "count": 158,
  "highlight_count": 30,
  "errors": [
-  "noyb 欧洲数字权利中心: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
+  "noyb 欧洲数字权利中心: The read operation timed out",
   "The Hacker News: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
   "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）",
-  "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）",
-  "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）",
+  "微信公众号: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
   "cnBeta: not well-formed (invalid token): line 40, column 266",
   "Google News: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
   "Google News: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
@@ -26,6 +25,75 @@
   "Google News: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>"
  ],
  "items": [
+  {
+   "title": "网警披露未履行 个人信息保护 义务案",
+   "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS0s4TYUhsDiOfIQc7ItUK8M6U5wNZfWU2lqXa8Fplpd941em036ecHGrWQbc_g_oiJWXAFwP-I0uO6ILfycL6ZxCiu53UC1w-H2Vn6Kb5N7RbgpiF0tJrCoaG4SIOa1U_QBGuBSVR-2mQS7xZ4U3GdWk5Eqtu1Oak3Dp54iOHQfsVn9M8JwJCGuycGhYHg5nWAQop2KHvXcuT85xzPCRdmGjotuuiAmOIg..&type=2&query=%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E4%BF%9D%E6%8A%A4&token=8878EE3B3ED26AB465633124F9DBB3166678B0056A2F63CF",
+   "summary": "停车系统泄露风险被处罚, 个人信息保护 不能只写在制度里!从网警披露案件看,车牌号、手机号和停车记录背后的数据合规责任热点...",
+   "time": "2026-06-15T08:01:21+08:00",
+   "date": "2026-06-15",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "个人信息保护",
+   "heat": 15.9,
+   "hot": false,
+   "tags": [
+    "个人信息",
+    "数据合规",
+    "合规"
+   ],
+   "importance": 12.0,
+   "kw_score": 10.0,
+   "weight": 2.0,
+   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
+  },
+  {
+   "title": "【网安普法】|13- 个人信息保护 国家标准体系",
+   "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS0s4TYUhsDiOfIQc7ItUK8M6U5wNZfWU2lqXa8Fplpd9732xpm_JdAu4V5hhrTtk0HEmUcD2yLUNRPB4YDQg9EJIrl9IKVGszE1xBjlDjqOXl-RPETt3OYmwKrKeHKO2RX_PMc1pi6VtRWfMTF5DIWSOFRd7BI5xzdVEuugdBG9AECn94iE6d9plZ20sDkNYcHSco1P_gqICqXhRGP0j8sYNGbbB75bUeA..&type=2&query=%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E4%BF%9D%E6%8A%A4&token=8878EE3B3ED26AB465633124F9DBB3166678B0056A2F63CF",
+   "summary": "2020年以来,国家网信办、市场监管总局等部门指导全国网络安全标准化技术委员会组织制定发布26项 个人信息保护 国家标准,其中...",
+   "time": "2026-06-15T08:01:03+08:00",
+   "date": "2026-06-15",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "立法监管",
+   "heat": 12.9,
+   "hot": false,
+   "tags": [
+    "个人信息",
+    "网络安全",
+    "网信办"
+   ],
+   "importance": 12.0,
+   "kw_score": 7.0,
+   "weight": 2.0,
+   "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
+  },
+  {
+   "title": "医疗器械GMP重大革新:全链追溯+ 数据合规 成为行业生死底线",
+   "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS0s4TYUhsDiOfTwtrUzJN3U6U5wNZfWU2lqXa8Fplpd9P0fl5LduiCKx4NdbcXTUwId4fUJYQEHuNIi9WGQsXqhZyhagtwJwzfkJTACSy5fpF_XGCLCS9GdXhAs40ga8m38aeyA3Sx7GZPNwBG7yCdc-DFXT2W8C6bWJnTuTrdhCTxrY0AuFyuRGt2-P8778XKFl1ph8fC9OS2qKsEMxhAT1AfaFW2DefQ..&type=2&query=%E6%95%B0%E6%8D%AE%E5%90%88%E8%A7%84&token=886A3A10B15EE43BE9EFBCA99907AD30E9C4DC496A2F60F0",
+   "summary": "数据合规 零容忍,杜绝一切造假篡改新规明确电子 数据合规 硬性红线,所有原始数据、电子记录需真实、完整、不可篡改、全程留痕,...",
+   "time": "2026-06-15T08:15:53+08:00",
+   "date": "2026-06-15",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "行业实践",
+   "heat": 11.9,
+   "hot": false,
+   "tags": [
+    "数据合规",
+    "合规",
+    "新规"
+   ],
+   "importance": 8.0,
+   "kw_score": 6.0,
+   "weight": 2.0,
+   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
+  },
   {
    "title": "强化 个人信息保护 ,携程再遭千万重罚!反垄断悬顶之际,双重监管全面收紧",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1781458210&ver=6782&signature=GUGT2GyM82M8Evrna6Nde9LqtMqiL2-BCKh4h-PXHPB-cgf7ZFLAEdrVJB17mXKN69vp0C-G8ukhrX-dfSCfAmWdtUDaHrqWD1Pf90WIKpU3qY0JN12KxTh41NjB1pAj&new=1",
@@ -106,7 +174,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 16.3,
+   "heat": 16.2,
    "hot": true,
    "tags": [
     "数据合规",
@@ -129,7 +197,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 16.3,
+   "heat": 16.2,
    "hot": true,
    "tags": [
     "个人信息",
@@ -152,7 +220,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 16.3,
+   "heat": 16.2,
    "hot": true,
    "tags": [
     "个人信息",
@@ -175,7 +243,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 16.3,
+   "heat": 16.2,
    "hot": true,
    "tags": [
     "数据合规",
@@ -198,7 +266,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 16.3,
+   "heat": 16.2,
    "hot": true,
    "tags": [
     "数据合规",
@@ -221,7 +289,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 16.3,
+   "heat": 16.2,
    "hot": false,
    "tags": [
     "数据合规",
@@ -303,6 +371,52 @@
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
   },
   {
+   "title": "上海站 6.27 |《 数据合规 与数据跨境实务》高级研修班",
+   "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS0s4TYUhsDiOfTwtrUzJN3U6U5wNZfWU2lqXa8Fplpd9eMAgGu7g2ULXgKSpKq5KrPg07yeINUvkg-aONH6xqBk3Kf7xOFV-lBflSsx9Nly3IeBKHTxAUiQU0cSLNfmh5YHRmAJxyshtCNo5TF4bBZz-lE4pxa5LOT8eIR21US3IqEl0rpBO39xiXwPEySbS8CkkHrw9sXUBJqIzPxSKw_h5LU3lqtPw9g..&type=2&query=%E6%95%B0%E6%8D%AE%E5%90%88%E8%A7%84&token=886A3A10B15EE43BE9EFBCA99907AD30E9C4DC496A2F60F0",
+   "summary": "数据合规 和其它法律领域的交叉出口管制和 数据合规 知识产权商密保护和 数据合规 外商投资安全审查与 数据合规 模块二:中国数据法律...",
+   "time": "2026-06-14T09:06:01+08:00",
+   "date": "2026-06-14",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "跨境数据",
+   "heat": 12.6,
+   "hot": false,
+   "tags": [
+    "数据跨境",
+    "数据合规",
+    "合规"
+   ],
+   "importance": 13.0,
+   "kw_score": 8.0,
+   "weight": 2.0,
+   "reason": "涉及数据跨境流动规则，可能影响出境安全评估、标准合同备案等合规路径，建议出海/跨国业务团队关注。"
+  },
+  {
+   "title": "【 数据合规 】美国在线行为广告个人信息保护模式观察",
+   "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS0s4TYUhsDiOfTwtrUzJN3U6U5wNZfWU2lqXa8Fplpd9H51eGXkjc9i6TSobXwmPvHyrYNVpKHfa_7XHwc4mOEzOYQ4vPr4wzmaq5sOnuI8dMCAqsH5SpVUhPJ3RaQuSJDs3CYk-mu-4-q8RQRLb7YZJia1ljgJUC3FYiLjKY45u-lIzLgmROHY_KXLm160MZnnSWa8RKD97d4w4EVc5g1Xf3q8uRDTfkw..&type=2&query=%E6%95%B0%E6%8D%AE%E5%90%88%E8%A7%84&token=886A3A10B15EE43BE9EFBCA99907AD30E9C4DC496A2F60F0",
+   "summary": "数据 安全措施要“合理”, 数据 保留要“以正当商业活动必要或法律实施必要为前提”.这里的“合理”和“必要”同样是弹性很大的...",
+   "time": "2026-06-14T22:15:03+08:00",
+   "date": "2026-06-14",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "个人信息保护",
+   "heat": 12.3,
+   "hot": false,
+   "tags": [
+    "数据合规",
+    "个人信息",
+    "合规"
+   ],
+   "importance": 9.0,
+   "kw_score": 7.0,
+   "weight": 2.0,
+   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
+  },
+  {
    "title": "Spectrum Faces a Massive Class Action Lawsuit Over A Data Breach Exposing 40 Million Customers’ Data",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVkFMRDRsakhiWFRkZ2hsTzhUNEtmUmNGeW5mZWhjYzFmLThrSjN1MTZLcmYwM2lHUzdieTJjamVpemxWV1hkd05SUUhBSFczZ1dkWmpPVVhHQmNPUUpISFV3SVozcjBwMk5hOElaaWU3bS1FdVBrbzVzYTNrYTNVQ2lNY0hQc1BQSy1YbzdxZV9hcHdNQUJDOGpsdFkwVDFNRnVPSGhqczZZZHB5ZHFmUWduVFI2YVVzV2QyNFFRUjJUT3NyZjZn0gHPAUFVX3lxTE53NWtWb1N6Ukl3M05UMTFJMDhxYTZtRGxKZzJIdE12ZkVrZTloRjJfbElzaFlYcHp0bGR3N2lpaDliUlJXVXo4VnV6NnZRZ2s5cXdkZlhTVTBMZGZleDFJcUdRZFR6NTBZNlRoQjgya001cV9lWWxtMjRweHQzM3FuVENfanNtU3p0Y3pub0h0SEU3S0ZoSkFTZWlFRlJkMm4yaUx2UTI5SnNCZWFBYXdONWx3WUZJX0JkNXg1cHliUnQ3QjBTS2V1UzFrRjlNTQ?oc=5",
    "summary": "",
@@ -324,6 +438,28 @@
    "kw_score": 6.0,
    "weight": 2.0,
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
+  },
+  {
+   "title": "国家网信办首次发布 个人信息保护 综合性年度报告:2025年通报1100余款违法违规App、SDK,排查8万余个场所、14万余个线下消费场景",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1781490639&ver=6783&signature=12u7xpn3AQ4Jzmn0oLnAcXAGpcVeeTbP-VI5ww6gW8f0Ug6YtthqVM9FBms2Yc*zlzWmoDqrgaaqMcQCE19pKqrpU0fj6UVpP8Tgf9t7YYRCSJEVMWR3usKd4a31zNbn&new=1",
+   "summary": "新闻荐读演员张治中去世国家网信办近日发布了《中国 个人信息保护 报告(2025)》,这是国家网信办首次发布 个人信息保护 综合性年...",
+   "time": "2026-06-14T23:27:20+08:00",
+   "date": "2026-06-14",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "执法处罚",
+   "heat": 10.4,
+   "hot": false,
+   "tags": [
+    "个人信息",
+    "网信办"
+   ],
+   "importance": 9.5,
+   "kw_score": 5.0,
+   "weight": 2.0,
+   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
   },
   {
    "title": "六部门划定金融信服服务数据合规坐标",
@@ -423,7 +559,7 @@
    ],
    "region": "国际",
    "category": "行业实践",
-   "heat": 5.1,
+   "heat": 5.0,
    "hot": false,
    "tags": [],
    "importance": 2.0,
@@ -442,7 +578,7 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 4.8,
+   "heat": 4.7,
    "hot": false,
    "tags": [],
    "importance": 5.0,
@@ -528,7 +664,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 15.9,
+   "heat": 15.8,
    "hot": false,
    "tags": [
     "出境安全评估",
@@ -714,7 +850,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 9.9,
+   "heat": 9.8,
    "hot": false,
    "tags": [
     "investigation",
@@ -738,7 +874,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 9.9,
+   "heat": 9.8,
    "hot": false,
    "tags": [
     "数据分类分级",
@@ -761,7 +897,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 9.9,
+   "heat": 9.8,
    "hot": false,
    "tags": [
     "数据分类分级",
@@ -784,28 +920,6 @@
    "region": "国内",
    "category": "行业实践",
    "heat": 8.8,
-   "hot": false,
-   "tags": [
-    "数据合规",
-    "合规"
-   ],
-   "importance": 7.0,
-   "kw_score": 5.0,
-   "weight": 2.0,
-   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
-  },
-  {
-   "title": "汽车出海新考：数据合规、智驾基建短缺成“拦路虎”",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSjdmVTYxTXBQNy1CajhPeXdMZ1Y5NUE4SDZUNHkzMkFGVkZRbjBTbDNWWUEzQ1pZVEp3bzRrRUd1Y2RpcU9uMWgyNS0xSHg3TVlzQkcyMUJDalotX0Y1cVd0U2t2c1NTNW13cXU0c0tFRjY4NVNUN0gtcWZIc0c2NUNpVzJLSlZu?oc=5",
-   "summary": "",
-   "time": "2026-06-13T13:58:24+08:00",
-   "date": "2026-06-13",
-   "sources": [
-    "Sohu"
-   ],
-   "region": "国内",
-   "category": "行业实践",
-   "heat": 8.6,
    "hot": false,
    "tags": [
     "数据合规",
@@ -884,6 +998,28 @@
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
   },
   {
+   "title": "汽车出海新考：数据合规、智驾基建短缺成“拦路虎”",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSjdmVTYxTXBQNy1CajhPeXdMZ1Y5NUE4SDZUNHkzMkFGVkZRbjBTbDNWWUEzQ1pZVEp3bzRrRUd1Y2RpcU9uMWgyNS0xSHg3TVlzQkcyMUJDalotX0Y1cVd0U2t2c1NTNW13cXU0c0tFRjY4NVNUN0gtcWZIc0c2NUNpVzJLSlZu?oc=5",
+   "summary": "",
+   "time": "2026-06-13T13:58:24+08:00",
+   "date": "2026-06-13",
+   "sources": [
+    "Sohu"
+   ],
+   "region": "国内",
+   "category": "行业实践",
+   "heat": 8.5,
+   "hot": false,
+   "tags": [
+    "数据合规",
+    "合规"
+   ],
+   "importance": 7.0,
+   "kw_score": 5.0,
+   "weight": 2.0,
+   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
+  },
+  {
    "title": "Caldwell Sutter Capital Data Breach Lawsuit Investigation",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUFpmNjFQb19WbTFHTkdDdURWVlJtei1kRkMxcmsyX256OTU0UnVfWFRvUWlEWF9Fb0dibVZIUldIamJLUzRUU2RaTEpVU2JhanE4dG1WcVVFQ3R4dW5QdVBITHlHUTJzaWtMVVJnQjR6WlBzVkpXWWx3Z3lnSGxpdV9HUjJCS0h0SGc?oc=5",
    "summary": "",
@@ -941,7 +1077,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 7.7,
+   "heat": 7.6,
    "hot": false,
    "tags": [
     "仲裁"
@@ -962,7 +1098,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 7.7,
+   "heat": 7.6,
    "hot": false,
    "tags": [
     "数据分类分级",
@@ -984,7 +1120,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 7.1,
+   "heat": 7.0,
    "hot": false,
    "tags": [
     "data breach",
@@ -1006,7 +1142,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 6.9,
+   "heat": 6.8,
    "hot": false,
    "tags": [
     "data breach",
@@ -1036,27 +1172,6 @@
    "importance": 5.0,
    "kw_score": 3.0,
    "weight": 2.0,
-   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
-  },
-  {
-   "title": "36氪研究院 | AI时代留学就业白皮书：中国留学生全球就业趋势与人才价值重塑",
-   "url": "https://36kr.com/p/3846972367866119?f=rss",
-   "summary": "在AI浪潮重塑全球产业逻辑的当下，传统留学路径所依赖的学历溢价与信息差正在系统性失效，大量高薪专业的基础性任务面临被AI批量化替代的风险。70/80后家长遭遇教育投资回报率骤降，05后年轻一代则陷入人机协同时代“何以确立自身不可替代价值”的身份焦虑。面对旧共识瓦解、新航线未明的历史性分水岭，36氪研究院与新通教育联合发布《AI时代留学就业白皮书：中国留学…",
-   "time": "2026-06-13T14:00:00+08:00",
-   "date": "2026-06-13",
-   "sources": [
-    "36氪"
-   ],
-   "region": "国内",
-   "category": "行业实践",
-   "heat": 4.1,
-   "hot": false,
-   "tags": [
-    "指南"
-   ],
-   "importance": 2.5,
-   "kw_score": 1.0,
-   "weight": 1.5,
    "reason": "行业合规实践动态，可作为制度建设与对标参考。"
   },
   {
@@ -1096,6 +1211,27 @@
    "kw_score": 0.0,
    "weight": 2.0,
    "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
+  },
+  {
+   "title": "36氪研究院 | AI时代留学就业白皮书：中国留学生全球就业趋势与人才价值重塑",
+   "url": "https://36kr.com/p/3846972367866119?f=rss",
+   "summary": "在AI浪潮重塑全球产业逻辑的当下，传统留学路径所依赖的学历溢价与信息差正在系统性失效，大量高薪专业的基础性任务面临被AI批量化替代的风险。70/80后家长遭遇教育投资回报率骤降，05后年轻一代则陷入人机协同时代“何以确立自身不可替代价值”的身份焦虑。面对旧共识瓦解、新航线未明的历史性分水岭，36氪研究院与新通教育联合发布《AI时代留学就业白皮书：中国留学…",
+   "time": "2026-06-13T14:00:00+08:00",
+   "date": "2026-06-13",
+   "sources": [
+    "36氪"
+   ],
+   "region": "国内",
+   "category": "行业实践",
+   "heat": 4.0,
+   "hot": false,
+   "tags": [
+    "指南"
+   ],
+   "importance": 2.5,
+   "kw_score": 1.0,
+   "weight": 1.5,
+   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
   },
   {
    "title": "“宁王系”，排队 IPO",
@@ -1148,7 +1284,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 3.5,
+   "heat": 3.4,
    "hot": false,
    "tags": [],
    "importance": 2.0,
@@ -1270,7 +1406,7 @@
    ],
    "region": "国际",
    "category": "行业实践",
-   "heat": 12.6,
+   "heat": 12.5,
    "hot": false,
    "tags": [
     "data protection",
@@ -1341,7 +1477,7 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 9.5,
+   "heat": 9.4,
    "hot": false,
    "tags": [
     "个人信息",
@@ -1625,7 +1761,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 6.7,
+   "heat": 6.6,
    "hot": false,
    "tags": [
     "data breach",
@@ -1647,7 +1783,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 6.5,
+   "heat": 6.4,
    "hot": false,
    "tags": [
     "网络安全",
@@ -1669,7 +1805,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 6.4,
+   "heat": 6.3,
    "hot": false,
    "tags": [
     "data breach",
@@ -1712,7 +1848,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 5.6,
+   "heat": 5.5,
    "hot": false,
    "tags": [
     "仲裁",
@@ -1732,7 +1868,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 5.6,
+   "heat": 5.5,
    "hot": false,
    "tags": [
     "privacy",
@@ -1776,7 +1912,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 4.8,
+   "heat": 4.7,
    "hot": false,
    "tags": [
     "arbitration"
@@ -1982,7 +2118,7 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 2.4,
+   "heat": 2.3,
    "hot": false,
    "tags": [],
    "importance": 5.0,
@@ -3481,6 +3617,29 @@
     "reason": "涉及数据跨境流动规则，可能影响出境安全评估、标准合同备案等合规路径，建议出海/跨国业务团队关注。"
    },
    {
+    "title": "上海站 6.27 |《 数据合规 与数据跨境实务》高级研修班",
+    "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS0s4TYUhsDiOfTwtrUzJN3U6U5wNZfWU2lqXa8Fplpd9eMAgGu7g2ULXgKSpKq5KrPg07yeINUvkg-aONH6xqBk3Kf7xOFV-lBflSsx9Nly3IeBKHTxAUiQU0cSLNfmh5YHRmAJxyshtCNo5TF4bBZz-lE4pxa5LOT8eIR21US3IqEl0rpBO39xiXwPEySbS8CkkHrw9sXUBJqIzPxSKw_h5LU3lqtPw9g..&type=2&query=%E6%95%B0%E6%8D%AE%E5%90%88%E8%A7%84&token=886A3A10B15EE43BE9EFBCA99907AD30E9C4DC496A2F60F0",
+    "summary": "数据合规 和其它法律领域的交叉出口管制和 数据合规 知识产权商密保护和 数据合规 外商投资安全审查与 数据合规 模块二:中国数据法律...",
+    "time": "2026-06-14T09:06:01+08:00",
+    "date": "2026-06-14",
+    "sources": [
+     "微信公众号"
+    ],
+    "region": "国内",
+    "category": "跨境数据",
+    "heat": 12.6,
+    "hot": false,
+    "tags": [
+     "数据跨境",
+     "数据合规",
+     "合规"
+    ],
+    "importance": 13.0,
+    "kw_score": 8.0,
+    "weight": 2.0,
+    "reason": "涉及数据跨境流动规则，可能影响出境安全评估、标准合同备案等合规路径，建议出海/跨国业务团队关注。"
+   },
+   {
     "title": "Stakeholder event on competition and data protection",
     "url": "https://www.edpb.europa.eu/news/news/2026/stakeholder-event-competition-and-data-protection_en",
     "summary": "Brussels, 23 April – The EDPB is organising a remote stakeholder event in the context of its joint work with the European Commission on upcoming guidelines on the interplay betwe…",
@@ -3522,6 +3681,29 @@
     ],
     "importance": 12.0,
     "kw_score": 5.0,
+    "weight": 2.0,
+    "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
+   },
+   {
+    "title": "【网安普法】|13- 个人信息保护 国家标准体系",
+    "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS0s4TYUhsDiOfIQc7ItUK8M6U5wNZfWU2lqXa8Fplpd9732xpm_JdAu4V5hhrTtk0HEmUcD2yLUNRPB4YDQg9EJIrl9IKVGszE1xBjlDjqOXl-RPETt3OYmwKrKeHKO2RX_PMc1pi6VtRWfMTF5DIWSOFRd7BI5xzdVEuugdBG9AECn94iE6d9plZ20sDkNYcHSco1P_gqICqXhRGP0j8sYNGbbB75bUeA..&type=2&query=%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E4%BF%9D%E6%8A%A4&token=8878EE3B3ED26AB465633124F9DBB3166678B0056A2F63CF",
+    "summary": "2020年以来,国家网信办、市场监管总局等部门指导全国网络安全标准化技术委员会组织制定发布26项 个人信息保护 国家标准,其中...",
+    "time": "2026-06-15T08:01:03+08:00",
+    "date": "2026-06-15",
+    "sources": [
+     "微信公众号"
+    ],
+    "region": "国内",
+    "category": "立法监管",
+    "heat": 12.9,
+    "hot": false,
+    "tags": [
+     "个人信息",
+     "网络安全",
+     "网信办"
+    ],
+    "importance": 12.0,
+    "kw_score": 7.0,
     "weight": 2.0,
     "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
    },
@@ -3587,50 +3769,6 @@
     ],
     "importance": 10.0,
     "kw_score": 3.0,
-    "weight": 2.0,
-    "reason": "涉及数据跨境流动规则，可能影响出境安全评估、标准合同备案等合规路径，建议出海/跨国业务团队关注。"
-   },
-   {
-    "title": "Yango fined €100m over Russia data transfers",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQLWQ2TnQ2STJ4ZXhVb2RtV1Nya0RRdTRPai01aXlhV01BdGJOdkI4TkU0cEFBVWV0UGR0QXJTaTdrVTFnQ0pVOU83R1lOcmFYRVRucXlLVFJfdFhZcFB6Vy01eS14S0F5QVJ4dVoxOGZ3SjZZQlpFNEJUZXlvcXY5TzNMaVo4ZmZaQmMtLXV3UFU5eXZZQUE4ck8xZUphcV9IdElod04xTE9ydEdCOFNlbDMwcw?oc=5",
-    "summary": "",
-    "time": "2026-05-08T15:00:00+08:00",
-    "date": "2026-05-08",
-    "sources": [
-     "Helsinki Times"
-    ],
-    "region": "国际",
-    "category": "跨境数据",
-    "heat": 7.0,
-    "hot": false,
-    "tags": [
-     "data transfer",
-     "fine"
-    ],
-    "importance": 10.0,
-    "kw_score": 5.0,
-    "weight": 2.0,
-    "reason": "涉及数据跨境流动规则，可能影响出境安全评估、标准合同备案等合规路径，建议出海/跨国业务团队关注。"
-   },
-   {
-    "title": "从Manus禁止交易案看中国企业对外投资的合规框架：基于数据出境、出口管制、技术进出口等实务视角",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX2ZCQmczMUh4eG90Q2ZkTHJkWnJrbXE4a19vUnRjWFlfT01vSDNKcGV6OUhwUHNOa1AwOElQbjI3Nlp1TTJwZG1zcGtmUzRPcUQyOFR1Szlpb0tySFBVa2d3bHR1RlhCNlJQSFJsMHN4R0YyOENueUxpOXVIWXVtemFSbS1Ebnc?oc=5",
-    "summary": "",
-    "time": "2026-04-27T15:00:00+08:00",
-    "date": "2026-04-27",
-    "sources": [
-     "新浪财经"
-    ],
-    "region": "国内",
-    "category": "跨境数据",
-    "heat": 7.0,
-    "hot": false,
-    "tags": [
-     "数据出境",
-     "合规"
-    ],
-    "importance": 10.0,
-    "kw_score": 5.0,
     "weight": 2.0,
     "reason": "涉及数据跨境流动规则，可能影响出境安全评估、标准合同备案等合规路径，建议出海/跨国业务团队关注。"
    }
