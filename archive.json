@@ -130,7 +130,7 @@
   "tags": [
    "data protection",
    "biometric",
-   "lawsuit"
+   "privacy"
   ],
   "importance": 17.0,
   "kw_score": 12.0,
@@ -151,8 +151,8 @@
   "heat": 13.0,
   "hot": false,
   "tags": [
-   "数据合规",
    "数据跨境",
+   "数据合规",
    "征求意见"
   ],
   "importance": 16.0,
@@ -176,7 +176,7 @@
   "tags": [
    "investigation",
    "GDPR",
-   "EDPB"
+   "fine"
   ],
   "importance": 13.5,
   "kw_score": 9.0,
@@ -259,18 +259,19 @@
   "time": "2026-06-12T01:01:22+08:00",
   "date": "2026-06-12",
   "sources": [
-   "Class Action Lawsuits"
+   "Class Action Lawsuits",
+   "Claim Depot"
   ],
   "region": "国际",
   "category": "诉讼仲裁",
-  "heat": 10.0,
+  "heat": 12.0,
   "hot": false,
   "tags": [
    "class action",
    "data breach",
    "settlement"
   ],
-  "importance": 12.5,
+  "importance": 14.5,
   "kw_score": 8.0,
   "weight": 2.0,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
@@ -824,18 +825,17 @@
   "date": "2026-06-11",
   "sources": [
    "新华网",
-   "QQ News",
-   "qq.com"
+   "QQ News"
   ],
   "region": "国内",
   "category": "执法处罚",
-  "heat": 11.0,
+  "heat": 9.0,
   "hot": false,
   "tags": [
    "个人信息",
    "网信办"
   ],
-  "importance": 13.5,
+  "importance": 11.5,
   "kw_score": 5.0,
   "weight": 2.0,
   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
@@ -876,9 +876,9 @@
   "heat": 7.0,
   "hot": false,
   "tags": [
+   "诉讼",
    "起诉",
-   "仲裁",
-   "诉讼"
+   "仲裁"
   ],
   "importance": 9.5,
   "kw_score": 5.0,
@@ -1661,7 +1661,7 @@
   "date": "2026-04-27",
   "sources": [
    "pudong.gov.cn",
-   "新浪财经"
+   "Sina finance"
   ],
   "region": "国内",
   "category": "跨境数据",
@@ -2899,20 +2899,19 @@
   "title": "House Republicans Introduce Comprehensive Federal Privacy Bill: “SECURE Data Act”",
   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYWVrZ1pwU0o0TkVwZ2hOUE5aeExCOWFCOEFVWEFlc2NiMEtLVDJQSS1kcXV5cWVuZzctVmxSOE8wN3I1bHB2WEc5NGJuYXRiWDBzR0NRcG0tWm1tZG94THVxMTdQeFdjMHZ0dE5OMkl5dlFaa21Uak5LM0o3UDZiWmpvQ2JmNk05dFdNdlhyZzd0VDA2VnRaRkdfb3dwdHlaZHlxR095ckRXNW9IRkpxVnd0UzJudjlabmR0NTRDOUlQQU9fMWZJbm12WDBuQnowNUE?oc=5",
   "summary": "",
-  "time": "2026-04-24T15:00:00+08:00",
-  "date": "2026-04-24",
+  "time": "2026-04-23T15:00:00+08:00",
+  "date": "2026-04-23",
   "sources": [
-   "Hunton Andrews Kurth LLP",
-   "Mayer Brown"
+   "Hunton Andrews Kurth LLP"
   ],
   "region": "国际",
   "category": "立法监管",
-  "heat": 6.0,
+  "heat": 4.0,
   "hot": false,
   "tags": [
    "privacy"
   ],
-  "importance": 9.0,
+  "importance": 7.0,
   "kw_score": 2.0,
   "weight": 2.0,
   "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
@@ -4872,7 +4871,7 @@
   ],
   "region": "国内",
   "category": "行业实践",
-  "heat": 2.6,
+  "heat": 2.0,
   "hot": false,
   "tags": [],
   "importance": 2.0,
@@ -7744,7 +7743,7 @@
   ],
   "region": "国内",
   "category": "跨境数据",
-  "heat": 16.0,
+  "heat": 15.9,
   "hot": false,
   "tags": [
    "出境安全评估",
@@ -9411,7 +9410,7 @@
   ],
   "region": "国内",
   "category": "立法监管",
-  "heat": 5.0,
+  "heat": 4.9,
   "hot": false,
   "tags": [
    "监管"
@@ -9523,7 +9522,7 @@
   ],
   "region": "国际",
   "category": "执法处罚",
-  "heat": 8.7,
+  "heat": 8.6,
   "hot": false,
   "tags": [
    "enforcement",
@@ -9604,7 +9603,7 @@
   ],
   "region": "国际",
   "category": "行业实践",
-  "heat": 6.9,
+  "heat": 6.8,
   "hot": false,
   "tags": [
    "FTC"
@@ -9760,7 +9759,7 @@
   ],
   "region": "国内",
   "category": "跨境数据",
-  "heat": 14.5,
+  "heat": 14.4,
   "hot": false,
   "tags": [
    "出境安全评估",
@@ -10700,7 +10699,7 @@
   ],
   "region": "国内",
   "category": "行业实践",
-  "heat": 10.2,
+  "heat": 10.1,
   "hot": false,
   "tags": [
    "数据合规",
@@ -10743,7 +10742,7 @@
   ],
   "region": "国内",
   "category": "安全事件",
-  "heat": 6.8,
+  "heat": 6.7,
   "hot": false,
   "tags": [
    "网络安全",
@@ -11066,8 +11065,8 @@
   "heat": 7.8,
   "hot": false,
   "tags": [
-   "泄露",
-   "诉讼"
+   "诉讼",
+   "泄露"
   ],
   "importance": 7.0,
   "kw_score": 3.0,
@@ -11602,7 +11601,7 @@
   ],
   "region": "国内",
   "category": "执法处罚",
-  "heat": 8.0,
+  "heat": 7.9,
   "hot": false,
   "tags": [
    "网络安全",
@@ -11852,7 +11851,7 @@
   ],
   "region": "国际",
   "category": "立法监管",
-  "heat": 7.0,
+  "heat": 6.9,
   "hot": false,
   "tags": [
    "privacy"
@@ -12120,7 +12119,7 @@
   ],
   "region": "国际",
   "category": "诉讼仲裁",
-  "heat": 8.9,
+  "heat": 8.8,
   "hot": false,
   "tags": [
    "data breach",
@@ -12205,7 +12204,7 @@
   ],
   "region": "国内",
   "category": "行业实践",
-  "heat": 10.5,
+  "heat": 10.4,
   "hot": false,
   "tags": [
    "数据合规",
@@ -12224,7 +12223,7 @@
   "date": "2026-06-02",
   "sources": [
    "Sohu",
-   "新浪财经"
+   "Sina finance"
   ],
   "region": "国内",
   "category": "行业实践",
@@ -12250,7 +12249,7 @@
   ],
   "region": "国际",
   "category": "跨境数据",
-  "heat": 12.4,
+  "heat": 12.3,
   "hot": false,
   "tags": [
    "cross-border data",
@@ -12273,11 +12272,11 @@
   ],
   "region": "国内",
   "category": "跨境数据",
-  "heat": 8.6,
+  "heat": 8.5,
   "hot": false,
   "tags": [
-   "数据安全",
    "数据出境",
+   "数据安全",
    "监管"
   ],
   "importance": 10.0,
@@ -12387,7 +12386,7 @@
   ],
   "region": "国际",
   "category": "诉讼仲裁",
-  "heat": 14.0,
+  "heat": 13.9,
   "hot": false,
   "tags": [
    "class action",
@@ -12442,5 +12441,96 @@
   "kw_score": 2.0,
   "weight": 2.0,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
+ },
+ "https://mp.weixin.qq.com/s?src=11&timestamp=1781633662&ver=6786&signature=mhoyuI253n8d*AhkzqA1CmmRX3SQDEJ8AUcESS60TQG5HeDD*CEfIuryg4MHDODE72qfd7fL9rR37XWkvvh-JgEuVC3jJWVPH46EB0EAMjsyEGZQO-Y40S*hWi4Hp4iz&new=1": {
+  "title": "数据合规 -医疗AI法律与合规指南",
+  "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1781633662&ver=6786&signature=mhoyuI253n8d*AhkzqA1CmmRX3SQDEJ8AUcESS60TQG5HeDD*CEfIuryg4MHDODE72qfd7fL9rR37XWkvvh-JgEuVC3jJWVPH46EB0EAMjsyEGZQO-Y40S*hWi4Hp4iz&new=1",
+  "summary": "戎朝律师团队 · 医疗AI法律与合规指南 v1.2第三篇 数据合规 训练语料的来源合法吗——敏感个人信息、人遗资源与数据出境三关戎朝...",
+  "time": "2026-06-16T09:08:55+08:00",
+  "date": "2026-06-16",
+  "sources": [
+   "微信公众号"
+  ],
+  "region": "国内",
+  "category": "跨境数据",
+  "heat": 16.1,
+  "hot": false,
+  "tags": [
+   "个人信息",
+   "数据合规",
+   "数据出境"
+  ],
+  "importance": 16.0,
+  "kw_score": 11.0,
+  "weight": 2.0,
+  "reason": "涉及数据跨境流动规则，可能影响出境安全评估、标准合同备案等合规路径，建议出海/跨国业务团队关注。"
+ },
+ "https://mp.weixin.qq.com/s?src=11&timestamp=1781633662&ver=6786&signature=zQqBsKCG7EEQlBtUv51kR1-BSxTvuYqUrHdowqqTDEaaaFkMPexeY62H2b7HDS935IoeH6IQkqsz*ETrqQmPIjwhQ39wHd5nij8YfNT2bHn7HME2jvBaEBv2cZLHp4A0&new=1": {
+  "title": "数据合规 | 2026年个人信息保护系列专项行动:互联网广告领域 数据合规 整改指南(下)",
+  "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1781633662&ver=6786&signature=zQqBsKCG7EEQlBtUv51kR1-BSxTvuYqUrHdowqqTDEaaaFkMPexeY62H2b7HDS935IoeH6IQkqsz*ETrqQmPIjwhQ39wHd5nij8YfNT2bHn7HME2jvBaEBv2cZLHp4A0&new=1",
+  "summary": "【作者】王良【原标题】研究 | 2026年个人信息保护系列专项行动:互联网广告领域 数据合规 整改指南(一)【来源】微信公众号“云...",
+  "time": "2026-06-16T12:01:20+08:00",
+  "date": "2026-06-16",
+  "sources": [
+   "微信公众号"
+  ],
+  "region": "国内",
+  "category": "执法处罚",
+  "heat": 13.2,
+  "hot": false,
+  "tags": [
+   "数据合规",
+   "个人信息",
+   "指南"
+  ],
+  "importance": 12.5,
+  "kw_score": 8.0,
+  "weight": 2.0,
+  "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
+ },
+ "https://mp.weixin.qq.com/s?src=11&timestamp=1781633690&ver=6786&signature=2I9B2y6ASDE7psbXVuoFSQBMsrJRwHdxrheKSHofv2exUrnbmU1VBk7koUAnvILPJ3PoaB8NLfRUUsjqDZBVeMPd1dohdOQgjm398psxMaBXe4nT7ZSnZX6izF5ouM14&new=1": {
+  "title": "【法听】 个人信息保护 报告:健全 个人信息保护 公益诉讼工作机制",
+  "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1781633690&ver=6786&signature=2I9B2y6ASDE7psbXVuoFSQBMsrJRwHdxrheKSHofv2exUrnbmU1VBk7koUAnvILPJ3PoaB8NLfRUUsjqDZBVeMPd1dohdOQgjm398psxMaBXe4nT7ZSnZX6izF5ouM14&new=1",
+  "summary": "近日,国家网信办发布了《中国 个人信息保护 报告(2025)》,这是国家网信办首次发布 个人信息保护 综合性年度报告.报告显示,在...",
+  "time": "2026-06-16T20:01:33+08:00",
+  "date": "2026-06-16",
+  "sources": [
+   "微信公众号"
+  ],
+  "region": "国内",
+  "category": "诉讼仲裁",
+  "heat": 12.7,
+  "hot": false,
+  "tags": [
+   "个人信息",
+   "网信办",
+   "诉讼"
+  ],
+  "importance": 11.5,
+  "kw_score": 7.0,
+  "weight": 2.0,
+  "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
+ },
+ "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZG0zY1JGZWZVNjdjMnBXeXY0M2V2dmRkaGR1RWxuWmRsX2JNYnBmVzZrYVdSY2ppUVUwNk5qYWFoQzRVc0duNU1mS3hMWUJDSmkzdHFrT3V0a3NTUHJSZ0UwYXBkbUg1Q01nN2NSbzRxc1lUTkNaV2Nwdl84LTcwbmhfcm15am1FeEhmOUxCUmRtY0k?oc=5": {
+  "title": "Canada's Bill C-36 introduces privacy reforms, enforcement changes",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZG0zY1JGZWZVNjdjMnBXeXY0M2V2dmRkaGR1RWxuWmRsX2JNYnBmVzZrYVdSY2ppUVUwNk5qYWFoQzRVc0duNU1mS3hMWUJDSmkzdHFrT3V0a3NTUHJSZ0UwYXBkbUg1Q01nN2NSbzRxc1lUTkNaV2Nwdl84LTcwbmhfcm15am1FeEhmOUxCUmRtY0k?oc=5",
+  "summary": "",
+  "time": "2026-06-17T01:53:03+08:00",
+  "date": "2026-06-17",
+  "sources": [
+   "IAPP"
+  ],
+  "region": "国际",
+  "category": "执法处罚",
+  "heat": 10.0,
+  "hot": false,
+  "tags": [
+   "enforcement",
+   "privacy"
+  ],
+  "importance": 8.5,
+  "kw_score": 4.0,
+  "weight": 2.0,
+  "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
  }
 }
