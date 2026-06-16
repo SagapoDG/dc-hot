@@ -716,7 +716,7 @@
   "date": "2026-06-02",
   "sources": [
    "新浪财经",
-   "Sohu"
+   "搜狐网"
   ],
   "region": "国内",
   "category": "行业实践",
@@ -2256,7 +2256,7 @@
   "time": "2026-05-14T14:21:51+08:00",
   "date": "2026-05-14",
   "sources": [
-   "Sohu"
+   "搜狐网"
   ],
   "region": "国内",
   "category": "诉讼仲裁",
@@ -2716,16 +2716,17 @@
   "time": "2026-06-08T21:26:03+08:00",
   "date": "2026-06-08",
   "sources": [
-   "TechCrunch"
+   "TechCrunch",
+   "MSN"
   ],
   "region": "国际",
   "category": "个人信息保护",
-  "heat": 4.0,
+  "heat": 6.0,
   "hot": false,
   "tags": [
    "privacy"
   ],
-  "importance": 4.0,
+  "importance": 6.0,
   "kw_score": 2.0,
   "weight": 2.0,
   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
@@ -7671,19 +7672,20 @@
   "sources": [
    "安全内参",
    "证券时报",
-   "财经号",
-   "新浪财经"
+   "新浪财经",
+   "news.qq.com",
+   "财经号"
   ],
   "region": "国内",
   "category": "立法监管",
-  "heat": 16.5,
+  "heat": 18.5,
   "hot": false,
   "tags": [
    "数据分类分级",
    "网信办",
    "指南"
   ],
-  "importance": 18.0,
+  "importance": 20.0,
   "kw_score": 7.0,
   "weight": 2.0,
   "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
@@ -7717,7 +7719,7 @@
   "time": "2026-06-13T13:58:24+08:00",
   "date": "2026-06-13",
   "sources": [
-   "Sohu"
+   "搜狐网"
   ],
   "region": "国内",
   "category": "行业实践",
@@ -9457,7 +9459,7 @@
   ],
   "region": "国内",
   "category": "立法监管",
-  "heat": 5.7,
+  "heat": 5.6,
   "hot": false,
   "tags": [
    "监管"
@@ -9569,7 +9571,7 @@
   ],
   "region": "国际",
   "category": "执法处罚",
-  "heat": 9.4,
+  "heat": 9.3,
   "hot": false,
   "tags": [
    "enforcement",
@@ -10789,7 +10791,7 @@
   ],
   "region": "国内",
   "category": "安全事件",
-  "heat": 7.5,
+  "heat": 7.4,
   "hot": false,
   "tags": [
    "网络安全",
@@ -11097,5 +11099,115 @@
   "kw_score": 9.0,
   "weight": 2.0,
   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
+ },
+ "https://www.cnbeta.com.tw/articles/tech/1565894.htm": {
+  "title": "美国联邦法官驳回马斯克旗下xAI对OpenAI的商业机密诉讼",
+  "url": "https://www.cnbeta.com.tw/articles/tech/1565894.htm",
+  "summary": "6月15日，一名联邦法官驳回了埃隆·马斯克旗下人工智能公司xAI针对竞争对手OpenAI提起的商业机密诉讼，认定xAI未能证明OpenAI窃取其聊天机器人相关机密信息。 美国加州旧金山的联邦地区法官丽塔·林（Rita Lin）表示，xAI没有证明OpenAI诱使前xAI高级工程师李学晨披露与其聊天机器人Grok有关的机密信息，也没有证据显示OpenAI工…",
+  "time": "2026-06-16T12:50:19+08:00",
+  "date": "2026-06-16",
+  "sources": [
+   "cnBeta.COM"
+  ],
+  "region": "国内",
+  "category": "诉讼仲裁",
+  "heat": 8.5,
+  "hot": false,
+  "tags": [
+   "泄露",
+   "诉讼"
+  ],
+  "importance": 7.0,
+  "kw_score": 3.0,
+  "weight": 1.5,
+  "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
+ },
+ "https://mp.weixin.qq.com/s?src=11&timestamp=1781588339&ver=6785&signature=zBTrgAF8bOBBc4CZVgGd9FkF1nUJ5Fpr4clfNMZxe5hE5f-uNn4WfScqmQ2Jo69izAbp*ELva-3xh*edvYco1NFvL5HklctcWfN*6wWhaRllkmWnvLIkAXBs89SNfCAd&new=1": {
+  "title": "合规动态| 数据合规 、竞争(2026.06.01~2026.06.14)",
+  "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1781588339&ver=6785&signature=zBTrgAF8bOBBc4CZVgGd9FkF1nUJ5Fpr4clfNMZxe5hE5f-uNn4WfScqmQ2Jo69izAbp*ELva-3xh*edvYco1NFvL5HklctcWfN*6wWhaRllkmWnvLIkAXBs89SNfCAd&new=1",
+  "summary": "合规动态(2026.06.01~2026.06.14)速览 数据合规 DATA COMPLIANCE01国家网信办等六部门联合印发《金融信息服务数据分类分级...",
+  "time": "2026-06-16T10:14:38+08:00",
+  "date": "2026-06-16",
+  "sources": [
+   "微信公众号"
+  ],
+  "region": "国内",
+  "category": "行业实践",
+  "heat": 17.8,
+  "hot": false,
+  "tags": [
+   "data compliance",
+   "数据分类分级",
+   "数据合规"
+  ],
+  "importance": 14.0,
+  "kw_score": 12.0,
+  "weight": 2.0,
+  "reason": "行业合规实践动态，可作为制度建设与对标参考。"
+ },
+ "https://mp.weixin.qq.com/s?src=11&timestamp=1781588339&ver=6785&signature=VcPnVPPpem-SImXJonUm2T-DhfgeF*pkGyvOFy4g75ci26dZLCs6VXzN0z8A80mmHo**u23ObtS*hsmMVY9qXE8w91dtGQ33hLbmyY-BV*fLibyXA9tmLAsqVmALcKd9&new=1": {
+  "title": "数据合规 -医疗AI法律与合规指南",
+  "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1781588339&ver=6785&signature=VcPnVPPpem-SImXJonUm2T-DhfgeF*pkGyvOFy4g75ci26dZLCs6VXzN0z8A80mmHo**u23ObtS*hsmMVY9qXE8w91dtGQ33hLbmyY-BV*fLibyXA9tmLAsqVmALcKd9&new=1",
+  "summary": "戎朝律师团队 · 医疗AI法律与合规指南 v1.2第三篇 数据合规 训练语料的来源合法吗——敏感个人信息、人遗资源与数据出境三关戎朝...",
+  "time": "2026-06-16T09:08:55+08:00",
+  "date": "2026-06-16",
+  "sources": [
+   "微信公众号"
+  ],
+  "region": "国内",
+  "category": "跨境数据",
+  "heat": 16.7,
+  "hot": false,
+  "tags": [
+   "个人信息",
+   "数据合规",
+   "数据出境"
+  ],
+  "importance": 16.0,
+  "kw_score": 11.0,
+  "weight": 2.0,
+  "reason": "涉及数据跨境流动规则，可能影响出境安全评估、标准合同备案等合规路径，建议出海/跨国业务团队关注。"
+ },
+ "https://mp.weixin.qq.com/s?src=11&timestamp=1781588339&ver=6785&signature=sUtWr5spxWZUG9Iwy6u*vr1ptypfg3rc1fsD-p*YYXIedQyM1ymXzie9uk0PT-Q9Tw*3ij2CJS8qPiCyje0Ml39i4k41KY4lbXdUKPldbGrILqutnnIgrCtfTRNv4DiW&new=1": {
+  "title": "观韬解读 | 数海灯塔:企业出海 数据合规 实务要点Q&A(欧盟篇)",
+  "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1781588339&ver=6785&signature=sUtWr5spxWZUG9Iwy6u*vr1ptypfg3rc1fsD-p*YYXIedQyM1ymXzie9uk0PT-Q9Tw*3ij2CJS8qPiCyje0Ml39i4k41KY4lbXdUKPldbGrILqutnnIgrCtfTRNv4DiW&new=1",
+  "summary": "是全球最为严格的 数据合规 要求.在执法实践中,已出现多起针对中国企业的重大处罚案例.TikTok于2023年因违规处理儿童数据被爱...",
+  "time": "2026-06-16T11:05:01+08:00",
+  "date": "2026-06-16",
+  "sources": [
+   "微信公众号"
+  ],
+  "region": "国内",
+  "category": "执法处罚",
+  "heat": 14.9,
+  "hot": false,
+  "tags": [
+   "数据合规",
+   "合规",
+   "处罚"
+  ],
+  "importance": 13.5,
+  "kw_score": 9.0,
+  "weight": 2.0,
+  "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
+ },
+ "https://36kr.com/newsflashes/3855398597596423?f=rss": {
+  "title": "OpenAI去年总支出据悉达340亿美元，研发投入约190亿",
+  "url": "https://36kr.com/newsflashes/3855398597596423?f=rss",
+  "summary": "据报道，OpenAI去年总支出达340亿美元，以求在计划的首次公开募股（IPO）之前抢占蓬勃发展的人工智能市场主导地位。报道称，经审计的财务数据显示，这家ChatGPT开发商2025年研发投入约190亿美元，销售及营销支出近60亿美元，此外还有其他各类开支。（新浪财经）",
+  "time": "2026-06-16T13:34:43+08:00",
+  "date": "2026-06-16",
+  "sources": [
+   "36氪"
+  ],
+  "region": "国内",
+  "category": "行业实践",
+  "heat": 5.5,
+  "hot": false,
+  "tags": [],
+  "importance": 4.5,
+  "kw_score": 0.0,
+  "weight": 1.5,
+  "reason": "行业合规实践动态，可作为制度建设与对标参考。"
  }
 }
