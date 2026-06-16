@@ -6123,7 +6123,7 @@
   ],
   "region": "国内",
   "category": "行业实践",
-  "heat": 2.4,
+  "heat": 2.3,
   "hot": false,
   "tags": [],
   "importance": 2.0,
@@ -6208,7 +6208,7 @@
   ],
   "region": "国内",
   "category": "行业实践",
-  "heat": 7.5,
+  "heat": 7.4,
   "hot": false,
   "tags": [
    "数据合规",
@@ -7316,7 +7316,7 @@
   ],
   "region": "国内",
   "category": "跨境数据",
-  "heat": 14.4,
+  "heat": 14.3,
   "hot": false,
   "tags": [
    "出境安全评估",
@@ -7408,7 +7408,7 @@
   ],
   "region": "国内",
   "category": "行业实践",
-  "heat": 8.8,
+  "heat": 8.7,
   "hot": false,
   "tags": [
    "数据合规",
@@ -7745,7 +7745,7 @@
   ],
   "region": "国内",
   "category": "跨境数据",
-  "heat": 16.5,
+  "heat": 16.4,
   "hot": false,
   "tags": [
    "出境安全评估",
@@ -7948,7 +7948,7 @@
   ],
   "region": "国内",
   "category": "跨境数据",
-  "heat": 16.6,
+  "heat": 16.4,
   "hot": false,
   "tags": [
    "出境安全评估",
@@ -8228,7 +8228,7 @@
   ],
   "region": "国际",
   "category": "跨境数据",
-  "heat": 12.8,
+  "heat": 12.7,
   "hot": false,
   "tags": [
    "cross-border data",
@@ -8251,7 +8251,7 @@
   ],
   "region": "国内",
   "category": "行业实践",
-  "heat": 4.3,
+  "heat": 4.2,
   "hot": false,
   "tags": [],
   "importance": 1.5,
@@ -9293,7 +9293,7 @@
   "title": "Surprise bonus payment in $725M Facebook privacy class action settlement goes out",
   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNjhXYUlNUy0yM0hSckZRZmZaWXhPUDhyY3gxazRHWTlXVWpvbXpvWkFsbjNmMmp6NjNzLW9KTk02c3JTTVZxNzZPVHhsbzZvRjQ0SHFNMnNfX1ZDbWtLXzA0TDVOZDQtblVTNkcwYkVJUkkyLW9GMmRnZUJiZlhGVkNYNEdKTjZVcjEwVXBlaVB4ejdkNHZHQWdDSFFYZkgzVFpuMVpGYURfZ3paMnFrQWhwTHVTRDJKUUMyc1VoaEt2MlpTai1MR3pOeHB6cFpTOGdxOVJhdS1qdw?oc=5",
   "summary": "",
-  "time": "2026-06-15T21:05:00+08:00",
+  "time": "2026-06-15T21:04:49+08:00",
   "date": "2026-06-15",
   "sources": [
    "Class Action Lawsuits"
@@ -9715,7 +9715,7 @@
   ],
   "region": "国际",
   "category": "诉讼仲裁",
-  "heat": 10.4,
+  "heat": 10.3,
   "hot": false,
   "tags": [
    "investigation",
@@ -9761,7 +9761,7 @@
   ],
   "region": "国内",
   "category": "跨境数据",
-  "heat": 15.0,
+  "heat": 14.9,
   "hot": false,
   "tags": [
    "出境安全评估",
@@ -10723,7 +10723,7 @@
   ],
   "region": "国际",
   "category": "诉讼仲裁",
-  "heat": 7.7,
+  "heat": 7.6,
   "hot": false,
   "tags": [
    "class action"
@@ -11381,7 +11381,7 @@
   ],
   "region": "国内",
   "category": "立法监管",
-  "heat": 6.5,
+  "heat": 6.4,
   "hot": false,
   "tags": [
    "征求意见"
@@ -11591,5 +11591,27 @@
   "kw_score": 0.0,
   "weight": 2.0,
   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
+ },
+ "https://www.cnbeta.com.tw/articles/tech/1565930.htm": {
+  "title": "美国政府与Anthropic 结束紧急谈判但并未解除管制指令",
+  "url": "https://www.cnbeta.com.tw/articles/tech/1565930.htm",
+  "summary": "上周美国政府因接到亚马逊网络安全工程师通报的消息，紧急发布出口管制指令要求 A 社停止向任何非美国公民提供 Claude Fable 5 模型，发布出口管制指令的原因是亚马逊网络安全工程师发现模型安全机制不够，可以通过某些方法绕过安全边界而获取敏感内容，而基于合规考虑 A 社直接在全球范围内下架 Claude Fable 5 模型。 阅读全文",
+  "time": "2026-06-16T16:05:22+08:00",
+  "date": "2026-06-16",
+  "sources": [
+   "cnBeta.COM"
+  ],
+  "region": "国内",
+  "category": "执法处罚",
+  "heat": 8.5,
+  "hot": false,
+  "tags": [
+   "网络安全",
+   "合规"
+  ],
+  "importance": 7.0,
+  "kw_score": 3.0,
+  "weight": 1.5,
+  "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
  }
 }
