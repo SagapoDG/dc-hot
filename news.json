@@ -1,11 +1,29 @@
 {
- "generated_at": "2026-06-18T16:03:54.316035+08:00",
- "count": 381,
+ "generated_at": "2026-06-18T16:34:58.329418+08:00",
+ "count": 383,
  "highlight_count": 30,
  "errors": [
+  "noyb 欧洲数字权利中心: IncompleteRead(965575 bytes read, 1388023 more expected)",
+  "The Hacker News: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
   "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）",
   "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）",
-  "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）"
+  "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）",
+  "cnBeta: not well-formed (invalid token): line 40, column 266",
+  "Google News: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
+  "Google News: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
+  "Google News: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
+  "Google News: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
+  "Google News: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
+  "Google News: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
+  "Google News: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
+  "Google News: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
+  "Google News: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
+  "Google News: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
+  "Google News: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
+  "Google News: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
+  "Google News: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
+  "Google News: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
+  "Google News: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>"
  ],
  "items": [
   {
@@ -124,29 +142,6 @@
    "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
   },
   {
-   "title": "$850K Willow TV data privacy class action settlement",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZnUyMHVZZTZkLW9faHg4QVR5TjRsbVUteHctbmlXWEUxVWl3STNvM0pVTGVZb3dIU0otU0lYWmRyVkUzYmQzRWQzUzZoTTBMTWxfR2s5RkpsaDNRdkwwelJ0Z0NZeG83NGItN2tvLUN6cG13N3F2OVV0dkp0cUwzajIzLTBtRkxUUlpSN2N6dzVtckJ2eVlIbEN2OXpESk5WQ1NiRXlla0VXWDVIUjYyX25jUWNYZm9jNGU1Q04td1BkamM?oc=5",
-   "summary": "",
-   "time": "2026-06-18T01:08:04+08:00",
-   "date": "2026-06-18",
-   "sources": [
-    "Class Action Lawsuits"
-   ],
-   "region": "国际",
-   "category": "诉讼仲裁",
-   "heat": 13.2,
-   "hot": false,
-   "tags": [
-    "class action",
-    "settlement",
-    "lawsuit"
-   ],
-   "importance": 12.5,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
-  },
-  {
    "title": "AI大模型平台选型优选指南：聚焦豆包+DeepSeek，2026 智能体应用落地全解",
    "url": "https://36kr.com/p/3858102947206148?f=rss",
    "summary": "【平台核心概览】 豆包：字节跳动旗下的全场景AI智能体平台。定位为“内容娱乐入口”与“数字大脑”的结合体，凭借卓越的多模态能力、端侧流量闭环以及OS Agent执行力，强势领跑全栈AI应用商业化落地。 DeepSeek：新一代全场景赋能的开源大模型平台。以极致的算力性价比与顶尖的数学逻辑推理见长，是自主可控与深度研发场景下的重磅引擎。 2026年，全球智…",
@@ -170,6 +165,29 @@
    "reason": "行业合规实践动态，可作为制度建设与对标参考。"
   },
   {
+   "title": "$850K Willow TV data privacy class action settlement",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZnUyMHVZZTZkLW9faHg4QVR5TjRsbVUteHctbmlXWEUxVWl3STNvM0pVTGVZb3dIU0otU0lYWmRyVkUzYmQzRWQzUzZoTTBMTWxfR2s5RkpsaDNRdkwwelJ0Z0NZeG83NGItN2tvLUN6cG13N3F2OVV0dkp0cUwzajIzLTBtRkxUUlpSN2N6dzVtckJ2eVlIbEN2OXpESk5WQ1NiRXlla0VXWDVIUjYyX25jUWNYZm9jNGU1Q04td1BkamM?oc=5",
+   "summary": "",
+   "time": "2026-06-18T01:08:04+08:00",
+   "date": "2026-06-18",
+   "sources": [
+    "Class Action Lawsuits"
+   ],
+   "region": "国际",
+   "category": "诉讼仲裁",
+   "heat": 13.1,
+   "hot": false,
+   "tags": [
+    "class action",
+    "settlement",
+    "lawsuit"
+   ],
+   "importance": 12.5,
+   "kw_score": 8.0,
+   "weight": 2.0,
+   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
+  },
+  {
    "title": "工信部等七部门：鼓励平台企业探索数据资源共享与流通利用模式，加快企业数据开发利用",
    "url": "https://36kr.com/newsflashes/3858353757754370?f=rss",
    "summary": "36氪获悉，工业和信息化部、中央网信办、市场监管总局等七部门日前联合印发《促进平台经济大中小企业协同发展行动方案（2026—2028年）》。《行动方案》提出，促进数据要素开放。推动数据资源开放，引导平台企业打造可信数据空间，高效开发利用和管理数据资源。鼓励平台企业探索数据资源共享与流通利用模式，加快企业数据开发利用，打造行业高质量数据集。鼓励平台企业协同…",
@@ -180,7 +198,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 11.5,
+   "heat": 11.4,
    "hot": false,
    "tags": [
     "数据要素",
@@ -203,7 +221,7 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 9.5,
+   "heat": 9.4,
    "hot": false,
    "tags": [
     "网信办",
@@ -237,6 +255,27 @@
    "reason": "行业合规实践动态，可作为制度建设与对标参考。"
   },
   {
+   "title": "中科院博士冲上市，市值超105亿港币",
+   "url": "https://36kr.com/p/3857959588418823?f=rss",
+   "summary": "本文约1900字，建议阅读4分钟 作者 | 彭孝秋 6月17日，中科闻歌（01956.HK）正式启动招股，发行价60.70港元，每手200股，市值105.07亿港元。此次IPO全球发售约1483.46万股，募资总额约9亿港元，预计6月26日在港交所主板挂牌。 上市后，中科闻歌将成为\"通用决策大模型第一股\"。在中国企业级大模型市场里，中科闻歌排第八，份额2…",
+   "time": "2026-06-18T09:00:00+08:00",
+   "date": "2026-06-18",
+   "sources": [
+    "36氪"
+   ],
+   "region": "国内",
+   "category": "行业实践",
+   "heat": 7.1,
+   "hot": false,
+   "tags": [
+    "合规"
+   ],
+   "importance": 3.5,
+   "kw_score": 2.0,
+   "weight": 1.5,
+   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
+  },
+  {
    "title": "Vermont Data Privacy Bill Signed into Law",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxON2RtcmRhQ25jWlVwNjNKUGVLVG1ydmxqUVM5OEs0MjY1T2hPWjdCMnlQUy1uVmduamlnMEZ6bUtaRV9wdmxFbjROQ19lSGw3c3kzcVJQaXVHa09ZaHJwdEhvMUYta0Z0a0Zyd29xYXBCUHQ1dks5Y2pOaHpidTdCSUg0NXJnQWt2SXlGQmVQcw?oc=5",
    "summary": "",
@@ -258,23 +297,23 @@
    "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
   },
   {
-   "title": "中科院博士冲上市，市值超105亿港币",
-   "url": "https://36kr.com/p/3857959588418823?f=rss",
-   "summary": "本文约1900字，建议阅读4分钟 作者 | 彭孝秋 6月17日，中科闻歌（01956.HK）正式启动招股，发行价60.70港元，每手200股，市值105.07亿港元。此次IPO全球发售约1483.46万股，募资总额约9亿港元，预计6月26日在港交所主板挂牌。 上市后，中科闻歌将成为\"通用决策大模型第一股\"。在中国企业级大模型市场里，中科闻歌排第八，份额2…",
-   "time": "2026-06-18T09:00:00+08:00",
+   "title": "江苏索普：公司及相关人员收到江苏证监局警示函",
+   "url": "https://36kr.com/newsflashes/3858405518316544?f=rss",
+   "summary": "36氪获悉，江苏索普公告，公司于2026年6月17日收到江苏证监局出具的警示函，因公司对2022年度至2024年度合并及母公司财务报表进行追溯调整，涉及营收、营业成本、研发费用等科目，导致相关年度报告财务数据披露不准确。公司总经理陈志林、时任财务总监崔坤族对违规行为负有主要责任。江苏证监局决定对公司及相关人员采取出具警示函的行政监管措施，并记入证券期货市…",
+   "time": "2026-06-18T16:32:00+08:00",
    "date": "2026-06-18",
    "sources": [
     "36氪"
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 7.1,
+   "heat": 6.5,
    "hot": false,
    "tags": [
-    "合规"
+    "监管"
    ],
-   "importance": 3.5,
-   "kw_score": 2.0,
+   "importance": 2.5,
+   "kw_score": 1.0,
    "weight": 1.5,
    "reason": "行业合规实践动态，可作为制度建设与对标参考。"
   },
@@ -298,6 +337,25 @@
    "reason": "行业合规实践动态，可作为制度建设与对标参考。"
   },
   {
+   "title": "读懂国家数据局《方案》：六大专项行动全面铺开，如何布局高质量数据集建设？",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBRamswa1o5S0huYVVsYXE1RGowVVNEc2lwRGNHVlZKRnlGbXU0TDJ5b2g4X3dfdndZS2xfQWxBZ2dtUkVjdzV6dUhxaG93dE5WSThia3NxVUNuUUREZzNocW5uaWduMUhacVYwWnJ3?oc=5",
+   "summary": "",
+   "time": "2026-06-18T10:12:57+08:00",
+   "date": "2026-06-18",
+   "sources": [
+    "中华网"
+   ],
+   "region": "国内",
+   "category": "行业实践",
+   "heat": 5.6,
+   "hot": false,
+   "tags": [],
+   "importance": 2.0,
+   "kw_score": 0.0,
+   "weight": 2.0,
+   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
+  },
+  {
    "title": "携程被罚1000万元: 数据 出境 合规 的边界,正在被重新定义",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1781674204&ver=6787&signature=3jYGd13ZTb*cHw5*5RpSNa*DI3B9jaEIIaNHUD22oEsEZkWYEgOj1C9Y*0T3tWa*9jSaheRB1wD5ogt3BSAZqEpffe0Yk*s-8r8e427U9T4goW*1aVhAcjokhXjP92h7&new=1",
    "summary": "公布了一批 数据合规 执法案件.其中,上海携程商务有限公司因“未落实数据出境安全评估要求”“违法向境外提供个人信息”,被依...",
@@ -308,99 +366,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 16.5,
-   "hot": true,
-   "tags": [
-    "出境安全评估",
-    "个人信息",
-    "数据合规"
-   ],
-   "importance": 17.0,
-   "kw_score": 12.0,
-   "weight": 2.0,
-   "reason": "涉及数据跨境流动规则，可能影响出境安全评估、标准合同备案等合规路径，建议出海/跨国业务团队关注。"
-  },
-  {
-   "title": "携程被罚1000万元: 数据 出境 合规 的边界,正在被重新定义",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1781675115&ver=6787&signature=3jYGd13ZTb*cHw5*5RpSNa*DI3B9jaEIIaNHUD22oEsEZkWYEgOj1C9Y*0T3tWa*ROX7ShziMLEOVyPS3x4IDJr9Ikiw1jUWizmnhg9GTNBq5HBu19XFyp--ZKEcICHg&new=1",
-   "summary": "公布了一批 数据合规 执法案件.其中,上海携程商务有限公司因“未落实数据出境安全评估要求”“违法向境外提供个人信息”,被依...",
-   "time": "2026-06-17T12:12:11+08:00",
-   "date": "2026-06-17",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "跨境数据",
-   "heat": 16.5,
-   "hot": true,
-   "tags": [
-    "出境安全评估",
-    "个人信息",
-    "数据合规"
-   ],
-   "importance": 17.0,
-   "kw_score": 12.0,
-   "weight": 2.0,
-   "reason": "涉及数据跨境流动规则，可能影响出境安全评估、标准合同备案等合规路径，建议出海/跨国业务团队关注。"
-  },
-  {
-   "title": "携程被罚1000万元: 数据 出境 合规 的边界,正在被重新定义",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1781680522&ver=6787&signature=3jYGd13ZTb*cHw5*5RpSNa*DI3B9jaEIIaNHUD22oEsRhxErzevSTBWe0MGnOMMxsIX3yPxlITqdr*birwUHEHaix9gh*Qr*YLdI2g5nlRwYGtEiAYaJ1JfNtShtUxWS&new=1",
-   "summary": "公布了一批 数据合规 执法案件.其中,上海携程商务有限公司因“未落实数据出境安全评估要求”“违法向境外提供个人信息”,被依...",
-   "time": "2026-06-17T12:12:11+08:00",
-   "date": "2026-06-17",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "跨境数据",
-   "heat": 16.5,
-   "hot": true,
-   "tags": [
-    "出境安全评估",
-    "个人信息",
-    "数据合规"
-   ],
-   "importance": 17.0,
-   "kw_score": 12.0,
-   "weight": 2.0,
-   "reason": "涉及数据跨境流动规则，可能影响出境安全评估、标准合同备案等合规路径，建议出海/跨国业务团队关注。"
-  },
-  {
-   "title": "携程被罚1000万元: 数据 出境 合规 的边界,正在被重新定义",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1781681373&ver=6787&signature=3jYGd13ZTb*cHw5*5RpSNa*DI3B9jaEIIaNHUD22oEsRhxErzevSTBWe0MGnOMMxL92wBnatKLxee5fDVATjcT1PSkW-MuGin4EatTICPvUBIB3kywDcS9jI0-NHeEGf&new=1",
-   "summary": "公布了一批 数据合规 执法案件.其中,上海携程商务有限公司因“未落实数据出境安全评估要求”“违法向境外提供个人信息”,被依...",
-   "time": "2026-06-17T12:12:11+08:00",
-   "date": "2026-06-17",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "跨境数据",
-   "heat": 16.5,
-   "hot": true,
-   "tags": [
-    "出境安全评估",
-    "个人信息",
-    "数据合规"
-   ],
-   "importance": 17.0,
-   "kw_score": 12.0,
-   "weight": 2.0,
-   "reason": "涉及数据跨境流动规则，可能影响出境安全评估、标准合同备案等合规路径，建议出海/跨国业务团队关注。"
-  },
-  {
-   "title": "携程被罚1000万元: 数据 出境 合规 的边界,正在被重新定义",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1781682097&ver=6787&signature=3jYGd13ZTb*cHw5*5RpSNa*DI3B9jaEIIaNHUD22oEsRhxErzevSTBWe0MGnOMMxg9ZTOungNWcAdC1-9icpuSg9otE4ir49mbXqNsTPry6dmvxuXnq2utQrNx7yrB63&new=1",
-   "summary": "公布了一批 数据合规 执法案件.其中,上海携程商务有限公司因“未落实数据出境安全评估要求”“违法向境外提供个人信息”,被依...",
-   "time": "2026-06-17T12:12:11+08:00",
-   "date": "2026-06-17",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "跨境数据",
-   "heat": 16.5,
+   "heat": 16.4,
    "hot": true,
    "tags": [
     "出境安全评估",
@@ -436,6 +402,29 @@
    "reason": "涉及数据跨境流动规则，可能影响出境安全评估、标准合同备案等合规路径，建议出海/跨国业务团队关注。"
   },
   {
+   "title": "携程被罚1000万元: 数据 出境 合规 的边界,正在被重新定义",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1781675115&ver=6787&signature=3jYGd13ZTb*cHw5*5RpSNa*DI3B9jaEIIaNHUD22oEsEZkWYEgOj1C9Y*0T3tWa*ROX7ShziMLEOVyPS3x4IDJr9Ikiw1jUWizmnhg9GTNBq5HBu19XFyp--ZKEcICHg&new=1",
+   "summary": "公布了一批 数据合规 执法案件.其中,上海携程商务有限公司因“未落实数据出境安全评估要求”“违法向境外提供个人信息”,被依...",
+   "time": "2026-06-17T12:12:11+08:00",
+   "date": "2026-06-17",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "跨境数据",
+   "heat": 16.4,
+   "hot": true,
+   "tags": [
+    "出境安全评估",
+    "个人信息",
+    "数据合规"
+   ],
+   "importance": 17.0,
+   "kw_score": 12.0,
+   "weight": 2.0,
+   "reason": "涉及数据跨境流动规则，可能影响出境安全评估、标准合同备案等合规路径，建议出海/跨国业务团队关注。"
+  },
+  {
    "title": "携程被罚1000万元, 数据 出境 合规 再敲警钟",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1781675115&ver=6787&signature=BiheuF6OxpsQkHW9z7S*cXEJPu7DqeVAQ3iqdZSQ*EoXam0Pe747tifDPdBostmQijmB2z7i0h6cIk0qTpVTr0jHmf7cJnHC30kBRE7-TzihCwizaWJFZPSnZ2WC4*lC&new=1",
    "summary": "后端处理 数据合规 能力不足、数据出境合规审计不严等多重问题.从处罚措辞判断,携程此前可能已被要求整改,但未能有效落实....",
@@ -452,6 +441,29 @@
     "数据合规",
     "数据出境",
     "合规审计"
+   ],
+   "importance": 17.0,
+   "kw_score": 12.0,
+   "weight": 2.0,
+   "reason": "涉及数据跨境流动规则，可能影响出境安全评估、标准合同备案等合规路径，建议出海/跨国业务团队关注。"
+  },
+  {
+   "title": "携程被罚1000万元: 数据 出境 合规 的边界,正在被重新定义",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1781680522&ver=6787&signature=3jYGd13ZTb*cHw5*5RpSNa*DI3B9jaEIIaNHUD22oEsRhxErzevSTBWe0MGnOMMxsIX3yPxlITqdr*birwUHEHaix9gh*Qr*YLdI2g5nlRwYGtEiAYaJ1JfNtShtUxWS&new=1",
+   "summary": "公布了一批 数据合规 执法案件.其中,上海携程商务有限公司因“未落实数据出境安全评估要求”“违法向境外提供个人信息”,被依...",
+   "time": "2026-06-17T12:12:11+08:00",
+   "date": "2026-06-17",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "跨境数据",
+   "heat": 16.4,
+   "hot": true,
+   "tags": [
+    "出境安全评估",
+    "个人信息",
+    "数据合规"
    ],
    "importance": 17.0,
    "kw_score": 12.0,
@@ -482,6 +494,29 @@
    "reason": "涉及数据跨境流动规则，可能影响出境安全评估、标准合同备案等合规路径，建议出海/跨国业务团队关注。"
   },
   {
+   "title": "携程被罚1000万元: 数据 出境 合规 的边界,正在被重新定义",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1781681373&ver=6787&signature=3jYGd13ZTb*cHw5*5RpSNa*DI3B9jaEIIaNHUD22oEsRhxErzevSTBWe0MGnOMMxL92wBnatKLxee5fDVATjcT1PSkW-MuGin4EatTICPvUBIB3kywDcS9jI0-NHeEGf&new=1",
+   "summary": "公布了一批 数据合规 执法案件.其中,上海携程商务有限公司因“未落实数据出境安全评估要求”“违法向境外提供个人信息”,被依...",
+   "time": "2026-06-17T12:12:11+08:00",
+   "date": "2026-06-17",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "跨境数据",
+   "heat": 16.4,
+   "hot": true,
+   "tags": [
+    "出境安全评估",
+    "个人信息",
+    "数据合规"
+   ],
+   "importance": 17.0,
+   "kw_score": 12.0,
+   "weight": 2.0,
+   "reason": "涉及数据跨境流动规则，可能影响出境安全评估、标准合同备案等合规路径，建议出海/跨国业务团队关注。"
+  },
+  {
    "title": "携程被罚1000万元, 数据 出境 合规 再敲警钟",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1781681373&ver=6787&signature=BiheuF6OxpsQkHW9z7S*cXEJPu7DqeVAQ3iqdZSQ*EoMOLpE*j02rQOgLwHHKfn2Kafv0Vhb3XjxYY-0xZP7bnc-MWez-Aa7QarizvSKVRUdq9fo2ZWc4KP4KfBU9mv*&new=1",
    "summary": "后端处理 数据合规 能力不足、数据出境合规审计不严等多重问题.从处罚措辞判断,携程此前可能已被要求整改,但未能有效落实....",
@@ -493,11 +528,34 @@
    "region": "国内",
    "category": "跨境数据",
    "heat": 16.4,
-   "hot": false,
+   "hot": true,
    "tags": [
     "数据合规",
     "数据出境",
     "合规审计"
+   ],
+   "importance": 17.0,
+   "kw_score": 12.0,
+   "weight": 2.0,
+   "reason": "涉及数据跨境流动规则，可能影响出境安全评估、标准合同备案等合规路径，建议出海/跨国业务团队关注。"
+  },
+  {
+   "title": "携程被罚1000万元: 数据 出境 合规 的边界,正在被重新定义",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1781682097&ver=6787&signature=3jYGd13ZTb*cHw5*5RpSNa*DI3B9jaEIIaNHUD22oEsRhxErzevSTBWe0MGnOMMxg9ZTOungNWcAdC1-9icpuSg9otE4ir49mbXqNsTPry6dmvxuXnq2utQrNx7yrB63&new=1",
+   "summary": "公布了一批 数据合规 执法案件.其中,上海携程商务有限公司因“未落实数据出境安全评估要求”“违法向境外提供个人信息”,被依...",
+   "time": "2026-06-17T12:12:11+08:00",
+   "date": "2026-06-17",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "跨境数据",
+   "heat": 16.4,
+   "hot": false,
+   "tags": [
+    "出境安全评估",
+    "个人信息",
+    "数据合规"
    ],
    "importance": 17.0,
    "kw_score": 12.0,
@@ -919,52 +977,6 @@
    "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
   },
   {
-   "title": "Amadeus IT Group Receives GDPR Fine",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRzNPSW9vdGE1UWE4Wkk0dHFsRTl4ZmlHUFVUdmxpOWtsbXVHQm0yV3hfMENkNV9iT0JuMl9qWWtLbUhlNERPQVF4YmZTaUU1MmtaeHhCaG1nZ1ZXZ3gxQVpTSEhEUmEzTXZhWWlrQkY0QUg0Q2IyNnhJWXh0V0FWMDhZcGdmY28?oc=5",
-   "summary": "",
-   "time": "2026-06-17T19:31:27+08:00",
-   "date": "2026-06-17",
-   "sources": [
-    "Inside Privacy"
-   ],
-   "region": "国际",
-   "category": "执法处罚",
-   "heat": 11.9,
-   "hot": false,
-   "tags": [
-    "privacy",
-    "GDPR",
-    "fine"
-   ],
-   "importance": 11.5,
-   "kw_score": 7.0,
-   "weight": 2.0,
-   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
-  },
-  {
-   "title": "Amadeus IT Group Receives GDPR Fine",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdTcwczRjZVR4T0dPd2pHM09ZemE4ZGlYdFJodEVUUHlKRGdSdlJTYTdjU0hFR0lIXzlWajhsV1RVOTBzVm9uUFpJelJqOXVXUkNqZXduM2NkLWQwSFNtbkdCa1hxZXAzN0dLMmlCbVItZTRXN21CM0FQV3RyazhnT09mR3ZCUzdaYWRxa3d3?oc=5",
-   "summary": "",
-   "time": "2026-06-17T19:31:27+08:00",
-   "date": "2026-06-17",
-   "sources": [
-    "Inside Privacy"
-   ],
-   "region": "国际",
-   "category": "执法处罚",
-   "heat": 11.9,
-   "hot": false,
-   "tags": [
-    "privacy",
-    "GDPR",
-    "fine"
-   ],
-   "importance": 11.5,
-   "kw_score": 7.0,
-   "weight": 2.0,
-   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
-  },
-  {
    "title": "$3.3M Mt. Baker Imaging and Northwest Radiologists data breach class action settlement",
    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNaEtBeC1tUW1uWDFmZG1YNjFLdkpjZ0o4YnFwVnAzNEtFZjE1Q2pOSkFoVGtnWk5WRjh3TncyMVUyX2xKdDI2cS1FZmNxeXJIUGJFVGNWUXZjMERCWE1EcU9WM2tBd2UtNEVSSkp3VWZYT1NsUXMtTFJydHRkcHU2S2tOWWNkVU1FcTdpVmtwRGFKREhIbFNYcVBhRjhtMFpWNWl6TElVYU1GRUljc2RIX2ZYc3JSZFFyaVEtWXZkcHFrVUh5blR1OGQ1NU96ZWFBekRraDY2RVBtMVNQVlNyMXh6V3BUZ3Atb3ZZVnM3cw?oc=5",
    "summary": "",
@@ -986,6 +998,52 @@
    "kw_score": 8.0,
    "weight": 2.0,
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
+  },
+  {
+   "title": "Amadeus IT Group Receives GDPR Fine",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdTcwczRjZVR4T0dPd2pHM09ZemE4ZGlYdFJodEVUUHlKRGdSdlJTYTdjU0hFR0lIXzlWajhsV1RVOTBzVm9uUFpJelJqOXVXUkNqZXduM2NkLWQwSFNtbkdCa1hxZXAzN0dLMmlCbVItZTRXN21CM0FQV3RyazhnT09mR3ZCUzdaYWRxa3d3?oc=5",
+   "summary": "",
+   "time": "2026-06-17T19:31:27+08:00",
+   "date": "2026-06-17",
+   "sources": [
+    "Inside Privacy"
+   ],
+   "region": "国际",
+   "category": "执法处罚",
+   "heat": 11.8,
+   "hot": false,
+   "tags": [
+    "privacy",
+    "GDPR",
+    "fine"
+   ],
+   "importance": 11.5,
+   "kw_score": 7.0,
+   "weight": 2.0,
+   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
+  },
+  {
+   "title": "Amadeus IT Group Receives GDPR Fine",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRzNPSW9vdGE1UWE4Wkk0dHFsRTl4ZmlHUFVUdmxpOWtsbXVHQm0yV3hfMENkNV9iT0JuMl9qWWtLbUhlNERPQVF4YmZTaUU1MmtaeHhCaG1nZ1ZXZ3gxQVpTSEhEUmEzTXZhWWlrQkY0QUg0Q2IyNnhJWXh0V0FWMDhZcGdmY28?oc=5",
+   "summary": "",
+   "time": "2026-06-17T19:31:27+08:00",
+   "date": "2026-06-17",
+   "sources": [
+    "Inside Privacy"
+   ],
+   "region": "国际",
+   "category": "执法处罚",
+   "heat": 11.8,
+   "hot": false,
+   "tags": [
+    "privacy",
+    "GDPR",
+    "fine"
+   ],
+   "importance": 11.5,
+   "kw_score": 7.0,
+   "weight": 2.0,
+   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
   },
   {
    "title": "Madison Square Garden Hit With Class Action Lawsuit Over Apparent Data Breach",
@@ -1021,7 +1079,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 11.1,
+   "heat": 11.0,
    "hot": false,
    "tags": [
     "class action",
@@ -1067,7 +1125,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 10.5,
+   "heat": 10.4,
    "hot": false,
    "tags": [
     "数据安全",
@@ -1090,7 +1148,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 10.5,
+   "heat": 10.4,
    "hot": false,
    "tags": [
     "数据安全",
@@ -1135,7 +1193,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 10.0,
+   "heat": 9.9,
    "hot": false,
    "tags": [
     "争议解决",
@@ -1304,6 +1362,27 @@
    "reason": "行业合规实践动态，可作为制度建设与对标参考。"
   },
   {
+   "title": "Vermont Becomes 23rd State with Comprehensive Consumer Privacy Law",
+   "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/vermont-becomes-23rd-state-with-comprehensive-consumer-privacy-law",
+   "summary": "On June 16, 2026, Vermont Governor Phil Scott signed into law Senate Bill S.71 , the Vermont Data Privacy and Online Surveillance Act, making Vermont the 23 rd state with a compr…",
+   "time": "2026-06-17T21:00:01+08:00",
+   "date": "2026-06-17",
+   "sources": [
+    "Hunton 隐私与信息安全博客"
+   ],
+   "region": "国际",
+   "category": "个人信息保护",
+   "heat": 7.9,
+   "hot": false,
+   "tags": [
+    "privacy"
+   ],
+   "importance": 5.0,
+   "kw_score": 2.0,
+   "weight": 3.0,
+   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
+  },
+  {
    "title": "Canada's Bill C-36 introduces privacy reforms, enforcement changes",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZG0zY1JGZWZVNjdjMnBXeXY0M2V2dmRkaGR1RWxuWmRsX2JNYnBmVzZrYVdSY2ppUVUwNk5qYWFoQzRVc0duNU1mS3hMWUJDSmkzdHFrT3V0a3NTUHJSZ0UwYXBkbUg1Q01nN2NSbzRxc1lUTkNaV2Nwdl84LTcwbmhfcm15am1FeEhmOUxCUmRtY0k?oc=5",
    "summary": "",
@@ -1324,27 +1403,6 @@
    "kw_score": 4.0,
    "weight": 2.0,
    "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
-  },
-  {
-   "title": "Vermont Becomes 23rd State with Comprehensive Consumer Privacy Law",
-   "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/vermont-becomes-23rd-state-with-comprehensive-consumer-privacy-law",
-   "summary": "On June 16, 2026, Vermont Governor Phil Scott signed into law Senate Bill S.71 , the Vermont Data Privacy and Online Surveillance Act, making Vermont the 23 rd state with a compr…",
-   "time": "2026-06-17T21:00:01+08:00",
-   "date": "2026-06-17",
-   "sources": [
-    "Hunton 隐私与信息安全博客"
-   ],
-   "region": "国际",
-   "category": "个人信息保护",
-   "heat": 7.9,
-   "hot": false,
-   "tags": [
-    "privacy"
-   ],
-   "importance": 5.0,
-   "kw_score": 2.0,
-   "weight": 3.0,
-   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
   },
   {
    "title": "Court docs: Lawsuit filed against Columbia Orthopaedic Group after ‘ransomware gang’ takes credit for cyber attack",
@@ -1527,7 +1585,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 6.1,
+   "heat": 6.0,
    "hot": false,
    "tags": [
     "fine"
@@ -1548,7 +1606,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 5.0,
+   "heat": 4.9,
    "hot": false,
    "tags": [],
    "importance": 2.0,
@@ -2140,7 +2198,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 14.3,
+   "heat": 14.2,
    "hot": false,
    "tags": [
     "跨境数据",
@@ -2876,7 +2934,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 12.1,
+   "heat": 12.0,
    "hot": false,
    "tags": [
     "数据合规",
@@ -2899,7 +2957,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 12.1,
+   "heat": 12.0,
    "hot": false,
    "tags": [
     "数据合规",
@@ -2922,7 +2980,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 12.1,
+   "heat": 12.0,
    "hot": false,
    "tags": [
     "数据合规",
@@ -2945,7 +3003,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 12.1,
+   "heat": 12.0,
    "hot": false,
    "tags": [
     "数据合规",
@@ -2968,7 +3026,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 12.1,
+   "heat": 12.0,
    "hot": false,
    "tags": [
     "数据合规",
@@ -2991,7 +3049,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 12.1,
+   "heat": 12.0,
    "hot": false,
    "tags": [
     "数据合规",
@@ -3014,7 +3072,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 12.1,
+   "heat": 12.0,
    "hot": false,
    "tags": [
     "数据合规",
@@ -3037,7 +3095,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 12.1,
+   "heat": 12.0,
    "hot": false,
    "tags": [
     "数据合规",
@@ -3060,7 +3118,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 12.1,
+   "heat": 12.0,
    "hot": false,
    "tags": [
     "数据合规",
@@ -3083,7 +3141,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 12.1,
+   "heat": 12.0,
    "hot": false,
    "tags": [
     "数据合规",
@@ -3175,7 +3233,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 10.6,
+   "heat": 10.5,
    "hot": false,
    "tags": [
     "个人信息",
@@ -3198,7 +3256,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 10.6,
+   "heat": 10.5,
    "hot": false,
    "tags": [
     "个人信息",
@@ -3222,7 +3280,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 10.3,
+   "heat": 10.2,
    "hot": false,
    "tags": [
     "数据合规",
@@ -3232,6 +3290,29 @@
    "kw_score": 5.0,
    "weight": 2.0,
    "reason": "行业合规实践动态，可作为制度建设与对标参考。"
+  },
+  {
+   "title": "Oak View Group Data Breach Lawsuit Investigation",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1pcUM2bi1yaU1JczlVUEIxMjFxVUNSeFVfVUMzekpyc3M0bmhwZ0s0cnNsWWxlVHpOcEozc2dSNDJJd3d4S1B4NjhxR2ZYdzR0WEVmeUFpSy11MlIwS3IwSThHM2VQTGNYZHFFVXV5YmRaMTFKWXRyY0ZQbUE3Zw?oc=5",
+   "summary": "",
+   "time": "2026-06-16T22:48:27+08:00",
+   "date": "2026-06-16",
+   "sources": [
+    "Claim Depot"
+   ],
+   "region": "国际",
+   "category": "诉讼仲裁",
+   "heat": 8.7,
+   "hot": false,
+   "tags": [
+    "investigation",
+    "data breach",
+    "lawsuit"
+   ],
+   "importance": 9.5,
+   "kw_score": 5.0,
+   "weight": 2.0,
+   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
   },
   {
    "title": "Florida Retina Center Data Breach Lawsuit Investigation",
@@ -3244,7 +3325,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 8.8,
+   "heat": 8.7,
    "hot": false,
    "tags": [
     "investigation",
@@ -3261,29 +3342,6 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LMi1CZWh4MENIaHdodElrS2xLSm1XdUlRVWU4QUV4T1JFeXA2SFAzamxMN3J6aUtUazg4MEd0NHJiOXJVakxNd2w3TEN6TDFSRUl6WVNjZW9JdVNXZ2gzRU12bWhxRXZnM3RzS3FnbkI?oc=5",
    "summary": "",
    "time": "2026-06-16T23:53:29+08:00",
-   "date": "2026-06-16",
-   "sources": [
-    "Claim Depot"
-   ],
-   "region": "国际",
-   "category": "诉讼仲裁",
-   "heat": 8.8,
-   "hot": false,
-   "tags": [
-    "investigation",
-    "data breach",
-    "lawsuit"
-   ],
-   "importance": 9.5,
-   "kw_score": 5.0,
-   "weight": 2.0,
-   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
-  },
-  {
-   "title": "Oak View Group Data Breach Lawsuit Investigation",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1pcUM2bi1yaU1JczlVUEIxMjFxVUNSeFVfVUMzekpyc3M0bmhwZ0s0cnNsWWxlVHpOcEozc2dSNDJJd3d4S1B4NjhxR2ZYdzR0WEVmeUFpSy11MlIwS3IwSThHM2VQTGNYZHFFVXV5YmRaMTFKWXRyY0ZQbUE3Zw?oc=5",
-   "summary": "",
-   "time": "2026-06-16T22:48:27+08:00",
    "date": "2026-06-16",
    "sources": [
     "Claim Depot"
@@ -3381,7 +3439,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 7.7,
+   "heat": 7.6,
    "hot": false,
    "tags": [
     "泄露",
@@ -3403,7 +3461,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 7.5,
+   "heat": 7.4,
    "hot": false,
    "tags": [
     "investigation",
@@ -3438,28 +3496,6 @@
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
   },
   {
-   "title": "支持与监督并重，2024-2025年浙江法院商事仲裁司法审查报告及典型案例发布",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SSXZ0QnlNdDdPbS1mSWFDNmY2eTE2dDJmVDRSaE5xeGpPYXpKN1hKbXZhOF93cGJTbk5pOHBxRkFjNHJnbFhOd0UzWDdLZHZVUEE?oc=5",
-   "summary": "",
-   "time": "2026-06-16T18:52:50+08:00",
-   "date": "2026-06-16",
-   "sources": [
-    "世界浙商网"
-   ],
-   "region": "国内",
-   "category": "诉讼仲裁",
-   "heat": 6.5,
-   "hot": false,
-   "tags": [
-    "法院",
-    "仲裁"
-   ],
-   "importance": 7.5,
-   "kw_score": 3.0,
-   "weight": 2.0,
-   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
-  },
-  {
    "title": "G7 Privacy Regulators Head to Paris With AI Enforcement Deadline 48 Days Out",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZ0htQUhTTFd4cl9vcnZ2UVdfY3BLUC16dUlXak4zeUMyQVVuaTRaSTVxZkdlMWJaY0tSWWQyTWdqM3Jkc0VuUG9qYUkxekZ5aEtuN2FFOGV2RjVGY25tN2IyaldDTVhPMGtxWnJvbDI0MEdBOHIzUDVvSlU5R192MzlqYzVnenEtZ094N3FldjBITkU4bzhDM2g5MEJrNmhMeEZCQVlMa25wV1N5dUNMeHlQY0FxWXRfUEdzX1diZV8?oc=5",
    "summary": "",
@@ -3480,6 +3516,28 @@
    "kw_score": 4.0,
    "weight": 2.0,
    "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
+  },
+  {
+   "title": "支持与监督并重，2024-2025年浙江法院商事仲裁司法审查报告及典型案例发布",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SSXZ0QnlNdDdPbS1mSWFDNmY2eTE2dDJmVDRSaE5xeGpPYXpKN1hKbXZhOF93cGJTbk5pOHBxRkFjNHJnbFhOd0UzWDdLZHZVUEE?oc=5",
+   "summary": "",
+   "time": "2026-06-16T18:52:50+08:00",
+   "date": "2026-06-16",
+   "sources": [
+    "世界浙商网"
+   ],
+   "region": "国内",
+   "category": "诉讼仲裁",
+   "heat": 6.5,
+   "hot": false,
+   "tags": [
+    "法院",
+    "仲裁"
+   ],
+   "importance": 7.5,
+   "kw_score": 3.0,
+   "weight": 2.0,
+   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
   },
   {
    "title": "美国政府与Anthropic 结束紧急谈判但并未解除管制指令",
@@ -3514,7 +3572,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 5.7,
+   "heat": 5.6,
    "hot": false,
    "tags": [
     "泄露",
@@ -3973,29 +4031,6 @@
   },
   {
    "title": "上海网信办：上海携程商务未落实数据出境安全评估等要求 罚款千万人币",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdV9hMUVSMlF6dGdKdl8wZ0Q1N3pZRUV6bXdXLVJPaFp2anRiOHctMHozZVRvcGZmZVFpS1FWNXF2bFJGQW1RRmFHSHAyTFdueVBHaWgzbkRXQXY5QWlWU1hPZVZqU0drM1MtZmpubENUOHFKNWpWYU9kZWtkb2tubl9WbHY1dWUxRWVIdUhaQmp1dw?oc=5",
-   "summary": "",
-   "time": "2026-06-15T12:19:00+08:00",
-   "date": "2026-06-15",
-   "sources": [
-    "AASTOCKS.com"
-   ],
-   "region": "国内",
-   "category": "跨境数据",
-   "heat": 14.0,
-   "hot": false,
-   "tags": [
-    "出境安全评估",
-    "数据出境",
-    "安全评估"
-   ],
-   "importance": 17.0,
-   "kw_score": 12.0,
-   "weight": 2.0,
-   "reason": "涉及数据跨境流动规则，可能影响出境安全评估、标准合同备案等合规路径，建议出海/跨国业务团队关注。"
-  },
-  {
-   "title": "上海网信办：上海携程商务未落实数据出境安全评估等要求 罚款千万人币",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcU5sTU5RQktyMkF5VUNZWjhHSDFzSFRsRXZJaU1BMW5VQndvaC1HUnJXZnJfNGRCT0dMeDA2bGdwZDZ2UEs3SjBLb1ZhZnVYNDdfMEZNX0xHLTVheVJNYzR3bVlsUkhtRHVHdWwzTVFaSzQyQzJWckxUa0RfQWNlbTZOakJBX0dVNmhv?oc=5",
    "summary": "",
    "time": "2026-06-15T12:19:00+08:00",
@@ -4110,6 +4145,29 @@
    "reason": "涉及数据跨境流动规则，可能影响出境安全评估、标准合同备案等合规路径，建议出海/跨国业务团队关注。"
   },
   {
+   "title": "上海网信办：上海携程商务未落实数据出境安全评估等要求 罚款千万人币",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdV9hMUVSMlF6dGdKdl8wZ0Q1N3pZRUV6bXdXLVJPaFp2anRiOHctMHozZVRvcGZmZVFpS1FWNXF2bFJGQW1RRmFHSHAyTFdueVBHaWgzbkRXQXY5QWlWU1hPZVZqU0drM1MtZmpubENUOHFKNWpWYU9kZWtkb2tubl9WbHY1dWUxRWVIdUhaQmp1dw?oc=5",
+   "summary": "",
+   "time": "2026-06-15T12:19:00+08:00",
+   "date": "2026-06-15",
+   "sources": [
+    "AASTOCKS.com"
+   ],
+   "region": "国内",
+   "category": "跨境数据",
+   "heat": 14.0,
+   "hot": false,
+   "tags": [
+    "出境安全评估",
+    "数据出境",
+    "安全评估"
+   ],
+   "importance": 17.0,
+   "kw_score": 12.0,
+   "weight": 2.0,
+   "reason": "涉及数据跨境流动规则，可能影响出境安全评估、标准合同备案等合规路径，建议出海/跨国业务团队关注。"
+  },
+  {
    "title": "携程被罚1000万: 数据 出境 合规 红线,到底划在哪?|申浩视点",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1781521686&ver=6784&signature=9F5KQtrc7raGc982Z9rHufSxweDtauvth2Bkk*SZbZ1MMHpr1BEBwTP*Nil5dNsCXbPuS7D3decKgRIicRNDDrsrkiF2IUfIIALWJpZrNxE-K28va-HhW9lmEO4rTYNF&new=1",
    "summary": "“近日,上海市网信办在国家网信办指导下,对属地部分企业 数据合规 问题办理了一批执法案件.其中,针对上海携程商务有限公司未...",
@@ -4120,7 +4178,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 13.2,
+   "heat": 13.1,
    "hot": false,
    "tags": [
     "数据合规",
@@ -4143,7 +4201,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 13.2,
+   "heat": 13.1,
    "hot": false,
    "tags": [
     "数据合规",
@@ -4166,7 +4224,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 13.2,
+   "heat": 13.1,
    "hot": false,
    "tags": [
     "数据合规",
@@ -4189,7 +4247,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 13.2,
+   "heat": 13.1,
    "hot": false,
    "tags": [
     "数据合规",
@@ -4212,7 +4270,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 13.2,
+   "heat": 13.1,
    "hot": false,
    "tags": [
     "数据合规",
@@ -4235,7 +4293,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 13.2,
+   "heat": 13.1,
    "hot": false,
    "tags": [
     "数据合规",
@@ -4258,7 +4316,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 13.2,
+   "heat": 13.1,
    "hot": false,
    "tags": [
     "数据合规",
@@ -4281,7 +4339,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 13.2,
+   "heat": 13.1,
    "hot": false,
    "tags": [
     "数据合规",
@@ -4304,7 +4362,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 13.2,
+   "heat": 13.1,
    "hot": false,
    "tags": [
     "数据合规",
@@ -4327,7 +4385,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 13.2,
+   "heat": 13.1,
    "hot": false,
    "tags": [
     "数据合规",
@@ -4695,7 +4753,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 10.3,
+   "heat": 10.2,
    "hot": false,
    "tags": [
     "class action",
@@ -4752,121 +4810,6 @@
    "kw_score": 8.0,
    "weight": 2.0,
    "reason": "涉及数据跨境流动规则，可能影响出境安全评估、标准合同备案等合规路径，建议出海/跨国业务团队关注。"
-  },
-  {
-   "title": "携程因 数据 出境违规被罚千万,平台 合规 问题持续引起热议,携程回应称启动专项整改和排查",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1781519453&ver=6784&signature=JRYZ2ELvoKVrE5oTOozo4DSk-JqSZfDqFTOFJ-SSMddkPIRO-rEBpgJcJOYNwip-x79K7h-eBbBNiBja59qNv*o9kWtyI-iJUpa1TyYrlN6tr-VF5TQX0dV3vdxI1KYj&new=1",
-   "summary": "携程因 数据 出境问题“踩雷”被罚1000万元,此前多次被市监管局约谈6月13日,据网信上海公众号报道,在国家网信办指导下,上海...",
-   "time": "2026-06-15T16:58:45+08:00",
-   "date": "2026-06-15",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "执法处罚",
-   "heat": 10.1,
-   "hot": false,
-   "tags": [
-    "网信办",
-    "合规",
-    "约谈"
-   ],
-   "importance": 12.5,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
-  },
-  {
-   "title": "携程因 数据 出境违规被罚千万,平台 合规 问题持续引起热议,携程回应称启动专项整改和排查",
-   "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2O-a5hXhhQUqXXTjawpGge-YNdOpYmDWlqXa8Fplpd9rmEoryXJh__rm3ssPmAeXb0lwUVgn3HfCEcUhkKwuFZUJCvZfqRvEYrEWTTBYiOvHwaS6BbIVbp9DLE46tcR4sCCoYDFj4yxQ7hgAyrEGU_dEvnos4bdBbwcO8toJdY11mlC5TtrymYs3ROm8gMddaG5Ce09Gz1VqN6TysuWE7FhlgeRt7bSzA..&type=2&query=%E6%95%B0%E6%8D%AE%E5%90%88%E8%A7%84&token=8ACF3E5223CD77A97A7C2F33FB6D63BB7B9FB3A96A2FD75F",
-   "summary": "携程因 数据 出境问题“踩雷”被罚1000万元,此前多次被市监管局约谈6月13日,据网信上海公众号报道,在国家网信办指导下,上海...",
-   "time": "2026-06-15T16:58:45+08:00",
-   "date": "2026-06-15",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "执法处罚",
-   "heat": 10.1,
-   "hot": false,
-   "tags": [
-    "网信办",
-    "合规",
-    "约谈"
-   ],
-   "importance": 12.5,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
-  },
-  {
-   "title": "携程因 数据 出境违规被罚千万,平台 合规 问题持续引起热议,携程回应称启动专项整改和排查",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1781520892&ver=6784&signature=JRYZ2ELvoKVrE5oTOozo4DSk-JqSZfDqFTOFJ-SSMdeEBsRhgwM0gVmRgVuYXWZI8YPQKfulKBvHVUXlDpPT*TXPVgDNbCtJG1Me5xtmXAVAAZ4hIBfjdlNr935OtnS3&new=1",
-   "summary": "携程因 数据 出境问题“踩雷”被罚1000万元,此前多次被市监管局约谈6月13日,据网信上海公众号报道,在国家网信办指导下,上海...",
-   "time": "2026-06-15T16:58:45+08:00",
-   "date": "2026-06-15",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "执法处罚",
-   "heat": 10.1,
-   "hot": false,
-   "tags": [
-    "网信办",
-    "合规",
-    "约谈"
-   ],
-   "importance": 12.5,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
-  },
-  {
-   "title": "携程因 数据 出境违规被罚千万,平台 合规 问题持续引起热议,携程回应称启动专项整改和排查",
-   "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2O-a5hXhhQU3Jmx25q7IJW-YNdOpYmDWlqXa8Fplpd9rmEoryXJh__rm3ssPmAeXb0lwUVgn3HfCEcUhkKwuFZUJCvZfqRvEYrEWTTBYiOvHwaS6BbIVbp9DLE46tcR4inlHJGEpCIWqROyKQR-2ludmyXo0MVAcO0MJ-Jlg5dumbJgHSOG9gXt-DM1O8KtJ6cAePZJy-vejEhfH-ew9tA5eBgmN3LoYQ..&type=2&query=%E6%95%B0%E6%8D%AE%E5%90%88%E8%A7%84&token=8AEC33B014FC409E4B4D18049B06B3F44CF9B3E36A2FDD16",
-   "summary": "携程因 数据 出境问题“踩雷”被罚1000万元,此前多次被市监管局约谈6月13日,据网信上海公众号报道,在国家网信办指导下,上海...",
-   "time": "2026-06-15T16:58:45+08:00",
-   "date": "2026-06-15",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "执法处罚",
-   "heat": 10.1,
-   "hot": false,
-   "tags": [
-    "网信办",
-    "合规",
-    "约谈"
-   ],
-   "importance": 12.5,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
-  },
-  {
-   "title": "携程因 数据 出境违规被罚千万,平台 合规 问题持续引起热议,携程回应称启动专项整改和排查",
-   "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2O-a5hXhhQUiuxnK-m1R5e-YNdOpYmDWlqXa8Fplpd9rmEoryXJh__rm3ssPmAeXb0lwUVgn3HfCEcUhkKwuFZUJCvZfqRvEYrEWTTBYiOvHwaS6BbIVbp9DLE46tcR4tzVDwwaCfRXd_7mquzqt3WjyZ8gTV1mPkjAtulMH7e1qio6COq1fwcX3reDFhXy1flBT7NTIRtBuBBW9FvbD3q00NVofL2iDw..&type=2&query=%E6%95%B0%E6%8D%AE%E5%90%88%E8%A7%84&token=8AFC8969EE02BA67B5B0E2FCB041D4DEB6B9A6566A2FE036",
-   "summary": "携程因 数据 出境问题“踩雷”被罚1000万元,此前多次被市监管局约谈6月13日,据网信上海公众号报道,在国家网信办指导下,上海...",
-   "time": "2026-06-15T16:58:45+08:00",
-   "date": "2026-06-15",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "执法处罚",
-   "heat": 10.1,
-   "hot": false,
-   "tags": [
-    "网信办",
-    "合规",
-    "约谈"
-   ],
-   "importance": 12.5,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
   },
   {
    "title": "上海站 6.27 |《 数据合规 与数据跨境实务》高级研修班",
@@ -4984,6 +4927,29 @@
    "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
   },
   {
+   "title": "携程因 数据 出境违规被罚千万,平台 合规 问题持续引起热议,携程回应称启动专项整改和排查",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1781519453&ver=6784&signature=JRYZ2ELvoKVrE5oTOozo4DSk-JqSZfDqFTOFJ-SSMddkPIRO-rEBpgJcJOYNwip-x79K7h-eBbBNiBja59qNv*o9kWtyI-iJUpa1TyYrlN6tr-VF5TQX0dV3vdxI1KYj&new=1",
+   "summary": "携程因 数据 出境问题“踩雷”被罚1000万元,此前多次被市监管局约谈6月13日,据网信上海公众号报道,在国家网信办指导下,上海...",
+   "time": "2026-06-15T16:58:45+08:00",
+   "date": "2026-06-15",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "执法处罚",
+   "heat": 10.0,
+   "hot": false,
+   "tags": [
+    "网信办",
+    "合规",
+    "约谈"
+   ],
+   "importance": 12.5,
+   "kw_score": 8.0,
+   "weight": 2.0,
+   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
+  },
+  {
    "title": "智御风险,共护权利 | AI时代 个人信息保护 法律论坛暨2026京师律所全球跨境数据隐私合规研讨会圆满举办",
    "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2O-a5hXhhQU5f4S3kN7coa-YNdOpYmDWlqXa8Fplpd9m3851qMMn5W9Acpwisnx7xzHPzcqwixsY_Hrn5Wy_HAlFVBQrhyoDaAPRcjbiBoa994BjXb7KIYYX6Fy_EZVH_Cin1kLGRayqLH4euuB8Q_tjH3OoMsXCPR5l1lIVObSYhkogUO_j49ULB9kVI9Q8gcVjAuE9cyBoggZ9Ldt2rpj3x9Nw6p-Fg..&type=2&query=%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E4%BF%9D%E6%8A%A4&token=8ABF99ADCB249E409295C6DBC18A9463931FC5A16A2FD46C",
    "summary": "个人信息保护 应立足人格尊严与安全,属于人格权法范畴;数据财产则应聚焦其商业利用价值,避免与知识产权逻辑混同.他强调,应...",
@@ -5005,6 +4971,98 @@
    "kw_score": 8.0,
    "weight": 2.0,
    "reason": "涉及数据跨境流动规则，可能影响出境安全评估、标准合同备案等合规路径，建议出海/跨国业务团队关注。"
+  },
+  {
+   "title": "携程因 数据 出境违规被罚千万,平台 合规 问题持续引起热议,携程回应称启动专项整改和排查",
+   "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2O-a5hXhhQUqXXTjawpGge-YNdOpYmDWlqXa8Fplpd9rmEoryXJh__rm3ssPmAeXb0lwUVgn3HfCEcUhkKwuFZUJCvZfqRvEYrEWTTBYiOvHwaS6BbIVbp9DLE46tcR4sCCoYDFj4yxQ7hgAyrEGU_dEvnos4bdBbwcO8toJdY11mlC5TtrymYs3ROm8gMddaG5Ce09Gz1VqN6TysuWE7FhlgeRt7bSzA..&type=2&query=%E6%95%B0%E6%8D%AE%E5%90%88%E8%A7%84&token=8ACF3E5223CD77A97A7C2F33FB6D63BB7B9FB3A96A2FD75F",
+   "summary": "携程因 数据 出境问题“踩雷”被罚1000万元,此前多次被市监管局约谈6月13日,据网信上海公众号报道,在国家网信办指导下,上海...",
+   "time": "2026-06-15T16:58:45+08:00",
+   "date": "2026-06-15",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "执法处罚",
+   "heat": 10.0,
+   "hot": false,
+   "tags": [
+    "网信办",
+    "合规",
+    "约谈"
+   ],
+   "importance": 12.5,
+   "kw_score": 8.0,
+   "weight": 2.0,
+   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
+  },
+  {
+   "title": "携程因 数据 出境违规被罚千万,平台 合规 问题持续引起热议,携程回应称启动专项整改和排查",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1781520892&ver=6784&signature=JRYZ2ELvoKVrE5oTOozo4DSk-JqSZfDqFTOFJ-SSMdeEBsRhgwM0gVmRgVuYXWZI8YPQKfulKBvHVUXlDpPT*TXPVgDNbCtJG1Me5xtmXAVAAZ4hIBfjdlNr935OtnS3&new=1",
+   "summary": "携程因 数据 出境问题“踩雷”被罚1000万元,此前多次被市监管局约谈6月13日,据网信上海公众号报道,在国家网信办指导下,上海...",
+   "time": "2026-06-15T16:58:45+08:00",
+   "date": "2026-06-15",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "执法处罚",
+   "heat": 10.0,
+   "hot": false,
+   "tags": [
+    "网信办",
+    "合规",
+    "约谈"
+   ],
+   "importance": 12.5,
+   "kw_score": 8.0,
+   "weight": 2.0,
+   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
+  },
+  {
+   "title": "携程因 数据 出境违规被罚千万,平台 合规 问题持续引起热议,携程回应称启动专项整改和排查",
+   "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2O-a5hXhhQU3Jmx25q7IJW-YNdOpYmDWlqXa8Fplpd9rmEoryXJh__rm3ssPmAeXb0lwUVgn3HfCEcUhkKwuFZUJCvZfqRvEYrEWTTBYiOvHwaS6BbIVbp9DLE46tcR4inlHJGEpCIWqROyKQR-2ludmyXo0MVAcO0MJ-Jlg5dumbJgHSOG9gXt-DM1O8KtJ6cAePZJy-vejEhfH-ew9tA5eBgmN3LoYQ..&type=2&query=%E6%95%B0%E6%8D%AE%E5%90%88%E8%A7%84&token=8AEC33B014FC409E4B4D18049B06B3F44CF9B3E36A2FDD16",
+   "summary": "携程因 数据 出境问题“踩雷”被罚1000万元,此前多次被市监管局约谈6月13日,据网信上海公众号报道,在国家网信办指导下,上海...",
+   "time": "2026-06-15T16:58:45+08:00",
+   "date": "2026-06-15",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "执法处罚",
+   "heat": 10.0,
+   "hot": false,
+   "tags": [
+    "网信办",
+    "合规",
+    "约谈"
+   ],
+   "importance": 12.5,
+   "kw_score": 8.0,
+   "weight": 2.0,
+   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
+  },
+  {
+   "title": "携程因 数据 出境违规被罚千万,平台 合规 问题持续引起热议,携程回应称启动专项整改和排查",
+   "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2O-a5hXhhQUiuxnK-m1R5e-YNdOpYmDWlqXa8Fplpd9rmEoryXJh__rm3ssPmAeXb0lwUVgn3HfCEcUhkKwuFZUJCvZfqRvEYrEWTTBYiOvHwaS6BbIVbp9DLE46tcR4tzVDwwaCfRXd_7mquzqt3WjyZ8gTV1mPkjAtulMH7e1qio6COq1fwcX3reDFhXy1flBT7NTIRtBuBBW9FvbD3q00NVofL2iDw..&type=2&query=%E6%95%B0%E6%8D%AE%E5%90%88%E8%A7%84&token=8AFC8969EE02BA67B5B0E2FCB041D4DEB6B9A6566A2FE036",
+   "summary": "携程因 数据 出境问题“踩雷”被罚1000万元,此前多次被市监管局约谈6月13日,据网信上海公众号报道,在国家网信办指导下,上海...",
+   "time": "2026-06-15T16:58:45+08:00",
+   "date": "2026-06-15",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "执法处罚",
+   "heat": 10.0,
+   "hot": false,
+   "tags": [
+    "网信办",
+    "合规",
+    "约谈"
+   ],
+   "importance": 12.5,
+   "kw_score": 8.0,
+   "weight": 2.0,
+   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
   },
   {
    "title": "盈科原创丨低空 数据 资产变现的三起案例及 合规 点评——以广东深圳与安徽合肥为例",
@@ -5109,7 +5167,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 8.2,
+   "heat": 8.1,
    "hot": false,
    "tags": [
     "个人信息",
@@ -5120,29 +5178,6 @@
    "kw_score": 6.0,
    "weight": 2.0,
    "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
-  },
-  {
-   "title": "Flo Health App $59.5M Privacy Class Action Settlement",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONHQ5VmQyNnktWHlfTDFHZVczaTZTaEt5U1JLVFZlTzZrUURkSGNuVHdFTkoyaGVUdVRqdDZVVno2ajVDalJEb25jWDVzVlhoNVNiSmVwdjZRTWpBOGlHSnRxR2xaR1dXalVaTXNZNW1Sd204dnVnRG5NN1BiRG55d1E3NA?oc=5",
-   "summary": "",
-   "time": "2026-06-15T17:08:00+08:00",
-   "date": "2026-06-15",
-   "sources": [
-    "Claim Depot"
-   ],
-   "region": "国际",
-   "category": "诉讼仲裁",
-   "heat": 8.1,
-   "hot": false,
-   "tags": [
-    "class action",
-    "settlement",
-    "privacy"
-   ],
-   "importance": 10.5,
-   "kw_score": 6.0,
-   "weight": 2.0,
-   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
   },
   {
    "title": "医疗器械GMP重大革新:全链追溯+ 数据合规 成为行业生死底线",
@@ -5166,6 +5201,29 @@
    "kw_score": 6.0,
    "weight": 2.0,
    "reason": "行业合规实践动态，可作为制度建设与对标参考。"
+  },
+  {
+   "title": "Flo Health App $59.5M Privacy Class Action Settlement",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONHQ5VmQyNnktWHlfTDFHZVczaTZTaEt5U1JLVFZlTzZrUURkSGNuVHdFTkoyaGVUdVRqdDZVVno2ajVDalJEb25jWDVzVlhoNVNiSmVwdjZRTWpBOGlHSnRxR2xaR1dXalVaTXNZNW1Sd204dnVnRG5NN1BiRG55d1E3NA?oc=5",
+   "summary": "",
+   "time": "2026-06-15T17:08:00+08:00",
+   "date": "2026-06-15",
+   "sources": [
+    "Claim Depot"
+   ],
+   "region": "国际",
+   "category": "诉讼仲裁",
+   "heat": 8.0,
+   "hot": false,
+   "tags": [
+    "class action",
+    "settlement",
+    "privacy"
+   ],
+   "importance": 10.5,
+   "kw_score": 6.0,
+   "weight": 2.0,
+   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
   },
   {
    "title": "Legal Services of Long Island Data Breach Lawsuit Investigation",
@@ -5192,7 +5250,7 @@
   },
   {
    "title": "六部门划定金融信息服务数据合规坐标",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91aFdYWmYxdDZwb0VBbllIbU55S19MaHpRX1BqWmt5d1c2ZktxdlpBdV8zTV9YN04yWHFvejBvN0xwejQwWjhyMG9TVGxwNDRYSVlqTDZhaTBTaVl3a0laTXBUbmlyRlBZVHJBZklkQ1VvV1dMVm53ag?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORFJNZVZiSnl1R3RmclJHbGhVSjZuYUZ6M1ZLekw2SDVoSE0yVWJwWnZGSHVtNFYweFAwOUQ5S2ItRTV0N19yMWlRbTNHcFlmVDJlX3ZYWVN5Zm9iQ1FTV0FYcGpPOWhsLWIwZWs3QmJfSjRueFp0VlZXMGM3cXpsdjZTdkdRT1QtRXM4RDVFQ3pvbHNNZEpncg?oc=5",
    "summary": "",
    "time": "2026-06-15T09:44:16+08:00",
    "date": "2026-06-15",
@@ -5214,7 +5272,7 @@
   },
   {
    "title": "六部门划定金融信息服务数据合规坐标",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORFJNZVZiSnl1R3RmclJHbGhVSjZuYUZ6M1ZLekw2SDVoSE0yVWJwWnZGSHVtNFYweFAwOUQ5S2ItRTV0N19yMWlRbTNHcFlmVDJlX3ZYWVN5Zm9iQ1FTV0FYcGpPOWhsLWIwZWs3QmJfSjRueFp0VlZXMGM3cXpsdjZTdkdRT1QtRXM4RDVFQ3pvbHNNZEpncg?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91aFdYWmYxdDZwb0VBbllIbU55S19MaHpRX1BqWmt5d1c2ZktxdlpBdV8zTV9YN04yWHFvejBvN0xwejQwWjhyMG9TVGxwNDRYSVlqTDZhaTBTaVl3a0laTXBUbmlyRlBZVHJBZklkQ1VvV1dMVm53ag?oc=5",
    "summary": "",
    "time": "2026-06-15T09:44:16+08:00",
    "date": "2026-06-15",
@@ -5268,7 +5326,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 5.2,
+   "heat": 5.1,
    "hot": false,
    "tags": [
     "个人信息",
@@ -5290,7 +5348,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 5.2,
+   "heat": 5.1,
    "hot": false,
    "tags": [
     "arbitration",
@@ -5354,7 +5412,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 4.1,
+   "heat": 4.0,
    "hot": false,
    "tags": [
     "个人信息"
@@ -5386,27 +5444,6 @@
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
   },
   {
-   "title": "中国博士后在美国遭遇新一轮的起诉和驱逐",
-   "url": "https://www.solidot.org/story?sid=84586",
-   "summary": "33 岁的密歇根大学 MPMI 实验室博士后 Yunqing Jian 写邮件给导师，表示将在第二天完成综述的最终数据。但第二天 2025 年 6 月 3 日，她被 FBI 逮捕，被控与前男友 Zunyong Liu 合谋非法运输生物材料，美国检方称该生物材料是潜在的农业恐怖主义武器。Liu 曾是 MPMI 的博士后，目前是浙江大学的新晋助理教授，他在休…",
-   "time": "2026-06-15T22:25:11+08:00",
-   "date": "2026-06-15",
-   "sources": [
-    "Solidot"
-   ],
-   "region": "国内",
-   "category": "诉讼仲裁",
-   "heat": 2.9,
-   "hot": false,
-   "tags": [
-    "起诉"
-   ],
-   "importance": 5.0,
-   "kw_score": 1.0,
-   "weight": 1.5,
-   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
-  },
-  {
    "title": "特斯拉被指向欧洲监管机构提供误导性FSD安全数据",
    "url": "https://www.cnbeta.com.tw/articles/tech/1565830.htm",
    "summary": "特斯拉为了在欧洲获得其“完全自动驾驶”（Full Self-Driving，简称FSD）系统的批准，向瑞典和荷兰的监管机构提交了由公司自行发布的安全统计数据，但独立交通安全研究人员认为，这些数据相当于具有误导性的营销宣传。 阅读全文",
@@ -5428,6 +5465,27 @@
    "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
   },
   {
+   "title": "中国博士后在美国遭遇新一轮的起诉和驱逐",
+   "url": "https://www.solidot.org/story?sid=84586",
+   "summary": "33 岁的密歇根大学 MPMI 实验室博士后 Yunqing Jian 写邮件给导师，表示将在第二天完成综述的最终数据。但第二天 2025 年 6 月 3 日，她被 FBI 逮捕，被控与前男友 Zunyong Liu 合谋非法运输生物材料，美国检方称该生物材料是潜在的农业恐怖主义武器。Liu 曾是 MPMI 的博士后，目前是浙江大学的新晋助理教授，他在休…",
+   "time": "2026-06-15T22:25:11+08:00",
+   "date": "2026-06-15",
+   "sources": [
+    "Solidot"
+   ],
+   "region": "国内",
+   "category": "诉讼仲裁",
+   "heat": 2.8,
+   "hot": false,
+   "tags": [
+    "起诉"
+   ],
+   "importance": 5.0,
+   "kw_score": 1.0,
+   "weight": 1.5,
+   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
+  },
+  {
    "title": "152 Chrome Wallpaper Extensions with 105K Installs Linked to Adware and Fake Traffic",
    "url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
    "summary": "Cybersecurity researchers have discovered a network of 152 Google Chrome extensions that act as new tab live wallpaper add-ons to distribute a potentially unwanted program (PUP)…",
@@ -5438,7 +5496,7 @@
    ],
    "region": "国际",
    "category": "行业实践",
-   "heat": 2.7,
+   "heat": 2.6,
    "hot": false,
    "tags": [
     "cybersecurity"
@@ -5446,6 +5504,25 @@
    "importance": 2.5,
    "kw_score": 1.0,
    "weight": 1.5,
+   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
+  },
+  {
+   "title": "国家数据局新政落地！专利高质量数据集是AI for Science核心燃料",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8xMUdZUk1oaTZaaHEteFF5R2RfaHh5b2tWS2toaHlxWGVIN2FFUjV0UHlkWDZQMkhPWk5pWnprVDlGVGgtSzNySzZQallRZksxNEFIYjFvNFNaOGpmM0xkRUotU201MWxCU0ttYlVtWQ?oc=5",
+   "summary": "",
+   "time": "2026-06-15T15:24:53+08:00",
+   "date": "2026-06-15",
+   "sources": [
+    "中国网"
+   ],
+   "region": "国内",
+   "category": "行业实践",
+   "heat": 2.0,
+   "hot": false,
+   "tags": [],
+   "importance": 2.0,
+   "kw_score": 0.0,
+   "weight": 2.0,
    "reason": "行业合规实践动态，可作为制度建设与对标参考。"
   },
   {
@@ -5459,7 +5536,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 2.1,
+   "heat": 2.0,
    "hot": false,
    "tags": [],
    "importance": 2.0,
@@ -5485,25 +5562,6 @@
    "kw_score": 0.0,
    "weight": 2.0,
    "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
-  },
-  {
-   "title": "国家数据局新政落地！专利高质量数据集是AI for Science核心燃料",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8xMUdZUk1oaTZaaHEteFF5R2RfaHh5b2tWS2toaHlxWGVIN2FFUjV0UHlkWDZQMkhPWk5pWnprVDlGVGgtSzNySzZQallRZksxNEFIYjFvNFNaOGpmM0xkRUotU201MWxCU0ttYlVtWQ?oc=5",
-   "summary": "",
-   "time": "2026-06-15T15:24:53+08:00",
-   "date": "2026-06-15",
-   "sources": [
-    "中国网"
-   ],
-   "region": "国内",
-   "category": "行业实践",
-   "heat": 2.0,
-   "hot": false,
-   "tags": [],
-   "importance": 2.0,
-   "kw_score": 0.0,
-   "weight": 2.0,
-   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
   },
   {
    "title": "东阳光：拟发行股份收购东数一号等公司股权，交易总价80.5亿元",
@@ -5542,29 +5600,6 @@
    "kw_score": 0.0,
    "weight": 1.5,
    "reason": "行业合规实践动态，可作为制度建设与对标参考。"
-  },
-  {
-   "title": "针对携程未落实数据出境安全评估要求，违法出境个人信息等行为，予以罚款1000万元的行政处罚...",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04aDVfN0x1MWJUakljVHY0UGppS29fTmM5QTVKaUh0dTVyYXFTenNLMjBNeWprZkVnOElwUEJYYmVHLUlHWHI4MEhQQ0ZwTnVQMmRuRXRn?oc=5",
-   "summary": "",
-   "time": "2026-06-14T09:29:00+08:00",
-   "date": "2026-06-14",
-   "sources": [
-    "qq.com"
-   ],
-   "region": "国内",
-   "category": "跨境数据",
-   "heat": 14.0,
-   "hot": false,
-   "tags": [
-    "出境安全评估",
-    "个人信息",
-    "数据出境"
-   ],
-   "importance": 17.0,
-   "kw_score": 12.0,
-   "weight": 2.0,
-   "reason": "涉及数据跨境流动规则，可能影响出境安全评估、标准合同备案等合规路径，建议出海/跨国业务团队关注。"
   },
   {
    "title": "携程被罚1000万: 数据 出境 合规 红线不可越,个人信息保护法剑指违法乱象",
@@ -5636,29 +5671,27 @@
    "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
   },
   {
-   "title": "国家网信办等六部门印发《金融信息服务数据分类分级指南》",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE03dmMxTnRQSlJtZWdWcnNFSS1lMjBGTGNOcENUYkRZSml0OXVWWExYai1XckJrSFFGMmxRVzNHMHlCdV9kYnRJN0J2TkV5UQ?oc=5",
+   "title": "针对携程未落实数据出境安全评估要求，违法出境个人信息等行为，予以罚款1000万元的行政处罚...",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04aDVfN0x1MWJUakljVHY0UGppS29fTmM5QTVKaUh0dTVyYXFTenNLMjBNeWprZkVnOElwUEJYYmVHLUlHWHI4MEhQQ0ZwTnVQMmRuRXRn?oc=5",
    "summary": "",
-   "time": "2026-06-14T16:01:36+08:00",
+   "time": "2026-06-14T09:29:00+08:00",
    "date": "2026-06-14",
    "sources": [
-    "安全内参",
-    "证券时报",
     "qq.com"
    ],
    "region": "国内",
-   "category": "立法监管",
-   "heat": 13.0,
+   "category": "跨境数据",
+   "heat": 14.0,
    "hot": false,
    "tags": [
-    "数据分类分级",
-    "网信办",
-    "指南"
+    "出境安全评估",
+    "个人信息",
+    "数据出境"
    ],
-   "importance": 16.0,
-   "kw_score": 7.0,
+   "importance": 17.0,
+   "kw_score": 12.0,
    "weight": 2.0,
-   "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
+   "reason": "涉及数据跨境流动规则，可能影响出境安全评估、标准合同备案等合规路径，建议出海/跨国业务团队关注。"
   },
   {
    "title": "一图读懂《中国 个人信息保护 报告(2025)》",
@@ -5820,6 +5853,31 @@
    "kw_score": 11.0,
    "weight": 2.0,
    "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
+  },
+  {
+   "title": "国家网信办等六部门印发《金融信息服务数据分类分级指南》",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE03dmMxTnRQSlJtZWdWcnNFSS1lMjBGTGNOcENUYkRZSml0OXVWWExYai1XckJrSFFGMmxRVzNHMHlCdV9kYnRJN0J2TkV5UQ?oc=5",
+   "summary": "",
+   "time": "2026-06-14T16:01:36+08:00",
+   "date": "2026-06-14",
+   "sources": [
+    "安全内参",
+    "证券时报",
+    "qq.com"
+   ],
+   "region": "国内",
+   "category": "立法监管",
+   "heat": 13.0,
+   "hot": false,
+   "tags": [
+    "数据分类分级",
+    "网信办",
+    "指南"
+   ],
+   "importance": 16.0,
+   "kw_score": 7.0,
+   "weight": 2.0,
+   "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
   },
   {
    "title": "携程被罚1000万: 数据 出境 合规 红线,到底划在哪?",
@@ -6125,7 +6183,7 @@
    "time": "2026-06-14T23:45:00+08:00",
    "date": "2026-06-14",
    "sources": [
-    "新浪财经"
+    "Sina finance"
    ],
    "region": "国内",
    "category": "行业实践",
@@ -6288,52 +6346,6 @@
    "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
   },
   {
-   "title": "携程，又撞上了“数据出境”的枪口2026年6月13日，上海市网信办对上海携程商务有限公司处以1000万元罚款，原因是其未落实数据出境安全评估要求及违...",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9GdmlRYzA0WkltQ0NJdWJXVXlyN09tNDNXWEdqbnJsX204YUZaaHNsdnlORW1wV2pfZ1lEM29VVENqYjhXSVpCaldHSDVicUN1?oc=5",
-   "summary": "",
-   "time": "2026-06-13T22:38:34+08:00",
-   "date": "2026-06-13",
-   "sources": [
-    "雪球"
-   ],
-   "region": "国内",
-   "category": "跨境数据",
-   "heat": 14.0,
-   "hot": false,
-   "tags": [
-    "出境安全评估",
-    "数据出境",
-    "安全评估"
-   ],
-   "importance": 17.0,
-   "kw_score": 12.0,
-   "weight": 2.0,
-   "reason": "涉及数据跨境流动规则，可能影响出境安全评估、标准合同备案等合规路径，建议出海/跨国业务团队关注。"
-  },
-  {
-   "title": "#携程被罚款1000万元！未落实数据出境安全评估要求、违法出境个人信息等行为#携程#个人信息保护法#国家网信办（编辑：许婷婷）_财富号_东方财富网",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE84Ym50Vk5YNEF6c04wUzRfSnphbEJLTXBiMDdVbEhFV25lV2Qyd2RhelFaUkZBTHR1NFRxUkV3WS1SQXFCcXRLcmZ3YkRCcjY2UWxia2g4OTBQZ1FXTHNweUpwTzc3cmFUd2tR?oc=5",
-   "summary": "",
-   "time": "2026-06-13T17:52:00+08:00",
-   "date": "2026-06-13",
-   "sources": [
-    "财富号"
-   ],
-   "region": "国内",
-   "category": "跨境数据",
-   "heat": 14.0,
-   "hot": false,
-   "tags": [
-    "个人信息保护法",
-    "出境安全评估",
-    "个人信息"
-   ],
-   "importance": 17.0,
-   "kw_score": 12.0,
-   "weight": 2.0,
-   "reason": "涉及数据跨境流动规则，可能影响出境安全评估、标准合同备案等合规路径，建议出海/跨国业务团队关注。"
-  },
-  {
    "title": "数据合规 06:数据出境",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1781322618&ver=6779&signature=mGI8vcoBoztyDcJv6EhxciTTZ6XS35*Bnn5IDxyN*tJ0Jxsx5Wn-5P2Tuio5O3QRpOz2Xn7qMMsX6glm5A9*1irSXxdC7Ay*E*yfSuBJcCI4*lDTLZAg5rKIeQ3I*rn9&new=1",
    "summary": "持续更新 数据合规 干货 联合课程六课完结!从网安法到数据安全法的体系已经完整覆盖01企业关系 → 02等保分级 → 03义务主体 → ...",
@@ -6449,6 +6461,52 @@
    "reason": "涉及数据跨境流动规则，可能影响出境安全评估、标准合同备案等合规路径，建议出海/跨国业务团队关注。"
   },
   {
+   "title": "携程，又撞上了“数据出境”的枪口2026年6月13日，上海市网信办对上海携程商务有限公司处以1000万元罚款，原因是其未落实数据出境安全评估要求及违...",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9GdmlRYzA0WkltQ0NJdWJXVXlyN09tNDNXWEdqbnJsX204YUZaaHNsdnlORW1wV2pfZ1lEM29VVENqYjhXSVpCaldHSDVicUN1?oc=5",
+   "summary": "",
+   "time": "2026-06-13T22:38:34+08:00",
+   "date": "2026-06-13",
+   "sources": [
+    "雪球"
+   ],
+   "region": "国内",
+   "category": "跨境数据",
+   "heat": 14.0,
+   "hot": false,
+   "tags": [
+    "出境安全评估",
+    "数据出境",
+    "安全评估"
+   ],
+   "importance": 17.0,
+   "kw_score": 12.0,
+   "weight": 2.0,
+   "reason": "涉及数据跨境流动规则，可能影响出境安全评估、标准合同备案等合规路径，建议出海/跨国业务团队关注。"
+  },
+  {
+   "title": "#携程被罚款1000万元！未落实数据出境安全评估要求、违法出境个人信息等行为#携程#个人信息保护法#国家网信办（编辑：许婷婷）_财富号_东方财富网",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE84Ym50Vk5YNEF6c04wUzRfSnphbEJLTXBiMDdVbEhFV25lV2Qyd2RhelFaUkZBTHR1NFRxUkV3WS1SQXFCcXRLcmZ3YkRCcjY2UWxia2g4OTBQZ1FXTHNweUpwTzc3cmFUd2tR?oc=5",
+   "summary": "",
+   "time": "2026-06-13T17:52:00+08:00",
+   "date": "2026-06-13",
+   "sources": [
+    "财富号"
+   ],
+   "region": "国内",
+   "category": "跨境数据",
+   "heat": 14.0,
+   "hot": false,
+   "tags": [
+    "个人信息保护法",
+    "出境安全评估",
+    "个人信息"
+   ],
+   "importance": 17.0,
+   "kw_score": 12.0,
+   "weight": 2.0,
+   "reason": "涉及数据跨境流动规则，可能影响出境安全评估、标准合同备案等合规路径，建议出海/跨国业务团队关注。"
+  },
+  {
    "title": "周末重磅！六部门，联合印发金融信息服务数据分类分级指南！",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aWGRoZWV2WUNMaEpNTGxHMzI3aUhfd1dVS3ZUQ3JMRXhFZWZGMG16eXhudWdjQkNGY2ktV1pud0FUVFpSS0xfWXZPakF1OE9JZEVPcXRSWWh1NUR3?oc=5",
    "summary": "",
@@ -6498,29 +6556,6 @@
    "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
   },
   {
-   "title": "携程因数据出境违规被罚1000万元，网信办严打个人信息违法出境",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXSDNCRmtaTUZrbmt2RUVMR2tDQU52RllKX1hTTWN5RTQxdTdKZ3FfcEh1S1NUNnRoVUtNblRwVjJEU0xlNEZUVEtReXJ1QWEtYlVJTXJn?oc=5",
-   "summary": "",
-   "time": "2026-06-13T15:09:00+08:00",
-   "date": "2026-06-13",
-   "sources": [
-    "qq.com"
-   ],
-   "region": "国内",
-   "category": "跨境数据",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "个人信息",
-    "数据出境",
-    "网信办"
-   ],
-   "importance": 13.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "涉及数据跨境流动规则，可能影响出境安全评估、标准合同备案等合规路径，建议出海/跨国业务团队关注。"
-  },
-  {
    "title": "数据合规 |企业雇佣员工之个人信息保护合规指南",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1781322618&ver=6779&signature=JF22QbUhaulgS5pdmVWEVkzRrnjYkO1XmRNdpeJfUQwq*-OVXOTYZ1rEiMShf0vZUQ7NwHOwSY3Oa4lqZ7a64WRhZjXnCUHSYIJd9N5bU5Erl9ZEaf5V*xlZHG4oMNDl&new=1",
    "summary": "【思维导图】员工的 个人信息保护 主要涉及到三个阶段:应聘阶段、入职阶段、工作阶段就 个人信息保护 ,无论哪个阶段,主要核心原...",
@@ -6567,27 +6602,27 @@
    "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
   },
   {
-   "title": "汽车出海新考：数据合规、智驾基建短缺成“拦路虎”",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WaXNuWjd4eVRFcDR4LTVFSkllY1N6TUhQZHVNeTRSTWhmeHJ0RHhwRGdfV2VxeTlwakxrYVc2aFFJSnhKVXlDTHhJMFV2UDhMUUE?oc=5",
+   "title": "携程因数据出境违规被罚1000万元，网信办严打个人信息违法出境",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXSDNCRmtaTUZrbmt2RUVMR2tDQU52RllKX1hTTWN5RTQxdTdKZ3FfcEh1S1NUNnRoVUtNblRwVjJEU0xlNEZUVEtReXJ1QWEtYlVJTXJn?oc=5",
    "summary": "",
-   "time": "2026-06-13T15:02:35+08:00",
+   "time": "2026-06-13T15:09:00+08:00",
    "date": "2026-06-13",
    "sources": [
-    "Sohu",
-    "新浪财经"
+    "qq.com"
    ],
    "region": "国内",
-   "category": "行业实践",
-   "heat": 9.0,
+   "category": "跨境数据",
+   "heat": 10.0,
    "hot": false,
    "tags": [
-    "数据合规",
-    "合规"
+    "个人信息",
+    "数据出境",
+    "网信办"
    ],
-   "importance": 9.0,
-   "kw_score": 5.0,
+   "importance": 13.0,
+   "kw_score": 8.0,
    "weight": 2.0,
-   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
+   "reason": "涉及数据跨境流动规则，可能影响出境安全评估、标准合同备案等合规路径，建议出海/跨国业务团队关注。"
   },
   {
    "title": "Open Arms Care Data Breach Lawsuit Investigation",
@@ -6612,6 +6647,29 @@
    "kw_score": 5.0,
    "weight": 2.0,
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
+  },
+  {
+   "title": "汽车出海新考：数据合规、智驾基建短缺成“拦路虎”",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WaXNuWjd4eVRFcDR4LTVFSkllY1N6TUhQZHVNeTRSTWhmeHJ0RHhwRGdfV2VxeTlwakxrYVc2aFFJSnhKVXlDTHhJMFV2UDhMUUE?oc=5",
+   "summary": "",
+   "time": "2026-06-13T15:02:35+08:00",
+   "date": "2026-06-13",
+   "sources": [
+    "Sohu",
+    "新浪财经"
+   ],
+   "region": "国内",
+   "category": "行业实践",
+   "heat": 9.0,
+   "hot": false,
+   "tags": [
+    "数据合规",
+    "合规"
+   ],
+   "importance": 9.0,
+   "kw_score": 5.0,
+   "weight": 2.0,
+   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
   },
   {
    "title": "《金融信息服务数据分类分级指南》印发",
@@ -6903,6 +6961,26 @@
    "reason": "行业合规实践动态，可作为制度建设与对标参考。"
   },
   {
+   "title": "国家数据局：2025年全国活跃数据总量增长28.46%",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE51WGJWS09DcVlPcG53WGlhVGVJWERXX3k1c0MweXVMR1F2OXhfb3JlelBxNHdiNVNDVGl4X0hyMHJSbHU1WTVYX3oxQlBrRUVLZE1EMjhkZGJwY1hqcGt1VGF3?oc=5",
+   "summary": "",
+   "time": "2026-06-13T12:26:00+08:00",
+   "date": "2026-06-13",
+   "sources": [
+    "cb.com.cn",
+    "封面新闻"
+   ],
+   "region": "国内",
+   "category": "行业实践",
+   "heat": 4.0,
+   "hot": false,
+   "tags": [],
+   "importance": 4.0,
+   "kw_score": 0.0,
+   "weight": 2.0,
+   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
+  },
+  {
    "title": "Massachusetts House Passes Representative Kate Lipper-Garabedian’s Location Shield Act as Part of Comprehensive Data Privacy Legislation",
    "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxONGtYTzg5cVIzOTE2RVY4TnNMNEdLcmdwN1BMMjhaZVl0MlFrcF9ySW94cC14ZktpYXA3cjR4ZmVKS2VoTkR5NG41MVY3UG5QSmI0N2JQLTRmMnFoaHRFeWhSZ1pjbHNyS3dkendOdDZZT0NHQ0VkdzBBVXdBR21JZW9CWHR3eDE3b0FfV2d0ZGRzUVhTSTlWVzBHTl90cXVVVGN0aTk5MVFmNDFTY01nMWkwWWhhMldVOWY4R3J2V0RadHVrV1JjYUJnaW9rUnhHajBiZkt1YzA5LVVRQnM3WGcxQ3NIYzcyTS1fbi03RjNjbkE4cUJSbjZvU0ptcW51cnFycg?oc=5",
    "summary": "Massachusetts House Passes Representative Kate Lipper-Garabedian’s Location Shield Act as Part of Comprehensive Data Privacy Legislation The Reading Post",
@@ -6922,26 +7000,6 @@
    "kw_score": 2.0,
    "weight": 2.0,
    "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
-  },
-  {
-   "title": "国家数据局：2025年全国活跃数据总量增长28.46%",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE51WGJWS09DcVlPcG53WGlhVGVJWERXX3k1c0MweXVMR1F2OXhfb3JlelBxNHdiNVNDVGl4X0hyMHJSbHU1WTVYX3oxQlBrRUVLZE1EMjhkZGJwY1hqcGt1VGF3?oc=5",
-   "summary": "",
-   "time": "2026-06-13T12:26:00+08:00",
-   "date": "2026-06-13",
-   "sources": [
-    "cb.com.cn",
-    "封面新闻"
-   ],
-   "region": "国内",
-   "category": "行业实践",
-   "heat": 4.0,
-   "hot": false,
-   "tags": [],
-   "importance": 4.0,
-   "kw_score": 0.0,
-   "weight": 2.0,
-   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
   },
   {
    "title": "“宁王系”，排队 IPO",
@@ -7240,29 +7298,6 @@
    "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
   },
   {
-   "title": "银行监管趋严，数据合规成红线",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAyaGlRNl96VW41UnFsMHE5NTlFckR3dlJmQ0w4a3RwWHJOejRQRmt5TGUydGRiTHVncFBJUFlCTE1FR3hsNWRVX2ZHd3YzV2ZhcFdqUkJlZHhWUnRwaHRXY1dRcG5BMnRXdnZR?oc=5",
-   "summary": "",
-   "time": "2026-06-12T08:10:53+08:00",
-   "date": "2026-06-12",
-   "sources": [
-    "财经号"
-   ],
-   "region": "国内",
-   "category": "行业实践",
-   "heat": 8.0,
-   "hot": false,
-   "tags": [
-    "数据合规",
-    "合规",
-    "监管"
-   ],
-   "importance": 8.0,
-   "kw_score": 6.0,
-   "weight": 2.0,
-   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
-  },
-  {
    "title": "Labcorp Agrees to $35M Settlement to Resolve AMCA Data Breach Litigation",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBWb0FSWk5hMDJkMDkweF9hWVBkWUx2cm1hejNkUnRuaWtmLVMyd19JMGYybi1LVm1rSjZpZlBfMWRrTFY4YzR5bnAtbi15ejVSeXZJcXM2Q2hFcmZqR0tWekhoX1ZhYTV6cHlhdmtFVjVFYzQ?oc=5",
    "summary": "",
@@ -7286,6 +7321,29 @@
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
   },
   {
+   "title": "银行监管趋严，数据合规成红线",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAyaGlRNl96VW41UnFsMHE5NTlFckR3dlJmQ0w4a3RwWHJOejRQRmt5TGUydGRiTHVncFBJUFlCTE1FR3hsNWRVX2ZHd3YzV2ZhcFdqUkJlZHhWUnRwaHRXY1dRcG5BMnRXdnZR?oc=5",
+   "summary": "",
+   "time": "2026-06-12T08:10:53+08:00",
+   "date": "2026-06-12",
+   "sources": [
+    "中金在线"
+   ],
+   "region": "国内",
+   "category": "行业实践",
+   "heat": 8.0,
+   "hot": false,
+   "tags": [
+    "数据合规",
+    "合规",
+    "监管"
+   ],
+   "importance": 8.0,
+   "kw_score": 6.0,
+   "weight": 2.0,
+   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
+  },
+  {
    "title": "国家网信办发布《中国个人信息保护报告（2025年）》-中新网",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9IYUdBSUI1TjgxamZ0UlN2UmNkYXJkTmpoOFBQSTFDc2o4akdkejhRcmEwaERVeXctbkhhRVZteDBGZzBUdnFOMEtYWFRZYkxKMmcySFdvanhuRHBub3czUUVZX2pLSWxR?oc=5",
    "summary": "",
@@ -7303,28 +7361,6 @@
     "网信办"
    ],
    "importance": 10.0,
-   "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
-  },
-  {
-   "title": "国家网信办发布《中国个人信息保护报告（2025年）》",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1jNWxrMUZqMEVIVmwyZ0xkRnBpbnJva3ZiZ1dybjA0cG1UMjlTVi1pRzQ1NnE1Y1hLR2MweXBxSW94R3dmU1dMTHRZazhJN2JxWU85Z0V5eEMyRjVqOFl1dlVR?oc=5",
-   "summary": "",
-   "time": "2026-06-12T18:17:00+08:00",
-   "date": "2026-06-12",
-   "sources": [
-    "光明网"
-   ],
-   "region": "国内",
-   "category": "立法监管",
-   "heat": 7.0,
-   "hot": false,
-   "tags": [
-    "个人信息",
-    "网信办"
-   ],
-   "importance": 10.0,
-   "kw_score": 5.0,
-   "weight": 2.0,
    "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
   },
   {
@@ -7570,6 +7606,28 @@
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
   },
   {
+   "title": "国家网信办发布《中国个人信息保护报告（2025年）》",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1jNWxrMUZqMEVIVmwyZ0xkRnBpbnJva3ZiZ1dybjA0cG1UMjlTVi1pRzQ1NnE1Y1hLR2MweXBxSW94R3dmU1dMTHRZazhJN2JxWU85Z0V5eEMyRjVqOFl1dlVR?oc=5",
+   "summary": "",
+   "time": "2026-06-12T18:17:00+08:00",
+   "date": "2026-06-12",
+   "sources": [
+    "光明网"
+   ],
+   "region": "国内",
+   "category": "立法监管",
+   "heat": 7.0,
+   "hot": false,
+   "tags": [
+    "个人信息",
+    "网信办"
+   ],
+   "importance": 10.0,
+   "kw_score": 5.0,
+   "weight": 2.0,
+   "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
+  },
+  {
    "title": "市委网信办举办第六十六期网络安全技术沙龙",
    "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOZEhtS01LV3hXWnM0cTg3T0lIYTR5clduQ1hUVzFOQUdwR0NYY1lvSXRVMDlsN0V3U0M3cTV5S2VQaVpMX3lPZzllc1hsY05nTVl3b2dOa0lFTm04TU4wYVVsMGZwVEx3UUt6dzhiQlVETzAyemIwYWhMZmFvOTY1YVhKaVZYRzFfT2JCSGU4YS1CMm05aTNrV2R2bG9sM2NsWXdPcFlQRk95a3pxakZJejV4UVlwWEpZX2FxT0pnd0dpRGI5OGpJaElOODltNnUyZERlU2hBcUNoLXZWSE82eDdhZW16ZlRSaUU2WWQ5NmlXdFBxNGQzNDkzUUpRLWZsQVRKa2JWNzE?oc=5",
    "summary": "",
@@ -7678,6 +7736,27 @@
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
   },
   {
+   "title": "Louisiana Enacts Comprehensive Consumer Privacy Law",
+   "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/louisiana-enacts-comprehensive-consumer-privacy-law",
+   "summary": "Louisiana recently enacted the Louisiana Data Privacy Act, becoming the 22nd U.S. state to adopt a comprehensive consumer data privacy law. Continue Reading ›",
+   "time": "2026-06-12T21:00:02+08:00",
+   "date": "2026-06-12",
+   "sources": [
+    "Hunton 隐私与信息安全博客"
+   ],
+   "region": "国际",
+   "category": "个人信息保护",
+   "heat": 5.0,
+   "hot": false,
+   "tags": [
+    "privacy"
+   ],
+   "importance": 5.0,
+   "kw_score": 2.0,
+   "weight": 3.0,
+   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
+  },
+  {
    "title": "Human rights court rejects complaint over unreasoned award",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTjVIdkRvR3FmNDBkaGw3Wm5CeTZWbHNMVTFYM1ZEVUxFRXJsMVA1NU9NSnJmWWkxVkxWVURkRFdqbnBFamNGbC02RTdzQWVHaXdTSlZUY3JWVk81QUxWcFd1TlVUT3dzdUpIT21xR3V1dm12OWRyQm9yT1NVdkd4aDNoLWZGdThMWmFWSGR1YW1lT3NTTDhKZFppcHFEVFFINVZlbg?oc=5",
    "summary": "",
@@ -7698,27 +7777,6 @@
    "kw_score": 3.0,
    "weight": 2.0,
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
-  },
-  {
-   "title": "Louisiana Enacts Comprehensive Consumer Privacy Law",
-   "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/louisiana-enacts-comprehensive-consumer-privacy-law",
-   "summary": "Louisiana recently enacted the Louisiana Data Privacy Act, becoming the 22nd U.S. state to adopt a comprehensive consumer data privacy law. Continue Reading ›",
-   "time": "2026-06-12T21:00:02+08:00",
-   "date": "2026-06-12",
-   "sources": [
-    "Hunton 隐私与信息安全博客"
-   ],
-   "region": "国际",
-   "category": "个人信息保护",
-   "heat": 5.0,
-   "hot": false,
-   "tags": [
-    "privacy"
-   ],
-   "importance": 5.0,
-   "kw_score": 2.0,
-   "weight": 3.0,
-   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
   },
   {
    "title": "Kampala court convicts businesswoman over mobile loan data privacy breach",
@@ -7762,27 +7820,6 @@
    "kw_score": 2.0,
    "weight": 2.0,
    "reason": "行业合规实践动态，可作为制度建设与对标参考。"
-  },
-  {
-   "title": "Pharma Equity Group prevails in international arbitration proceedings and is awarded EUR 10.5 million excluding interest and costs",
-   "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQSVNOMW5VY2lIRF9DbXA3OEdENWRlMUU3OW80R3N1bjR5eTBrR1I4UHAtVkRmbU91MkszbTZIYk5qMVlWSUZsNkM3bXY1TXdKcWt3WmV0ZGlIWGgybGdvd20wYi1HMEVfYjNyMUphcjlmNDBSV2NURXhnLUFWX0tqamRLbWRrZE9FM1MtRmlJUEwxWXhYTjRQNGl6OWdQaFpFa2hUOGs5UmV6amY1VERtVVdXX0oxd2oyU2x1S05yWFo3dkgtbVNWa2xxUVp1anV3SXc0dmZSN2U4dmhtNllIRnpfN0tra0pjS3lXanFwVzFBWUU0YmZ2WGliU3VraVlQeHBvZUtpX2FkaW5ueW9HMnEzX1F3ZlNzMUtDR2l6S1dtUFd4amtUWDhDNkROa1JLbXFR?oc=5",
-   "summary": "Pharma Equity Group prevails in international arbitration proceedings and is awarded EUR 10.5 million excluding interest and costs NTB Kommunikasjon",
-   "time": "2026-06-12T23:24:14+08:00",
-   "date": "2026-06-12",
-   "sources": [
-    "NTB Kommunikasjon"
-   ],
-   "region": "国际",
-   "category": "诉讼仲裁",
-   "heat": 4.0,
-   "hot": false,
-   "tags": [
-    "arbitration"
-   ],
-   "importance": 6.5,
-   "kw_score": 2.0,
-   "weight": 2.0,
-   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
   },
   {
    "title": "国家数据局召开座谈会促深入推进数据要素市场化配置改革美股US Stocks Quote - 外围新闻内容Golbal News Content",
@@ -7928,6 +7965,27 @@
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
   },
   {
+   "title": "Pharma Equity Group prevails in international arbitration proceedings and is awarded EUR 10.5 million excluding interest and costs",
+   "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQSVNOMW5VY2lIRF9DbXA3OEdENWRlMUU3OW80R3N1bjR5eTBrR1I4UHAtVkRmbU91MkszbTZIYk5qMVlWSUZsNkM3bXY1TXdKcWt3WmV0ZGlIWGgybGdvd20wYi1HMEVfYjNyMUphcjlmNDBSV2NURXhnLUFWX0tqamRLbWRrZE9FM1MtRmlJUEwxWXhYTjRQNGl6OWdQaFpFa2hUOGs5UmV6amY1VERtVVdXX0oxd2oyU2x1S05yWFo3dkgtbVNWa2xxUVp1anV3SXc0dmZSN2U4dmhtNllIRnpfN0tra0pjS3lXanFwVzFBWUU0YmZ2WGliU3VraVlQeHBvZUtpX2FkaW5ueW9HMnEzX1F3ZlNzMUtDR2l6S1dtUFd4amtUWDhDNkROa1JLbXFR?oc=5",
+   "summary": "Pharma Equity Group prevails in international arbitration proceedings and is awarded EUR 10.5 million excluding interest and costs NTB Kommunikasjon",
+   "time": "2026-06-12T23:24:14+08:00",
+   "date": "2026-06-12",
+   "sources": [
+    "NTB Kommunikasjon"
+   ],
+   "region": "国际",
+   "category": "诉讼仲裁",
+   "heat": 4.0,
+   "hot": false,
+   "tags": [
+    "arbitration"
+   ],
+   "importance": 6.5,
+   "kw_score": 2.0,
+   "weight": 2.0,
+   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
+  },
+  {
    "title": "国家数据局召开座谈会促深入推进数据要素市场化配置改革财经新闻Financial News",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOU5xcElOckN6ZzgyaVBWVlB5dHpZUnVkSFdoSWh4Ukh0R0VScE1OM2lXb3VRVWc3d1lDTFhIaFJnVU5VS2pkbE0tZHhDRkpPZVYzbEx0Y2ppMFAydkJxSVVuc2NNSmhoWDVFZFdyMXNzdGE1Z0pfbGg4MXh1dGZqVmRxSE54QQ?oc=5",
    "summary": "",
@@ -8050,6 +8108,31 @@
    "reason": "行业合规实践动态，可作为制度建设与对标参考。"
   },
   {
+   "title": "中央网信办通报30款App个人信息收集使用问题",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9jWExZTnZGZ2lUUmdtV1FZaTdYZlBCRk5PVEU1Q2pNdGxQby1xOV9feUp3UUY1ZW96SmpjS0NzWmN5V1BlTGpvYWNOYjU0NUtlVzl4WFhZeE5XdzdvbENrcENvdGkzSXdfRGxjdEV3UTBsSjhOWkM1MWlCYjl6UQ?oc=5",
+   "summary": "",
+   "time": "2026-06-11T21:49:20+08:00",
+   "date": "2026-06-11",
+   "sources": [
+    "新华网",
+    "新浪财经",
+    "每日经济新闻",
+    "安全内参"
+   ],
+   "region": "国内",
+   "category": "执法处罚",
+   "heat": 13.0,
+   "hot": false,
+   "tags": [
+    "个人信息",
+    "网信办"
+   ],
+   "importance": 15.5,
+   "kw_score": 5.0,
+   "weight": 2.0,
+   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
+  },
+  {
    "title": "中央网信办发布30款App个人信息收集使用问题的通报",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQXNQR19IZXNLRU9vd2ZOdUYyc0wyM0VmUk1VTnRFUGFpQUQ2ODZfVThETWtPbGlMcmJ2dEFZdFlDYjB5YldNbGFPSGs3SVpWNjB5UlBaOGt0eTNJOUVfakJfak90Nm94VlFpeVYzWVVvOVU0WFNWTjNGRUEyTFo2UUNLV3hna3NzUmVCbQ?oc=5",
    "summary": "",
@@ -8091,29 +8174,6 @@
    "importance": 16.0,
    "kw_score": 9.0,
    "weight": 1.5,
-   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
-  },
-  {
-   "title": "中央网信办通报30款App个人信息收集使用问题",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9jWExZTnZGZ2lUUmdtV1FZaTdYZlBCRk5PVEU1Q2pNdGxQby1xOV9feUp3UUY1ZW96SmpjS0NzWmN5V1BlTGpvYWNOYjU0NUtlVzl4WFhZeE5XdzdvbENrcENvdGkzSXdfRGxjdEV3UTBsSjhOWkM1MWlCYjl6UQ?oc=5",
-   "summary": "",
-   "time": "2026-06-11T21:49:20+08:00",
-   "date": "2026-06-11",
-   "sources": [
-    "新华网",
-    "安全内参"
-   ],
-   "region": "国内",
-   "category": "执法处罚",
-   "heat": 9.0,
-   "hot": false,
-   "tags": [
-    "个人信息",
-    "网信办"
-   ],
-   "importance": 11.5,
-   "kw_score": 5.0,
-   "weight": 2.0,
    "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
   },
   {
@@ -8204,28 +8264,6 @@
    "reason": "数据安全事件通常伴随监管问询与索赔风险，可作为应急响应与合规复盘素材。"
   },
   {
-   "title": "中国（广东）自由贸易试验区深圳前海蛇口片区数据出境负面清单实施指南（试行）",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBMaVNaM2hPVzh3ZkxOSWlTSDA0d2xLNmVORUZkakhNaE54VkhCeXA1bXVGVU9xOWxOSWFVTFdnUEhuRjRHUUU4ZGRUazdCaFlUSF9wUHZ0Nk1ibWtUd0NtUUxFX0xGNnlVWGlMSWJkaGtfb3htcnpn?oc=5",
-   "summary": "",
-   "time": "2026-06-11T17:52:00+08:00",
-   "date": "2026-06-11",
-   "sources": [
-    "sz.gov.cn"
-   ],
-   "region": "国内",
-   "category": "跨境数据",
-   "heat": 6.0,
-   "hot": false,
-   "tags": [
-    "数据出境",
-    "指南"
-   ],
-   "importance": 9.0,
-   "kw_score": 4.0,
-   "weight": 2.0,
-   "reason": "涉及数据跨境流动规则，可能影响出境安全评估、标准合同备案等合规路径，建议出海/跨国业务团队关注。"
-  },
-  {
    "title": "USA: District court confirms HKIAC award, rejecting respondents’ defenses under Article V of the New York Convention and holding that a co-awardee’s absence does not bar confirmation",
    "url": "https://www.globalarbitrationnews.com/2026/06/11/usa-district-court-confirms-hkiac-award-rejecting-respondents-defenses-under-article-v-of-the-new-york-convention-and-holding-that-a-co-awardees-absence-does-not-bar-confirmation/",
    "summary": "Bronzelink Holdings Ltd. v. STM Atlantic N.V., No. 2:25‑cv‑06783‑JLS‑PVC (C.D. Cal. Feb. 9, 2026).[1] Factual Background Respondents Emil Youssefzadeh, Umar Javed, and STM Atlant…",
@@ -8246,6 +8284,28 @@
    "kw_score": 3.0,
    "weight": 3.0,
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
+  },
+  {
+   "title": "中国（广东）自由贸易试验区深圳前海蛇口片区数据出境负面清单实施指南（试行）",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBMaVNaM2hPVzh3ZkxOSWlTSDA0d2xLNmVORUZkakhNaE54VkhCeXA1bXVGVU9xOWxOSWFVTFdnUEhuRjRHUUU4ZGRUazdCaFlUSF9wUHZ0Nk1ibWtUd0NtUUxFX0xGNnlVWGlMSWJkaGtfb3htcnpn?oc=5",
+   "summary": "",
+   "time": "2026-06-11T17:52:00+08:00",
+   "date": "2026-06-11",
+   "sources": [
+    "sz.gov.cn"
+   ],
+   "region": "国内",
+   "category": "跨境数据",
+   "heat": 6.0,
+   "hot": false,
+   "tags": [
+    "数据出境",
+    "指南"
+   ],
+   "importance": 9.0,
+   "kw_score": 4.0,
+   "weight": 2.0,
+   "reason": "涉及数据跨境流动规则，可能影响出境安全评估、标准合同备案等合规路径，建议出海/跨国业务团队关注。"
   },
   {
    "title": "KYB Americas settles data breach class action: Here's what you need to know",
