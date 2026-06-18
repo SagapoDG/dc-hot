@@ -1,20 +1,13 @@
 {
- "generated_at": "2026-06-18T09:21:44.134060+08:00",
- "count": 362,
+ "generated_at": "2026-06-18T09:53:03.257181+08:00",
+ "count": 365,
  "highlight_count": 30,
  "errors": [
-  "EDPB 欧盟数据保护委员会: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
-  "noyb 欧洲数字权利中心: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
-  "Hunton 隐私与信息安全博客: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
-  "Global Arbitration News: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
-  "FTC 美国联邦贸易委员会: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
   "The Hacker News: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
-  "微信公众号: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
-  "微信公众号: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
-  "微信公众号: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
-  "36氪: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
-  "Solidot: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
-  "cnBeta: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
+  "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）",
+  "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）",
+  "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）",
+  "cnBeta: not well-formed (invalid token): line 40, column 266",
   "Google News: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
   "Google News: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
   "Google News: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
@@ -54,6 +47,27 @@
    "kw_score": 11.0,
    "weight": 1.5,
    "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
+  },
+  {
+   "title": "中科院博士冲上市，市值超105亿港币",
+   "url": "https://36kr.com/p/3857959588418823?f=rss",
+   "summary": "本文约1900字，建议阅读4分钟 作者 | 彭孝秋 6月17日，中科闻歌（01956.HK）正式启动招股，发行价60.70港元，每手200股，市值105.07亿港元。此次IPO全球发售约1483.46万股，募资总额约9亿港元，预计6月26日在港交所主板挂牌。 上市后，中科闻歌将成为\"通用决策大模型第一股\"。在中国企业级大模型市场里，中科闻歌排第八，份额2…",
+   "time": "2026-06-18T09:00:00+08:00",
+   "date": "2026-06-18",
+   "sources": [
+    "36氪"
+   ],
+   "region": "国内",
+   "category": "行业实践",
+   "heat": 7.5,
+   "hot": false,
+   "tags": [
+    "合规"
+   ],
+   "importance": 3.5,
+   "kw_score": 2.0,
+   "weight": 1.5,
+   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
   },
   {
    "title": "携程被罚1000万元: 数据 出境 合规 的边界,正在被重新定义",
@@ -296,7 +310,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 16.2,
+   "heat": 16.1,
    "hot": false,
    "tags": [
     "个人信息",
@@ -319,7 +333,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 16.2,
+   "heat": 16.1,
    "hot": false,
    "tags": [
     "个人信息",
@@ -342,7 +356,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 16.2,
+   "heat": 16.1,
    "hot": false,
    "tags": [
     "个人信息",
@@ -365,7 +379,30 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 16.2,
+   "heat": 16.1,
+   "hot": false,
+   "tags": [
+    "个人信息",
+    "数据安全",
+    "合规审计"
+   ],
+   "importance": 13.0,
+   "kw_score": 11.0,
+   "weight": 2.0,
+   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
+  },
+  {
+   "title": "数据安全管理认证、 个人信息保护 认证以及 个人信息保护 合规审计工作交流会在呼和浩特举行",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1781746619&ver=6789&signature=ma3ajlW2*lDJ3*fRioz-xl0sBYC-FfliBAUJZlBNyKHPAdxhKazHchUEE*ywUdQB81fE8A7cs8ZU3JK4rXrM2AwJuaJR0mryEeh4ad-WcpJW3GHJ-Bdzyvf-1rtPbpYn&new=1",
+   "summary": "6月15日,由内蒙古自治区党委网信办、中央网信办数据与技术保障中心主办的数据安全管理认证、 个人信息保护 认证以及 个人信息保 ...",
+   "time": "2026-06-17T18:07:29+08:00",
+   "date": "2026-06-17",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "个人信息保护",
+   "heat": 16.1,
    "hot": false,
    "tags": [
     "个人信息",
@@ -411,7 +448,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 13.8,
+   "heat": 13.7,
    "hot": false,
    "tags": [
     "数据分类分级",
@@ -434,7 +471,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 13.8,
+   "heat": 13.7,
    "hot": false,
    "tags": [
     "数据分类分级",
@@ -518,6 +555,29 @@
   {
    "title": "关乎金融领域数据安全与 个人信息保护 合规建设 这场宣讲会讲透了",
    "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS_XmLfFp4-gPLwKMcNirZEtgxwJDVUDl3FqXa8Fplpd9GT79uBSURKXvz8Xwiya_vpGiqMfy1Th9te4q17TIPNMM0yNe2oNWIwbJ-Egoawqu9V333EJskgZVkuVyF2OtEqnRZ8NAE2ReoYQbz_4Zw7pOjNXuc0A_m-nLYfbYQIN8MS_sFkJ0LyxZZvunqQe7_kW7ECDa8-7zDsdHwlt_hQfzAjcIGepUqA..&type=2&query=%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E4%BF%9D%E6%8A%A4&token=9931725FB4AB1D1F64623016628B829C64D90EDE6A32C268",
+   "summary": "为全面提升全市金融机构、互联网金融企业数据安全与 个人信息保护 合规建设能力,6月16日,市委网信办联合市委金融办、人行重庆...",
+   "time": "2026-06-17T18:35:18+08:00",
+   "date": "2026-06-17",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "个人信息保护",
+   "heat": 13.2,
+   "hot": false,
+   "tags": [
+    "个人信息",
+    "数据安全",
+    "网信办"
+   ],
+   "importance": 10.0,
+   "kw_score": 8.0,
+   "weight": 2.0,
+   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
+  },
+  {
+   "title": "关乎金融领域数据安全与 个人信息保护 合规建设 这场宣讲会讲透了",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1781746619&ver=6789&signature=VqK0UtuIIllzcYWpbuO1y77HWjHmpDegjc42UJoy1NFy9WVAMIXn*rA4nBccahwnqb8lG4mYFyvLaNkOtUF4oj-35aPKjOcsOmZ0TesFRAsocE3K5vCTVf02LKKCtzGv&new=1",
    "summary": "为全面提升全市金融机构、互联网金融企业数据安全与 个人信息保护 合规建设能力,6月16日,市委网信办联合市委金融办、人行重庆...",
    "time": "2026-06-17T18:35:18+08:00",
    "date": "2026-06-17",
@@ -710,7 +770,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 11.2,
+   "heat": 11.1,
    "hot": false,
    "tags": [
     "data breach",
@@ -779,7 +839,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 10.2,
+   "heat": 10.1,
    "hot": false,
    "tags": [
     "class action",
@@ -848,7 +908,7 @@
    ],
    "region": "国际",
    "category": "跨境数据",
-   "heat": 9.0,
+   "heat": 8.9,
    "hot": false,
    "tags": [
     "data transfer",
@@ -926,28 +986,6 @@
    "reason": "行业合规实践动态，可作为制度建设与对标参考。"
   },
   {
-   "title": "Canada's Bill C-36 introduces privacy reforms, enforcement changes",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZG0zY1JGZWZVNjdjMnBXeXY0M2V2dmRkaGR1RWxuWmRsX2JNYnBmVzZrYVdSY2ppUVUwNk5qYWFoQzRVc0duNU1mS3hMWUJDSmkzdHFrT3V0a3NTUHJSZ0UwYXBkbUg1Q01nN2NSbzRxc1lUTkNaV2Nwdl84LTcwbmhfcm15am1FeEhmOUxCUmRtY0k?oc=5",
-   "summary": "",
-   "time": "2026-06-17T01:53:03+08:00",
-   "date": "2026-06-17",
-   "sources": [
-    "IAPP"
-   ],
-   "region": "国际",
-   "category": "执法处罚",
-   "heat": 8.3,
-   "hot": false,
-   "tags": [
-    "enforcement",
-    "privacy"
-   ],
-   "importance": 8.5,
-   "kw_score": 4.0,
-   "weight": 2.0,
-   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
-  },
-  {
    "title": "Vermont Becomes 23rd State with Comprehensive Consumer Privacy Law",
    "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/vermont-becomes-23rd-state-with-comprehensive-consumer-privacy-law",
    "summary": "On June 16, 2026, Vermont Governor Phil Scott signed into law Senate Bill S.71 , the Vermont Data Privacy and Online Surveillance Act, making Vermont the 23 rd state with a compr…",
@@ -969,6 +1007,28 @@
    "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
   },
   {
+   "title": "Canada's Bill C-36 introduces privacy reforms, enforcement changes",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZG0zY1JGZWZVNjdjMnBXeXY0M2V2dmRkaGR1RWxuWmRsX2JNYnBmVzZrYVdSY2ppUVUwNk5qYWFoQzRVc0duNU1mS3hMWUJDSmkzdHFrT3V0a3NTUHJSZ0UwYXBkbUg1Q01nN2NSbzRxc1lUTkNaV2Nwdl84LTcwbmhfcm15am1FeEhmOUxCUmRtY0k?oc=5",
+   "summary": "",
+   "time": "2026-06-17T01:53:03+08:00",
+   "date": "2026-06-17",
+   "sources": [
+    "IAPP"
+   ],
+   "region": "国际",
+   "category": "执法处罚",
+   "heat": 8.2,
+   "hot": false,
+   "tags": [
+    "enforcement",
+    "privacy"
+   ],
+   "importance": 8.5,
+   "kw_score": 4.0,
+   "weight": 2.0,
+   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
+  },
+  {
    "title": "Court docs: Lawsuit filed against Columbia Orthopaedic Group after ‘ransomware gang’ takes credit for cyber attack",
    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPRGFmRF9lUzdnNnpJRHZrbnRXNjlxU1dIWnNEYWdzYlh0aDJiakdfa3pNdjI2XzY3X0FSYkxPOUxLajQweVE3VDBuWHZmS24yQ1dtaUw2NWxHUHFFeEtSOEJXdUFPRzZBTVRCaFhYd1pKZ1lSNm96MDJkUS03bklQZVEzOXg4NzV0M2JlRXBhanBMWW52N3h1X200OTVLMVVQdnY3Z3dOWVlobTJDRnYxQk5HbVNBR19JWmdrbU5hTFJhYXd6QXhjM2hLYi1xUzA2Q0tzUW9ma2QtaDd6QTV4TlVGbzF0QWlxaVMzUldSWkg?oc=5",
    "summary": "Court docs: Lawsuit filed against Columbia Orthopaedic Group after ‘ransomware gang’ takes credit for cyber attack ABC17NEWS",
@@ -979,7 +1039,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 7.6,
+   "heat": 7.5,
    "hot": false,
    "tags": [
     "lawsuit",
@@ -1001,7 +1061,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 7.4,
+   "heat": 7.3,
    "hot": false,
    "tags": [
     "class action",
@@ -1023,7 +1083,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 7.2,
+   "heat": 7.1,
    "hot": false,
    "tags": [
     "个人信息"
@@ -1044,7 +1104,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 7.2,
+   "heat": 7.1,
    "hot": false,
    "tags": [
     "个人信息"
@@ -1065,7 +1125,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 7.2,
+   "heat": 7.1,
    "hot": false,
    "tags": [
     "个人信息"
@@ -1086,7 +1146,28 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 7.2,
+   "heat": 7.1,
+   "hot": false,
+   "tags": [
+    "个人信息"
+   ],
+   "importance": 4.0,
+   "kw_score": 2.0,
+   "weight": 2.0,
+   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
+  },
+  {
+   "title": "驿路声花 |“未成年人 个人信息保护 案例警示教育培训会”",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1781746619&ver=6789&signature=SGQ92ABRaIUYoGmqg2MhKe07L4F*YJWrI3nZNr*EY*AtFzPv**KNrc2n30-2rr8-sr1tqM2R5-CffkutpNTMye33Pq4zs4kRAMBoiWJoBczQnmjtogiwXOgPYv8f7b8y&new=1",
+   "summary": "6 月 17 日龙泉驿区检察院联合区教育局开展未成年人 个人信息保护 警示培训会全区 70 余家民办学校、培训机构工作人员参会检察官以...",
+   "time": "2026-06-17T18:32:41+08:00",
+   "date": "2026-06-17",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "个人信息保护",
+   "heat": 7.1,
    "hot": false,
    "tags": [
     "个人信息"
@@ -1107,7 +1188,7 @@
    ],
    "region": "国际",
    "category": "个人信息保护",
-   "heat": 6.5,
+   "heat": 6.4,
    "hot": false,
    "tags": [
     "privacy"
@@ -1149,7 +1230,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 5.1,
+   "heat": 5.0,
    "hot": false,
    "tags": [
     "监管"
@@ -2906,28 +2987,6 @@
    "reason": "行业合规实践动态，可作为制度建设与对标参考。"
   },
   {
-   "title": "Ottawa’s new privacy bill aims to tackle surveillance pricing, data protection",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcmF2Uzl5R3RRdFRxay1rX2Rwd1FFSGZDMHdFUjY1V3YwbkJVMVQycmltU3B3LTlJaDJ1QTZYcHhNTkJHYTNOZ25OQnVBUUgtVWFIb1h3TExzWkR2YjlPbzliV0hQZ0p0NnE3VmVZd0ZFcHlZM3phUHhRaWo4UmRFNTZIbVJZOERNSzhyZm5QZHdHOTRXbFNSZGlLVFZlNkQ0?oc=5",
-   "summary": "",
-   "time": "2026-06-16T06:15:16+08:00",
-   "date": "2026-06-16",
-   "sources": [
-    "The Globe and Mail"
-   ],
-   "region": "国际",
-   "category": "个人信息保护",
-   "heat": 8.2,
-   "hot": false,
-   "tags": [
-    "data protection",
-    "privacy"
-   ],
-   "importance": 7.0,
-   "kw_score": 5.0,
-   "weight": 2.0,
-   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
-  },
-  {
    "title": "Orthopaedic Specialists Data Breach Lawsuit Investigation",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMGxHUnhmbHlINFpMQkJqa0d3V0xPT2o5SVdqU0FHUF94VGY2XzFNbUJpSGtaX3FrNkYxTmhPV3RqMmtheGdkNFh1LVF2cTRFQ0JPclNBQ0VnLUx5Ykp5bFpJM2dTS19GdFR2OFFZRlBzT3dhRS1ScDk2cHhlRlBBM1JxT0Z6TUVkdWc?oc=5",
    "summary": "",
@@ -2949,6 +3008,28 @@
    "kw_score": 5.0,
    "weight": 2.0,
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
+  },
+  {
+   "title": "Ottawa’s new privacy bill aims to tackle surveillance pricing, data protection",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcmF2Uzl5R3RRdFRxay1rX2Rwd1FFSGZDMHdFUjY1V3YwbkJVMVQycmltU3B3LTlJaDJ1QTZYcHhNTkJHYTNOZ25OQnVBUUgtVWFIb1h3TExzWkR2YjlPbzliV0hQZ0p0NnE3VmVZd0ZFcHlZM3phUHhRaWo4UmRFNTZIbVJZOERNSzhyZm5QZHdHOTRXbFNSZGlLVFZlNkQ0?oc=5",
+   "summary": "",
+   "time": "2026-06-16T06:15:16+08:00",
+   "date": "2026-06-16",
+   "sources": [
+    "The Globe and Mail"
+   ],
+   "region": "国际",
+   "category": "个人信息保护",
+   "heat": 8.1,
+   "hot": false,
+   "tags": [
+    "data protection",
+    "privacy"
+   ],
+   "importance": 7.0,
+   "kw_score": 5.0,
+   "weight": 2.0,
+   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
   },
   {
    "title": "美国法官驳回马斯克旗下xAI对OpenAI提出的商业窃密诉讼",
@@ -3051,7 +3132,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 6.9,
+   "heat": 6.8,
    "hot": false,
    "tags": [
     "法院",
@@ -3117,7 +3198,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 5.9,
+   "heat": 5.8,
    "hot": false,
    "tags": [
     "arbitration",
@@ -3139,7 +3220,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 5.4,
+   "heat": 5.3,
    "hot": false,
    "tags": [
     "class action"
@@ -3224,7 +3305,7 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 4.2,
+   "heat": 4.1,
    "hot": false,
    "tags": [
     "征求意见"
@@ -3245,7 +3326,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 3.8,
+   "heat": 3.7,
    "hot": false,
    "tags": [
     "监管"
@@ -3266,7 +3347,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 3.1,
+   "heat": 3.0,
    "hot": false,
    "tags": [],
    "importance": 4.5,
@@ -3286,7 +3367,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 16.2,
+   "heat": 16.1,
    "hot": false,
    "tags": [
     "出境安全评估",
@@ -3313,7 +3394,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 15.2,
+   "heat": 15.1,
    "hot": false,
    "tags": [
     "个人信息",
@@ -3335,7 +3416,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 14.7,
+   "heat": 14.6,
    "hot": false,
    "tags": [
     "个人信息",
@@ -3358,7 +3439,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 14.7,
+   "heat": 14.6,
    "hot": false,
    "tags": [
     "个人信息",
@@ -3381,7 +3462,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 14.7,
+   "heat": 14.6,
    "hot": false,
    "tags": [
     "个人信息",
@@ -3404,7 +3485,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 14.7,
+   "heat": 14.6,
    "hot": false,
    "tags": [
     "个人信息",
@@ -3427,7 +3508,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 14.7,
+   "heat": 14.6,
    "hot": false,
    "tags": [
     "个人信息",
@@ -3450,7 +3531,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 14.7,
+   "heat": 14.6,
    "hot": false,
    "tags": [
     "个人信息",
@@ -3473,7 +3554,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 14.7,
+   "heat": 14.6,
    "hot": false,
    "tags": [
     "数据合规",
@@ -3496,7 +3577,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 14.7,
+   "heat": 14.6,
    "hot": false,
    "tags": [
     "个人信息",
@@ -3519,7 +3600,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 14.7,
+   "heat": 14.6,
    "hot": false,
    "tags": [
     "数据合规",
@@ -3542,7 +3623,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 14.2,
+   "heat": 14.1,
    "hot": false,
    "tags": [
     "出境安全评估",
@@ -3565,7 +3646,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 14.2,
+   "heat": 14.1,
    "hot": false,
    "tags": [
     "出境安全评估",
@@ -3588,7 +3669,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 14.2,
+   "heat": 14.1,
    "hot": false,
    "tags": [
     "出境安全评估",
@@ -3611,7 +3692,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 14.1,
+   "heat": 14.0,
    "hot": false,
    "tags": [
     "出境安全评估",
@@ -3634,7 +3715,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 14.1,
+   "heat": 14.0,
    "hot": false,
    "tags": [
     "出境安全评估",
@@ -3657,7 +3738,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 14.1,
+   "heat": 14.0,
    "hot": false,
    "tags": [
     "出境安全评估",
@@ -4163,7 +4244,7 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 11.6,
+   "heat": 11.5,
    "hot": false,
    "tags": [
     "个人信息",
@@ -4186,7 +4267,7 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 11.6,
+   "heat": 11.5,
    "hot": false,
    "tags": [
     "个人信息",
@@ -4209,7 +4290,7 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 11.6,
+   "heat": 11.5,
    "hot": false,
    "tags": [
     "个人信息",
@@ -4232,7 +4313,7 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 11.6,
+   "heat": 11.5,
    "hot": false,
    "tags": [
     "个人信息",
@@ -4255,7 +4336,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 10.7,
+   "heat": 10.6,
    "hot": false,
    "tags": [
     "class action",
@@ -4301,7 +4382,7 @@
    ],
    "region": "国际",
    "category": "跨境数据",
-   "heat": 10.5,
+   "heat": 10.4,
    "hot": false,
    "tags": [
     "cross-border data",
@@ -4429,29 +4510,6 @@
    "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
   },
   {
-   "title": "智御风险,共护权利 | AI时代 个人信息保护 法律论坛暨2026京师律所全球跨境数据隐私合规研讨会圆满举办",
-   "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2O-a5hXhhQU5f4S3kN7coa-YNdOpYmDWlqXa8Fplpd9m3851qMMn5W9Acpwisnx7xzHPzcqwixsY_Hrn5Wy_HAlFVBQrhyoDaAPRcjbiBoa994BjXb7KIYYX6Fy_EZVH_Cin1kLGRayqLH4euuB8Q_tjH3OoMsXCPR5l1lIVObSYhkogUO_j49ULB9kVI9Q8gcVjAuE9cyBoggZ9Ldt2rpj3x9Nw6p-Fg..&type=2&query=%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E4%BF%9D%E6%8A%A4&token=8ABF99ADCB249E409295C6DBC18A9463931FC5A16A2FD46C",
-   "summary": "个人信息保护 应立足人格尊严与安全,属于人格权法范畴;数据财产则应聚焦其商业利用价值,避免与知识产权逻辑混同.他强调,应...",
-   "time": "2026-06-15T13:54:21+08:00",
-   "date": "2026-06-15",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "跨境数据",
-   "heat": 10.3,
-   "hot": false,
-   "tags": [
-    "跨境数据",
-    "个人信息",
-    "合规"
-   ],
-   "importance": 13.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "涉及数据跨境流动规则，可能影响出境安全评估、标准合同备案等合规路径，建议出海/跨国业务团队关注。"
-  },
-  {
    "title": "上海站 6.27 |《 数据合规 与数据跨境实务》高级研修班",
    "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2O-a5hXhhQUOhBqVi8KU4c6U5wNZfWU2lqXa8Fplpd98u5QQXzECE4JpIVL8LB8Lg4Qk27-fGrMio6TZgXmvwtEii4AZUEaC-pBYjCAy7QKp_7uPvG_wB3Vbu7vLI1KU3wL7gAoSME0lb4MWzcO0vGqvFyM-Y2lHUZE2HX4zsD8_y7TkYn0H3ZTn_PDqmVf_1Ug_Ph4z83lKpZVQBPRFxJ5Nu7CnoSqqg..&type=2&query=%E6%95%B0%E6%8D%AE%E5%90%88%E8%A7%84&token=8A17762DF47FF739ECEAB9AA8A0E1E15ED7332F46A2FB42A",
    "summary": "数据合规 和其它法律领域的交叉出口管制和 数据合规 知识产权商密保护和 数据合规 外商投资安全审查与 数据合规 模块二:中国数据法律...",
@@ -4513,6 +4571,29 @@
    "tags": [
     "数据跨境",
     "数据合规",
+    "合规"
+   ],
+   "importance": 13.0,
+   "kw_score": 8.0,
+   "weight": 2.0,
+   "reason": "涉及数据跨境流动规则，可能影响出境安全评估、标准合同备案等合规路径，建议出海/跨国业务团队关注。"
+  },
+  {
+   "title": "智御风险,共护权利 | AI时代 个人信息保护 法律论坛暨2026京师律所全球跨境数据隐私合规研讨会圆满举办",
+   "url": "https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2O-a5hXhhQU5f4S3kN7coa-YNdOpYmDWlqXa8Fplpd9m3851qMMn5W9Acpwisnx7xzHPzcqwixsY_Hrn5Wy_HAlFVBQrhyoDaAPRcjbiBoa994BjXb7KIYYX6Fy_EZVH_Cin1kLGRayqLH4euuB8Q_tjH3OoMsXCPR5l1lIVObSYhkogUO_j49ULB9kVI9Q8gcVjAuE9cyBoggZ9Ldt2rpj3x9Nw6p-Fg..&type=2&query=%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E4%BF%9D%E6%8A%A4&token=8ABF99ADCB249E409295C6DBC18A9463931FC5A16A2FD46C",
+   "summary": "个人信息保护 应立足人格尊严与安全,属于人格权法范畴;数据财产则应聚焦其商业利用价值,避免与知识产权逻辑混同.他强调,应...",
+   "time": "2026-06-15T13:54:21+08:00",
+   "date": "2026-06-15",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "跨境数据",
+   "heat": 10.2,
+   "hot": false,
+   "tags": [
+    "跨境数据",
+    "个人信息",
     "合规"
    ],
    "importance": 13.0,
@@ -4623,7 +4704,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 9.5,
+   "heat": 9.4,
    "hot": false,
    "tags": [
     "数据合规",
@@ -4738,7 +4819,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 7.8,
+   "heat": 7.7,
    "hot": false,
    "tags": [
     "investigation",
@@ -5076,7 +5157,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 2.0,
+   "heat": 1.9,
    "hot": false,
    "tags": [],
    "importance": 1.5,
@@ -6662,6 +6743,29 @@
    "reason": "涉及数据跨境流动规则，可能影响出境安全评估、标准合同备案等合规路径，建议出海/跨国业务团队关注。"
   },
   {
+   "title": "Coordinated Supervision Committee extends scope to include Eurodac",
+   "url": "https://www.edpb.europa.eu/news/news/2026/coordinated-supervision-committee-extends-scope-include-eurodac_en",
+   "summary": "Brussels, 12 June – As of today, coordinated supervision of the European Union’s asylum and migration database (Eurodac) will be carried out by the Coordinated Supervision Commit…",
+   "time": "2026-06-12T20:00:00+08:00",
+   "date": "2026-06-12",
+   "sources": [
+    "EDPB 欧盟数据保护委员会"
+   ],
+   "region": "国际",
+   "category": "行业实践",
+   "heat": 12.0,
+   "hot": false,
+   "tags": [
+    "data protection",
+    "regulation",
+    "EDPB"
+   ],
+   "importance": 12.0,
+   "kw_score": 9.0,
+   "weight": 3.0,
+   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
+  },
+  {
    "title": "$31.5M Flagstar Bank data breach class action settlement",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeS0zd0ExeVhmaDVIQUU5NkR0VUV4cmU2Wk1SY0VfdUdMeWg0bGNTVWszR25CLXZDRWkxdkRCd1V5MjBtNlRWdkw0Q2xmRTZ1UEFyZVJOb0lWSHVMc1Y5MUtCTFRXLXRqR1RjbmotT0VfOUpnMmxQVG1hZUIwaVpxV1VsWDZaeElnczRqbW9xN2FMQTI0ZDhlUUFQamIzTTJ4X3VKaVEzaHFXNFBjRWI4SGowNVhkdUp5My1yaTctS29kUklIUHNBNA?oc=5",
    "summary": "",
@@ -6684,29 +6788,6 @@
    "kw_score": 8.0,
    "weight": 2.0,
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
-  },
-  {
-   "title": "Coordinated Supervision Committee extends scope to include Eurodac",
-   "url": "https://www.edpb.europa.eu/news/news/2026/coordinated-supervision-committee-extends-scope-include-eurodac_en",
-   "summary": "Brussels, 12 June – As of today, coordinated supervision of the European Union’s asylum and migration database (Eurodac) will be carried out by the Coordinated Supervision Commit…",
-   "time": "2026-06-12T20:00:00+08:00",
-   "date": "2026-06-12",
-   "sources": [
-    "EDPB 欧盟数据保护委员会"
-   ],
-   "region": "国际",
-   "category": "行业实践",
-   "heat": 12.0,
-   "hot": false,
-   "tags": [
-    "data protection",
-    "regulation",
-    "EDPB"
-   ],
-   "importance": 12.0,
-   "kw_score": 9.0,
-   "weight": 3.0,
-   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
   },
   {
    "title": "中央网信办通报30款App个人信息收集使用问题",
@@ -7172,6 +7253,27 @@
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
   },
   {
+   "title": "Louisiana Enacts Comprehensive Consumer Privacy Law",
+   "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/louisiana-enacts-comprehensive-consumer-privacy-law",
+   "summary": "Louisiana recently enacted the Louisiana Data Privacy Act, becoming the 22nd U.S. state to adopt a comprehensive consumer data privacy law. Continue Reading ›",
+   "time": "2026-06-12T21:00:02+08:00",
+   "date": "2026-06-12",
+   "sources": [
+    "Hunton 隐私与信息安全博客"
+   ],
+   "region": "国际",
+   "category": "个人信息保护",
+   "heat": 5.0,
+   "hot": false,
+   "tags": [
+    "privacy"
+   ],
+   "importance": 5.0,
+   "kw_score": 2.0,
+   "weight": 3.0,
+   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
+  },
+  {
    "title": "Human rights court rejects complaint over unreasoned award",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTjVIdkRvR3FmNDBkaGw3Wm5CeTZWbHNMVTFYM1ZEVUxFRXJsMVA1NU9NSnJmWWkxVkxWVURkRFdqbnBFamNGbC02RTdzQWVHaXdTSlZUY3JWVk81QUxWcFd1TlVUT3dzdUpIT21xR3V1dm12OWRyQm9yT1NVdkd4aDNoLWZGdThMWmFWSGR1YW1lT3NTTDhKZFppcHFEVFFINVZlbg?oc=5",
    "summary": "",
@@ -7214,27 +7316,6 @@
    "kw_score": 3.0,
    "weight": 2.0,
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
-  },
-  {
-   "title": "Louisiana Enacts Comprehensive Consumer Privacy Law",
-   "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/louisiana-enacts-comprehensive-consumer-privacy-law",
-   "summary": "Louisiana recently enacted the Louisiana Data Privacy Act, becoming the 22nd U.S. state to adopt a comprehensive consumer data privacy law. Continue Reading ›",
-   "time": "2026-06-12T21:00:02+08:00",
-   "date": "2026-06-12",
-   "sources": [
-    "Hunton 隐私与信息安全博客"
-   ],
-   "region": "国际",
-   "category": "个人信息保护",
-   "heat": 5.0,
-   "hot": false,
-   "tags": [
-    "privacy"
-   ],
-   "importance": 5.0,
-   "kw_score": 2.0,
-   "weight": 3.0,
-   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
   },
   {
    "title": "关于“数据要素×” 国家数据局最新发声",
@@ -7675,28 +7756,6 @@
    "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
   },
   {
-   "title": "GDPR Enforcement in Austria",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MVm1uODRVQmN6R051NFFlTTZYVFNOazNPVGp2Y2xNdUpteTI1Wm50dG0tODNacjNTV3VkZGVQY2tyelh1SHhPU2lEUklRTlo5UHhTTDlrZ21FQ0VXZGRsVzAtbThWb0xOdkx6ckZvQ0hUNEo0OU1kNlJ0RmRydE0?oc=5",
-   "summary": "GDPR Enforcement in Austria CMS.law",
-   "time": "2026-06-11T09:48:29+08:00",
-   "date": "2026-06-11",
-   "sources": [
-    "CMS.law"
-   ],
-   "region": "国际",
-   "category": "执法处罚",
-   "heat": 7.0,
-   "hot": false,
-   "tags": [
-    "enforcement",
-    "GDPR"
-   ],
-   "importance": 9.5,
-   "kw_score": 5.0,
-   "weight": 2.0,
-   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
-  },
-  {
    "title": "Taos Mountain Casino Data Breach Lawsuit Investigation",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQY0RmdDA3WDRwSDVvU3ZOWlRnNkhncHItYzVaaUJMNkY1NVR3ZHoxOWZKVFpQcGd0OE1kT0JaT1hQelBzeXJXQ3h2UTNIb2RIalFiTVNYVXc1bEJFaEh4bl9LZjBoQjdMNkxPWE55bDM3R2NPNkdobEhjbW9wOExONTMxV1VzQQ?oc=5",
    "summary": "",
@@ -7765,6 +7824,28 @@
    "reason": "数据安全事件通常伴随监管问询与索赔风险，可作为应急响应与合规复盘素材。"
   },
   {
+   "title": "USA: District court confirms HKIAC award, rejecting respondents’ defenses under Article V of the New York Convention and holding that a co-awardee’s absence does not bar confirmation",
+   "url": "https://www.globalarbitrationnews.com/2026/06/11/usa-district-court-confirms-hkiac-award-rejecting-respondents-defenses-under-article-v-of-the-new-york-convention-and-holding-that-a-co-awardees-absence-does-not-bar-confirmation/",
+   "summary": "Bronzelink Holdings Ltd. v. STM Atlantic N.V., No. 2:25‑cv‑06783‑JLS‑PVC (C.D. Cal. Feb. 9, 2026).[1] Factual Background Respondents Emil Youssefzadeh, Umar Javed, and STM Atlant…",
+   "time": "2026-06-11T23:51:41+08:00",
+   "date": "2026-06-11",
+   "sources": [
+    "Global Arbitration News"
+   ],
+   "region": "国际",
+   "category": "诉讼仲裁",
+   "heat": 6.0,
+   "hot": false,
+   "tags": [
+    "arbitration",
+    "court"
+   ],
+   "importance": 8.5,
+   "kw_score": 3.0,
+   "weight": 3.0,
+   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
+  },
+  {
    "title": "中国（广东）自由贸易试验区深圳前海蛇口片区数据出境负面清单实施指南（试行）",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBMaVNaM2hPVzh3ZkxOSWlTSDA0d2xLNmVORUZkakhNaE54VkhCeXA1bXVGVU9xOWxOSWFVTFdnUEhuRjRHUUU4ZGRUazdCaFlUSF9wUHZ0Nk1ibWtUd0NtUUxFX0xGNnlVWGlMSWJkaGtfb3htcnpn?oc=5",
    "summary": "",
@@ -7828,28 +7909,6 @@
    "importance": 8.5,
    "kw_score": 4.0,
    "weight": 2.0,
-   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
-  },
-  {
-   "title": "USA: District court confirms HKIAC award, rejecting respondents’ defenses under Article V of the New York Convention and holding that a co-awardee’s absence does not bar confirmation",
-   "url": "https://www.globalarbitrationnews.com/2026/06/11/usa-district-court-confirms-hkiac-award-rejecting-respondents-defenses-under-article-v-of-the-new-york-convention-and-holding-that-a-co-awardees-absence-does-not-bar-confirmation/",
-   "summary": "Bronzelink Holdings Ltd. v. STM Atlantic N.V., No. 2:25‑cv‑06783‑JLS‑PVC (C.D. Cal. Feb. 9, 2026).[1] Factual Background Respondents Emil Youssefzadeh, Umar Javed, and STM Atlant…",
-   "time": "2026-06-11T23:51:41+08:00",
-   "date": "2026-06-11",
-   "sources": [
-    "Global Arbitration News"
-   ],
-   "region": "国际",
-   "category": "诉讼仲裁",
-   "heat": 6.0,
-   "hot": false,
-   "tags": [
-    "arbitration",
-    "court"
-   ],
-   "importance": 8.5,
-   "kw_score": 3.0,
-   "weight": 3.0,
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
   },
   {
