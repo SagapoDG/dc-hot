@@ -1,11 +1,14 @@
 {
- "generated_at": "2026-06-21T01:29:38.118555+08:00",
+ "generated_at": "2026-06-21T01:43:59.811578+08:00",
  "count": 430,
  "highlight_count": 30,
  "errors": [
+  "Hunton 隐私与信息安全博客: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>",
+  "微信公众号: timed out",
   "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）",
   "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）",
-  "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）"
+  "Solidot: The read operation timed out",
+  "Google News: <urlopen error _ssl.c:1112: The handshake operation timed out>"
  ],
  "items": [
   {
@@ -227,7 +230,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 11.9,
+   "heat": 11.8,
    "hot": false,
    "tags": [
     "个人信息",
@@ -250,7 +253,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 11.9,
+   "heat": 11.8,
    "hot": false,
    "tags": [
     "个人信息",
@@ -652,7 +655,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 11.7,
+   "heat": 11.6,
    "hot": false,
    "tags": [
     "class action",
@@ -675,7 +678,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 11.7,
+   "heat": 11.6,
    "hot": false,
    "tags": [
     "网络安全",
@@ -698,7 +701,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 11.7,
+   "heat": 11.6,
    "hot": false,
    "tags": [
     "网络安全",
@@ -721,7 +724,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 11.7,
+   "heat": 11.6,
    "hot": false,
    "tags": [
     "网络安全",
@@ -744,7 +747,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 11.7,
+   "heat": 11.6,
    "hot": false,
    "tags": [
     "网络安全",
@@ -767,7 +770,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 11.7,
+   "heat": 11.6,
    "hot": false,
    "tags": [
     "网络安全",
@@ -790,7 +793,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 11.7,
+   "heat": 11.6,
    "hot": false,
    "tags": [
     "网络安全",
@@ -813,7 +816,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 11.7,
+   "heat": 11.6,
    "hot": false,
    "tags": [
     "网络安全",
@@ -836,7 +839,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 11.7,
+   "heat": 11.6,
    "hot": false,
    "tags": [
     "网络安全",
@@ -859,7 +862,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 11.7,
+   "heat": 11.6,
    "hot": false,
    "tags": [
     "网络安全",
@@ -882,7 +885,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 11.7,
+   "heat": 11.6,
    "hot": false,
    "tags": [
     "网络安全",
@@ -905,7 +908,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 11.7,
+   "heat": 11.6,
    "hot": false,
    "tags": [
     "网络安全",
@@ -928,7 +931,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 11.7,
+   "heat": 11.6,
    "hot": false,
    "tags": [
     "网络安全",
@@ -1623,28 +1626,6 @@
    "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
   },
   {
-   "title": "国家网信办印发《实施网络安全标识的产品目录（第一批）》及相关实施规则",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE80eXBtdmFoYUJrVWFncXFrOTRtWU9hRTFNYU5COEhJVzRoZ2luQ1lTdklDZlVvb0ZORFdrNVo1RHpJdGR5cnktQUdrREtmdw?oc=5",
-   "summary": "",
-   "time": "2026-06-19T18:23:49+08:00",
-   "date": "2026-06-19",
-   "sources": [
-    "安全内参"
-   ],
-   "region": "国内",
-   "category": "行业实践",
-   "heat": 8.3,
-   "hot": false,
-   "tags": [
-    "网络安全",
-    "网信办"
-   ],
-   "importance": 6.0,
-   "kw_score": 4.0,
-   "weight": 2.0,
-   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
-  },
-  {
    "title": "Stanley Pearlman Enterprises Data Breach Lawsuit Investigation",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaDJBV0thdk1Fb0Q3TU4yektTQXRrSmt0ZHFUUWhMX1oyblltb1VvcDIwbDNSUmJ4WTBZc0JUTmtST0VSMFUyb1JWNHY0a1lsZWo1RXdUY1FrLWltcTVFNHRicTJBc3RpdVN4TkxDZEZINGthZnVQS1NHZlR4dktuemVpcEZ1NnMyVlpvanZRVEc?oc=5",
    "summary": "",
@@ -1688,6 +1669,28 @@
    "kw_score": 4.0,
    "weight": 2.0,
    "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
+  },
+  {
+   "title": "国家网信办印发《实施网络安全标识的产品目录（第一批）》及相关实施规则",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE80eXBtdmFoYUJrVWFncXFrOTRtWU9hRTFNYU5COEhJVzRoZ2luQ1lTdklDZlVvb0ZORFdrNVo1RHpJdGR5cnktQUdrREtmdw?oc=5",
+   "summary": "",
+   "time": "2026-06-19T18:23:49+08:00",
+   "date": "2026-06-19",
+   "sources": [
+    "安全内参"
+   ],
+   "region": "国内",
+   "category": "行业实践",
+   "heat": 8.3,
+   "hot": false,
+   "tags": [
+    "网络安全",
+    "网信办"
+   ],
+   "importance": 6.0,
+   "kw_score": 4.0,
+   "weight": 2.0,
+   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
   },
   {
    "title": "DIFC proposes new AI-focused data protection regulations",
@@ -1766,7 +1769,7 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 7.3,
+   "heat": 7.2,
    "hot": false,
    "tags": [
     "数据安全",
@@ -1799,27 +1802,6 @@
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
   },
   {
-   "title": "A view from Brussels: A sneak peek into upcoming guidelines on GDPR, AI Act interplay",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcXZ0WndqMU90eFN0ckdQSEt6dUxuX0F3YjdzbTRYZTVueWlOTlFjdG9TVmRpZmNuclBFZTZPWndkV3BBYVV2WXJqRFAzX0VfQUZhR1ItNjRJOXFOVzlSOUVoT1UzSXJOR2NuZXBoc2x0VFdUUDdpdTU5b25IdEJQblBKNzRNRk9VeTB3Unk5a3dsd1JRdUh6OUV5MWxaekxndGpaRjBCc0VxdUE?oc=5",
-   "summary": "",
-   "time": "2026-06-19T01:51:04+08:00",
-   "date": "2026-06-19",
-   "sources": [
-    "IAPP"
-   ],
-   "region": "国际",
-   "category": "立法监管",
-   "heat": 6.4,
-   "hot": false,
-   "tags": [
-    "GDPR"
-   ],
-   "importance": 8.0,
-   "kw_score": 3.0,
-   "weight": 2.0,
-   "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
-  },
-  {
    "title": "MSG facing class-action lawsuit after claims hackers accessed sensitive data of 26 MILLION visitors",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1UbEJYS3ByVnotQjVZd085Njh1VjJWUXhPZTdzdG16TGlyVXBJaUlZZkVobmtKUFhwUHpSQWVnUTRoTmluQWk2a3JRUm84azZSdFl4OFltSWdic18wZF91OXJCUkZtSk41YUo5Q0F4RklaU1pyUndiOV9RTkd2UQ?oc=5",
    "summary": "",
@@ -1839,6 +1821,27 @@
    "kw_score": 2.0,
    "weight": 2.0,
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
+  },
+  {
+   "title": "A view from Brussels: A sneak peek into upcoming guidelines on GDPR, AI Act interplay",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcXZ0WndqMU90eFN0ckdQSEt6dUxuX0F3YjdzbTRYZTVueWlOTlFjdG9TVmRpZmNuclBFZTZPWndkV3BBYVV2WXJqRFAzX0VfQUZhR1ItNjRJOXFOVzlSOUVoT1UzSXJOR2NuZXBoc2x0VFdUUDdpdTU5b25IdEJQblBKNzRNRk9VeTB3Unk5a3dsd1JRdUh6OUV5MWxaekxndGpaRjBCc0VxdUE?oc=5",
+   "summary": "",
+   "time": "2026-06-19T01:51:04+08:00",
+   "date": "2026-06-19",
+   "sources": [
+    "IAPP"
+   ],
+   "region": "国际",
+   "category": "立法监管",
+   "heat": 6.3,
+   "hot": false,
+   "tags": [
+    "GDPR"
+   ],
+   "importance": 8.0,
+   "kw_score": 3.0,
+   "weight": 2.0,
+   "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
   },
   {
    "title": "International arbitration award can't be challenged...: Bombay HC sustains $24.7m award against ONGC",
@@ -1998,7 +2001,7 @@
    ],
    "region": "国际",
    "category": "行业实践",
-   "heat": 3.9,
+   "heat": 3.8,
    "hot": false,
    "tags": [],
    "importance": 1.5,
@@ -2362,7 +2365,7 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 13.9,
+   "heat": 13.8,
    "hot": false,
    "tags": [
     "数据合规",
@@ -2385,7 +2388,7 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 13.9,
+   "heat": 13.8,
    "hot": false,
    "tags": [
     "个人信息",
@@ -2408,7 +2411,7 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 13.9,
+   "heat": 13.8,
    "hot": false,
    "tags": [
     "个人信息",
@@ -2431,7 +2434,7 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 13.9,
+   "heat": 13.8,
    "hot": false,
    "tags": [
     "个人信息",
@@ -2454,7 +2457,7 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 13.9,
+   "heat": 13.8,
    "hot": false,
    "tags": [
     "个人信息",
@@ -2891,7 +2894,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 7.8,
+   "heat": 7.7,
    "hot": false,
    "tags": [
     "数据合规",
@@ -2993,28 +2996,6 @@
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
   },
   {
-   "title": "哪些主体需要开展网络数据安全风险评估？国家网信办答记者问",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWnpFb3JDRjRnWmJSRmNHazJpWFlVVmpxbzBzV091UzQyRVd2aDlOaGFEUnBzNWxhWWFubWN0ZjdfYkFrYjR4UkF1dDh4b2dQb0dsOEdoVGczemN6WHdEbXlJcTJDYWpwM2c1Y28yWHh6X3BQMkVmRXI5UU1uTi1MNm1jUkJuQU5kZmtHdjM0aw?oc=5",
-   "summary": "",
-   "time": "2026-06-18T18:45:00+08:00",
-   "date": "2026-06-18",
-   "sources": [
-    "21财经"
-   ],
-   "region": "国内",
-   "category": "行业实践",
-   "heat": 7.0,
-   "hot": false,
-   "tags": [
-    "数据安全",
-    "网信办"
-   ],
-   "importance": 6.0,
-   "kw_score": 4.0,
-   "weight": 2.0,
-   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
-  },
-  {
    "title": "工业和信息化部、中央网信办、国家发展改革委、科技部、商务部、市场监管总局、国家数据局等七部门近日联合印发《促进平台经济大中小企业协同发展行动方案（2026—2028年）》#平台经济 #人工智能 #token #AI",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSkFOMVRCSkhaMF9aRW5xX3RrRHBXdm1fMDdRMWZ3OGtrbk81QkU0MVlmcktDTm9TdkJEUXI5c1AzQUZzMnNkbjNid2V6UVoyeEtBeGRfZDZXaE5CU3cyS3R5dFAzc1lubDdObjZqY0ZNbTFaVmZWUGk1OVZ4S0tYZUhhOW05c2NU?oc=5",
    "summary": "",
@@ -3037,13 +3018,13 @@
    "reason": "行业合规实践动态，可作为制度建设与对标参考。"
   },
   {
-   "title": "国家网信办等三部门联合公布《网络数据安全风险评估办法》-中新网",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsd3BES0VvX1hIcTZDRGhpamhGMFV4SzJ0cEF3MmdLdGhwRXJBWXVsVWhvUkZWM2VCUUlwTmRaVjBFZGx4d08xX0t6OEozYUxzME9lR2Q5ZlBtX0VWMWhSUklxU2p3RnBW?oc=5",
+   "title": "国家网信办等三部门联合公布《网络数据安全风险评估办法》",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55cnhuYVYzeGtUUGRtUy1WRjJXaXBxVWpvcXBfWnlZZjdYR2Iwa1dCbnlrRkZkV1RmcTVUdVB1UmdWb0ZOUnJBX1F5T1ZxcUZHMThtaGp5QlU5aW1BSTUzZnA0UTE?oc=5",
    "summary": "",
-   "time": "2026-06-18T17:03:18+08:00",
+   "time": "2026-06-18T17:03:00+08:00",
    "date": "2026-06-18",
    "sources": [
-    "chinanews.com.cn"
+    "新京报"
    ],
    "region": "国内",
    "category": "立法监管",
@@ -3059,13 +3040,35 @@
    "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
   },
   {
-   "title": "国家网信办等三部门联合公布《网络数据安全风险评估办法》",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55cnhuYVYzeGtUUGRtUy1WRjJXaXBxVWpvcXBfWnlZZjdYR2Iwa1dCbnlrRkZkV1RmcTVUdVB1UmdWb0ZOUnJBX1F5T1ZxcUZHMThtaGp5QlU5aW1BSTUzZnA0UTE?oc=5",
+   "title": "哪些主体需要开展网络数据安全风险评估？国家网信办答记者问",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWnpFb3JDRjRnWmJSRmNHazJpWFlVVmpxbzBzV091UzQyRVd2aDlOaGFEUnBzNWxhWWFubWN0ZjdfYkFrYjR4UkF1dDh4b2dQb0dsOEdoVGczemN6WHdEbXlJcTJDYWpwM2c1Y28yWHh6X3BQMkVmRXI5UU1uTi1MNm1jUkJuQU5kZmtHdjM0aw?oc=5",
    "summary": "",
-   "time": "2026-06-18T17:03:00+08:00",
+   "time": "2026-06-18T18:45:00+08:00",
    "date": "2026-06-18",
    "sources": [
-    "新京报"
+    "21财经"
+   ],
+   "region": "国内",
+   "category": "行业实践",
+   "heat": 6.9,
+   "hot": false,
+   "tags": [
+    "数据安全",
+    "网信办"
+   ],
+   "importance": 6.0,
+   "kw_score": 4.0,
+   "weight": 2.0,
+   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
+  },
+  {
+   "title": "国家网信办等三部门联合公布《网络数据安全风险评估办法》-中新网",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsd3BES0VvX1hIcTZDRGhpamhGMFV4SzJ0cEF3MmdLdGhwRXJBWXVsVWhvUkZWM2VCUUlwTmRaVjBFZGx4d08xX0t6OEozYUxzME9lR2Q5ZlBtX0VWMWhSUklxU2p3RnBW?oc=5",
+   "summary": "",
+   "time": "2026-06-18T17:03:18+08:00",
+   "date": "2026-06-18",
+   "sources": [
+    "chinanews.com.cn"
    ],
    "region": "国内",
    "category": "立法监管",
@@ -3201,7 +3204,7 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 5.5,
+   "heat": 5.4,
    "hot": false,
    "tags": [
     "监管",
@@ -3340,27 +3343,6 @@
    "reason": "行业合规实践动态，可作为制度建设与对标参考。"
   },
   {
-   "title": "金融监管总局：加强人工智能安全开发应用治理",
-   "url": "https://36kr.com/newsflashes/3858550775649540?f=rss",
-   "summary": "36氪获悉，国家金融监督管理总局发布关于银行业保险业人工智能安全开发应用的指导意见。其中提出，加强人工智能安全开发应用治理。开发应用人工智能的银行业保险业金融机构，董（理）事会应指定专门委员会对人工智能开发应用管理负责，统筹���定发展规划，推进能力体系建设，制定制度规范，明确牵头部门和跨业务、科技、数据职能部门的协同机制，加强人才队伍建设，遵循技术发展…",
-   "time": "2026-06-18T18:40:49+08:00",
-   "date": "2026-06-18",
-   "sources": [
-    "36氪"
-   ],
-   "region": "国内",
-   "category": "立法监管",
-   "heat": 3.5,
-   "hot": false,
-   "tags": [
-    "监管"
-   ],
-   "importance": 5.5,
-   "kw_score": 1.0,
-   "weight": 1.5,
-   "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
-  },
-  {
    "title": "中国人民银行、中国证监会有关部门负责人就香港近期推出5年期人民币国债期货答记者问",
    "url": "https://36kr.com/newsflashes/3858456689874181?f=rss",
    "summary": "36氪获悉，中国人民银行、中国证监会支持香港于近期正式推出5年期人民币国债期货产品，此举有利于进一步丰富国际投资者风险管理工具，提升人民币资产吸引力，巩固提升香港离岸人民币枢纽地位，增强长期配置型投资者投资中国的意愿和信心。下一步，中国人民银行、中国证监会将按照防风险、强监管、促高质量发展的工作要求，会同香港方面加强市场监测分析、数据信息共享和跨境监管合…",
@@ -3380,6 +3362,27 @@
    "kw_score": 1.0,
    "weight": 1.5,
    "reason": "行业合规实践动态，可作为制度建设与对标参考。"
+  },
+  {
+   "title": "金融监管总局：加强人工智能安全开发应用治理",
+   "url": "https://36kr.com/newsflashes/3858550775649540?f=rss",
+   "summary": "36氪获悉，国家金融监督管理总局发布关于银行业保险业人工智能安全开发应用的指导意见。其中提出，加强人工智能安全开发应用治理。开发应用人工智能的银行业保险业金融机构，董（理）事会应指定专门委员会对人工智能开发应用管理负责，统筹���定发展规划，推进能力体系建设，制定制度规范，明确牵头部门和跨业务、科技、数据职能部门的协同机制，加强人才队伍建设，遵循技术发展…",
+   "time": "2026-06-18T18:40:49+08:00",
+   "date": "2026-06-18",
+   "sources": [
+    "36氪"
+   ],
+   "region": "国内",
+   "category": "立法监管",
+   "heat": 3.4,
+   "hot": false,
+   "tags": [
+    "监管"
+   ],
+   "importance": 5.5,
+   "kw_score": 1.0,
+   "weight": 1.5,
+   "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
   },
   {
    "title": "江苏索普：公司及相关人员收到江苏证监局警示函",
@@ -4459,6 +4462,28 @@
    "reason": "涉及数据跨境流动规则，可能影响出境安全评估、标准合同备案等合规路径，建议出海/跨国业务团队关注。"
   },
   {
+   "title": "违法向境外提供个人信息 携程商务被罚款1000万元",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX2dMeUFSR25FOEdMc2Npbl9Wd3JsRExIZi1Zb3RmZkJMOXN6MDZKbTc0V3ppd2Y3Z1laMFdxWV9SRUpGUTd3dVd2U2JsSnQ0R0Rnbmo0SThXN1Njck9rNnFnRXlpUVJfSXQ0bWpOc2ZyZzFUZndBZ3hvaFJjbmR2YV9LQXZLQzNo?oc=5",
+   "summary": "",
+   "time": "2026-06-17T11:58:46+08:00",
+   "date": "2026-06-17",
+   "sources": [
+    "搜狐网"
+   ],
+   "region": "国内",
+   "category": "执法处罚",
+   "heat": 6.0,
+   "hot": false,
+   "tags": [
+    "个人信息",
+    "罚款"
+   ],
+   "importance": 8.5,
+   "kw_score": 4.0,
+   "weight": 2.0,
+   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
+  },
+  {
    "title": "Court upholds Kakao Pay liability for overseas data transfer in South Korea - CHOSUNBIZ",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbGdEVHZZZERKOW9BbnZHSm1jNm43dnBkX2FUMVkzSkgzcks2MDBUOE95el9YeGdyT0xxRE1RVF8xYzE3dGNjOVBWY0tCQkJoanVXMi1CWGJ0Y0xOT25feXhoSU50R05Pdm1PakpkdEw3VmM5eDhsYW1NcUxxNFV5c9IBlAFBVV95cUxPWW9ielBZZ1JkY1dOdWppSGtzd2d4QnplRDF1TDlrOWQzLWVRYkxTVlBISkpPUDd4VWxzZ0dXeThVbUdXY3IyNU84ZWE2bXhXZ3hDMmJXZmJ1c3NSZUR4d29qa2NMWXplaDNSSm1XT1NXWkN5QUNoS013emZjcWVaTFlTRmdSQml0SmZDZzV0Ullhd0Rt?oc=5",
    "summary": "",
@@ -4525,28 +4550,6 @@
    "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
   },
   {
-   "title": "违法向境外提供个人信息 携程商务被罚款1000万元",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX2dMeUFSR25FOEdMc2Npbl9Wd3JsRExIZi1Zb3RmZkJMOXN6MDZKbTc0V3ppd2Y3Z1laMFdxWV9SRUpGUTd3dVd2U2JsSnQ0R0Rnbmo0SThXN1Njck9rNnFnRXlpUVJfSXQ0bWpOc2ZyZzFUZndBZ3hvaFJjbmR2YV9LQXZLQzNo?oc=5",
-   "summary": "",
-   "time": "2026-06-17T11:58:46+08:00",
-   "date": "2026-06-17",
-   "sources": [
-    "搜狐网"
-   ],
-   "region": "国内",
-   "category": "执法处罚",
-   "heat": 6.0,
-   "hot": false,
-   "tags": [
-    "个人信息",
-    "罚款"
-   ],
-   "importance": 8.5,
-   "kw_score": 4.0,
-   "weight": 2.0,
-   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
-  },
-  {
    "title": "Women can claim no strings attached payment from $59.5m privacy settlement - but only if you joined the app",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaEFzNGlNSEUtZlhiUkVlMXhPTS1PWlkxanhXeDlmYkJrbjYyNXBqeDZlRjR2aGtXSFhwUGhYdFVMaTh6cVlNQ0dCLWdqblFsYlBwX1NzRnZtVEM4ZFVWc1NNM3MwZ2lNUVE1OW9pN2gyY3h6OXMtNWtPT1Q4MmFBcjdyUkRGaE1HVkh1bGFpYlN0S2JkMzF4SjU0MXJ2Q0E?oc=5",
    "summary": "Women can claim no strings attached payment from $59.5m privacy settlement - but only if you joined the app the-sun.com",
@@ -4591,27 +4594,6 @@
    "reason": "行业合规实践动态，可作为制度建设与对标参考。"
   },
   {
-   "title": "Vermont Becomes 23rd State with Comprehensive Consumer Privacy Law",
-   "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/vermont-becomes-23rd-state-with-comprehensive-consumer-privacy-law",
-   "summary": "On June 16, 2026, Vermont Governor Phil Scott signed into law Senate Bill S.71 , the Vermont Data Privacy and Online Surveillance Act, making Vermont the 23 rd state with a compr…",
-   "time": "2026-06-17T21:00:01+08:00",
-   "date": "2026-06-17",
-   "sources": [
-    "Hunton 隐私与信息安全博客"
-   ],
-   "region": "国际",
-   "category": "个人信息保护",
-   "heat": 5.0,
-   "hot": false,
-   "tags": [
-    "privacy"
-   ],
-   "importance": 5.0,
-   "kw_score": 2.0,
-   "weight": 3.0,
-   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
-  },
-  {
    "title": "Court docs: Lawsuit filed against Columbia Orthopaedic Group after ‘ransomware gang’ takes credit for cyber attack",
    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPRGFmRF9lUzdnNnpJRHZrbnRXNjlxU1dIWnNEYWdzYlh0aDJiakdfa3pNdjI2XzY3X0FSYkxPOUxLajQweVE3VDBuWHZmS24yQ1dtaUw2NWxHUHFFeEtSOEJXdUFPRzZBTVRCaFhYd1pKZ1lSNm96MDJkUS03bklQZVEzOXg4NzV0M2JlRXBhanBMWW52N3h1X200OTVLMVVQdnY3Z3dOWVlobTJDRnYxQk5HbVNBR19JWmdrbU5hTFJhYXd6QXhjM2hLYi1xUzA2Q0tzUW9ma2QtaDd6QTV4TlVGbzF0QWlxaVMzUldSWkg?oc=5",
    "summary": "Court docs: Lawsuit filed against Columbia Orthopaedic Group after ‘ransomware gang’ takes credit for cyber attack ABC17NEWS",
@@ -4654,6 +4636,27 @@
    "kw_score": 3.0,
    "weight": 2.0,
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
+  },
+  {
+   "title": "Vermont Becomes 23rd State with Comprehensive Consumer Privacy Law",
+   "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/vermont-becomes-23rd-state-with-comprehensive-consumer-privacy-law",
+   "summary": "On June 16, 2026, Vermont Governor Phil Scott signed into law Senate Bill S.71 , the Vermont Data Privacy and Online Surveillance Act, making Vermont the 23 rd state with a compr…",
+   "time": "2026-06-17T21:00:01+08:00",
+   "date": "2026-06-17",
+   "sources": [
+    "Hunton 隐私与信息安全博客"
+   ],
+   "region": "国际",
+   "category": "个人信息保护",
+   "heat": 5.0,
+   "hot": false,
+   "tags": [
+    "privacy"
+   ],
+   "importance": 5.0,
+   "kw_score": 2.0,
+   "weight": 3.0,
+   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
   },
   {
    "title": "数据安全是经营发展的生命线，守住学生信息安全底线，共建合规教育生态！",
@@ -9544,7 +9547,7 @@
    "title": "六部门划定金融信息服务数据合规坐标",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1jcTRIemtBVmw1aThyakN1MC04X2lkd0hfbjEwS3BHLUMyNmlqcVFvVzhQSFBMZjVPMkhKSnRFWGdLRERGZi1pN2NFak9ORC1PVlo3ZnBDQnAza1FSdjhwUXd6S3ctT3QzYVRBdEtRMW9LWU5VN09rZQ?oc=5",
    "summary": "",
-   "time": "2026-06-14T23:45:22+08:00",
+   "time": "2026-06-14T23:45:00+08:00",
    "date": "2026-06-14",
    "sources": [
     "新浪财经"
@@ -10057,7 +10060,7 @@
     "region": "国内",
     "category": "执法处罚",
     "heat": 17.0,
-    "hot": true,
+    "hot": false,
     "tags": [
      "个人信息",
      "网信办"
