@@ -7780,8 +7780,8 @@
   "heat": 7.0,
   "hot": false,
   "tags": [
-   "fine",
-   "GDPR"
+   "GDPR",
+   "fine"
   ],
   "importance": 9.5,
   "kw_score": 5.0,
@@ -15036,7 +15036,7 @@
   ],
   "region": "国际",
   "category": "诉讼仲裁",
-  "heat": 10.4,
+  "heat": 10.3,
   "hot": false,
   "tags": [
    "class action",
@@ -15528,7 +15528,7 @@
   ],
   "region": "国际",
   "category": "个人信息保护",
-  "heat": 4.3,
+  "heat": 4.2,
   "hot": false,
   "tags": [
    "privacy"
@@ -16606,7 +16606,7 @@
   ],
   "region": "国内",
   "category": "行业实践",
-  "heat": 10.2,
+  "heat": 9.7,
   "hot": false,
   "tags": [
    "数据分类分级",
@@ -16629,7 +16629,7 @@
   ],
   "region": "国际",
   "category": "诉讼仲裁",
-  "heat": 5.1,
+  "heat": 5.0,
   "hot": false,
   "tags": [
    "lawsuit"
@@ -16828,7 +16828,7 @@
   ],
   "region": "国际",
   "category": "诉讼仲裁",
-  "heat": 8.1,
+  "heat": 8.0,
   "hot": false,
   "tags": [
    "class action",
@@ -17170,7 +17170,7 @@
   "tags": [
    "class action",
    "settlement",
-   "privacy"
+   "lawsuit"
   ],
   "importance": 14.5,
   "kw_score": 8.0,
@@ -17321,7 +17321,7 @@
   ],
   "region": "国内",
   "category": "跨境数据",
-  "heat": 7.4,
+  "heat": 7.3,
   "hot": false,
   "tags": [
    "数据出境",
@@ -17814,7 +17814,7 @@
   ],
   "region": "国际",
   "category": "诉讼仲裁",
-  "heat": 8.3,
+  "heat": 8.2,
   "hot": false,
   "tags": [
    "data breach",
@@ -18145,7 +18145,7 @@
   ],
   "region": "国内",
   "category": "跨境数据",
-  "heat": 15.6,
+  "heat": 15.5,
   "hot": false,
   "tags": [
    "出境安全评估",
@@ -18190,7 +18190,7 @@
   ],
   "region": "国际",
   "category": "行业实践",
-  "heat": 8.6,
+  "heat": 8.5,
   "hot": false,
   "tags": [
    "data protection",
@@ -19255,7 +19255,7 @@
   ],
   "region": "国际",
   "category": "诉讼仲裁",
-  "heat": 13.9,
+  "heat": 13.8,
   "hot": false,
   "tags": [
    "class action",
@@ -19287,5 +19287,27 @@
   "kw_score": 2.0,
   "weight": 2.0,
   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
+ },
+ "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vbXVmbTJHVHZqSVRmdlRPM3FWcUFRLXI4eXhiN2h5c1hOYTVKSEpFWlFndXNIUkF1b3E0VDJsSXpOcll3Q0dDRlFhVDlNNjZQQUE?oc=5": {
+  "title": "持牌机构暴隐私合规漏洞！桂林银行信用卡等金融应用被通报",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vbXVmbTJHVHZqSVRmdlRPM3FWcUFRLXI4eXhiN2h5c1hOYTVKSEpFWlFndXNIUkF1b3E0VDJsSXpOcll3Q0dDRlFhVDlNNjZQQUE?oc=5",
+  "summary": "",
+  "time": "2026-06-04T21:16:27+08:00",
+  "date": "2026-06-04",
+  "sources": [
+   "搜狐网"
+  ],
+  "region": "国内",
+  "category": "执法处罚",
+  "heat": 5.0,
+  "hot": false,
+  "tags": [
+   "合规",
+   "隐私"
+  ],
+  "importance": 7.5,
+  "kw_score": 3.0,
+  "weight": 2.0,
+  "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
  }
 }
