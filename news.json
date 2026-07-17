@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-07-17T17:25:57.156463+08:00",
- "count": 331,
+ "generated_at": "2026-07-17T19:05:16.730391+08:00",
+ "count": 327,
  "highlight_count": 30,
  "errors": [],
  "items": [
@@ -15,7 +15,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 17.4,
+   "heat": 17.3,
    "hot": true,
    "tags": [
     "个人信息保护法",
@@ -26,6 +26,52 @@
    "kw_score": 12.0,
    "weight": 2.0,
    "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
+  },
+  {
+   "title": "立方网络安全与 数据合规 周报 | 《银行业保险业网络安全管理办法(征求意见稿)》发布;加拿大OPC发布金融报告实体提交行为准则的新指南",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1784286323&ver=6848&signature=1TjIyBB0h8xtSPxpCcalsiR3Ydvcltk5vyiL4eXy4NVy*5uZvQ5LDD*8d8LSKPTx7lH5Lv6-eY23-u4n3-tZ*5eIVujuPnuKMKg-NMuZnl6Zb9C2YO53NTGk1Dxh-Tog&new=1",
+   "summary": "使其不包含在响应 数据 中.PIPC也要求限制批量 数据 查询或重复调用API,以防止大量个人信息的查询和泄露.PIPC强调,API的权限...",
+   "time": "2026-07-17T18:47:48+08:00",
+   "date": "2026-07-17",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "立法监管",
+   "heat": 17.0,
+   "hot": true,
+   "tags": [
+    "数据合规",
+    "网络安全",
+    "征求意见"
+   ],
+   "importance": 16.0,
+   "kw_score": 11.0,
+   "weight": 2.0,
+   "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
+  },
+  {
+   "title": "抓实 数据 确权,激活 数据 要素 合规 价值",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1784286323&ver=6848&signature=ndaKXicOq*AJOiGJ85P7V-ApBKSNrHu-quaZpEOC2mlI24CilVX3gITq-XDPbuI-3tysILyym4usXOWK3aGeJPktQb3QpV6RMFwYuYbskMhe5XjzzjMREjhH0bb2khLB&new=1",
+   "summary": "— DATA OWNERSHIP—抓实数据确权激活数据要素合规价值 DATA COMPLIANCE数据确权是实现 数据合规 流通、资产价值转化的核...",
+   "time": "2026-07-17T16:26:31+08:00",
+   "date": "2026-07-17",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "行业实践",
+   "heat": 15.9,
+   "hot": true,
+   "tags": [
+    "data compliance",
+    "数据合规",
+    "数据要素"
+   ],
+   "importance": 12.0,
+   "kw_score": 10.0,
+   "weight": 2.0,
+   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
   },
   {
    "title": "抓实 数据 确权,激活 数据 要素 合规 价值",
@@ -39,7 +85,7 @@
    "region": "国内",
    "category": "行业实践",
    "heat": 15.9,
-   "hot": true,
+   "hot": false,
    "tags": [
     "data compliance",
     "数据要素",
@@ -52,7 +98,7 @@
   },
   {
    "title": "数据合规 专题--企业数据出境合规指引",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1784280359&ver=6848&signature=it--PAh6EzIcWfFKDJjVTSeCX4*aEGDX27pu25*4RHDQ5K5hQGZNSJWAjX9wcAqmA5AUDbbvT1jU8uu0b5F2Gam35f43cLZRNxTKY434zqtVzRmDBZ5OUier*s5BFojz&new=1",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1784286323&ver=6848&signature=it--PAh6EzIcWfFKDJjVTSeCX4*aEGDX27pu25*4RHDQ5K5hQGZNSJWAjX9wcAqmNCly38a7JzdtqblCTaoU6u9Xr9frpn15f0LCqhRHbOz*rhqZ5Bo88-BoPFJvC99y&new=1",
    "summary": "律师梳理清单企业法务或律师执行 数据合规 方面整改前可以按照如下方式自查① 梳理数据资产:哪些系统涉及个人信息处理?哪些数据...",
    "time": "2026-07-17T11:18:26+08:00",
    "date": "2026-07-17",
@@ -61,11 +107,11 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 15.7,
-   "hot": true,
+   "heat": 15.6,
+   "hot": false,
    "tags": [
-    "数据出境",
     "数据合规",
+    "数据出境",
     "个人信息"
    ],
    "importance": 15.0,
@@ -84,7 +130,30 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 15.7,
+   "heat": 15.6,
+   "hot": false,
+   "tags": [
+    "数据出境",
+    "数据合规",
+    "个人信息"
+   ],
+   "importance": 15.0,
+   "kw_score": 10.0,
+   "weight": 2.0,
+   "reason": "涉及数据跨境流动规则，可能影响出境安全评估、标准合同备案等合规路径，建议出海/跨国业务团队关注。"
+  },
+  {
+   "title": "数据合规 专题--企业数据出境合规指引",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1784280359&ver=6848&signature=it--PAh6EzIcWfFKDJjVTSeCX4*aEGDX27pu25*4RHDQ5K5hQGZNSJWAjX9wcAqmA5AUDbbvT1jU8uu0b5F2Gam35f43cLZRNxTKY434zqtVzRmDBZ5OUier*s5BFojz&new=1",
+   "summary": "律师梳理清单企业法务或律师执行 数据合规 方面整改前可以按照如下方式自查① 梳理数据资产:哪些系统涉及个人信息处理?哪些数据...",
+   "time": "2026-07-17T11:18:26+08:00",
+   "date": "2026-07-17",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "跨境数据",
+   "heat": 15.6,
    "hot": false,
    "tags": [
     "数据出境",
@@ -107,7 +176,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 14.0,
+   "heat": 13.9,
    "hot": false,
    "tags": [
     "数据分类分级",
@@ -177,7 +246,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 12.9,
+   "heat": 12.8,
    "hot": false,
    "tags": [
     "数据合规",
@@ -187,6 +256,29 @@
    "kw_score": 5.0,
    "weight": 2.0,
    "reason": "行业合规实践动态，可作为制度建设与对标参考。"
+  },
+  {
+   "title": "Austrian court cuts GDPR fine issued for negligence in handling advertising data",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNU0xfQTJScUJLY2xZeXlrWVVNZ0dobk9VQVdfZngyQXlwRjN3Y3ZwSk0zaE5GYTI1bXVJc3RFcjBpTy1JU2liLTVZUkt1Zi1WTzBCaGh5TGl1M04tYkF6RXVxSUhUUnVLRVZEVU1UdEU3Tnp3VDFvM3UtMHZfaFhBOGQtR29IbU1mamFPSmkwSFJsclpDeUVxVFZmMzFMdWNiLVBLTDk2UGQ3cXJtcFVTSld1MFFDSWNwM0HSAVpBVV95cUxPOTByZGpZejlOWWZqZFk5V2JOWHlScWR3MUhvdjA2Y09SMGpLTVhsSkhfbzQwLTdGWDNTX1RDYlZzY2lUeF9aQkxtQThHVlRWTkFaNGtpcG5kZ2c?oc=5",
+   "summary": "",
+   "time": "2026-07-17T17:56:00+08:00",
+   "date": "2026-07-17",
+   "sources": [
+    "MLex"
+   ],
+   "region": "国际",
+   "category": "诉讼仲裁",
+   "heat": 11.9,
+   "hot": false,
+   "tags": [
+    "court",
+    "GDPR",
+    "fine"
+   ],
+   "importance": 10.5,
+   "kw_score": 6.0,
+   "weight": 2.0,
+   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
   },
   {
    "title": "YouLend Data Breach Lawsuit Investigation",
@@ -199,7 +291,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 10.3,
+   "heat": 10.2,
    "hot": false,
    "tags": [
     "investigation",
@@ -222,7 +314,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 10.3,
+   "heat": 10.2,
    "hot": false,
    "tags": [
     "investigation",
@@ -245,7 +337,7 @@
    ],
    "region": "国际",
    "category": "个人信息保护",
-   "heat": 10.1,
+   "heat": 10.0,
    "hot": false,
    "tags": [
     "data protection",
@@ -267,7 +359,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 9.5,
+   "heat": 9.4,
    "hot": false,
    "tags": [
     "settlement",
@@ -289,7 +381,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 9.5,
+   "heat": 9.4,
    "hot": false,
    "tags": [
     "data breach",
@@ -312,7 +404,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 9.3,
+   "heat": 9.2,
    "hot": false,
    "tags": [
     "arbitration"
@@ -333,7 +425,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 9.2,
+   "heat": 9.1,
    "hot": false,
    "tags": [
     "数据安全",
@@ -343,6 +435,28 @@
    "kw_score": 4.0,
    "weight": 2.0,
    "reason": "行业合规实践动态，可作为制度建设与对标参考。"
+  },
+  {
+   "title": "CAPITAL ONE 2019 DATA BREACH CLASS ACTION",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNkFZbFFuZVU5UmJReGcxZFN1MFEzTFVFc1VaTDNDc19Oc3BDcGpDaU8tNUV0TVIyWUhvb05IV1BxcjRrTXQtWEtLNWFRZUNUeTdGSXpSWDB1QkJJTUtzdXEtQXNHNFJ3QnA4SWp4WlBEYzl4Mnk1VUtKZktyOFplWFBZcEZaUThDQTBGZDRrMTdVVXc?oc=5",
+   "summary": "",
+   "time": "2026-07-17T00:27:00+08:00",
+   "date": "2026-07-17",
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "region": "国际",
+   "category": "诉讼仲裁",
+   "heat": 9.0,
+   "hot": false,
+   "tags": [
+    "class action",
+    "data breach"
+   ],
+   "importance": 8.5,
+   "kw_score": 4.0,
+   "weight": 2.0,
+   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
   },
   {
    "title": "Rogue Fabrication Data Breach Affects 35K, Lawsuit Possible",
@@ -355,7 +469,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 9.1,
+   "heat": 9.0,
    "hot": false,
    "tags": [
     "data breach",
@@ -377,7 +491,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 9.1,
+   "heat": 9.0,
    "hot": false,
    "tags": [
     "class action",
@@ -399,12 +513,12 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 8.9,
+   "heat": 8.8,
    "hot": false,
    "tags": [
     "监管",
-    "法案",
-    "合规"
+    "合规",
+    "法案"
    ],
    "importance": 8.5,
    "kw_score": 4.0,
@@ -422,16 +536,36 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 8.9,
+   "heat": 8.8,
    "hot": false,
    "tags": [
-    "仲裁",
-    "法院"
+    "法院",
+    "仲裁"
    ],
    "importance": 7.5,
    "kw_score": 3.0,
    "weight": 2.0,
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
+  },
+  {
+   "title": "国家发改委 国家数据局将在2026年APEC数字周期间举办数据领域系列活动",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xWmtTSHR5WS1sRmZKcGVZNE11bFZvTG90cW9kUGE1a2owcFRsSUNzaUFwcHE5TXVyZTlYUDlxRjJwc3RxazhiZG9hRWZrLWNzY3VGR29GNEh1SUZ2S1N1T3JFSWQ?oc=5",
+   "summary": "",
+   "time": "2026-07-17T17:27:00+08:00",
+   "date": "2026-07-17",
+   "sources": [
+    "新京报",
+    "新浪财经"
+   ],
+   "region": "国内",
+   "category": "行业实践",
+   "heat": 7.9,
+   "hot": false,
+   "tags": [],
+   "importance": 4.0,
+   "kw_score": 0.0,
+   "weight": 2.0,
+   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
   },
   {
    "title": "哈萨克斯坦国际仲裁支出五年减少近三分之二",
@@ -444,7 +578,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 7.9,
+   "heat": 7.8,
    "hot": false,
    "tags": [
     "仲裁"
@@ -465,7 +599,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 7.9,
+   "heat": 7.8,
    "hot": false,
    "tags": [
     "arbitration"
@@ -486,7 +620,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 7.4,
+   "heat": 7.3,
    "hot": false,
    "tags": [
     "arbitration"
@@ -507,7 +641,7 @@
    ],
    "region": "国际",
    "category": "个人信息保护",
-   "heat": 7.3,
+   "heat": 7.2,
    "hot": false,
    "tags": [
     "privacy"
@@ -528,7 +662,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 7.1,
+   "heat": 7.0,
    "hot": false,
    "tags": [
     "合规"
@@ -549,7 +683,7 @@
    ],
    "region": "国际",
    "category": "安全事件",
-   "heat": 5.6,
+   "heat": 5.5,
    "hot": false,
    "tags": [
     "court"
@@ -570,7 +704,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 16.9,
+   "heat": 16.8,
    "hot": true,
    "tags": [
     "个人信息",
@@ -593,7 +727,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 16.9,
+   "heat": 16.8,
    "hot": true,
    "tags": [
     "个人信息",
@@ -616,7 +750,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 16.9,
+   "heat": 16.8,
    "hot": true,
    "tags": [
     "数据安全",
@@ -639,7 +773,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 16.9,
+   "heat": 16.8,
    "hot": true,
    "tags": [
     "数据合规",
@@ -662,7 +796,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 16.9,
+   "heat": 16.8,
    "hot": true,
    "tags": [
     "数据合规",
@@ -685,7 +819,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 16.9,
+   "heat": 16.8,
    "hot": true,
    "tags": [
     "数据安全",
@@ -708,7 +842,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 16.9,
+   "heat": 16.8,
    "hot": true,
    "tags": [
     "个人信息",
@@ -731,7 +865,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 15.4,
+   "heat": 15.3,
    "hot": false,
    "tags": [
     "数据安全法",
@@ -754,7 +888,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 15.4,
+   "heat": 15.3,
    "hot": false,
    "tags": [
     "数据安全法",
@@ -777,7 +911,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 15.4,
+   "heat": 15.3,
    "hot": false,
    "tags": [
     "数据安全法",
@@ -800,7 +934,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 15.4,
+   "heat": 15.3,
    "hot": false,
    "tags": [
     "数据安全法",
@@ -823,7 +957,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 15.4,
+   "heat": 15.3,
    "hot": false,
    "tags": [
     "数据安全法",
@@ -846,7 +980,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 15.4,
+   "heat": 15.3,
    "hot": false,
    "tags": [
     "数据安全法",
@@ -869,7 +1003,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 15.4,
+   "heat": 15.3,
    "hot": false,
    "tags": [
     "数据安全法",
@@ -892,7 +1026,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 15.4,
+   "heat": 15.3,
    "hot": false,
    "tags": [
     "数据安全法",
@@ -915,7 +1049,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 15.4,
+   "heat": 15.3,
    "hot": false,
    "tags": [
     "数据安全法",
@@ -938,7 +1072,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 15.4,
+   "heat": 15.3,
    "hot": false,
    "tags": [
     "数据安全法",
@@ -984,7 +1118,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 14.8,
+   "heat": 14.7,
    "hot": false,
    "tags": [
     "数据分类分级",
@@ -1007,7 +1141,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 14.8,
+   "heat": 14.7,
    "hot": false,
    "tags": [
     "个人信息",
@@ -1030,7 +1164,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 14.8,
+   "heat": 14.7,
    "hot": false,
    "tags": [
     "数据分类分级",
@@ -1053,7 +1187,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 14.8,
+   "heat": 14.7,
    "hot": false,
    "tags": [
     "数据合规",
@@ -1076,7 +1210,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 14.8,
+   "heat": 14.7,
    "hot": false,
    "tags": [
     "数据分类分级",
@@ -1099,7 +1233,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 14.8,
+   "heat": 14.7,
    "hot": false,
    "tags": [
     "合规审计",
@@ -1122,7 +1256,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 14.8,
+   "heat": 14.7,
    "hot": false,
    "tags": [
     "数据合规",
@@ -1145,7 +1279,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 14.8,
+   "heat": 14.7,
    "hot": false,
    "tags": [
     "合规审计",
@@ -1168,7 +1302,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 14.8,
+   "heat": 14.7,
    "hot": false,
    "tags": [
     "数据合规",
@@ -1191,7 +1325,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 14.8,
+   "heat": 14.7,
    "hot": false,
    "tags": [
     "合规审计",
@@ -1214,7 +1348,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 14.8,
+   "heat": 14.7,
    "hot": false,
    "tags": [
     "个人信息",
@@ -1237,7 +1371,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 14.8,
+   "heat": 14.7,
    "hot": false,
    "tags": [
     "数据合规",
@@ -1260,7 +1394,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 14.8,
+   "heat": 14.7,
    "hot": false,
    "tags": [
     "数据合规",
@@ -1329,7 +1463,7 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 12.8,
+   "heat": 12.7,
    "hot": false,
    "tags": [
     "个人信息",
@@ -1352,7 +1486,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 12.7,
+   "heat": 12.6,
    "hot": false,
    "tags": [
     "数据合规",
@@ -1375,7 +1509,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 12.6,
+   "heat": 12.5,
    "hot": false,
    "tags": [
     "数据合规",
@@ -1398,7 +1532,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 11.4,
+   "heat": 11.3,
    "hot": false,
    "tags": [
     "数据合规",
@@ -1421,7 +1555,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 11.4,
+   "heat": 11.3,
    "hot": false,
    "tags": [
     "数据合规",
@@ -1467,7 +1601,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 9.8,
+   "heat": 9.7,
    "hot": false,
    "tags": [
     "class action",
@@ -1491,7 +1625,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 8.9,
+   "heat": 8.8,
    "hot": false,
    "tags": [
     "arbitration"
@@ -1512,7 +1646,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 8.9,
+   "heat": 8.8,
    "hot": false,
    "tags": [
     "investigation",
@@ -1536,7 +1670,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 8.9,
+   "heat": 8.8,
    "hot": false,
    "tags": [
     "arbitration"
@@ -1557,7 +1691,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 8.8,
+   "heat": 8.7,
    "hot": false,
    "tags": [
     "网络安全",
@@ -1580,11 +1714,11 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 8.2,
+   "heat": 8.1,
    "hot": false,
    "tags": [
-    "数据安全",
-    "网络安全"
+    "网络安全",
+    "数据安全"
    ],
    "importance": 6.0,
    "kw_score": 2.0,
@@ -1602,7 +1736,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 7.9,
+   "heat": 7.8,
    "hot": false,
    "tags": [
     "data breach",
@@ -1624,7 +1758,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 7.9,
+   "heat": 7.8,
    "hot": false,
    "tags": [
     "data breach",
@@ -1646,7 +1780,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 7.8,
+   "heat": 7.7,
    "hot": false,
    "tags": [
     "class action",
@@ -1668,7 +1802,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 7.8,
+   "heat": 7.7,
    "hot": false,
    "tags": [
     "data breach",
@@ -1690,7 +1824,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 7.7,
+   "heat": 7.6,
    "hot": false,
    "tags": [
     "arbitration",
@@ -1712,7 +1846,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 7.3,
+   "heat": 7.2,
    "hot": false,
    "tags": [
     "个人信息",
@@ -1734,7 +1868,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 6.7,
+   "heat": 6.6,
    "hot": false,
    "tags": [
     "arbitration"
@@ -1777,7 +1911,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 6.2,
+   "heat": 6.1,
    "hot": false,
    "tags": [
     "arbitration"
@@ -1798,7 +1932,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 5.8,
+   "heat": 5.7,
    "hot": false,
    "tags": [
     "data breach"
@@ -1819,7 +1953,7 @@
    ],
    "region": "国际",
    "category": "行业实践",
-   "heat": 5.4,
+   "heat": 5.3,
    "hot": false,
    "tags": [
     "regulation"
@@ -1840,7 +1974,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 5.2,
+   "heat": 5.1,
    "hot": false,
    "tags": [
     "起诉"
@@ -1861,7 +1995,7 @@
    ],
    "region": "国际",
    "category": "行业实践",
-   "heat": 4.8,
+   "heat": 4.7,
    "hot": false,
    "tags": [],
    "importance": 2.0,
@@ -1880,7 +2014,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 4.3,
+   "heat": 4.2,
    "hot": false,
    "tags": [],
    "importance": 1.5,
@@ -1899,7 +2033,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 3.9,
+   "heat": 3.8,
    "hot": false,
    "tags": [],
    "importance": 2.0,
@@ -1937,7 +2071,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 15.3,
+   "heat": 15.2,
    "hot": false,
    "tags": [
     "数据安全法",
@@ -1960,7 +2094,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 14.9,
+   "heat": 14.8,
    "hot": false,
    "tags": [
     "数据合规",
@@ -1983,7 +2117,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 13.3,
+   "heat": 13.2,
    "hot": false,
    "tags": [
     "数据合规",
@@ -2006,7 +2140,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 13.3,
+   "heat": 13.2,
    "hot": false,
    "tags": [
     "数据合规",
@@ -2029,7 +2163,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 13.3,
+   "heat": 13.2,
    "hot": false,
    "tags": [
     "跨境数据",
@@ -2052,7 +2186,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 13.3,
+   "heat": 13.2,
    "hot": false,
    "tags": [
     "数据合规",
@@ -2075,7 +2209,7 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 11.8,
+   "heat": 11.7,
    "hot": false,
    "tags": [
     "征求意见",
@@ -2098,7 +2232,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 11.5,
+   "heat": 11.4,
    "hot": false,
    "tags": [
     "数据出境",
@@ -2121,7 +2255,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 11.5,
+   "heat": 11.4,
    "hot": false,
    "tags": [
     "数据合规",
@@ -2144,7 +2278,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 11.5,
+   "heat": 11.4,
    "hot": false,
    "tags": [
     "数据出境",
@@ -2167,7 +2301,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 11.5,
+   "heat": 11.4,
    "hot": false,
    "tags": [
     "数据出境",
@@ -2190,7 +2324,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 11.5,
+   "heat": 11.4,
    "hot": false,
    "tags": [
     "数据合规",
@@ -2213,7 +2347,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 11.5,
+   "heat": 11.4,
    "hot": false,
    "tags": [
     "数据合规",
@@ -2236,7 +2370,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 11.5,
+   "heat": 11.4,
    "hot": false,
    "tags": [
     "数据出境",
@@ -2259,7 +2393,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 11.5,
+   "heat": 11.4,
    "hot": false,
    "tags": [
     "数据出境",
@@ -2282,7 +2416,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 11.5,
+   "heat": 11.4,
    "hot": false,
    "tags": [
     "数据合规",
@@ -2305,7 +2439,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 11.5,
+   "heat": 11.4,
    "hot": false,
    "tags": [
     "数据合规",
@@ -2328,7 +2462,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 11.0,
+   "heat": 10.9,
    "hot": false,
    "tags": [
     "隐私政策",
@@ -2351,7 +2485,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 11.0,
+   "heat": 10.9,
    "hot": false,
    "tags": [
     "数据合规",
@@ -2374,7 +2508,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 10.5,
+   "heat": 10.4,
    "hot": false,
    "tags": [
     "数据安全",
@@ -2397,7 +2531,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 10.5,
+   "heat": 10.4,
    "hot": false,
    "tags": [
     "数据合规",
@@ -2420,7 +2554,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 10.5,
+   "heat": 10.4,
    "hot": false,
    "tags": [
     "数据安全",
@@ -2443,7 +2577,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 10.5,
+   "heat": 10.4,
    "hot": false,
    "tags": [
     "数据安全",
@@ -2466,7 +2600,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 10.5,
+   "heat": 10.4,
    "hot": false,
    "tags": [
     "数据安全",
@@ -2489,7 +2623,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 10.5,
+   "heat": 10.4,
    "hot": false,
    "tags": [
     "数据安全",
@@ -2512,7 +2646,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 10.5,
+   "heat": 10.4,
    "hot": false,
    "tags": [
     "数据安全",
@@ -2535,7 +2669,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 10.5,
+   "heat": 10.4,
    "hot": false,
    "tags": [
     "数据合规",
@@ -2558,7 +2692,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 10.3,
+   "heat": 10.2,
    "hot": false,
    "tags": [
     "个人信息",
@@ -2581,7 +2715,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 10.3,
+   "heat": 10.2,
    "hot": false,
    "tags": [
     "个人信息",
@@ -2604,7 +2738,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 10.3,
+   "heat": 10.2,
    "hot": false,
    "tags": [
     "个人信息",
@@ -2627,7 +2761,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 10.3,
+   "heat": 10.2,
    "hot": false,
    "tags": [
     "个人信息",
@@ -2650,7 +2784,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 10.3,
+   "heat": 10.2,
    "hot": false,
    "tags": [
     "个人信息",
@@ -2673,7 +2807,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 9.9,
+   "heat": 9.8,
    "hot": false,
    "tags": [
     "数据安全法",
@@ -2696,7 +2830,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 9.4,
+   "heat": 9.3,
    "hot": false,
    "tags": [
     "class action",
@@ -2719,7 +2853,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 9.3,
+   "heat": 9.2,
    "hot": false,
    "tags": [
     "个人信息",
@@ -2742,7 +2876,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 9.2,
+   "heat": 9.1,
    "hot": false,
    "tags": [
     "class action",
@@ -2765,7 +2899,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 7.8,
+   "heat": 7.7,
    "hot": false,
    "tags": [
     "数据合规",
@@ -2787,7 +2921,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 7.4,
+   "heat": 7.3,
    "hot": false,
    "tags": [
     "data breach",
@@ -2809,7 +2943,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 6.9,
+   "heat": 6.8,
    "hot": false,
    "tags": [
     "data breach",
@@ -2831,7 +2965,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 6.8,
+   "heat": 6.7,
    "hot": false,
    "tags": [
     "网信办",
@@ -2853,7 +2987,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 6.7,
+   "heat": 6.6,
    "hot": false,
    "tags": [
     "data breach",
@@ -2875,7 +3009,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 6.6,
+   "heat": 6.5,
    "hot": false,
    "tags": [
     "data breach",
@@ -2897,7 +3031,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 6.5,
+   "heat": 6.4,
    "hot": false,
    "tags": [
     "data breach",
@@ -2919,7 +3053,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 5.5,
+   "heat": 5.4,
    "hot": false,
    "tags": [
     "网络安全",
@@ -2941,7 +3075,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 4.7,
+   "heat": 4.6,
    "hot": false,
    "tags": [
     "settlement"
@@ -2962,7 +3096,7 @@
    ],
    "region": "国际",
    "category": "行业实践",
-   "heat": 4.0,
+   "heat": 3.9,
    "hot": false,
    "tags": [
     "sanction"
@@ -2983,7 +3117,7 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 3.3,
+   "heat": 3.2,
    "hot": false,
    "tags": [
     "法案"
@@ -3004,7 +3138,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 3.0,
+   "heat": 2.9,
    "hot": false,
    "tags": [],
    "importance": 2.0,
@@ -3023,7 +3157,7 @@
    ],
    "region": "国际",
    "category": "行业实践",
-   "heat": 2.9,
+   "heat": 2.8,
    "hot": false,
    "tags": [],
    "importance": 1.5,
@@ -3042,7 +3176,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 2.9,
+   "heat": 2.8,
    "hot": false,
    "tags": [],
    "importance": 1.5,
@@ -3084,7 +3218,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 14.1,
+   "heat": 14.0,
    "hot": false,
    "tags": [
     "个人信息保护法",
@@ -3107,7 +3241,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 14.1,
+   "heat": 14.0,
    "hot": false,
    "tags": [
     "个人信息保护法",
@@ -3130,7 +3264,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 14.1,
+   "heat": 14.0,
    "hot": false,
    "tags": [
     "个人信息保护法",
@@ -3153,7 +3287,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 14.1,
+   "heat": 14.0,
    "hot": false,
    "tags": [
     "个人信息保护法",
@@ -3176,7 +3310,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 14.1,
+   "heat": 14.0,
    "hot": false,
    "tags": [
     "个人信息保护法",
@@ -3199,7 +3333,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 14.1,
+   "heat": 14.0,
    "hot": false,
    "tags": [
     "个人信息保护法",
@@ -3222,7 +3356,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 14.1,
+   "heat": 14.0,
    "hot": false,
    "tags": [
     "个人信息保护法",
@@ -3245,7 +3379,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 14.1,
+   "heat": 14.0,
    "hot": false,
    "tags": [
     "个人信息保护法",
@@ -3268,7 +3402,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 14.1,
+   "heat": 14.0,
    "hot": false,
    "tags": [
     "个人信息保护法",
@@ -3291,7 +3425,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 14.1,
+   "heat": 14.0,
    "hot": false,
    "tags": [
     "个人信息保护法",
@@ -3314,7 +3448,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 14.1,
+   "heat": 14.0,
    "hot": false,
    "tags": [
     "个人信息保护法",
@@ -3452,7 +3586,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 12.3,
+   "heat": 12.2,
    "hot": false,
    "tags": [
     "合规审计",
@@ -3475,7 +3609,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 12.3,
+   "heat": 12.2,
    "hot": false,
    "tags": [
     "数据合规",
@@ -3498,7 +3632,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 12.3,
+   "heat": 12.2,
    "hot": false,
    "tags": [
     "合规审计",
@@ -3521,7 +3655,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 12.3,
+   "heat": 12.2,
    "hot": false,
    "tags": [
     "合规审计",
@@ -3544,7 +3678,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 12.3,
+   "heat": 12.2,
    "hot": false,
    "tags": [
     "合规审计",
@@ -3567,7 +3701,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 12.3,
+   "heat": 12.2,
    "hot": false,
    "tags": [
     "数据合规",
@@ -3590,7 +3724,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 12.3,
+   "heat": 12.2,
    "hot": false,
    "tags": [
     "合规审计",
@@ -3613,7 +3747,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 12.3,
+   "heat": 12.2,
    "hot": false,
    "tags": [
     "数据合规",
@@ -3636,7 +3770,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 12.3,
+   "heat": 12.2,
    "hot": false,
    "tags": [
     "个人信息",
@@ -3659,7 +3793,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 12.3,
+   "heat": 12.2,
    "hot": false,
    "tags": [
     "合规审计",
@@ -3682,7 +3816,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 12.3,
+   "heat": 12.2,
    "hot": false,
    "tags": [
     "合规审计",
@@ -3705,7 +3839,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 11.3,
+   "heat": 11.2,
    "hot": false,
    "tags": [
     "合规审计",
@@ -3728,7 +3862,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 11.3,
+   "heat": 11.2,
    "hot": false,
    "tags": [
     "合规审计",
@@ -3751,7 +3885,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 11.3,
+   "heat": 11.2,
    "hot": false,
    "tags": [
     "合规审计",
@@ -3774,7 +3908,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 11.3,
+   "heat": 11.2,
    "hot": false,
    "tags": [
     "合规审计",
@@ -3797,7 +3931,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 11.3,
+   "heat": 11.2,
    "hot": false,
    "tags": [
     "个人信息",
@@ -4096,7 +4230,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 8.3,
+   "heat": 8.2,
    "hot": false,
    "tags": [
     "court",
@@ -4119,7 +4253,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 8.3,
+   "heat": 8.2,
    "hot": false,
    "tags": [
     "court",
@@ -4211,7 +4345,7 @@
    ],
    "region": "国际",
    "category": "个人信息保护",
-   "heat": 7.2,
+   "heat": 7.1,
    "hot": false,
    "tags": [
     "privacy",
@@ -4233,7 +4367,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 7.2,
+   "heat": 7.1,
    "hot": false,
    "tags": [
     "数据合规",
@@ -4300,7 +4434,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 6.4,
+   "heat": 6.3,
    "hot": false,
    "tags": [
     "court",
@@ -4389,7 +4523,7 @@
    ],
    "region": "国际",
    "category": "行业实践",
-   "heat": 5.3,
+   "heat": 5.2,
    "hot": false,
    "tags": [
     "GDPR"
@@ -4410,7 +4544,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 5.2,
+   "heat": 5.1,
    "hot": false,
    "tags": [
     "regulation",
@@ -4432,7 +4566,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 4.6,
+   "heat": 4.5,
    "hot": false,
    "tags": [
     "合规",
@@ -4454,7 +4588,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 4.3,
+   "heat": 4.2,
    "hot": false,
    "tags": [
     "arbitration"
@@ -4475,7 +4609,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 4.3,
+   "heat": 4.2,
    "hot": false,
    "tags": [
     "arbitration"
@@ -4496,7 +4630,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 4.2,
+   "heat": 4.1,
    "hot": false,
    "tags": [
     "arbitration"
@@ -4704,7 +4838,7 @@
    ],
    "region": "国际",
    "category": "行业实践",
-   "heat": 1.6,
+   "heat": 1.5,
    "hot": false,
    "tags": [],
    "importance": 1.5,
@@ -5394,8 +5528,8 @@
    "hot": false,
    "tags": [
     "数据合规",
-    "诉讼",
-    "合规"
+    "合规",
+    "诉讼"
    ],
    "importance": 11.5,
    "kw_score": 7.0,
@@ -5506,8 +5640,8 @@
    "heat": 6.0,
    "hot": false,
    "tags": [
-    "仲裁",
-    "裁决"
+    "裁决",
+    "仲裁"
    ],
    "importance": 8.5,
    "kw_score": 4.0,
@@ -6776,52 +6910,6 @@
    "reason": "行业合规实践动态，可作为制度建设与对标参考。"
   },
   {
-   "title": "北源资讯 | 数据合规 资讯周刊(2026年7月第2期)",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1783679778&ver=6834&signature=jcyTG3loqy4X9cPmdNlCwWpfH4eVe3eYxOLz6AvEj9tf15-BQT2Jn3oBOzB23D2-ZuIfiHlY2x5eE*JfMD6vBIO3klgqtRcXeYxWPQ*NNhNck3xph5*i0hAj1A7DiPvp&new=1",
-   "summary": "7.4~7.10 资讯导读国内 数据合规 资讯立法动态国家网信办就《互联网信息服务管理办法(修订草案征求意见稿)》向社会公开征求意见...",
-   "time": "2026-07-10T17:32:46+08:00",
-   "date": "2026-07-10",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "立法监管",
-   "heat": 12.0,
-   "hot": false,
-   "tags": [
-    "征求意见",
-    "数据合规",
-    "网信办"
-   ],
-   "importance": 15.0,
-   "kw_score": 10.0,
-   "weight": 2.0,
-   "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
-  },
-  {
-   "title": "北源资讯 | 数据合规 资讯周刊(2026年7月第2期)",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1783704530&ver=6834&signature=jcyTG3loqy4X9cPmdNlCwWpfH4eVe3eYxOLz6AvEj9v6e3I6OADunYeRbM9NnTDaOZaeYX7Z8yY2YbqNJ3WWUIHEuB2Ww4S*9Ie9U3HA8SboJkikdaj3lkuRTge8sq4S&new=1",
-   "summary": "7.4~7.10 资讯导读国内 数据合规 资讯立法动态国家网信办就《互联网信息服务管理办法(修订草案征求意见稿)》向社会公开征求意见...",
-   "time": "2026-07-10T17:32:46+08:00",
-   "date": "2026-07-10",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "立法监管",
-   "heat": 12.0,
-   "hot": false,
-   "tags": [
-    "数据合规",
-    "征求意见",
-    "网信办"
-   ],
-   "importance": 15.0,
-   "kw_score": 10.0,
-   "weight": 2.0,
-   "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
-  },
-  {
    "title": "包头市 个人信息保护 工作联动机制第一次联席会议顺利召开",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1783704557&ver=6834&signature=OKW*wfIozYKVW6ZYAipZo0sT6luy*X9cYMwnWmQI*6pBvtwOkIGWllyacHjycs8jDpOeFs3lfOMuh8nkvvQ0Kw9pF9OLBqkQX3RKRIeU12U56nh51Uua1uS*cdVQAYy6&new=1",
    "summary": "为深入贯彻《 个人信息保护 法》《网络安全法》《数据安全法》等法律,进一步健全跨部门协同监管体系,7月10日,包头市 个人信息 ...",
@@ -6845,29 +6933,6 @@
    "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
   },
   {
-   "title": "北源资讯 | 数据合规 资讯周刊(2026年7月第2期)",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1783719272&ver=6835&signature=htVNMVyPmx6AhCPs-rmtDIVLFEimlJgztE6g5dSZ0EjssIPfxL3I6vC4Z411MKTdfz9dR8uqutzjqckhyzgDwPKYVD7zZaKcOa-aw9yIbs5HPL9Nutb9znLuSghP9Adi&new=1",
-   "summary": "7.4~7.10 资讯导读国内 数据合规 资讯立法动态国家网信办就《互联网信息服务管理办法(修订草案征求意见稿)》向社会公开征求意见...",
-   "time": "2026-07-10T17:32:46+08:00",
-   "date": "2026-07-10",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "立法监管",
-   "heat": 12.0,
-   "hot": false,
-   "tags": [
-    "数据合规",
-    "征求意见",
-    "网信办"
-   ],
-   "importance": 15.0,
-   "kw_score": 10.0,
-   "weight": 2.0,
-   "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
-  },
-  {
    "title": "包头市 个人信息保护 工作联动机制第一次联席会议顺利召开",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1783719300&ver=6835&signature=Af363eRhG5CdFvN9jsfImpqyPSbWGl-MUlBkJU62pwJxBx3Y4cd13lLdtX6BLl2YqZgL0LoNz2CVU5n4HJ*o0TmHzasNa8You5AcUmyQWsLli3EF5v3TsG1nLdAwBYtw&new=1",
    "summary": "为深入贯彻《 个人信息保护 法》《网络安全法》《数据安全法》等法律,进一步健全跨部门协同监管体系,7月10日,包头市 个人信息 ...",
@@ -6889,29 +6954,6 @@
    "kw_score": 10.0,
    "weight": 2.0,
    "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
-  },
-  {
-   "title": "北源资讯 | 数据合规 资讯周刊(2026年7月第2期)",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1783751158&ver=6835&signature=htVNMVyPmx6AhCPs-rmtDIVLFEimlJgztE6g5dSZ0Eiryb6KWNVUJrcGxA4em13d7Y2Bdv7-5IJ9aJGkEdMQhmZNahvFP8XdC2hoYekwqhTWZPOBZ3lteKI7m--A9Vlf&new=1",
-   "summary": "7.4~7.10 资讯导读国内 数据合规 资讯立法动态国家网信办就《互联网信息服务管理办法(修订草案征求意见稿)》向社会公开征求意见...",
-   "time": "2026-07-10T17:32:46+08:00",
-   "date": "2026-07-10",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "立法监管",
-   "heat": 12.0,
-   "hot": false,
-   "tags": [
-    "征求意见",
-    "数据合规",
-    "网信办"
-   ],
-   "importance": 15.0,
-   "kw_score": 10.0,
-   "weight": 2.0,
-   "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
   },
   {
    "title": "包头市 个人信息保护 工作联动机制第一次联席会议顺利召开",
@@ -7052,29 +7094,6 @@
    "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
   },
   {
-   "title": "立方网络安全与 数据合规 周报 | 国家数据局发布《数据产权登记工作指引(试行)》 ;欧盟理事会批准《人工智能法》简化法规",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1783679778&ver=6834&signature=yeOWT1wqGxd7VMDk*AX8Vi9f4a-aaRfBU9ASg8oNm34cqag0D4DF7vYBMN9VR3MazEHYrhInA*Z5B9MWE8QX3lYhRj4-4p9fSyWXKRKDWOII7ixqiCZOg5K-XZPYw653&new=1",
-   "summary": "内容提要国内要闻国家 数据 局发布《 数据 产权登记工作指引(试行)》国家网信办再次发布《互联网信息服务管理办法(修订草案征求...",
-   "time": "2026-07-10T17:38:20+08:00",
-   "date": "2026-07-10",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "立法监管",
-   "heat": 11.0,
-   "hot": false,
-   "tags": [
-    "数据合规",
-    "网络安全",
-    "网信办"
-   ],
-   "importance": 14.0,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
-  },
-  {
    "title": "ApolloMD $4.02 Million Data Breach Class Action Settlement",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10RnJmeDRsc0E5UDFhVE9fLWtOYWVnZ21JN05CMGdGd3dYZndkb0piVFN4NmRvUTJlekhwcWZCNEVWekhDWUVGM1ZPdjhmMVVlUG9BRkJSeVNDQjFjLUdTelV2Q3RVMFNjRnV2TGZLWEg?oc=5",
    "summary": "",
@@ -7119,51 +7138,6 @@
    "kw_score": 6.0,
    "weight": 2.0,
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
-  },
-  {
-   "title": "New NIMC Act Strengthens Data Protection, Privacy – Director",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSVhDMFI5dHVSNDlmRi15YldmS2pTYnNCVWhkTzkxQUJWaFhVU1JuUmluOHBSVmFMYjVzdnd2QVpDdngtMFQtMHdjVHQ2al9IODlKbHV2TEFFZmZzSzdPZ3FPb0tGWk1lUzZmcHJpLXZyeHVuMF9EMzBfQzJHMUY3U2kybjZadGFGd0hpZGYtZUVDSTQ1cF95bkJFeE9JV2FyUG01T0hB?oc=5",
-   "summary": "",
-   "time": "2026-07-10T18:39:24+08:00",
-   "date": "2026-07-10",
-   "sources": [
-    "Nigeria Communications Week"
-   ],
-   "region": "国际",
-   "category": "立法监管",
-   "heat": 7.0,
-   "hot": false,
-   "tags": [
-    "data protection",
-    "privacy"
-   ],
-   "importance": 10.0,
-   "kw_score": 5.0,
-   "weight": 2.0,
-   "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
-  },
-  {
-   "title": "国家数据局：我国将加大医疗领域数据安全合规供给",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAyOElicXdWbXU4VnV5Q2VIbERzeFJKTGZobkxiVWRfX2dQOGk1TEZScFM2a0drMVlZTzRvM0REaTBEaVVWWFBZRVFHanozaGtmeENpUG5vMXdoMU14cGFtN1RIZmtCT1JGN3VMRnVNRmtfWmNVdHc?oc=5",
-   "summary": "记者今天(7月9日)从国家 数据 局了解到,我国将依托10个国家 数据 要素综合试验区,先行破解医疗领域 数据 安全 合规 高效流通利用难...",
-   "time": "2026-07-10T17:52:48+08:00",
-   "date": "2026-07-10",
-   "sources": [
-    "chinanews.com.cn",
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "行业实践",
-   "heat": 7.0,
-   "hot": false,
-   "tags": [
-    "数据安全",
-    "合规"
-   ],
-   "importance": 7.0,
-   "kw_score": 3.0,
-   "weight": 2.0,
-   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
   },
   {
    "title": "数据合规与保护：数据治理与数据合规之间，到底是什么关系？",
@@ -7300,44 +7274,6 @@
    "reason": "行业合规实践动态，可作为制度建设与对标参考。"
   },
   {
-   "title": "国家数据局国际数据治理合作司负责人在“亚太经合组织（APEC）2026年数字和人工智能部长会议及数字周相关活动新闻通气会”上答记者问",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBBbGZFQ1U2a2ppMmRJUnRZMm1fWE8zVUdfMWNUaUFBZVVIRi1Td0FjbjhXbVk2dmVIVjBtb3BPSGdKSVRzMVRPdU9fTVkxYzVpUkFJWnMxSzZyb3lOdkwxWUNGY2tkcm9qLUpsWWhMUzAwendBQjZyNkxrY0NZZw?oc=5",
-   "summary": "",
-   "time": "2026-07-10T19:00:21+08:00",
-   "date": "2026-07-10",
-   "sources": [
-    "nda.gov.cn"
-   ],
-   "region": "国内",
-   "category": "行业实践",
-   "heat": 2.0,
-   "hot": false,
-   "tags": [],
-   "importance": 2.0,
-   "kw_score": 0.0,
-   "weight": 2.0,
-   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
-  },
-  {
-   "title": "国家数据局国际数据治理合作司司长公开亮相",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43Tll5M2U3VzhBM19DcmZhMVlhQVRCM01nZVZyVTFBam16QWI4STE2UEU2aE1FZWtOUE8wOHdRSXJtVm03Wi04ZUpfNWMxbFJfaVV5RlpfM2owR3B5TVFVVA?oc=5",
-   "summary": "",
-   "time": "2026-07-10T17:46:00+08:00",
-   "date": "2026-07-10",
-   "sources": [
-    "thepaper.cn"
-   ],
-   "region": "国内",
-   "category": "行业实践",
-   "heat": 2.0,
-   "hot": false,
-   "tags": [],
-   "importance": 2.0,
-   "kw_score": 0.0,
-   "weight": 2.0,
-   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
-  },
-  {
    "title": "2026年APEC数字周数据领域活动有何安排？国家数据局回应",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WZ0JVQWFrZEJHeUt6Vk9VM1VPSGdqLXNTbVA1Rm9HeTNCWGFmMFh0M3lDUnpVLU1sUXpWZTVIU0xHT0ZTcHNIMGJLbXV2WEJqa3JHUjNTZ1pPbFp3MDdHeVRB?oc=5",
    "summary": "",
@@ -7345,25 +7281,6 @@
    "date": "2026-07-10",
    "sources": [
     "网易"
-   ],
-   "region": "国内",
-   "category": "行业实践",
-   "heat": 2.0,
-   "hot": false,
-   "tags": [],
-   "importance": 2.0,
-   "kw_score": 0.0,
-   "weight": 2.0,
-   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
-  },
-  {
-   "title": "国家数据局国际数据治理合作司司长公开亮相",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5aTTlLUFJIaDh6MG9pQnBVVmtXeXZSTG9CRHctb0paaUVqRFc2T2l2NGk3ejhWWVZ3LWFMYUxKSjRMeWRjX2hCMWNKbW1wRWpZTFVOQlRYalhYVjJWcFE?oc=5",
-   "summary": "",
-   "time": "2026-07-10T17:46:00+08:00",
-   "date": "2026-07-10",
-   "sources": [
-    "thepaper.cn"
    ],
    "region": "国内",
    "category": "行业实践",
@@ -7577,8 +7494,8 @@
     "hot": false,
     "tags": [
      "出境安全评估",
-     "数据出境",
-     "安全评估"
+     "安全评估",
+     "数据出境"
     ],
     "importance": 17.0,
     "kw_score": 12.0,
