@@ -198,8 +198,8 @@
   "hot": false,
   "tags": [
    "consent",
-   "fine",
-   "GDPR"
+   "GDPR",
+   "fine"
   ],
   "importance": 11.5,
   "kw_score": 7.0,
@@ -413,7 +413,7 @@
   "time": "2026-06-09T15:00:00+08:00",
   "date": "2026-06-09",
   "sources": [
-   "Reuters"
+   "reuters.com"
   ],
   "region": "国际",
   "category": "诉讼仲裁",
@@ -564,7 +564,7 @@
   "time": "2026-06-12T15:00:00+08:00",
   "date": "2026-06-12",
   "sources": [
-   "新华网"
+   "news.cn"
   ],
   "region": "国内",
   "category": "行业实践",
@@ -1630,23 +1630,6 @@
   "kw_score": 2.0,
   "weight": 3.0,
   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
- },
- "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSzVnV3F0clk5OXd6ZlhRME9pbHJyamk1OVNFZUpNTlZXUW9EUDh5VG1INnUydHhvU0VQTlZTQWlrenJ2eEtNOUFyODVFN1BUMnVJM000eGtrSGN0OHNUWF9yc2NCVmtuVU9OMEUwdGlZRVNGX3BERERuclJLNHNUNlVSaEREZFc3VEg0OVpsUQ?oc=5": {
-  "title": "国家数据局发文推进行业高质量数据集建设，将探索词元交易等新型交易模式",
-  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSzVnV3F0clk5OXd6ZlhRME9pbHJyamk1OVNFZUpNTlZXUW9EUDh5VG1INnUydHhvU0VQTlZTQWlrenJ2eEtNOUFyODVFN1BUMnVJM000eGtrSGN0OHNUWF9yc2NCVmtuVU9OMEUwdGlZRVNGX3BERERuclJLNHNUNlVSaEREZFc3VEg0OVpsUQ?oc=5",
-  "summary": "",
-  "time": "2026-06-09T11:19:00+08:00",
-  "date": "2026-06-09",
-  "sources": [
-   "21财经"
-  ],
-  "region": "国内",
-  "category": "立法监管",
-  "heat": 2.0,
-  "hot": false,
-  "tags": [],
-  "importance": 5.0,
-  "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
  },
  "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUFpmNjFQb19WbTFHTkdDdURWVlJtei1kRkMxcmsyX256OTU0UnVfWFRvUWlEWF9Fb0dibVZIUldIamJLUzRUU2RaTEpVU2JhanE4dG1WcVVFQ3R4dW5QdVBITHlHUTJzaWtMVVJnQjR6WlBzVkpXWWx3Z3lnSGxpdV9HUjJCS0h0SGc?oc=5": {
   "title": "Caldwell Sutter Capital Data Breach Lawsuit Investigation",
@@ -9095,15 +9078,15 @@
   "time": "2026-06-13T15:00:00+08:00",
   "date": "2026-06-13",
   "sources": [
-   "qq.com"
+   "QQ News"
   ],
   "region": "国内",
   "category": "跨境数据",
   "heat": 10.0,
   "hot": false,
   "tags": [
-   "个人信息",
    "数据出境",
+   "个人信息",
    "网信办"
   ],
   "importance": 13.0,
@@ -14548,7 +14531,7 @@
   "tags": [
    "data protection",
    "regulation",
-   "Schrems"
+   "consent"
   ],
   "importance": 14.5,
   "kw_score": 12.0,
@@ -14920,17 +14903,18 @@
   "time": "2026-06-15T15:00:00+08:00",
   "date": "2026-06-15",
   "sources": [
-   "dataprotectionreport.com"
+   "Data Protection Report"
   ],
   "region": "国际",
   "category": "执法处罚",
-  "heat": 4.0,
+  "heat": 7.0,
   "hot": false,
   "tags": [
+   "data protection",
    "fine"
   ],
-  "importance": 6.5,
-  "kw_score": 2.0,
+  "importance": 9.5,
+  "kw_score": 5.0,
   "weight": 2.0,
   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
  },
@@ -16203,7 +16187,7 @@
   "time": "2026-06-25T15:00:00+08:00",
   "date": "2026-06-25",
   "sources": [
-   "allenandgledhill.com"
+   "Allen & Gledhill"
   ],
   "region": "国内",
   "category": "诉讼仲裁",
@@ -17083,8 +17067,8 @@
   "hot": false,
   "tags": [
    "数据合规",
-   "指南",
-   "合规"
+   "合规",
+   "指南"
   ],
   "importance": 8.0,
   "kw_score": 6.0,
@@ -18062,15 +18046,15 @@
   "time": "2026-06-29T15:00:00+08:00",
   "date": "2026-06-29",
   "sources": [
-   "natlawreview.com"
+   "The National Law Review"
   ],
   "region": "国际",
   "category": "执法处罚",
   "heat": 7.0,
   "hot": false,
   "tags": [
-   "fine",
-   "GDPR"
+   "GDPR",
+   "fine"
   ],
   "importance": 9.5,
   "kw_score": 5.0,
@@ -18587,7 +18571,7 @@
   "time": "2026-06-30T15:00:00+08:00",
   "date": "2026-06-30",
   "sources": [
-   "lawfuel.com"
+   "LawFuel.com"
   ],
   "region": "国际",
   "category": "跨境数据",
@@ -20905,7 +20889,7 @@
   "time": "2026-06-29T15:00:00+08:00",
   "date": "2026-06-29",
   "sources": [
-   "Lexology"
+   "lexology.com"
   ],
   "region": "国内",
   "category": "行业实践",
@@ -21878,7 +21862,7 @@
   "time": "2026-07-02T15:00:00+08:00",
   "date": "2026-07-02",
   "sources": [
-   "qq.com"
+   "QQ News"
   ],
   "region": "国内",
   "category": "诉讼仲裁",
@@ -21886,8 +21870,8 @@
   "hot": false,
   "tags": [
    "裁决",
-   "仲裁",
-   "诉讼"
+   "诉讼",
+   "仲裁"
   ],
   "importance": 10.5,
   "kw_score": 6.0,
@@ -22945,7 +22929,7 @@
   "time": "2026-07-06T15:00:00+08:00",
   "date": "2026-07-06",
   "sources": [
-   "Reuters"
+   "reuters.com"
   ],
   "region": "国际",
   "category": "诉讼仲裁",
@@ -25053,7 +25037,7 @@
   "time": "2026-07-07T15:00:00+08:00",
   "date": "2026-07-07",
   "sources": [
-   "unis.unvienna.org"
+   "United Nations Information Service Vienna"
   ],
   "region": "国际",
   "category": "诉讼仲裁",
@@ -25917,7 +25901,7 @@
   "time": "2026-06-20T15:00:00+08:00",
   "date": "2026-06-20",
   "sources": [
-   "新浪财经"
+   "finance.sina.cn"
   ],
   "region": "国内",
   "category": "跨境数据",
@@ -30967,7 +30951,7 @@
   "time": "2026-07-15T15:00:00+08:00",
   "date": "2026-07-15",
   "sources": [
-   "Reuters"
+   "reuters.com"
   ],
   "region": "国际",
   "category": "诉讼仲裁",
@@ -32453,7 +32437,7 @@
   "time": "2026-07-16T15:00:00+08:00",
   "date": "2026-07-16",
   "sources": [
-   "Houston Chronicle"
+   "houstonchronicle.com"
   ],
   "region": "国际",
   "category": "诉讼仲裁",
@@ -39745,7 +39729,7 @@
   "time": "2026-07-17T15:00:00+08:00",
   "date": "2026-07-17",
   "sources": [
-   "qq.com"
+   "QQ News"
   ],
   "region": "国内",
   "category": "诉讼仲裁",
@@ -41051,8 +41035,8 @@
   "heat": 5.0,
   "hot": false,
   "tags": [
-   "仲裁",
-   "条例"
+   "条例",
+   "仲裁"
   ],
   "importance": 7.5,
   "kw_score": 3.0,
@@ -44009,7 +43993,7 @@
   "time": "2026-07-17T15:00:00+08:00",
   "date": "2026-07-17",
   "sources": [
-   "Lexology"
+   "lexology.com"
   ],
   "region": "国内",
   "category": "行业实践",
@@ -48844,7 +48828,7 @@
   "time": "2026-07-28T15:00:00+08:00",
   "date": "2026-07-28",
   "sources": [
-   "Digital Music News"
+   "digitalmusicnews.com"
   ],
   "region": "国际",
   "category": "诉讼仲裁",
@@ -50257,7 +50241,7 @@
   "tags": [
    "data protection",
    "enforcement",
-   "privacy"
+   "consent"
   ],
   "importance": 14.5,
   "kw_score": 12.0,
@@ -50651,11 +50635,11 @@
  "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdnF0bDI2MDBrYWttbFUtVjlGbFd2bm5WQ2VGdTl2bko4Tk1ybE1ISWFELWV6SmRJMnhXcjNDT3A4ODRVUHV0SmJhSldtVlZiSkxiNjVQb01YSndNWlhEMm95T2MxS3piRGNDdnhMazgxVmlrWVhKdGFDY0JYU0xCWkMtM0lQOGFuUFlfWVNLcHJtMnJ5elJfUWJOOWRSV0RNdXFKYU5wUEhHTWJTY0lFLWwxamVfa2JsRFFQXzFqOVlTWjZG?oc=5": {
   "title": "Data defence delay - Staffing shortages, technology gaps and training needs slow move towards full enforcement of personal information protection law",
   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdnF0bDI2MDBrYWttbFUtVjlGbFd2bm5WQ2VGdTl2bko4Tk1ybE1ISWFELWV6SmRJMnhXcjNDT3A4ODRVUHV0SmJhSldtVlZiSkxiNjVQb01YSndNWlhEMm95T2MxS3piRGNDdnhMazgxVmlrWVhKdGFDY0JYU0xCWkMtM0lQOGFuUFlfWVNLcHJtMnJ5elJfUWJOOWRSV0RNdXFKYU5wUEhHTWJTY0lFLWwxamVfa2JsRFFQXzFqOVlTWjZG?oc=5",
-  "summary": "Data defence delay - Staffing shortages, technology gaps and training needs slow move towards full enforcement of personal information protection law Jamaica Gleaner",
+  "summary": "Data defence delay - Staffing shortages, technology gaps and training needs slow move towards full enforcement of personal information protection law jamaica-gleaner.com",
   "time": "2026-07-30T13:07:32+08:00",
   "date": "2026-07-30",
   "sources": [
-   "Jamaica Gleaner"
+   "jamaica-gleaner.com"
   ],
   "region": "国际",
   "category": "执法处罚",
@@ -56013,16 +55997,17 @@
   "time": "2026-07-25T15:58:00+08:00",
   "date": "2026-07-25",
   "sources": [
-   "华人头条"
+   "华人头条",
+   "8world"
   ],
   "region": "国内",
   "category": "诉讼仲裁",
-  "heat": 4.0,
+  "heat": 6.0,
   "hot": false,
   "tags": [
    "仲裁"
   ],
-  "importance": 6.5,
+  "importance": 8.5,
   "kw_score": 2.0,
   "weight": 2.0,
   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
@@ -56324,16 +56309,16 @@
   "time": "2026-08-04T02:45:26+08:00",
   "date": "2026-08-04",
   "sources": [
-   "新浪财经"
+   "finance.sina.cn"
   ],
   "region": "国内",
   "category": "跨境数据",
   "heat": 13.0,
   "hot": false,
   "tags": [
-   "数据合规",
+   "数据跨境",
    "征求意见",
-   "数据跨境"
+   "数据合规"
   ],
   "importance": 16.0,
   "kw_score": 11.0,
@@ -56463,7 +56448,7 @@
   ],
   "region": "国际",
   "category": "诉讼仲裁",
-  "heat": 10.5,
+  "heat": 10.4,
   "hot": false,
   "tags": [
    "class action",
@@ -56595,7 +56580,7 @@
   "time": "2026-08-05T02:32:26+08:00",
   "date": "2026-08-05",
   "sources": [
-   "Houston Chronicle"
+   "houstonchronicle.com"
   ],
   "region": "国际",
   "category": "诉讼仲裁",
@@ -56685,7 +56670,7 @@
   "date": "2026-08-04",
   "sources": [
    "汽车之家",
-   "新浪财经"
+   "cj.sina.cn"
   ],
   "region": "国内",
   "category": "行业实践",
@@ -57320,7 +57305,7 @@
   ],
   "region": "国内",
   "category": "行业实践",
-  "heat": 7.4,
+  "heat": 7.3,
   "hot": false,
   "tags": [
    "数据合规",
@@ -57339,7 +57324,7 @@
   "date": "2026-07-21",
   "sources": [
    "东方财富",
-   "新浪财经"
+   "cj.sina.cn"
   ],
   "region": "国内",
   "category": "行业实践",
@@ -57616,7 +57601,7 @@
   ],
   "region": "国际",
   "category": "诉讼仲裁",
-  "heat": 14.6,
+  "heat": 14.5,
   "hot": false,
   "tags": [
    "data protection",
@@ -57777,7 +57762,7 @@
   ],
   "region": "国际",
   "category": "行业实践",
-  "heat": 4.4,
+  "heat": 4.3,
   "hot": false,
   "tags": [
    "enforcement"
@@ -57863,7 +57848,7 @@
   "time": "2026-07-24T15:59:27+08:00",
   "date": "2026-07-24",
   "sources": [
-   "www.hlc.com"
+   "hlc.com"
   ],
   "region": "国际",
   "category": "行业实践",
@@ -57889,7 +57874,7 @@
   ],
   "region": "国际",
   "category": "诉讼仲裁",
-  "heat": 7.1,
+  "heat": 7.0,
   "hot": false,
   "tags": [
    "data breach",
@@ -57911,7 +57896,7 @@
   ],
   "region": "国际",
   "category": "诉讼仲裁",
-  "heat": 3.4,
+  "heat": 3.3,
   "hot": false,
   "tags": [
    "court"
@@ -58092,7 +58077,7 @@
   ],
   "region": "国际",
   "category": "诉讼仲裁",
-  "heat": 6.9,
+  "heat": 6.8,
   "hot": false,
   "tags": [
    "data breach",
@@ -58183,7 +58168,7 @@
   ],
   "region": "国际",
   "category": "诉讼仲裁",
-  "heat": 6.6,
+  "heat": 6.5,
   "hot": false,
   "tags": [
    "data breach",
@@ -58470,7 +58455,7 @@
   ],
   "region": "国际",
   "category": "安全事件",
-  "heat": 4.1,
+  "heat": 4.0,
   "hot": false,
   "tags": [
    "court"
@@ -58492,7 +58477,7 @@
   ],
   "region": "国内",
   "category": "行业实践",
-  "heat": 5.6,
+  "heat": 5.5,
   "hot": false,
   "tags": [],
   "importance": 4.0,
@@ -58715,7 +58700,7 @@
   ],
   "region": "国际",
   "category": "诉讼仲裁",
-  "heat": 9.9,
+  "heat": 9.8,
   "hot": false,
   "tags": [
    "data breach",
@@ -58834,7 +58819,7 @@
   ],
   "region": "国内",
   "category": "行业实践",
-  "heat": 7.8,
+  "heat": 7.7,
   "hot": false,
   "tags": [
    "网络安全",
@@ -58973,7 +58958,7 @@
   ],
   "region": "国际",
   "category": "诉讼仲裁",
-  "heat": 8.0,
+  "heat": 7.9,
   "hot": false,
   "tags": [
    "data breach",
@@ -59017,7 +59002,7 @@
   ],
   "region": "国际",
   "category": "诉讼仲裁",
-  "heat": 6.2,
+  "heat": 6.1,
   "hot": false,
   "tags": [
    "data breach"
@@ -59156,7 +59141,7 @@
   ],
   "region": "国际",
   "category": "行业实践",
-  "heat": 6.3,
+  "heat": 6.2,
   "hot": false,
   "tags": [
    "arbitration"
@@ -59169,11 +59154,11 @@
  "https://news.google.com/rss/articles/CBMigwJBVV95cUxNcW41MFdWdEd5cFQ4WkJ0Y2tnRzFPcVJRU2FyVTloTzkzVW9QTlNDN0JWbER5aG9kRkRrM3VOVk5IYXZ6aWNCZTZCYjEtWGdGYXp6Zy1qbmlPVVNJekFGbGg3a1Y4d0RVaDE4R01ld1M1Q2VGbnVvSkQ1Zk05UVRpWlRZaGZRcFBWWEZhQ3BwSTVTQ0ZDdzdFay1weVg0WlNURi1JN0tqQXJQTDB4N0MwSzgweVpzVlp5OGhtUzk0R2pDODFmelFlVldGTFNvMU95aXU3VVlRYnd6dGZIdi1aZEpMQjlubkhQM1JMSUZaRVdPalM5a28xbWVVUUxQa0MzYVZJ?oc=5": {
   "title": "Massachusetts House Passes Representative Kate Lipper-Garabedian’s Location Shield Act as Part of Comprehensive Data Privacy Legislation",
   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNcW41MFdWdEd5cFQ4WkJ0Y2tnRzFPcVJRU2FyVTloTzkzVW9QTlNDN0JWbER5aG9kRkRrM3VOVk5IYXZ6aWNCZTZCYjEtWGdGYXp6Zy1qbmlPVVNJekFGbGg3a1Y4d0RVaDE4R01ld1M1Q2VGbnVvSkQ1Zk05UVRpWlRZaGZRcFBWWEZhQ3BwSTVTQ0ZDdzdFay1weVg0WlNURi1JN0tqQXJQTDB4N0MwSzgweVpzVlp5OGhtUzk0R2pDODFmelFlVldGTFNvMU95aXU3VVlRYnd6dGZIdi1aZEpMQjlubkhQM1JMSUZaRVdPalM5a28xbWVVUUxQa0MzYVZJ?oc=5",
-  "summary": "Massachusetts House Passes Representative Kate Lipper-Garabedian’s Location Shield Act as Part of Comprehensive Data Privacy Legislation thereadingpost.com",
+  "summary": "Massachusetts House Passes Representative Kate Lipper-Garabedian’s Location Shield Act as Part of Comprehensive Data Privacy Legislation The Reading Post",
   "time": "2026-06-13T15:00:00+08:00",
   "date": "2026-06-13",
   "sources": [
-   "thereadingpost.com"
+   "The Reading Post"
   ],
   "region": "国际",
   "category": "立法监管",
@@ -59538,7 +59523,7 @@
   ],
   "region": "国际",
   "category": "个人信息保护",
-  "heat": 6.6,
+  "heat": 6.5,
   "hot": false,
   "tags": [
    "regulation",
@@ -59672,11 +59657,11 @@
   "time": "2026-08-07T16:06:26+08:00",
   "date": "2026-08-07",
   "sources": [
-   "新浪财经"
+   "cj.sina.cn"
   ],
   "region": "国内",
   "category": "个人信息保护",
-  "heat": 10.0,
+  "heat": 9.9,
   "hot": false,
   "tags": [
    "个人信息",
@@ -59695,14 +59680,14 @@
   "date": "2026-08-06",
   "sources": [
    "央视网",
-   "观点网",
    "大河财立方",
+   "guandian.cn",
    "搜狐网",
    "网易新闻客户端"
   ],
   "region": "国内",
   "category": "行业实践",
-  "heat": 15.9,
+  "heat": 15.8,
   "hot": false,
   "tags": [
    "网络安全",
@@ -59724,7 +59709,7 @@
   ],
   "region": "国内",
   "category": "诉讼仲裁",
-  "heat": 5.6,
+  "heat": 5.5,
   "hot": false,
   "tags": [
    "法院"
@@ -59810,7 +59795,7 @@
   "time": "2026-08-04T15:00:00+08:00",
   "date": "2026-08-04",
   "sources": [
-   "Local News 8"
+   "localnews8.com"
   ],
   "region": "国际",
   "category": "行业实践",
@@ -59974,7 +59959,7 @@
   ],
   "region": "国际",
   "category": "立法监管",
-  "heat": 6.2,
+  "heat": 6.1,
   "hot": false,
   "tags": [
    "regulation"
@@ -60217,11 +60202,11 @@
   "time": "2026-08-07T22:28:31+08:00",
   "date": "2026-08-07",
   "sources": [
-   "观点网"
+   "guandian.cn"
   ],
   "region": "国内",
   "category": "个人信息保护",
-  "heat": 10.4,
+  "heat": 10.3,
   "hot": false,
   "tags": [
    "个人信息",
@@ -60312,7 +60297,7 @@
   ],
   "region": "国际",
   "category": "行业实践",
-  "heat": 10.2,
+  "heat": 10.1,
   "hot": false,
   "tags": [
    "data protection",
@@ -60791,7 +60776,7 @@
   ],
   "region": "国内",
   "category": "立法监管",
-  "heat": 11.1,
+  "heat": 11.0,
   "hot": false,
   "tags": [
    "个人信息",
@@ -60997,7 +60982,7 @@
   ],
   "region": "国际",
   "category": "诉讼仲裁",
-  "heat": 11.8,
+  "heat": 11.7,
   "hot": false,
   "tags": [
    "class action",
@@ -61078,5 +61063,74 @@
   "kw_score": 6.0,
   "weight": 2.0,
   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
+ },
+ "https://mp.weixin.qq.com/s?src=11&timestamp=1786159259&ver=6891&signature=4Kz1rY30Y4ep-mOW1ZI6FmrRm8cAeVLJ4XKqBK9CT1qJ6OGzV0uRVtB2KtWGasqUCOF7WaKVTv7iOxg8qtY2HeMrI6Sr1xZNEYHt9P-KaT2h9gBuVzSUroB-nSvCAEbq&new=1": {
+  "title": "律师视角|保险业务全生命周期 数据合规 要点:从获客、投保、双录、理赔到数据销毁实操指引",
+  "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786159259&ver=6891&signature=4Kz1rY30Y4ep-mOW1ZI6FmrRm8cAeVLJ4XKqBK9CT1qJ6OGzV0uRVtB2KtWGasqUCOF7WaKVTv7iOxg8qtY2HeMrI6Sr1xZNEYHt9P-KaT2h9gBuVzSUroB-nSvCAEbq&new=1",
+  "summary": "压实一线岗位 数据合规 责任;建立信息泄露应急处置预案,明确上报流程、客户通知、监管报告路径;定期内审核查代理人私存客户信...",
+  "time": "2026-08-08T07:00:21+08:00",
+  "date": "2026-08-08",
+  "sources": [
+   "微信公众号"
+  ],
+  "region": "国内",
+  "category": "安全事件",
+  "heat": 12.8,
+  "hot": false,
+  "tags": [
+   "数据合规",
+   "合规",
+   "监管"
+  ],
+  "importance": 9.0,
+  "kw_score": 7.0,
+  "weight": 2.0,
+  "reason": "数据安全事件通常伴随监管问询与索赔风险，可作为应急响应与合规复盘素材。"
+ },
+ "https://mp.weixin.qq.com/s?src=11&timestamp=1786159259&ver=6891&signature=zkcWDHSjc7zCPVEMQpJKeuvE7fvHia8NzooHe*HwXHIEy6pq8vJZwB2T0QRCArl0D1mCBu70Moywe3PRLzEDv0xtfxWX1z-IYMA6hZQAszccGhAuKFVGCJBW6ar6PzJa&new=1": {
+  "title": "数据合规 升级!2025 新版器械 GMP 文件 & 电子记录新规,ALCOA + 落地硬性要求",
+  "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786159259&ver=6891&signature=zkcWDHSjc7zCPVEMQpJKeuvE7fvHia8NzooHe*HwXHIEy6pq8vJZwB2T0QRCArl0D1mCBu70Moywe3PRLzEDv0xtfxWX1z-IYMA6hZQAszccGhAuKFVGCJBW6ar6PzJa&new=1",
+  "summary": "数据合规 高频严重缺陷(飞检必查)1、无审计追踪,电子数据修改无日志,无法追溯修改行为;2、批量事后补录生产、检验数据,违...",
+  "time": "2026-08-08T09:00:49+08:00",
+  "date": "2026-08-08",
+  "sources": [
+   "微信公众号"
+  ],
+  "region": "国内",
+  "category": "行业实践",
+  "heat": 11.9,
+  "hot": false,
+  "tags": [
+   "数据合规",
+   "合规",
+   "新规"
+  ],
+  "importance": 8.0,
+  "kw_score": 6.0,
+  "weight": 2.0,
+  "reason": "行业合规实践动态，可作为制度建设与对标参考。"
+ },
+ "https://mp.weixin.qq.com/s?src=11&timestamp=1786159289&ver=6891&signature=MlmuNk*JQwEddvaXnvt3i09EHkxU8t7ohYTsergf5PRBL0UnA-XIzlGZE8sigk2kPU0L7*wyQWpdwldjkHCDjpsz5uLz4eCuLfThUM1*GT5sZ-DozyS4XTXST0SxRDw-&new=1": {
+  "title": "国家网信办公开征求意见:大型 个人信息 处理者须采取加密、去标识化等措施 保护 个人信息",
+  "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786159289&ver=6891&signature=MlmuNk*JQwEddvaXnvt3i09EHkxU8t7ohYTsergf5PRBL0UnA-XIzlGZE8sigk2kPU0L7*wyQWpdwldjkHCDjpsz5uLz4eCuLfThUM1*GT5sZ-DozyS4XTXST0SxRDw-&new=1",
+  "summary": "8月7日,国家网信办就《大型个人信息处理者 个人信息保护 规定(征求意见稿)》向社会公开征求意见.该规定依据《中华人民共和国...",
+  "time": "2026-08-07T20:13:43+08:00",
+  "date": "2026-08-07",
+  "sources": [
+   "微信公众号"
+  ],
+  "region": "国内",
+  "category": "立法监管",
+  "heat": 11.2,
+  "hot": false,
+  "tags": [
+   "个人信息",
+   "征求意见",
+   "网信办"
+  ],
+  "importance": 11.0,
+  "kw_score": 6.0,
+  "weight": 2.0,
+  "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
  }
 }
