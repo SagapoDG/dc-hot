@@ -370,27 +370,6 @@
   "weight": 1.5,
   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
  },
- "https://www.cnbeta.com.tw/articles/tech/1565336.htm": {
-  "title": "微软因数据留存担忧在公司内部限制使用 Claude Fable 5",
-  "url": "https://www.cnbeta.com.tw/articles/tech/1565336.htm",
-  "summary": "微软近日在内部限制员工使用 Anthropic 新发布的 Mythos 级大模型 Claude Fable 5，原因是对其数据留存政策可能带来的合规和保密风险存在疑虑。 据知情人士透露，在 Anthropic 更新了针对 Claude Fable 5 的数据留存要求后，微软法务团队已介入评估，暂时将该模型从公司内部员工使用的 GitHub Copilot…",
-  "time": "2026-06-11T01:13:32+08:00",
-  "date": "2026-06-11",
-  "sources": [
-   "cnBeta.COM"
-  ],
-  "region": "国内",
-  "category": "行业实践",
-  "heat": 4.1,
-  "hot": false,
-  "tags": [
-   "合规"
-  ],
-  "importance": 3.5,
-  "kw_score": 2.0,
-  "weight": 1.5,
-  "reason": "行业合规实践动态，可作为制度建设与对标参考。"
- },
  "https://www.hunton.com/privacy-and-cybersecurity-law-blog/connecticut-signs-comprehensive-ai-bill-into-law": {
   "title": "Connecticut Signs Comprehensive AI Bill into Law",
   "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/connecticut-signs-comprehensive-ai-bill-into-law",
@@ -482,25 +461,6 @@
   "hot": false,
   "tags": [],
   "importance": 2.0,
-  "reason": "行业合规实践动态，可作为制度建设与对标参考。"
- },
- "https://news.google.com/rss/articles/CBMiekFVX3lxTFBvOU10Mlh4cWVqSXFVTi1Ub0h2aWgwZDFnLW1XTTM3ME10cTh1bUZkNkxPZEJ3N0ZTM0hqMEdmdzF4TzJJMkNzOVVrNS1BdmtNdDRqTTRWaUloQ0w0MjI4dEZDV2ZMb3dqajVKWXpvbGhJanZSTkF1RXBR0gF6QVVfeXFMUG85TXQyWHhxZWpJcVVOLVRvSHZpaDBkMWctbVdNMzcwTXRxOHVtRmQ2TE9kQnc3RlMzSGowR2Z3MXhPMkkyQ3M5VWs1LUF2a010NGpNNFZpSWhDTDQyMjh0RkNXZkxvd2pqNUpZem9saElqdlJOQXVFcFE?oc=5": {
-  "title": "The data brokers Congress forgot to regulate",
-  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBvOU10Mlh4cWVqSXFVTi1Ub0h2aWgwZDFnLW1XTTM3ME10cTh1bUZkNkxPZEJ3N0ZTM0hqMEdmdzF4TzJJMkNzOVVrNS1BdmtNdDRqTTRWaUloQ0w0MjI4dEZDV2ZMb3dqajVKWXpvbGhJanZSTkF1RXBR0gF6QVVfeXFMUG85TXQyWHhxZWpJcVVOLVRvSHZpaDBkMWctbVdNMzcwTXRxOHVtRmQ2TE9kQnc3RlMzSGowR2Z3MXhPMkkyQ3M5VWs1LUF2a010NGpNNFZpSWhDTDQyMjh0RkNXZkxvd2pqNUpZem9saElqdlJOQXVFcFE?oc=5",
-  "summary": "",
-  "time": "2026-06-11T01:00:00+08:00",
-  "date": "2026-06-11",
-  "sources": [
-   "The Hill"
-  ],
-  "region": "国际",
-  "category": "行业实践",
-  "heat": 2.3,
-  "hot": false,
-  "tags": [],
-  "importance": 2.0,
-  "kw_score": 0.0,
-  "weight": 2.0,
   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
  },
  "https://news.google.com/rss/articles/CBMijgJBVV95cUxQUkJrZ1hIZkFHN3VnOElEY3NhdEp5dk02X0NkMXFHRmlwY3pHOTlEa3hTcTR1RGFGVjAwVXE2WGdJV09qUHZ1TEI0THV5LTd1N0M1YUFxdGE0NE1tcUt0MGViVGtCQTVxUDhFOG5hYjVxSUU5WFhSVS1tLXZzU210em5TM04wRzRlQlZxSENFN3NSeTJhbzhPOWlHQmdLY2VmU2c3SEhHLUpYenlldG5nS3NPekRhc295Nll4WHlvRXVxVmtLTGQ1UGd2UXgxYVJnbW1jeGJ4Z1cwd0JOWUhDU1pzMkhfN0Q0dkt0dDJvZXBIYTZEelNoam5xenBEclJxSkhaVzFpS1BtTG5PdXc?oc=5": {
@@ -2427,8 +2387,8 @@
   "hot": false,
   "tags": [
    "出境安全评估",
-   "安全评估",
-   "数据出境"
+   "数据出境",
+   "安全评估"
   ],
   "importance": 17.0,
   "kw_score": 12.0,
@@ -13790,7 +13750,7 @@
   "tags": [
    "data protection",
    "regulation",
-   "Schrems"
+   "consent"
   ],
   "importance": 14.5,
   "kw_score": 12.0,
@@ -14390,8 +14350,8 @@
   "hot": false,
   "tags": [
    "enforcement",
-   "GDPR",
-   "EDPB"
+   "EDPB",
+   "GDPR"
   ],
   "importance": 11.0,
   "kw_score": 8.0,
@@ -14931,7 +14891,7 @@
   "time": "2026-06-24T15:00:00+08:00",
   "date": "2026-06-24",
   "sources": [
-   "The Center Square"
+   "thecentersquare.com"
   ],
   "region": "国际",
   "category": "个人信息保护",
@@ -14960,8 +14920,8 @@
   "hot": false,
   "tags": [
    "data protection",
-   "GDPR",
-   "EDPB"
+   "EDPB",
+   "GDPR"
   ],
   "importance": 14.0,
   "kw_score": 11.0,
@@ -16305,8 +16265,8 @@
   "hot": false,
   "tags": [
    "数据合规",
-   "指南",
-   "合规"
+   "合规",
+   "指南"
   ],
   "importance": 8.0,
   "kw_score": 6.0,
@@ -17291,8 +17251,8 @@
   "heat": 7.0,
   "hot": false,
   "tags": [
-   "GDPR",
-   "fine"
+   "fine",
+   "GDPR"
   ],
   "importance": 9.5,
   "kw_score": 5.0,
@@ -21064,9 +21024,9 @@
   "heat": 8.0,
   "hot": false,
   "tags": [
-   "仲裁",
    "裁决",
-   "诉讼"
+   "诉讼",
+   "仲裁"
   ],
   "importance": 10.5,
   "kw_score": 6.0,
@@ -23817,7 +23777,7 @@
   "time": "2026-07-09T15:00:00+08:00",
   "date": "2026-07-09",
   "sources": [
-   "The Moscow Times"
+   "themoscowtimes.com"
   ],
   "region": "国际",
   "category": "诉讼仲裁",
@@ -25085,8 +25045,8 @@
   "hot": false,
   "tags": [
    "出境安全评估",
-   "安全评估",
-   "数据出境"
+   "数据出境",
+   "安全评估"
   ],
   "importance": 16.0,
   "kw_score": 11.0,
@@ -30218,7 +30178,7 @@
   "time": "2026-07-15T15:00:00+08:00",
   "date": "2026-07-15",
   "sources": [
-   "topclassactions.com"
+   "Top Class Actions"
   ],
   "region": "国际",
   "category": "诉讼仲裁",
@@ -35143,7 +35103,7 @@
   "time": "2026-07-02T15:00:00+08:00",
   "date": "2026-07-02",
   "sources": [
-   "huacheng.gz-cmc.com"
+   "广州日报新花城"
   ],
   "region": "国内",
   "category": "跨境数据",
@@ -38205,7 +38165,7 @@
   "time": "2026-08-05T02:03:04+08:00",
   "date": "2026-08-05",
   "sources": [
-   "topclassactions.com"
+   "Top Class Actions"
   ],
   "region": "国际",
   "category": "诉讼仲裁",
@@ -38912,8 +38872,8 @@
   "heat": 5.0,
   "hot": false,
   "tags": [
-   "仲裁",
-   "法院"
+   "法院",
+   "仲裁"
   ],
   "importance": 7.5,
   "kw_score": 3.0,
@@ -40211,8 +40171,8 @@
   "heat": 5.0,
   "hot": false,
   "tags": [
-   "仲裁",
-   "条例"
+   "条例",
+   "仲裁"
   ],
   "importance": 7.5,
   "kw_score": 3.0,
@@ -40809,7 +40769,7 @@
   "time": "2026-06-16T15:00:00+08:00",
   "date": "2026-06-16",
   "sources": [
-   "biostock.se"
+   "Biostock"
   ],
   "region": "国际",
   "category": "诉讼仲裁",
@@ -46315,7 +46275,7 @@
   "time": "2026-07-20T15:00:00+08:00",
   "date": "2026-07-20",
   "sources": [
-   "iclg.com"
+   "ICLG"
   ],
   "region": "国际",
   "category": "行业实践",
@@ -46380,14 +46340,15 @@
   "time": "2026-07-28T11:01:00+08:00",
   "date": "2026-07-28",
   "sources": [
-   "新京报"
+   "新京报",
+   "数字中国建设峰会"
   ],
   "region": "国内",
   "category": "行业实践",
-  "heat": 2.0,
+  "heat": 4.0,
   "hot": false,
   "tags": [],
-  "importance": 2.0,
+  "importance": 4.0,
   "kw_score": 0.0,
   "weight": 2.0,
   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
@@ -46699,7 +46660,7 @@
   "time": "2026-07-28T14:59:00+08:00",
   "date": "2026-07-28",
   "sources": [
-   "sjj.hubei.gov.cn"
+   "湖北省数据局"
   ],
   "region": "国内",
   "category": "行业实践",
@@ -49811,11 +49772,11 @@
  "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdnF0bDI2MDBrYWttbFUtVjlGbFd2bm5WQ2VGdTl2bko4Tk1ybE1ISWFELWV6SmRJMnhXcjNDT3A4ODRVUHV0SmJhSldtVlZiSkxiNjVQb01YSndNWlhEMm95T2MxS3piRGNDdnhMazgxVmlrWVhKdGFDY0JYU0xCWkMtM0lQOGFuUFlfWVNLcHJtMnJ5elJfUWJOOWRSV0RNdXFKYU5wUEhHTWJTY0lFLWwxamVfa2JsRFFQXzFqOVlTWjZG?oc=5": {
   "title": "Data defence delay - Staffing shortages, technology gaps and training needs slow move towards full enforcement of personal information protection law",
   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdnF0bDI2MDBrYWttbFUtVjlGbFd2bm5WQ2VGdTl2bko4Tk1ybE1ISWFELWV6SmRJMnhXcjNDT3A4ODRVUHV0SmJhSldtVlZiSkxiNjVQb01YSndNWlhEMm95T2MxS3piRGNDdnhMazgxVmlrWVhKdGFDY0JYU0xCWkMtM0lQOGFuUFlfWVNLcHJtMnJ5elJfUWJOOWRSV0RNdXFKYU5wUEhHTWJTY0lFLWwxamVfa2JsRFFQXzFqOVlTWjZG?oc=5",
-  "summary": "Data defence delay - Staffing shortages, technology gaps and training needs slow move towards full enforcement of personal information protection law Jamaica Gleaner",
+  "summary": "Data defence delay - Staffing shortages, technology gaps and training needs slow move towards full enforcement of personal information protection law jamaica-gleaner.com",
   "time": "2026-07-30T15:00:00+08:00",
   "date": "2026-07-30",
   "sources": [
-   "Jamaica Gleaner"
+   "jamaica-gleaner.com"
   ],
   "region": "国际",
   "category": "执法处罚",
@@ -53174,7 +53135,7 @@
   "time": "2026-07-20T15:00:00+08:00",
   "date": "2026-07-20",
   "sources": [
-   "iclg.com"
+   "ICLG"
   ],
   "region": "国际",
   "category": "立法监管",
@@ -53932,7 +53893,7 @@
   "tags": [
    "数据安全",
    "网信办",
-   "泄露"
+   "处罚"
   ],
   "importance": 11.5,
   "kw_score": 7.0,
@@ -55492,9 +55453,9 @@
   "heat": 13.0,
   "hot": false,
   "tags": [
-   "数据合规",
+   "征求意见",
    "数据跨境",
-   "征求意见"
+   "数据合规"
   ],
   "importance": 16.0,
   "kw_score": 11.0,
@@ -55620,7 +55581,7 @@
   "time": "2026-08-07T06:09:29+08:00",
   "date": "2026-08-07",
   "sources": [
-   "topclassactions.com"
+   "Top Class Actions"
   ],
   "region": "国际",
   "category": "诉讼仲裁",
@@ -57045,7 +57006,7 @@
   "time": "2026-08-06T04:35:46+08:00",
   "date": "2026-08-06",
   "sources": [
-   "WGME"
+   "wgme.com"
   ],
   "region": "国际",
   "category": "诉讼仲裁",
@@ -57647,7 +57608,7 @@
   "time": "2026-08-06T15:09:00+08:00",
   "date": "2026-08-06",
   "sources": [
-   "sjj.hubei.gov.cn",
+   "湖北省数据局",
    "数字中国建设峰会"
   ],
   "region": "国内",
@@ -58177,7 +58138,7 @@
   ],
   "region": "国际",
   "category": "诉讼仲裁",
-  "heat": 4.1,
+  "heat": 4.0,
   "hot": false,
   "tags": [
    "data breach"
@@ -58836,7 +58797,7 @@
   ],
   "region": "国内",
   "category": "个人信息保护",
-  "heat": 7.9,
+  "heat": 7.8,
   "hot": false,
   "tags": [
    "个人信息",
@@ -58883,7 +58844,7 @@
   ],
   "region": "国内",
   "category": "诉讼仲裁",
-  "heat": 3.4,
+  "heat": 3.3,
   "hot": false,
   "tags": [
    "法院"
@@ -59471,7 +59432,7 @@
   ],
   "region": "国际",
   "category": "行业实践",
-  "heat": 8.0,
+  "heat": 7.9,
   "hot": false,
   "tags": [
    "data protection",
@@ -59949,7 +59910,7 @@
   ],
   "region": "国内",
   "category": "立法监管",
-  "heat": 9.0,
+  "heat": 8.9,
   "hot": false,
   "tags": [
    "个人信息",
@@ -61149,7 +61110,7 @@
   ],
   "region": "国际",
   "category": "诉讼仲裁",
-  "heat": 7.5,
+  "heat": 7.4,
   "hot": false,
   "tags": [
    "arbitration",
@@ -61517,7 +61478,7 @@
   ],
   "region": "国内",
   "category": "立法监管",
-  "heat": 12.4,
+  "heat": 12.3,
   "hot": false,
   "tags": [
    "个人信息",
@@ -62506,7 +62467,7 @@
   ],
   "region": "国内",
   "category": "行业实践",
-  "heat": 10.0,
+  "heat": 9.9,
   "hot": false,
   "tags": [
    "数据合规",
@@ -62667,8 +62628,8 @@
   "heat": 10.0,
   "hot": false,
   "tags": [
-   "隐私保护",
    "数据合规",
+   "隐私保护",
    "隐私"
   ],
   "importance": 10.0,
@@ -63786,6 +63747,75 @@
   "region": "国内",
   "category": "个人信息保护",
   "heat": 11.3,
+  "hot": false,
+  "tags": [
+   "数据合规",
+   "隐私",
+   "合规"
+  ],
+  "importance": 8.0,
+  "kw_score": 6.0,
+  "weight": 2.0,
+  "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
+ },
+ "https://mp.weixin.qq.com/s?src=11&timestamp=1786296422&ver=6894&signature=ZveNxKnBzVUhhNDQaP36AsafAdtBThnnY1zGY9cINWdzzGZ2ppUYUeBybLKI1BmroTmUP*svL*8Dok6PFEZGpFCSv*6AIGn5BSz*L2wVF6sDCGaSuAk9QqGd16Twpwoj&new=1": {
+  "title": "出海 数据合规 自检表(完整版)",
+  "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786296422&ver=6894&signature=ZveNxKnBzVUhhNDQaP36AsafAdtBThnnY1zGY9cINWdzzGZ2ppUYUeBybLKI1BmroTmUP*svL*8Dok6PFEZGpFCSv*6AIGn5BSz*L2wVF6sDCGaSuAk9QqGd16Twpwoj&new=1",
+  "summary": "数据合规 角色当地型式认证东南亚(印尼 / 泰 / 新)印尼 PDP Law 2022 / 泰国 PDPA 2022 / 新加坡 PDPA梯度监管,新加坡最成熟;...",
+  "time": "2026-08-09T10:23:30+08:00",
+  "date": "2026-08-09",
+  "sources": [
+   "微信公众号"
+  ],
+  "region": "国内",
+  "category": "行业实践",
+  "heat": 13.2,
+  "hot": false,
+  "tags": [
+   "数据合规",
+   "DPA",
+   "合规"
+  ],
+  "importance": 10.0,
+  "kw_score": 8.0,
+  "weight": 2.0,
+  "reason": "行业合规实践动态，可作为制度建设与对标参考。"
+ },
+ "https://mp.weixin.qq.com/s?src=11&timestamp=1786296457&ver=6894&signature=-Q*be-FESvwpV9yhD4RgcvI6VGvBF4oORj057X5RTMiEO-LtRpSjZxILgB9BMW4zX4qE2GFyOWTxT*nyy3bf3huGtaB7Q09BBDZSf9z5dhfGSEuh9YbRjkuSPpId9lG6&new=1": {
+  "title": "喜报 | 机器人检测公司成功获 个人信息保护 合规审计服务认证证书",
+  "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786296457&ver=6894&signature=-Q*be-FESvwpV9yhD4RgcvI6VGvBF4oORj057X5RTMiEO-LtRpSjZxILgB9BMW4zX4qE2GFyOWTxT*nyy3bf3huGtaB7Q09BBDZSf9z5dhfGSEuh9YbRjkuSPpId9lG6&new=1",
+  "summary": "标志着我国 个人信息保护 合规审计工作步入制度化、规范化新阶段.机器人及智能装备在研发、测试与应用过程中广泛采集人脸、动作...",
+  "time": "2026-08-08T20:46:29+08:00",
+  "date": "2026-08-08",
+  "sources": [
+   "微信公众号"
+  ],
+  "region": "国内",
+  "category": "个人信息保护",
+  "heat": 11.4,
+  "hot": false,
+  "tags": [
+   "个人信息",
+   "合规审计",
+   "合规"
+  ],
+  "importance": 9.0,
+  "kw_score": 7.0,
+  "weight": 2.0,
+  "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
+ },
+ "https://mp.weixin.qq.com/s?src=11&timestamp=1786296422&ver=6894&signature=FXx2odGNOKlksBHCcRMasxTtlmtSoqtZjdToRQpwN7yjlV9he2gF5*HCugy2bIL1pBYlMBFESC6iQ2B9CiCsSafp4nFbT6G0FT7JKVBSU4n3Gx482Muht8yzEHZaRGHM&new=1": {
+  "title": "电商 合规 / 数据 法必读书籍深度分享",
+  "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786296422&ver=6894&signature=FXx2odGNOKlksBHCcRMasxTtlmtSoqtZjdToRQpwN7yjlV9he2gF5*HCugy2bIL1pBYlMBFESC6iQ2B9CiCsSafp4nFbT6G0FT7JKVBSU4n3Gx482Muht8yzEHZaRGHM&new=1",
+  "summary": "适合人群 数据合规 从业者、电商平台法务、法学硕博研究生、商法/数据法备考学生、互联网企业风控、对网络隐私议题感兴趣的法律爱...",
+  "time": "2026-08-09T11:28:47+08:00",
+  "date": "2026-08-09",
+  "sources": [
+   "微信公众号"
+  ],
+  "region": "国内",
+  "category": "个人信息保护",
+  "heat": 11.2,
   "hot": false,
   "tags": [
    "数据合规",
