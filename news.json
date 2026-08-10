@@ -1,12 +1,50 @@
 {
- "generated_at": "2026-08-11T06:32:34.928707+08:00",
- "count": 449,
+ "generated_at": "2026-08-11T07:30:39.557923+08:00",
+ "count": 451,
  "highlight_count": 30,
  "errors": [
   "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）",
-  "36氪: not well-formed (invalid token): line 9, column 542"
+  "36氪: not well-formed (invalid token): line 9, column 542",
+  "Google News: HTTP Error 503: Service Unavailable",
+  "Google News: HTTP Error 503: Service Unavailable",
+  "Google News: HTTP Error 503: Service Unavailable",
+  "Google News: HTTP Error 503: Service Unavailable",
+  "Google News: HTTP Error 503: Service Unavailable",
+  "Google News: HTTP Error 503: Service Unavailable",
+  "Google News: HTTP Error 503: Service Unavailable",
+  "Google News: HTTP Error 503: Service Unavailable",
+  "Google News: HTTP Error 503: Service Unavailable",
+  "Google News: HTTP Error 503: Service Unavailable",
+  "Google News: HTTP Error 503: Service Unavailable",
+  "Google News: HTTP Error 503: Service Unavailable",
+  "Google News: HTTP Error 503: Service Unavailable",
+  "Google News: HTTP Error 503: Service Unavailable",
+  "Google News: HTTP Error 503: Service Unavailable"
  ],
  "items": [
+  {
+   "title": "合规 观察:拿个人 数据 训练生成式AI,新加坡把话说明白了——新加坡《生成式AI个人资料使用咨询指南》要点解读",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786404642&ver=6897&signature=UKwGJ-W4TDFyVbv3ZnRNukbqm74hQNZngDNANg34RY-YIoxA4MnI88WBtChh7Usk7bQjf735SV0u4KwUgrnELRgk75ajf59DgbCDm7R2jTpNA8Ez6mZhSL3mtCY5poI8&new=1",
+   "summary": "数据合规 评估的核心参照,存在条文冲突时,PDPA法定规则优先适用.01 框架逻辑:以AI生命周期搭建三层合规体系《指南》完全按...",
+   "time": "2026-08-11T07:00:42+08:00",
+   "date": "2026-08-11",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "行业实践",
+   "heat": 14.0,
+   "hot": false,
+   "tags": [
+    "数据合规",
+    "DPA",
+    "合规"
+   ],
+   "importance": 10.0,
+   "kw_score": 8.0,
+   "weight": 2.0,
+   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
+  },
   {
    "title": "网信办发布《大型个人信息处理者 个人信息保护 规定(征求意见稿)》",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786346615&ver=6895&signature=4Ne1y1gaU7JqN8BcHwARAuR4ZLGSV*aqm1k1LjIz5Nie7ObDrmEE3ECtlYu1bHJ7ySynq9oV7Yir3SKVtsn9qZmkNNdm-zuGUnwGzSkDJuSyO7OUli27MuNkI7cCT3TO&new=1",
@@ -86,7 +124,7 @@
   },
   {
    "title": "涉外实务: 数据合规 与数据跨境实务",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786401157&ver=6897&signature=IApLgDRO47IIjYWo1BmkEU9cYBw-65E3W1vLPOdVoZ09kxy3aRkMej0*R-B01ap2mz1T34UtMyLRuXo*98qwcdcpzzmutkut6Bl0Yeu0vmdelAuLv2pJwzRJD1dPFD2f&new=1",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786404642&ver=6897&signature=IApLgDRO47IIjYWo1BmkEU9cYBw-65E3W1vLPOdVoZ09kxy3aRkMej0*R-B01ap2Cz1utX0zUFvo6ITBQf0jIP*N3HUPZQXX*FUlIoL4rql9SB3fISh8bJ0JlA4StR8Z&new=1",
    "summary": "数据合规 与跨境法律服务已成为法律人必须抢占的新高地.然而:想转型 数据合规 业务,却被《个人信息保护法》《数据安全法》《跨...",
    "time": "2026-08-10T19:58:33+08:00",
    "date": "2026-08-10",
@@ -315,6 +353,29 @@
    "reason": "涉及数据跨境流动规则，可能影响出境安全评估、标准合同备案等合规路径，建议出海/跨国业务团队关注。"
   },
   {
+   "title": "涉外实务: 数据合规 与数据跨境实务",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786401157&ver=6897&signature=IApLgDRO47IIjYWo1BmkEU9cYBw-65E3W1vLPOdVoZ09kxy3aRkMej0*R-B01ap2mz1T34UtMyLRuXo*98qwcdcpzzmutkut6Bl0Yeu0vmdelAuLv2pJwzRJD1dPFD2f&new=1",
+   "summary": "数据合规 与跨境法律服务已成为法律人必须抢占的新高地.然而:想转型 数据合规 业务,却被《个人信息保护法》《数据安全法》《跨...",
+   "time": "2026-08-10T19:58:33+08:00",
+   "date": "2026-08-10",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "跨境数据",
+   "heat": 17.4,
+   "hot": false,
+   "tags": [
+    "个人信息保护法",
+    "数据安全法",
+    "数据跨境"
+   ],
+   "importance": 17.0,
+   "kw_score": 12.0,
+   "weight": 2.0,
+   "reason": "涉及数据跨境流动规则，可能影响出境安全评估、标准合同备案等合规路径，建议出海/跨国业务团队关注。"
+  },
+  {
    "title": "网信办发布《大型个人信息处理者 个人信息保护 规定(征求意见稿)》",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786335106&ver=6895&signature=4Ne1y1gaU7JqN8BcHwARAuR4ZLGSV*aqm1k1LjIz5NgoCBkU-BNVvX32tpKvMIblmjlKsmqbRc0GqKPxpw4aRxlIlH7mp4soe0x6DlyJaryPx6K6*ETDrksF9NXDixYF&new=1",
    "summary": "4、强调了 个人信息保护 合规审计,对个保负责人和业务部门都提及了“ 个人信息保护 合规审计能力”(业务部门似乎不需要“审计能...",
@@ -431,7 +492,7 @@
   },
   {
    "title": "数据 安全与 合规 周报",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786401157&ver=6897&signature=pBhhor-8h4ZSi-Kb9FxnJigWmuDZCUsRWIh1yx-XfNYHgg7dFaIeDtLsWGnZd0auLjJAMPa3SecGKMa0bizn5oay-Mtx8rqP5WRX0WcUPcNR3eV-z-lEGtTBXIa5Huwj&new=1",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786404642&ver=6897&signature=pBhhor-8h4ZSi-Kb9FxnJigWmuDZCUsRWIh1yx-XfNYHgg7dFaIeDtLsWGnZd0ausXdsRvDhZysc-CCE50IYw50xRIBCG6t6vK*gzAjvoETgtn3gv1W1IAvF2N5r40py&new=1",
    "summary": "2026-W32 | 2026年8月3日—8月9日本期聚焦国内外 数据 安全、隐私保护、网络安全、AI 监管、 数据 跨境与 合规 执法领域的重要动态....",
    "time": "2026-08-10T11:00:51+08:00",
    "date": "2026-08-10",
@@ -445,127 +506,12 @@
    "tags": [
     "隐私保护",
     "网络安全",
-    "监管"
+    "合规"
    ],
    "importance": 13.5,
    "kw_score": 9.0,
    "weight": 2.0,
    "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
-  },
-  {
-   "title": "第二百七十弹:健身场馆 个人信息保护 需注意的主要问题",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786401181&ver=6897&signature=AvGVeIwJRdmlR5ipnYWGbXVmY9q8AOGX-4VKH4O67n14ejt1v4G-xr0mHAtaTUF0TRN1HDIUJelrtl9Ovbpig2cJlKd5crYTjo1C9HvDCQL4af2DqGAFHdo2hkSo-FPM&new=1",
-   "summary": "2026年7-8月,重庆市璧山区网信办在辖区 个人信息保护 专项整治行动中,针对健身行业人脸识别高频应用场景开展专项执法排查,查...",
-   "time": "2026-08-10T09:53:57+08:00",
-   "date": "2026-08-10",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "个人信息保护",
-   "heat": 13.9,
-   "hot": false,
-   "tags": [
-    "个人信息",
-    "人脸识别",
-    "网信办"
-   ],
-   "importance": 11.0,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
-  },
-  {
-   "title": "第二百七十弹:健身场馆 个人信息保护 需注意的主要问题",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786335106&ver=6895&signature=jSMRsYITF1S6yiN3*f1K5BrICHsfQAGydQVSloSjfHJjxj6ts-HPCppt3i8ei7UnQ-wuJHvgiL7C-h*f3jsQT7NkxKsZFsZ88n0RmKF0ukWIe1qbQRrlD5ti4R1-QoXp&new=1",
-   "summary": "2026年7-8月,重庆市璧山区网信办在辖区 个人信息保护 专项整治行动中,针对健身行业人脸识别高频应用场景开展专项执法排查,查...",
-   "time": "2026-08-10T09:53:57+08:00",
-   "date": "2026-08-10",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "个人信息保护",
-   "heat": 13.9,
-   "hot": false,
-   "tags": [
-    "人脸识别",
-    "个人信息",
-    "网信办"
-   ],
-   "importance": 11.0,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
-  },
-  {
-   "title": "第二百七十弹:健身场馆 个人信息保护 需注意的主要问题",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786341231&ver=6895&signature=jSMRsYITF1S6yiN3*f1K5BrICHsfQAGydQVSloSjfHIM-0f*GDIltPYf1gMtVwnykQADDYnY4PxEQpHprhk-ZUzTD0EGhPjRIgUnaUIXe2O*EBOmZyeP6df*UjRpxpMT&new=1",
-   "summary": "2026年7-8月,重庆市璧山区网信办在辖区 个人信息保护 专项整治行动中,针对健身行业人脸识别高频应用场景开展专项执法排查,查...",
-   "time": "2026-08-10T09:53:57+08:00",
-   "date": "2026-08-10",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "个人信息保护",
-   "heat": 13.9,
-   "hot": false,
-   "tags": [
-    "个人信息",
-    "人脸识别",
-    "网信办"
-   ],
-   "importance": 11.0,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
-  },
-  {
-   "title": "第二百七十弹:健身场馆 个人信息保护 需注意的主要问题",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786346615&ver=6895&signature=jSMRsYITF1S6yiN3*f1K5BrICHsfQAGydQVSloSjfHIM-0f*GDIltPYf1gMtVwnyGm8TCP7XxpI-yvwGGl60ZKRARPR7cemKG37uXgOMSbttq8FIQmovbelPaxXZUF3c&new=1",
-   "summary": "2026年7-8月,重庆市璧山区网信办在辖区 个人信息保护 专项整治行动中,针对健身行业人脸识别高频应用场景开展专项执法排查,查...",
-   "time": "2026-08-10T09:53:57+08:00",
-   "date": "2026-08-10",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "个人信息保护",
-   "heat": 13.9,
-   "hot": false,
-   "tags": [
-    "人脸识别",
-    "个人信息",
-    "网信办"
-   ],
-   "importance": 11.0,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
-  },
-  {
-   "title": "第二百七十弹:健身场馆 个人信息保护 需注意的主要问题",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786352184&ver=6895&signature=jSMRsYITF1S6yiN3*f1K5BrICHsfQAGydQVSloSjfHJ5ze76SHg1LIsJ6XmdviA4RRYJrqcgIjeiDw3z4GpslWTnnpPBAFpAAQvPPgxIEhFAo8svZGuNuF4g5BEwFYsX&new=1",
-   "summary": "2026年7-8月,重庆市璧山区网信办在辖区 个人信息保护 专项整治行动中,针对健身行业人脸识别高频应用场景开展专项执法排查,查...",
-   "time": "2026-08-10T09:53:57+08:00",
-   "date": "2026-08-10",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "个人信息保护",
-   "heat": 13.9,
-   "hot": false,
-   "tags": [
-    "个人信息",
-    "人脸识别",
-    "网信办"
-   ],
-   "importance": 11.0,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
   },
   {
    "title": "数据 安全与 合规 周报",
@@ -591,29 +537,6 @@
    "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
   },
   {
-   "title": "第二百七十弹:健身场馆 个人信息保护 需注意的主要问题",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786356931&ver=6896&signature=nlEd0yE*AHQdwRdxj9XWhEWQPsEBLPSo4MZa3qmA9xs9zPSwx-hUUutBG5YMbL9tikZWAZBiLailumIWF6ViNJ3E*7MMGqp7HOvpIS7MEBGt6RowouGzlIovtjJh30Uh&new=1",
-   "summary": "2026年7-8月,重庆市璧山区网信办在辖区 个人信息保护 专项整治行动中,针对健身行业人脸识别高频应用场景开展专项执法排查,查...",
-   "time": "2026-08-10T09:53:57+08:00",
-   "date": "2026-08-10",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "个人信息保护",
-   "heat": 13.9,
-   "hot": false,
-   "tags": [
-    "人脸识别",
-    "个人信息",
-    "网信办"
-   ],
-   "importance": 11.0,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
-  },
-  {
    "title": "数据 安全与 合规 周报",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786361347&ver=6896&signature=sVzlAU1G-kYgS2yLICvEI18SSbXSeA2Ndeu93txGuuasv2YgxWMqxss*FuMq1TdO-j5a8kVfKmIEe4V*weG2hWpRXhjruKYfTArxRpZWicd0KdR*6pDE4nizSNUBNWoJ&new=1",
    "summary": "2026-W32 | 2026年8月3日—8月9日本期聚焦国内外 数据 安全、隐私保护、网络安全、AI 监管、 数据 跨境与 合规 执法领域的重要动态....",
@@ -635,29 +558,6 @@
    "kw_score": 9.0,
    "weight": 2.0,
    "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
-  },
-  {
-   "title": "第二百七十弹:健身场馆 个人信息保护 需注意的主要问题",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786361373&ver=6896&signature=nlEd0yE*AHQdwRdxj9XWhEWQPsEBLPSo4MZa3qmA9xsndJo1naFKWbQSrve2WnIpPVdK0v8oDSUlStQtJVtBD6ILimCZwthYJ6fJh3aZI50e5xFwvVRoFj*KLP9n9dCI&new=1",
-   "summary": "2026年7-8月,重庆市璧山区网信办在辖区 个人信息保护 专项整治行动中,针对健身行业人脸识别高频应用场景开展专项执法排查,查...",
-   "time": "2026-08-10T09:53:57+08:00",
-   "date": "2026-08-10",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "个人信息保护",
-   "heat": 13.9,
-   "hot": false,
-   "tags": [
-    "个人信息",
-    "人脸识别",
-    "网信办"
-   ],
-   "importance": 11.0,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
   },
   {
    "title": "数据 安全与 合规 周报",
@@ -752,29 +652,6 @@
    "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
   },
   {
-   "title": "第二百七十弹:健身场馆 个人信息保护 需注意的主要问题",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786380786&ver=6896&signature=nlEd0yE*AHQdwRdxj9XWhEWQPsEBLPSo4MZa3qmA9xsOCW65ZUcU5RLMMMg2eE1V0pUrRfE0AM8JG1Vb2cxjsDdY121S3y5ZZCZXiLjemhjDyPbNQTJOdMA0kip1-z1u&new=1",
-   "summary": "2026年7-8月,重庆市璧山区网信办在辖区 个人信息保护 专项整治行动中,针对健身行业人脸识别高频应用场景开展专项执法排查,查...",
-   "time": "2026-08-10T09:53:57+08:00",
-   "date": "2026-08-10",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "个人信息保护",
-   "heat": 13.9,
-   "hot": false,
-   "tags": [
-    "个人信息",
-    "人脸识别",
-    "网信办"
-   ],
-   "importance": 11.0,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
-  },
-  {
    "title": "数据 安全与 合规 周报",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786384078&ver=6896&signature=sVzlAU1G-kYgS2yLICvEI18SSbXSeA2Ndeu93txGuuZDvDfGoXnRayF1-m8FEYd9suSXc3CzkPzJmauc5r5XbR9WUafBqT4Drsp92EmAp0D8jKAjgDBFJjspWt-pLGpR&new=1",
    "summary": "2026-W32 | 2026年8月3日—8月9日本期聚焦国内外 数据 安全、隐私保护、网络安全、AI 监管、 数据 跨境与 合规 执法领域的重要动态....",
@@ -796,29 +673,6 @@
    "kw_score": 9.0,
    "weight": 2.0,
    "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
-  },
-  {
-   "title": "第二百七十弹:健身场馆 个人信息保护 需注意的主要问题",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786384103&ver=6896&signature=nlEd0yE*AHQdwRdxj9XWhEWQPsEBLPSo4MZa3qmA9xsOCW65ZUcU5RLMMMg2eE1Vehgpds-wwWeWQnY4CfbKyBYQNdqYkPKZZAYfdK8BFRMG6qGi7fa4RaXtYPcEOhiv&new=1",
-   "summary": "2026年7-8月,重庆市璧山区网信办在辖区 个人信息保护 专项整治行动中,针对健身行业人脸识别高频应用场景开展专项执法排查,查...",
-   "time": "2026-08-10T09:53:57+08:00",
-   "date": "2026-08-10",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "个人信息保护",
-   "heat": 13.9,
-   "hot": false,
-   "tags": [
-    "个人信息",
-    "人脸识别",
-    "网信办"
-   ],
-   "importance": 11.0,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
   },
   {
    "title": "数据 安全与 合规 周报",
@@ -844,29 +698,6 @@
    "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
   },
   {
-   "title": "第二百七十弹:健身场馆 个人信息保护 需注意的主要问题",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786387894&ver=6896&signature=nlEd0yE*AHQdwRdxj9XWhEWQPsEBLPSo4MZa3qmA9xsOCW65ZUcU5RLMMMg2eE1Vjdu9PiTC-0WLTvZHMCzjMXYLKnCE2LnU8bWE9W8AJxTnrMb4VbSMCi1vGunKHMtM&new=1",
-   "summary": "2026年7-8月,重庆市璧山区网信办在辖区 个人信息保护 专项整治行动中,针对健身行业人脸识别高频应用场景开展专项执法排查,查...",
-   "time": "2026-08-10T09:53:57+08:00",
-   "date": "2026-08-10",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "个人信息保护",
-   "heat": 13.9,
-   "hot": false,
-   "tags": [
-    "个人信息",
-    "人脸识别",
-    "网信办"
-   ],
-   "importance": 11.0,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
-  },
-  {
    "title": "数据 安全与 合规 周报",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786391555&ver=6896&signature=sVzlAU1G-kYgS2yLICvEI18SSbXSeA2Ndeu93txGuuYRDQJ4PkRdUJ3JdUuVLxpxcD38cj15KgJh8YIzwookRw4nI1iXhZEkx49PZO5dReEDfRffKl03GlVXg4Rt7Y8y&new=1",
    "summary": "2026-W32 | 2026年8月3日—8月9日本期聚焦国内外 数据 安全、隐私保护、网络安全、AI 监管、 数据 跨境与 合规 执法领域的重要动态....",
@@ -888,29 +719,6 @@
    "kw_score": 9.0,
    "weight": 2.0,
    "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
-  },
-  {
-   "title": "第二百七十弹:健身场馆 个人信息保护 需注意的主要问题",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786391583&ver=6896&signature=nlEd0yE*AHQdwRdxj9XWhEWQPsEBLPSo4MZa3qmA9xtIaCldr6lasKvz0uEazqHwGWa48btRQ8RgAE*oHhH-CMQlGtI7iE2NExGW6f8btGrDZLzgblWcLeWAj4dPXVfK&new=1",
-   "summary": "2026年7-8月,重庆市璧山区网信办在辖区 个人信息保护 专项整治行动中,针对健身行业人脸识别高频应用场景开展专项执法排查,查...",
-   "time": "2026-08-10T09:53:57+08:00",
-   "date": "2026-08-10",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "个人信息保护",
-   "heat": 13.9,
-   "hot": false,
-   "tags": [
-    "人脸识别",
-    "个人信息",
-    "网信办"
-   ],
-   "importance": 11.0,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
   },
   {
    "title": "数据 安全与 合规 周报",
@@ -936,29 +744,6 @@
    "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
   },
   {
-   "title": "第二百七十弹:健身场馆 个人信息保护 需注意的主要问题",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786394245&ver=6896&signature=nlEd0yE*AHQdwRdxj9XWhEWQPsEBLPSo4MZa3qmA9xtIaCldr6lasKvz0uEazqHwdJXaQY7j9nzS2AEhtgC7-mfqxgN79IOnu2O9FlSIf1oxVgfh*UVFU2D*S29j3gMs&new=1",
-   "summary": "2026年7-8月,重庆市璧山区网信办在辖区 个人信息保护 专项整治行动中,针对健身行业人脸识别高频应用场景开展专项执法排查,查...",
-   "time": "2026-08-10T09:53:57+08:00",
-   "date": "2026-08-10",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "个人信息保护",
-   "heat": 13.9,
-   "hot": false,
-   "tags": [
-    "人脸识别",
-    "个人信息",
-    "网信办"
-   ],
-   "importance": 11.0,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
-  },
-  {
    "title": "数据 安全与 合规 周报",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786397810&ver=6897&signature=pBhhor-8h4ZSi-Kb9FxnJigWmuDZCUsRWIh1yx-XfNZAM1z9z9ubNQeTrfvRtoCXcqY64rca6gFm0OIYmPnExWRcyzS8tPIbtnh9*FCCpTomXJyjg4LkufAiD4aKudzZ&new=1",
    "summary": "2026-W32 | 2026年8月3日—8月9日本期聚焦国内外 数据 安全、隐私保护、网络安全、AI 监管、 数据 跨境与 合规 执法领域的重要动态....",
@@ -982,6 +767,282 @@
    "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
   },
   {
+   "title": "数据 安全与 合规 周报",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786401157&ver=6897&signature=pBhhor-8h4ZSi-Kb9FxnJigWmuDZCUsRWIh1yx-XfNYHgg7dFaIeDtLsWGnZd0auLjJAMPa3SecGKMa0bizn5oay-Mtx8rqP5WRX0WcUPcNR3eV-z-lEGtTBXIa5Huwj&new=1",
+   "summary": "2026-W32 | 2026年8月3日—8月9日本期聚焦国内外 数据 安全、隐私保护、网络安全、AI 监管、 数据 跨境与 合规 执法领域的重要动态....",
+   "time": "2026-08-10T11:00:51+08:00",
+   "date": "2026-08-10",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "执法处罚",
+   "heat": 13.9,
+   "hot": false,
+   "tags": [
+    "隐私保护",
+    "网络安全",
+    "监管"
+   ],
+   "importance": 13.5,
+   "kw_score": 9.0,
+   "weight": 2.0,
+   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
+  },
+  {
+   "title": "第二百七十弹:健身场馆 个人信息保护 需注意的主要问题",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786335106&ver=6895&signature=jSMRsYITF1S6yiN3*f1K5BrICHsfQAGydQVSloSjfHJjxj6ts-HPCppt3i8ei7UnQ-wuJHvgiL7C-h*f3jsQT7NkxKsZFsZ88n0RmKF0ukWIe1qbQRrlD5ti4R1-QoXp&new=1",
+   "summary": "2026年7-8月,重庆市璧山区网信办在辖区 个人信息保护 专项整治行动中,针对健身行业人脸识别高频应用场景开展专项执法排查,查...",
+   "time": "2026-08-10T09:53:57+08:00",
+   "date": "2026-08-10",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "个人信息保护",
+   "heat": 13.8,
+   "hot": false,
+   "tags": [
+    "人脸识别",
+    "个人信息",
+    "网信办"
+   ],
+   "importance": 11.0,
+   "kw_score": 9.0,
+   "weight": 2.0,
+   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
+  },
+  {
+   "title": "第二百七十弹:健身场馆 个人信息保护 需注意的主要问题",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786341231&ver=6895&signature=jSMRsYITF1S6yiN3*f1K5BrICHsfQAGydQVSloSjfHIM-0f*GDIltPYf1gMtVwnykQADDYnY4PxEQpHprhk-ZUzTD0EGhPjRIgUnaUIXe2O*EBOmZyeP6df*UjRpxpMT&new=1",
+   "summary": "2026年7-8月,重庆市璧山区网信办在辖区 个人信息保护 专项整治行动中,针对健身行业人脸识别高频应用场景开展专项执法排查,查...",
+   "time": "2026-08-10T09:53:57+08:00",
+   "date": "2026-08-10",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "个人信息保护",
+   "heat": 13.8,
+   "hot": false,
+   "tags": [
+    "个人信息",
+    "人脸识别",
+    "网信办"
+   ],
+   "importance": 11.0,
+   "kw_score": 9.0,
+   "weight": 2.0,
+   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
+  },
+  {
+   "title": "第二百七十弹:健身场馆 个人信息保护 需注意的主要问题",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786346615&ver=6895&signature=jSMRsYITF1S6yiN3*f1K5BrICHsfQAGydQVSloSjfHIM-0f*GDIltPYf1gMtVwnyGm8TCP7XxpI-yvwGGl60ZKRARPR7cemKG37uXgOMSbttq8FIQmovbelPaxXZUF3c&new=1",
+   "summary": "2026年7-8月,重庆市璧山区网信办在辖区 个人信息保护 专项整治行动中,针对健身行业人脸识别高频应用场景开展专项执法排查,查...",
+   "time": "2026-08-10T09:53:57+08:00",
+   "date": "2026-08-10",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "个人信息保护",
+   "heat": 13.8,
+   "hot": false,
+   "tags": [
+    "人脸识别",
+    "个人信息",
+    "网信办"
+   ],
+   "importance": 11.0,
+   "kw_score": 9.0,
+   "weight": 2.0,
+   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
+  },
+  {
+   "title": "第二百七十弹:健身场馆 个人信息保护 需注意的主要问题",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786352184&ver=6895&signature=jSMRsYITF1S6yiN3*f1K5BrICHsfQAGydQVSloSjfHJ5ze76SHg1LIsJ6XmdviA4RRYJrqcgIjeiDw3z4GpslWTnnpPBAFpAAQvPPgxIEhFAo8svZGuNuF4g5BEwFYsX&new=1",
+   "summary": "2026年7-8月,重庆市璧山区网信办在辖区 个人信息保护 专项整治行动中,针对健身行业人脸识别高频应用场景开展专项执法排查,查...",
+   "time": "2026-08-10T09:53:57+08:00",
+   "date": "2026-08-10",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "个人信息保护",
+   "heat": 13.8,
+   "hot": false,
+   "tags": [
+    "个人信息",
+    "人脸识别",
+    "网信办"
+   ],
+   "importance": 11.0,
+   "kw_score": 9.0,
+   "weight": 2.0,
+   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
+  },
+  {
+   "title": "第二百七十弹:健身场馆 个人信息保护 需注意的主要问题",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786356931&ver=6896&signature=nlEd0yE*AHQdwRdxj9XWhEWQPsEBLPSo4MZa3qmA9xs9zPSwx-hUUutBG5YMbL9tikZWAZBiLailumIWF6ViNJ3E*7MMGqp7HOvpIS7MEBGt6RowouGzlIovtjJh30Uh&new=1",
+   "summary": "2026年7-8月,重庆市璧山区网信办在辖区 个人信息保护 专项整治行动中,针对健身行业人脸识别高频应用场景开展专项执法排查,查...",
+   "time": "2026-08-10T09:53:57+08:00",
+   "date": "2026-08-10",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "个人信息保护",
+   "heat": 13.8,
+   "hot": false,
+   "tags": [
+    "人脸识别",
+    "个人信息",
+    "网信办"
+   ],
+   "importance": 11.0,
+   "kw_score": 9.0,
+   "weight": 2.0,
+   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
+  },
+  {
+   "title": "第二百七十弹:健身场馆 个人信息保护 需注意的主要问题",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786361373&ver=6896&signature=nlEd0yE*AHQdwRdxj9XWhEWQPsEBLPSo4MZa3qmA9xsndJo1naFKWbQSrve2WnIpPVdK0v8oDSUlStQtJVtBD6ILimCZwthYJ6fJh3aZI50e5xFwvVRoFj*KLP9n9dCI&new=1",
+   "summary": "2026年7-8月,重庆市璧山区网信办在辖区 个人信息保护 专项整治行动中,针对健身行业人脸识别高频应用场景开展专项执法排查,查...",
+   "time": "2026-08-10T09:53:57+08:00",
+   "date": "2026-08-10",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "个人信息保护",
+   "heat": 13.8,
+   "hot": false,
+   "tags": [
+    "个人信息",
+    "人脸识别",
+    "网信办"
+   ],
+   "importance": 11.0,
+   "kw_score": 9.0,
+   "weight": 2.0,
+   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
+  },
+  {
+   "title": "第二百七十弹:健身场馆 个人信息保护 需注意的主要问题",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786380786&ver=6896&signature=nlEd0yE*AHQdwRdxj9XWhEWQPsEBLPSo4MZa3qmA9xsOCW65ZUcU5RLMMMg2eE1V0pUrRfE0AM8JG1Vb2cxjsDdY121S3y5ZZCZXiLjemhjDyPbNQTJOdMA0kip1-z1u&new=1",
+   "summary": "2026年7-8月,重庆市璧山区网信办在辖区 个人信息保护 专项整治行动中,针对健身行业人脸识别高频应用场景开展专项执法排查,查...",
+   "time": "2026-08-10T09:53:57+08:00",
+   "date": "2026-08-10",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "个人信息保护",
+   "heat": 13.8,
+   "hot": false,
+   "tags": [
+    "个人信息",
+    "人脸识别",
+    "网信办"
+   ],
+   "importance": 11.0,
+   "kw_score": 9.0,
+   "weight": 2.0,
+   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
+  },
+  {
+   "title": "第二百七十弹:健身场馆 个人信息保护 需注意的主要问题",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786384103&ver=6896&signature=nlEd0yE*AHQdwRdxj9XWhEWQPsEBLPSo4MZa3qmA9xsOCW65ZUcU5RLMMMg2eE1Vehgpds-wwWeWQnY4CfbKyBYQNdqYkPKZZAYfdK8BFRMG6qGi7fa4RaXtYPcEOhiv&new=1",
+   "summary": "2026年7-8月,重庆市璧山区网信办在辖区 个人信息保护 专项整治行动中,针对健身行业人脸识别高频应用场景开展专项执法排查,查...",
+   "time": "2026-08-10T09:53:57+08:00",
+   "date": "2026-08-10",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "个人信息保护",
+   "heat": 13.8,
+   "hot": false,
+   "tags": [
+    "个人信息",
+    "人脸识别",
+    "网信办"
+   ],
+   "importance": 11.0,
+   "kw_score": 9.0,
+   "weight": 2.0,
+   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
+  },
+  {
+   "title": "第二百七十弹:健身场馆 个人信息保护 需注意的主要问题",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786387894&ver=6896&signature=nlEd0yE*AHQdwRdxj9XWhEWQPsEBLPSo4MZa3qmA9xsOCW65ZUcU5RLMMMg2eE1Vjdu9PiTC-0WLTvZHMCzjMXYLKnCE2LnU8bWE9W8AJxTnrMb4VbSMCi1vGunKHMtM&new=1",
+   "summary": "2026年7-8月,重庆市璧山区网信办在辖区 个人信息保护 专项整治行动中,针对健身行业人脸识别高频应用场景开展专项执法排查,查...",
+   "time": "2026-08-10T09:53:57+08:00",
+   "date": "2026-08-10",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "个人信息保护",
+   "heat": 13.8,
+   "hot": false,
+   "tags": [
+    "个人信息",
+    "人脸识别",
+    "网信办"
+   ],
+   "importance": 11.0,
+   "kw_score": 9.0,
+   "weight": 2.0,
+   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
+  },
+  {
+   "title": "第二百七十弹:健身场馆 个人信息保护 需注意的主要问题",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786391583&ver=6896&signature=nlEd0yE*AHQdwRdxj9XWhEWQPsEBLPSo4MZa3qmA9xtIaCldr6lasKvz0uEazqHwGWa48btRQ8RgAE*oHhH-CMQlGtI7iE2NExGW6f8btGrDZLzgblWcLeWAj4dPXVfK&new=1",
+   "summary": "2026年7-8月,重庆市璧山区网信办在辖区 个人信息保护 专项整治行动中,针对健身行业人脸识别高频应用场景开展专项执法排查,查...",
+   "time": "2026-08-10T09:53:57+08:00",
+   "date": "2026-08-10",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "个人信息保护",
+   "heat": 13.8,
+   "hot": false,
+   "tags": [
+    "人脸识别",
+    "个人信息",
+    "网信办"
+   ],
+   "importance": 11.0,
+   "kw_score": 9.0,
+   "weight": 2.0,
+   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
+  },
+  {
+   "title": "第二百七十弹:健身场馆 个人信息保护 需注意的主要问题",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786394245&ver=6896&signature=nlEd0yE*AHQdwRdxj9XWhEWQPsEBLPSo4MZa3qmA9xtIaCldr6lasKvz0uEazqHwdJXaQY7j9nzS2AEhtgC7-mfqxgN79IOnu2O9FlSIf1oxVgfh*UVFU2D*S29j3gMs&new=1",
+   "summary": "2026年7-8月,重庆市璧山区网信办在辖区 个人信息保护 专项整治行动中,针对健身行业人脸识别高频应用场景开展专项执法排查,查...",
+   "time": "2026-08-10T09:53:57+08:00",
+   "date": "2026-08-10",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "个人信息保护",
+   "heat": 13.8,
+   "hot": false,
+   "tags": [
+    "人脸识别",
+    "个人信息",
+    "网信办"
+   ],
+   "importance": 11.0,
+   "kw_score": 9.0,
+   "weight": 2.0,
+   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
+  },
+  {
    "title": "第二百七十弹:健身场馆 个人信息保护 需注意的主要问题",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786397838&ver=6897&signature=AvGVeIwJRdmlR5ipnYWGbXVmY9q8AOGX-4VKH4O67n0SqmLnaw7QEyjd46WpiNd-AeSckldV6Spin3R6xOY3OxLW338xfhl26Cke62PR7*ahCS3Dr1lr0tADb6UdU-pe&new=1",
    "summary": "2026年7-8月,重庆市璧山区网信办在辖区 个人信息保护 专项整治行动中,针对健身行业人脸识别高频应用场景开展专项执法排查,查...",
@@ -992,11 +1053,34 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 13.9,
+   "heat": 13.8,
    "hot": false,
    "tags": [
     "人脸识别",
     "个人信息",
+    "网信办"
+   ],
+   "importance": 11.0,
+   "kw_score": 9.0,
+   "weight": 2.0,
+   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
+  },
+  {
+   "title": "第二百七十弹:健身场馆 个人信息保护 需注意的主要问题",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786401181&ver=6897&signature=AvGVeIwJRdmlR5ipnYWGbXVmY9q8AOGX-4VKH4O67n14ejt1v4G-xr0mHAtaTUF0TRN1HDIUJelrtl9Ovbpig2cJlKd5crYTjo1C9HvDCQL4af2DqGAFHdo2hkSo-FPM&new=1",
+   "summary": "2026年7-8月,重庆市璧山区网信办在辖区 个人信息保护 专项整治行动中,针对健身行业人脸识别高频应用场景开展专项执法排查,查...",
+   "time": "2026-08-10T09:53:57+08:00",
+   "date": "2026-08-10",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "个人信息保护",
+   "heat": 13.8,
+   "hot": false,
+   "tags": [
+    "个人信息",
+    "人脸识别",
     "网信办"
    ],
    "importance": 11.0,
@@ -1176,7 +1260,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 9.6,
+   "heat": 9.5,
    "hot": false,
    "tags": [
     "data breach",
@@ -1265,7 +1349,7 @@
    ],
    "region": "国际",
    "category": "个人信息保护",
-   "heat": 7.4,
+   "heat": 7.3,
    "hot": false,
    "tags": [
     "privacy"
@@ -1286,7 +1370,7 @@
    ],
    "region": "国际",
    "category": "执法处罚",
-   "heat": 7.1,
+   "heat": 7.0,
    "hot": false,
    "tags": [
     "fine"
@@ -1813,7 +1897,7 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 9.0,
+   "heat": 8.9,
    "hot": false,
    "tags": [
     "个人信息",
@@ -1836,7 +1920,7 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 9.0,
+   "heat": 8.9,
    "hot": false,
    "tags": [
     "征求意见",
@@ -1859,7 +1943,7 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 9.0,
+   "heat": 8.9,
    "hot": false,
    "tags": [
     "征求意见",
@@ -1882,7 +1966,7 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 9.0,
+   "heat": 8.9,
    "hot": false,
    "tags": [
     "征求意见",
@@ -1905,7 +1989,7 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 9.0,
+   "heat": 8.9,
    "hot": false,
    "tags": [
     "个人信息",
@@ -1928,7 +2012,7 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 9.0,
+   "heat": 8.9,
    "hot": false,
    "tags": [
     "个人信息",
@@ -1951,7 +2035,7 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 9.0,
+   "heat": 8.9,
    "hot": false,
    "tags": [
     "个人信息",
@@ -1974,7 +2058,7 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 9.0,
+   "heat": 8.9,
    "hot": false,
    "tags": [
     "征求意见",
@@ -1997,7 +2081,7 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 9.0,
+   "heat": 8.9,
    "hot": false,
    "tags": [
     "征求意见",
@@ -2020,7 +2104,7 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 9.0,
+   "heat": 8.9,
    "hot": false,
    "tags": [
     "个人信息",
@@ -2043,7 +2127,7 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 9.0,
+   "heat": 8.9,
    "hot": false,
    "tags": [
     "个人信息",
@@ -2066,7 +2150,7 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 9.0,
+   "heat": 8.9,
    "hot": false,
    "tags": [
     "个人信息",
@@ -2089,7 +2173,7 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 9.0,
+   "heat": 8.9,
    "hot": false,
    "tags": [
     "个人信息",
@@ -2112,7 +2196,7 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 9.0,
+   "heat": 8.9,
    "hot": false,
    "tags": [
     "个人信息",
@@ -2135,7 +2219,7 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 9.0,
+   "heat": 8.9,
    "hot": false,
    "tags": [
     "个人信息",
@@ -2158,7 +2242,7 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 9.0,
+   "heat": 8.9,
    "hot": false,
    "tags": [
     "个人信息",
@@ -2181,7 +2265,7 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 9.0,
+   "heat": 8.9,
    "hot": false,
    "tags": [
     "个人信息",
@@ -2204,7 +2288,7 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 9.0,
+   "heat": 8.9,
    "hot": false,
    "tags": [
     "征求意见",
@@ -2227,7 +2311,7 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 9.0,
+   "heat": 8.9,
    "hot": false,
    "tags": [
     "征求意见",
@@ -2250,7 +2334,7 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 9.0,
+   "heat": 8.9,
    "hot": false,
    "tags": [
     "个人信息",
@@ -2273,7 +2357,7 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 9.0,
+   "heat": 8.9,
    "hot": false,
    "tags": [
     "个人信息",
@@ -2296,7 +2380,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 8.9,
+   "heat": 8.8,
    "hot": false,
    "tags": [
     "数据合规",
@@ -2318,7 +2402,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 8.7,
+   "heat": 8.6,
    "hot": false,
    "tags": [
     "个人信息",
@@ -2341,7 +2425,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 8.7,
+   "heat": 8.6,
    "hot": false,
    "tags": [
     "个人信息",
@@ -2364,7 +2448,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 8.7,
+   "heat": 8.6,
    "hot": false,
    "tags": [
     "个人信息",
@@ -2387,7 +2471,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 8.7,
+   "heat": 8.6,
    "hot": false,
    "tags": [
     "个人信息",
@@ -2410,7 +2494,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 8.7,
+   "heat": 8.6,
    "hot": false,
    "tags": [
     "个人信息",
@@ -2433,7 +2517,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 8.7,
+   "heat": 8.6,
    "hot": false,
    "tags": [
     "个人信息",
@@ -2456,7 +2540,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 8.7,
+   "heat": 8.6,
    "hot": false,
    "tags": [
     "个人信息",
@@ -2479,7 +2563,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 8.7,
+   "heat": 8.6,
    "hot": false,
    "tags": [
     "个人信息",
@@ -2502,7 +2586,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 8.7,
+   "heat": 8.6,
    "hot": false,
    "tags": [
     "个人信息",
@@ -2525,7 +2609,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 8.3,
+   "heat": 8.2,
    "hot": false,
    "tags": [
     "数据合规",
@@ -2547,7 +2631,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 6.8,
+   "heat": 6.7,
    "hot": false,
    "tags": [
     "个人信息",
@@ -2569,7 +2653,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 6.8,
+   "heat": 6.7,
    "hot": false,
    "tags": [
     "个人信息",
@@ -2591,7 +2675,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 6.8,
+   "heat": 6.7,
    "hot": false,
    "tags": [
     "个人信息",
@@ -2615,7 +2699,7 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 14.7,
+   "heat": 14.6,
    "hot": false,
    "tags": [
     "个人信息",
@@ -3241,7 +3325,7 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 12.7,
+   "heat": 12.6,
    "hot": false,
    "tags": [
     "个人信息",
@@ -3266,7 +3350,7 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 12.7,
+   "heat": 12.6,
    "hot": false,
    "tags": [
     "个人信息",
@@ -3291,7 +3375,7 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 12.7,
+   "heat": 12.6,
    "hot": false,
    "tags": [
     "个人信息",
@@ -3388,7 +3472,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 11.3,
+   "heat": 11.2,
    "hot": false,
    "tags": [
     "数据合规",
@@ -3411,7 +3495,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 11.3,
+   "heat": 11.2,
    "hot": false,
    "tags": [
     "数据合规",
@@ -3434,7 +3518,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 11.3,
+   "heat": 11.2,
    "hot": false,
    "tags": [
     "数据安全",
@@ -3457,7 +3541,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 11.3,
+   "heat": 11.2,
    "hot": false,
    "tags": [
     "合规审计",
@@ -3480,7 +3564,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 11.3,
+   "heat": 11.2,
    "hot": false,
    "tags": [
     "数据合规",
@@ -3503,7 +3587,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 11.3,
+   "heat": 11.2,
    "hot": false,
    "tags": [
     "合规审计",
@@ -3526,7 +3610,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 11.3,
+   "heat": 11.2,
    "hot": false,
    "tags": [
     "数据安全",
@@ -3549,7 +3633,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 11.3,
+   "heat": 11.2,
    "hot": false,
    "tags": [
     "合规审计",
@@ -3572,7 +3656,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 11.3,
+   "heat": 11.2,
    "hot": false,
    "tags": [
     "数据合规",
@@ -3595,7 +3679,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 11.3,
+   "heat": 11.2,
    "hot": false,
    "tags": [
     "数据安全",
@@ -3618,7 +3702,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 11.3,
+   "heat": 11.2,
    "hot": false,
    "tags": [
     "数据安全",
@@ -3641,7 +3725,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 11.3,
+   "heat": 11.2,
    "hot": false,
    "tags": [
     "数据安全",
@@ -3664,7 +3748,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 11.3,
+   "heat": 11.2,
    "hot": false,
    "tags": [
     "数据安全",
@@ -3687,7 +3771,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 11.3,
+   "heat": 11.2,
    "hot": false,
    "tags": [
     "合规审计",
@@ -3710,7 +3794,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 11.3,
+   "heat": 11.2,
    "hot": false,
    "tags": [
     "合规审计",
@@ -3733,7 +3817,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 11.3,
+   "heat": 11.2,
    "hot": false,
    "tags": [
     "合规审计",
@@ -3756,7 +3840,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 11.3,
+   "heat": 11.2,
    "hot": false,
    "tags": [
     "数据合规",
@@ -3779,7 +3863,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 11.3,
+   "heat": 11.2,
    "hot": false,
    "tags": [
     "数据合规",
@@ -3802,7 +3886,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 11.3,
+   "heat": 11.2,
    "hot": false,
    "tags": [
     "数据合规",
@@ -3825,7 +3909,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 11.3,
+   "heat": 11.2,
    "hot": false,
    "tags": [
     "数据安全",
@@ -3848,7 +3932,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 11.3,
+   "heat": 11.2,
    "hot": false,
    "tags": [
     "合规审计",
@@ -3871,7 +3955,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 11.3,
+   "heat": 11.2,
    "hot": false,
    "tags": [
     "合规审计",
@@ -3894,7 +3978,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 11.3,
+   "heat": 11.2,
    "hot": false,
    "tags": [
     "合规审计",
@@ -3917,7 +4001,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 11.3,
+   "heat": 11.2,
    "hot": false,
    "tags": [
     "数据合规",
@@ -3940,7 +4024,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 11.3,
+   "heat": 11.2,
    "hot": false,
    "tags": [
     "数据合规",
@@ -3963,7 +4047,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 11.3,
+   "heat": 11.2,
    "hot": false,
    "tags": [
     "数据合规",
@@ -3986,7 +4070,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 11.3,
+   "heat": 11.2,
    "hot": false,
    "tags": [
     "合规审计",
@@ -4009,7 +4093,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 10.6,
+   "heat": 10.5,
    "hot": false,
    "tags": [
     "数据合规",
@@ -4032,7 +4116,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 10.6,
+   "heat": 10.5,
    "hot": false,
    "tags": [
     "数据合规",
@@ -4055,7 +4139,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 10.6,
+   "heat": 10.5,
    "hot": false,
    "tags": [
     "数据合规",
@@ -4078,7 +4162,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 10.6,
+   "heat": 10.5,
    "hot": false,
    "tags": [
     "数据合规",
@@ -4101,7 +4185,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 10.6,
+   "heat": 10.5,
    "hot": false,
    "tags": [
     "数据合规",
@@ -4124,7 +4208,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 10.6,
+   "heat": 10.5,
    "hot": false,
    "tags": [
     "数据合规",
@@ -4147,7 +4231,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 10.6,
+   "heat": 10.5,
    "hot": false,
    "tags": [
     "数据合规",
@@ -4170,7 +4254,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 10.6,
+   "heat": 10.5,
    "hot": false,
    "tags": [
     "数据合规",
@@ -4193,7 +4277,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 10.6,
+   "heat": 10.5,
    "hot": false,
    "tags": [
     "数据合规",
@@ -4216,7 +4300,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 10.6,
+   "heat": 10.5,
    "hot": false,
    "tags": [
     "数据合规",
@@ -4239,7 +4323,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 10.6,
+   "heat": 10.5,
    "hot": false,
    "tags": [
     "数据合规",
@@ -4262,7 +4346,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 10.6,
+   "heat": 10.5,
    "hot": false,
    "tags": [
     "数据合规",
@@ -4285,7 +4369,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 10.6,
+   "heat": 10.5,
    "hot": false,
    "tags": [
     "数据合规",
@@ -4308,7 +4392,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 10.6,
+   "heat": 10.5,
    "hot": false,
    "tags": [
     "数据合规",
@@ -4331,7 +4415,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 10.6,
+   "heat": 10.5,
    "hot": false,
    "tags": [
     "数据合规",
@@ -4354,7 +4438,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 10.6,
+   "heat": 10.5,
    "hot": false,
    "tags": [
     "数据合规",
@@ -4377,7 +4461,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 10.6,
+   "heat": 10.5,
    "hot": false,
    "tags": [
     "数据合规",
@@ -4400,7 +4484,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 10.6,
+   "heat": 10.5,
    "hot": false,
    "tags": [
     "数据合规",
@@ -4423,7 +4507,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 10.6,
+   "heat": 10.5,
    "hot": false,
    "tags": [
     "数据合规",
@@ -4446,7 +4530,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 10.6,
+   "heat": 10.5,
    "hot": false,
    "tags": [
     "数据合规",
@@ -4469,7 +4553,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 10.6,
+   "heat": 10.5,
    "hot": false,
    "tags": [
     "数据合规",
@@ -4492,7 +4576,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 10.6,
+   "heat": 10.5,
    "hot": false,
    "tags": [
     "数据合规",
@@ -4539,7 +4623,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 9.8,
+   "heat": 9.7,
    "hot": false,
    "tags": [
     "合规审计",
@@ -4562,7 +4646,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 9.8,
+   "heat": 9.7,
    "hot": false,
    "tags": [
     "个人信息",
@@ -4585,7 +4669,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 9.8,
+   "heat": 9.7,
    "hot": false,
    "tags": [
     "个人信息",
@@ -4608,7 +4692,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 9.8,
+   "heat": 9.7,
    "hot": false,
    "tags": [
     "合规审计",
@@ -4631,7 +4715,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 9.8,
+   "heat": 9.7,
    "hot": false,
    "tags": [
     "个人信息",
@@ -4654,7 +4738,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 9.8,
+   "heat": 9.7,
    "hot": false,
    "tags": [
     "合规审计",
@@ -4677,7 +4761,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 9.8,
+   "heat": 9.7,
    "hot": false,
    "tags": [
     "个人信息",
@@ -4700,7 +4784,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 9.8,
+   "heat": 9.7,
    "hot": false,
    "tags": [
     "个人信息",
@@ -4723,7 +4807,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 9.8,
+   "heat": 9.7,
    "hot": false,
    "tags": [
     "合规审计",
@@ -4746,7 +4830,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 9.8,
+   "heat": 9.7,
    "hot": false,
    "tags": [
     "合规审计",
@@ -4769,7 +4853,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 9.8,
+   "heat": 9.7,
    "hot": false,
    "tags": [
     "个人信息",
@@ -4792,7 +4876,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 9.8,
+   "heat": 9.7,
    "hot": false,
    "tags": [
     "个人信息",
@@ -4815,7 +4899,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 9.8,
+   "heat": 9.7,
    "hot": false,
    "tags": [
     "个人信息",
@@ -4838,7 +4922,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 9.8,
+   "heat": 9.7,
    "hot": false,
    "tags": [
     "个人信息",
@@ -5229,7 +5313,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 5.8,
+   "heat": 5.7,
    "hot": false,
    "tags": [
     "arbitration",
@@ -6909,13 +6993,13 @@
    "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
   },
   {
-   "title": "国家网信办：拟要求大型个人信息处理者采取加密等措施 不得过度收集",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5BNzlBNTFIR1JqZURuRGItWVllbnFZTElDVXNaMEF4TFQwR3hDRTgwYkotQ1JRYzJ1Mjdmd3Vaa0tTS19vQ3dybGhyMXBtOU9nWDFwSnhCc20zMWQzUkMxT3pn?oc=5",
+   "title": "国家网信办：鼓励大型个人信息处理者开展个人信息保护相关技术、产品、服务创新",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBkbjJKNTZhTHdTQ2ZzeE9hOGQxQ0E5M2pkbmpoZXdsMVlEX1NOa0RNd2hCMHprZWJMNl9WeUtjeGRUSVdCWEpZUzhqRQ?oc=5",
    "summary": "",
-   "time": "2026-08-07T22:28:31+08:00",
+   "time": "2026-08-07T16:06:26+08:00",
    "date": "2026-08-07",
    "sources": [
-    "观点网"
+    "新浪财经"
    ],
    "region": "国内",
    "category": "个人信息保护",
@@ -6931,13 +7015,13 @@
    "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
   },
   {
-   "title": "国家网信办：鼓励大型个人信息处理者开展个人信息保护相关技术、产品、服务创新",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBkbjJKNTZhTHdTQ2ZzeE9hOGQxQ0E5M2pkbmpoZXdsMVlEX1NOa0RNd2hCMHprZWJMNl9WeUtjeGRUSVdCWEpZUzhqRQ?oc=5",
+   "title": "国家网信办：拟要求大型个人信息处理者采取加密等措施 不得过度收集",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5BNzlBNTFIR1JqZURuRGItWVllbnFZTElDVXNaMEF4TFQwR3hDRTgwYkotQ1JRYzJ1Mjdmd3Vaa0tTS19vQ3dybGhyMXBtOU9nWDFwSnhCc20zMWQzUkMxT3pn?oc=5",
    "summary": "",
-   "time": "2026-08-07T16:06:26+08:00",
+   "time": "2026-08-07T22:28:31+08:00",
    "date": "2026-08-07",
    "sources": [
-    "新浪财经"
+    "观点网"
    ],
    "region": "国内",
    "category": "个人信息保护",
@@ -7040,27 +7124,6 @@
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
   },
   {
-   "title": "US insurer wins billion-dollar award against Venezuela",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYmlnSmpxWFRjeC1nNnNwTmtvYkNHN3l4LWZFNVdXMDQweVVpeVdrbW1aTl8yTzhoLVhtSnBCODJZdUFmZzZsdGFQSmRjZjY2bUl4cUsxRVU3X1RqdWxERFAxNVdIM2tLNmJrb3V6Vm5HTFhlQmZwNFZRV2pkRU1TSDJ4bWI4OHZjYlRqS1poTjh0dk5TV0xXZUV1QmF2SFE?oc=5",
-   "summary": "",
-   "time": "2026-08-07T02:42:37+08:00",
-   "date": "2026-08-07",
-   "sources": [
-    "Global Arbitration Review"
-   ],
-   "region": "国际",
-   "category": "行业实践",
-   "heat": 4.0,
-   "hot": false,
-   "tags": [
-    "arbitration"
-   ],
-   "importance": 7.0,
-   "kw_score": 2.0,
-   "weight": 2.0,
-   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
-  },
-  {
    "title": "Was your data exposed in the 2025 Canadian Tire breach? Here's what you need to know about the new class action",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaEh0M29QZl9vYmdSV3FiWUF0ckhZaHBoSDYyZUZuMDZ4SGZveGtRbm9YSDgxLVNnS25rdnF5WEEzZG9OQlJPcE5ZdEFBUWE1NjdWVWJTUi00M005VG41Q29zWlZuOENrcnJlQThxaUJWWkZiajZFTjJrTE9tZkxETGhNT0ZTdWJ1TmZvSlZINGFrb291VkhPOWowUThHQzUxNWVUUkVuNUl0czdseW0yU2xOdVlFTG1zbzJFcGF1cw?oc=5",
    "summary": "",
@@ -7080,6 +7143,27 @@
    "kw_score": 2.0,
    "weight": 2.0,
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
+  },
+  {
+   "title": "US insurer wins billion-dollar award against Venezuela",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYmlnSmpxWFRjeC1nNnNwTmtvYkNHN3l4LWZFNVdXMDQweVVpeVdrbW1aTl8yTzhoLVhtSnBCODJZdUFmZzZsdGFQSmRjZjY2bUl4cUsxRVU3X1RqdWxERFAxNVdIM2tLNmJrb3V6Vm5HTFhlQmZwNFZRV2pkRU1TSDJ4bWI4OHZjYlRqS1poTjh0dk5TV0xXZUV1QmF2SFE?oc=5",
+   "summary": "",
+   "time": "2026-08-07T02:42:37+08:00",
+   "date": "2026-08-07",
+   "sources": [
+    "Global Arbitration Review"
+   ],
+   "region": "国际",
+   "category": "行业实践",
+   "heat": 4.0,
+   "hot": false,
+   "tags": [
+    "arbitration"
+   ],
+   "importance": 7.0,
+   "kw_score": 2.0,
+   "weight": 2.0,
+   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
   },
   {
    "title": "Regulator unveils draft regulation to strengthen handling of personal information",
@@ -7146,32 +7230,6 @@
     "网信办"
    ],
    "importance": 16.0,
-   "kw_score": 4.0,
-   "weight": 2.0,
-   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
-  },
-  {
-   "title": "网信办对派拓公司在华销售产品实施网络安全审查",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR2J1WFFNb092TnFndDl5RllWaWJPbXJ4LXlLUWg5ckJ1TWxZZUdydmhqSXUzZ0VNOU9OM0o5LU4zbWVBVTdaTTNoVzZBZjFRQnBhbElCUzkxdXlPWHNWS3ZCc0xTbDEwZUdNQWxqVnVlNElHTWFJWjVUOWVyNG9mQnJsR0hDdkg4ZkhHaGp1TkU4ZGhnWWJTMmRibXJ4UEJYOXgtUE1UNHE3cUhu?oc=5",
-   "summary": "",
-   "time": "2026-08-06T19:39:00+08:00",
-   "date": "2026-08-06",
-   "sources": [
-    "央视网",
-    "观点网",
-    "大河财立方",
-    "QQ News",
-    "sohu.com"
-   ],
-   "region": "国内",
-   "category": "行业实践",
-   "heat": 14.0,
-   "hot": false,
-   "tags": [
-    "网络安全",
-    "网信办"
-   ],
-   "importance": 14.0,
    "kw_score": 4.0,
    "weight": 2.0,
    "reason": "行业合规实践动态，可作为制度建设与对标参考。"
@@ -7385,6 +7443,32 @@
    "kw_score": 12.0,
    "weight": 2.0,
    "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
+  },
+  {
+   "title": "网信办对派拓公司在华销售产品实施网络安全审查",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR2J1WFFNb092TnFndDl5RllWaWJPbXJ4LXlLUWg5ckJ1TWxZZUdydmhqSXUzZ0VNOU9OM0o5LU4zbWVBVTdaTTNoVzZBZjFRQnBhbElCUzkxdXlPWHNWS3ZCc0xTbDEwZUdNQWxqVnVlNElHTWFJWjVUOWVyNG9mQnJsR0hDdkg4ZkhHaGp1TkU4ZGhnWWJTMmRibXJ4UEJYOXgtUE1UNHE3cUhu?oc=5",
+   "summary": "",
+   "time": "2026-08-06T19:39:00+08:00",
+   "date": "2026-08-06",
+   "sources": [
+    "央视网",
+    "观点网",
+    "大河财立方",
+    "QQ News",
+    "sohu.com"
+   ],
+   "region": "国内",
+   "category": "行业实践",
+   "heat": 14.0,
+   "hot": false,
+   "tags": [
+    "网络安全",
+    "网信办"
+   ],
+   "importance": 14.0,
+   "kw_score": 4.0,
+   "weight": 2.0,
+   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
   },
   {
    "title": "强监管来袭!医疗 数据 安全 合规 建设指南及自查清单",
@@ -7778,26 +7862,26 @@
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
   },
   {
-   "title": "网信办对派拓在华销售产品启动网络安全审查！其美股股价盘前跳水",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Jams4RklMeDVuSG1kZlRkbi1EWnFtZWM0WExkb0NhRm5md045OHotX2tpVlBObGdKNTFLUmdSdGMxRzlaWkkzNGlpb19zMTgwS0JTSVFOQmVsSWFFb1VKSmhhRm8xUQ?oc=5",
+   "title": "Aesto Health Data Breach Impacts Patient Info; Lawsuit Possible",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5kbXdIT2FZNk9jbG1aeU1XNU9IYVFfbFZFVkd3TzN6SUlubUl2VFZEcWJBOFhFVkN3YkdfSmZLN2NacTZpd2V3WFpYNGJ2Z0t0NnRRNGdwcUxKS0tnS2dLem84REpNQmZfYUlrLUJTWUNEdzBkX1Zfc0N2MFEtdw?oc=5",
    "summary": "",
-   "time": "2026-08-06T17:18:00+08:00",
+   "time": "2026-08-06T04:51:23+08:00",
    "date": "2026-08-06",
    "sources": [
-    "mrjjxw.com"
+    "ClassAction.org"
    ],
-   "region": "国内",
-   "category": "行业实践",
+   "region": "国际",
+   "category": "诉讼仲裁",
    "heat": 6.0,
    "hot": false,
    "tags": [
-    "网络安全",
-    "网信办"
+    "data breach",
+    "lawsuit"
    ],
-   "importance": 6.0,
+   "importance": 8.5,
    "kw_score": 4.0,
    "weight": 2.0,
-   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
+   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
   },
   {
    "title": "Lawsuit filed after Maine Course Hospitality data breach affected more than 7,100 people",
@@ -7837,28 +7921,6 @@
    "tags": [
     "data breach",
     "settlement"
-   ],
-   "importance": 8.5,
-   "kw_score": 4.0,
-   "weight": 2.0,
-   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
-  },
-  {
-   "title": "Aesto Health Data Breach Impacts Patient Info; Lawsuit Possible",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5kbXdIT2FZNk9jbG1aeU1XNU9IYVFfbFZFVkd3TzN6SUlubUl2VFZEcWJBOFhFVkN3YkdfSmZLN2NacTZpd2V3WFpYNGJ2Z0t0NnRRNGdwcUxKS0tnS2dLem84REpNQmZfYUlrLUJTWUNEdzBkX1Zfc0N2MFEtdw?oc=5",
-   "summary": "",
-   "time": "2026-08-06T04:51:23+08:00",
-   "date": "2026-08-06",
-   "sources": [
-    "ClassAction.org"
-   ],
-   "region": "国际",
-   "category": "诉讼仲裁",
-   "heat": 6.0,
-   "hot": false,
-   "tags": [
-    "data breach",
-    "lawsuit"
    ],
    "importance": 8.5,
    "kw_score": 4.0,
@@ -7983,6 +8045,28 @@
    "date": "2026-08-06",
    "sources": [
     "搜狐网"
+   ],
+   "region": "国内",
+   "category": "行业实践",
+   "heat": 6.0,
+   "hot": false,
+   "tags": [
+    "网络安全",
+    "网信办"
+   ],
+   "importance": 6.0,
+   "kw_score": 4.0,
+   "weight": 2.0,
+   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
+  },
+  {
+   "title": "网信办对派拓在华销售产品启动网络安全审查！其美股股价盘前跳水",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Jams4RklMeDVuSG1kZlRkbi1EWnFtZWM0WExkb0NhRm5md045OHotX2tpVlBObGdKNTFLUmdSdGMxRzlaWkkzNGlpb19zMTgwS0JTSVFOQmVsSWFFb1VKSmhhRm8xUQ?oc=5",
+   "summary": "",
+   "time": "2026-08-06T17:18:00+08:00",
+   "date": "2026-08-06",
+   "sources": [
+    "mrjjxw.com"
    ],
    "region": "国内",
    "category": "行业实践",
@@ -9037,28 +9121,6 @@
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
   },
   {
-   "title": "四维图新：2025年智云业务(含数据合规)实现营收29.04亿元 同比增长28.85%",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFByd2FCY0JjNXFxUWxMSm5US0p5TlZPQWltdW1PM2pORG9lY1lmOTJXWExPRW1ka3l4eDh5VzZnV2NRSUNBaWdKLUF4QzlfRFV4YmZNUXBzLTBrQllp?oc=5",
-   "summary": "",
-   "time": "2026-08-05T17:22:58+08:00",
-   "date": "2026-08-05",
-   "sources": [
-    "caiwennews.com"
-   ],
-   "region": "国内",
-   "category": "行业实践",
-   "heat": 7.0,
-   "hot": false,
-   "tags": [
-    "数据合规",
-    "合规"
-   ],
-   "importance": 10.0,
-   "kw_score": 5.0,
-   "weight": 2.0,
-   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
-  },
-  {
    "title": "保险 数据合规 深度解析:法定敏感数据界定、风险规避与落地整改清单",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1785895553&ver=6885&signature=BII0akx0InlbFeXZklwt-r4W5WhfwCfjgvzgBG3Gr0mSiDyxgal6*rdl9SCCJHp*wGSwbohoZIR6kHiqjDrdQw4ENlh-GswOhc5kwutdXyZwscuRw0OA2U9HCmTfC6Zg&new=1",
    "summary": "在数字保险全面落地的当下,数据已然成为保险展业、核保、理赔、风控的核心生产要素.不同于普通行业 数据合规 ,保险行业数据承...",
@@ -9088,6 +9150,28 @@
    "date": "2026-08-05",
    "sources": [
     "sohu.com"
+   ],
+   "region": "国内",
+   "category": "行业实践",
+   "heat": 7.0,
+   "hot": false,
+   "tags": [
+    "数据合规",
+    "合规"
+   ],
+   "importance": 10.0,
+   "kw_score": 5.0,
+   "weight": 2.0,
+   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
+  },
+  {
+   "title": "四维图新：2025年智云业务(含数据合规)实现营收29.04亿元 同比增长28.85%",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFByd2FCY0JjNXFxUWxMSm5US0p5TlZPQWltdW1PM2pORG9lY1lmOTJXWExPRW1ka3l4eDh5VzZnV2NRSUNBaWdKLUF4QzlfRFV4YmZNUXBzLTBrQllp?oc=5",
+   "summary": "",
+   "time": "2026-08-05T17:22:58+08:00",
+   "date": "2026-08-05",
+   "sources": [
+    "caiwennews.com"
    ],
    "region": "国内",
    "category": "行业实践",
@@ -9210,29 +9294,6 @@
    "kw_score": 1.0,
    "weight": 2.0,
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
-  },
-  {
-   "title": "保险 数据合规 风控:人脸采集、第三方导流、营销骚扰全维度解析",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1785800048&ver=6883&signature=-LpQut6nos8-JtvbzlNwQoyaNj0ECOGVryT0XPZDH1MY5TTo0AUn2yS-Ai3dI-sSezIWBgmWcUMw6aonuxr-evzftQxUWPygUtzFaoteJjaCD*LS8HMHRE3XywWFtuj0&new=1",
-   "summary": "随着中央网信办、国家金融监督管理总局持续推进金融领域个人信息保护专项整治行动,保险行业数字化展业场景下的 数据合规 风险持...",
-   "time": "2026-08-04T07:01:19+08:00",
-   "date": "2026-08-04",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "个人信息保护",
-   "heat": 12.0,
-   "hot": false,
-   "tags": [
-    "数据合规",
-    "个人信息",
-    "网信办"
-   ],
-   "importance": 12.0,
-   "kw_score": 10.0,
-   "weight": 2.0,
-   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
   },
   {
    "title": "数据合规 ＂国家队＂--落户大兴",
@@ -9649,29 +9710,6 @@
    "reason": "行业合规实践动态，可作为制度建设与对标参考。"
   },
   {
-   "title": "网信办拟收紧平台数据合规要求欧博ABG官网或受影响超2300家企业面临整改-TGBUS",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9YS19WSHMtLXBSOFFuSHNpTWx2ZkhxbWtsNVA0TFhnNVVpN29vcERKb2VQNTc0Umk5R1QyUDI0aVhUN1c5QnVSZC1jelBPdjhQ?oc=5",
-   "summary": "",
-   "time": "2026-08-04T16:05:08+08:00",
-   "date": "2026-08-04",
-   "sources": [
-    "电玩巴士"
-   ],
-   "region": "国内",
-   "category": "执法处罚",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "数据合规",
-    "网信办",
-    "合规"
-   ],
-   "importance": 12.5,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
-  },
-  {
    "title": "个人信息保护 合规审计底稿的“四件套”清单,直接照着搭就行",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1785809210&ver=6883&signature=ZUBSjvcqyB38Q7HiL7pKeE18VdCNQUfNhWCY2up*SyPqQBCnKk01csjbWWpws*oU9*hS56vIUxtgo9TeGlkdGnhCCypTJdsvuLzIHVhLZzU37FqW7U7vV07bOOZAtWxw&new=1",
    "summary": "摘要做 个人信息保护 合规审计,最怕的往往不是“没做”,而是做了却说不清、留了材料却对不上.等到监管问询、客户核查,甚至进...",
@@ -9739,6 +9777,29 @@
    "kw_score": 8.0,
    "weight": 2.0,
    "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
+  },
+  {
+   "title": "网信办拟收紧平台数据合规要求欧博ABG官网或受影响超2300家企业面临整改-TGBUS",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9YS19WSHMtLXBSOFFuSHNpTWx2ZkhxbWtsNVA0TFhnNVVpN29vcERKb2VQNTc0Umk5R1QyUDI0aVhUN1c5QnVSZC1jelBPdjhQ?oc=5",
+   "summary": "",
+   "time": "2026-08-04T16:05:08+08:00",
+   "date": "2026-08-04",
+   "sources": [
+    "电玩巴士"
+   ],
+   "region": "国内",
+   "category": "执法处罚",
+   "heat": 10.0,
+   "hot": false,
+   "tags": [
+    "数据合规",
+    "网信办",
+    "合规"
+   ],
+   "importance": 12.5,
+   "kw_score": 8.0,
+   "weight": 2.0,
+   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
   },
   {
    "title": "个人信息保护 合规审计底稿的“四件套”清单,直接照着搭就行",
@@ -10232,7 +10293,7 @@
   },
   {
    "title": "广东立法规范消费乱象，禁止虚假宣传和大数据“杀熟”",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94V1RJR3Q4REp1a3BOVjdhbXJ6RFh1cWJ3ZXh5ekZwUmd0elZaV3gtRUlpeE5ZY2drX1M3VkZlOUZJWXNOcEo0TUVoS2kwejFOMllJSUo3WjE0X0pkTUE?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5za2JYOWJNUnpCSkg5WTBuTkNtZGdmWnhRb3l4NmpwWXdFNnhOYk9UQjZYY0dEY2IwZW9QUl9zcGg4UnZ3UDJsejhqVnRMSWx0UGRtRUdxZnBWNW9SaElYRA?oc=5",
    "summary": "",
    "time": "2026-08-04T11:50:00+08:00",
    "date": "2026-08-04",
@@ -10253,7 +10314,7 @@
   },
   {
    "title": "广东立法规范消费乱象，禁止虚假宣传和大数据“杀熟”",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5za2JYOWJNUnpCSkg5WTBuTkNtZGdmWnhRb3l4NmpwWXdFNnhOYk9UQjZYY0dEY2IwZW9QUl9zcGg4UnZ3UDJsejhqVnRMSWx0UGRtRUdxZnBWNW9SaElYRA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94V1RJR3Q4REp1a3BOVjdhbXJ6RFh1cWJ3ZXh5ekZwUmd0elZaV3gtRUlpeE5ZY2drX1M3VkZlOUZJWXNOcEo0TUVoS2kwejFOMllJSUo3WjE0X0pkTUE?oc=5",
    "summary": "",
    "time": "2026-08-04T11:50:00+08:00",
    "date": "2026-08-04",
