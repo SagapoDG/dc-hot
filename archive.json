@@ -5170,8 +5170,8 @@
   "hot": false,
   "tags": [
    "enforcement",
-   "GDPR",
-   "EDPB"
+   "EDPB",
+   "GDPR"
   ],
   "importance": 11.0,
   "kw_score": 8.0,
@@ -5740,8 +5740,8 @@
   "hot": false,
   "tags": [
    "data protection",
-   "GDPR",
-   "EDPB"
+   "EDPB",
+   "GDPR"
   ],
   "importance": 14.0,
   "kw_score": 11.0,
@@ -7893,8 +7893,8 @@
   "heat": 7.0,
   "hot": false,
   "tags": [
-   "GDPR",
-   "fine"
+   "fine",
+   "GDPR"
   ],
   "importance": 9.5,
   "kw_score": 5.0,
@@ -23384,8 +23384,8 @@
   "heat": 7.0,
   "hot": false,
   "tags": [
-   "GDPR",
-   "fine"
+   "fine",
+   "GDPR"
   ],
   "importance": 12.5,
   "kw_score": 5.0,
@@ -52727,8 +52727,8 @@
   "heat": 10.0,
   "hot": false,
   "tags": [
-   "隐私保护",
    "数据合规",
+   "隐私保护",
    "合规"
   ],
   "importance": 10.0,
@@ -53228,9 +53228,9 @@
   "heat": 13.0,
   "hot": false,
   "tags": [
-   "安全评估",
+   "跨境数据",
    "数据合规",
-   "跨境数据"
+   "安全评估"
   ],
   "importance": 16.0,
   "kw_score": 11.0,
@@ -56241,8 +56241,8 @@
   "heat": 10.0,
   "hot": false,
   "tags": [
-   "隐私保护",
    "数据合规",
+   "隐私保护",
    "合规"
   ],
   "importance": 13.0,
@@ -59596,8 +59596,8 @@
   "heat": 7.0,
   "hot": false,
   "tags": [
-   "fine",
-   "PIPL"
+   "PIPL",
+   "fine"
   ],
   "importance": 9.5,
   "kw_score": 5.0,
@@ -61105,7 +61105,7 @@
   "time": "2026-08-06T12:20:00+08:00",
   "date": "2026-08-06",
   "sources": [
-   "qq.com"
+   "QQ News"
   ],
   "region": "国内",
   "category": "行业实践",
@@ -61936,7 +61936,7 @@
   "time": "2026-08-11T10:51:00+08:00",
   "date": "2026-08-11",
   "sources": [
-   "qq.com",
+   "QQ News",
    "腾讯新闻"
   ],
   "region": "国内",
@@ -62445,7 +62445,7 @@
   ],
   "region": "国际",
   "category": "诉讼仲裁",
-  "heat": 11.3,
+  "heat": 11.2,
   "hot": false,
   "tags": [
    "class action",
@@ -65306,7 +65306,7 @@
   ],
   "region": "国内",
   "category": "执法处罚",
-  "heat": 9.4,
+  "heat": 9.3,
   "hot": false,
   "tags": [
    "数据合规",
@@ -65604,7 +65604,7 @@
   ],
   "region": "国内",
   "category": "行业实践",
-  "heat": 11.1,
+  "heat": 11.0,
   "hot": false,
   "tags": [
    "数据合规",
@@ -68541,6 +68541,75 @@
   "tags": [
    "重要数据",
    "数据合规",
+   "合规"
+  ],
+  "importance": 10.0,
+  "kw_score": 8.0,
+  "weight": 2.0,
+  "reason": "行业合规实践动态，可作为制度建设与对标参考。"
+ },
+ "https://mp.weixin.qq.com/s?src=11&timestamp=1786909371&ver=6908&signature=7WVF6BLBvlyonM6iQa-SaWm-xg7AuWI5FTQYANJCk*Wqs3qNqtUqdhPmYh200jkJ7FbI2RIldwPC2Xu*SMXNXjEyiNEBG3zWaAH5q13s6n4o7yUHAzaUX-7qopwpX8tp&new=1": {
+  "title": "12亿欧元!Meta创下全球 数据合规 罚款最高纪录",
+  "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786909371&ver=6908&signature=7WVF6BLBvlyonM6iQa-SaWm-xg7AuWI5FTQYANJCk*Wqs3qNqtUqdhPmYh200jkJ7FbI2RIldwPC2Xu*SMXNXjEyiNEBG3zWaAH5q13s6n4o7yUHAzaUX-7qopwpX8tp&new=1",
+  "summary": "Meta创下全球 数据合规 罚款最高纪录跨境数据传输的红线在哪里?题图:OriGreen 东方绿擎一、一句话看懂这个案件Meta 把欧盟用户...",
+  "time": "2026-08-15T19:55:15+08:00",
+  "date": "2026-08-15",
+  "sources": [
+   "微信公众号"
+  ],
+  "region": "国内",
+  "category": "执法处罚",
+  "heat": 14.2,
+  "hot": false,
+  "tags": [
+   "数据合规",
+   "跨境数据",
+   "合规"
+  ],
+  "importance": 17.5,
+  "kw_score": 10.0,
+  "weight": 2.0,
+  "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
+ },
+ "https://mp.weixin.qq.com/s?src=11&timestamp=1786909371&ver=6908&signature=eaeGGHQUd8sMwdDKUoWXypQ68k9fyNG2LZaqL4erIg96tmBXkjJOZzwC3opIJQ3jieCNi2s68K3E*ccfGeLq-Xcv8MtckD1-MJ7H20MDv5rWoj1rMtQ1nTvV2HaTl81i&new=1": {
+  "title": "合规管理体系下的 数据合规",
+  "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786909371&ver=6908&signature=eaeGGHQUd8sMwdDKUoWXypQ68k9fyNG2LZaqL4erIg96tmBXkjJOZzwC3opIJQ3jieCNi2s68K3E*ccfGeLq-Xcv8MtckD1-MJ7H20MDv5rWoj1rMtQ1nTvV2HaTl81i&new=1",
+  "summary": "企业做 数据合规 ,不能只盯着法律条文,得建一套能跑起来的内部机制.规矩变严了:现在监管是全程盯防.违规不仅要交罚款,负责...",
+  "time": "2026-08-15T23:35:31+08:00",
+  "date": "2026-08-15",
+  "sources": [
+   "微信公众号"
+  ],
+  "region": "国内",
+  "category": "执法处罚",
+  "heat": 12.4,
+  "hot": false,
+  "tags": [
+   "数据合规",
+   "监管",
+   "合规"
+  ],
+  "importance": 12.5,
+  "kw_score": 8.0,
+  "weight": 2.0,
+  "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
+ },
+ "https://mp.weixin.qq.com/s?src=11&timestamp=1786909371&ver=6908&signature=Kq7U7FGzgUBG*PgygaC5HgT-OoN4GRo2DKNQW3Q2kgQ8*mB0eAcrAD32sqba3*JndTThINf2rkWhpwcmECmKAV2ilKAocqowYrJzxMRHswyN7Bn3Q*rH7*dq69Bu1VYl&new=1": {
+  "title": "国企出海 合规 | 8月20日起,重要 数据 ＂不评就违规＂(24号令)",
+  "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1786909371&ver=6908&signature=Kq7U7FGzgUBG*PgygaC5HgT-OoN4GRo2DKNQW3Q2kgQ8*mB0eAcrAD32sqba3*JndTThINf2rkWhpwcmECmKAV2ilKAocqowYrJzxMRHswyN7Bn3Q*rH7*dq69Bu1VYl&new=1",
+  "summary": "8月20日起,国内重要 数据 处理者得做“年检”了.国家新规落地,只要手里攥着重要 数据 ,每年都得做安全风险评估.不出卷就是违...",
+  "time": "2026-08-16T17:02:27+08:00",
+  "date": "2026-08-16",
+  "sources": [
+   "微信公众号"
+  ],
+  "region": "国内",
+  "category": "行业实践",
+  "heat": 13.4,
+  "hot": false,
+  "tags": [
+   "数据合规",
+   "重要数据",
    "合规"
   ],
   "importance": 10.0,
