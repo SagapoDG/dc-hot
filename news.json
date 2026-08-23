@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-24T01:16:05.952626+08:00",
- "count": 862,
+ "generated_at": "2026-08-24T01:43:43.995598+08:00",
+ "count": 865,
  "highlight_count": 30,
  "errors": [
   "36氪: not well-formed (invalid token): line 9, column 542"
@@ -8,7 +8,7 @@
  "items": [
   {
    "title": "【全球 数据合规 周报】——荷兰AP对Uber开出8.25…",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787505368&ver=6922&signature=wIXjLtoWBRnpNBpWuAa2Sj3xw32Z0sCyqsT5YcwcGdcWOLj7NI4l9RSxMabq-cMVr8b0QutwfF7qL5XIf0jAPMJC-Qg-imo*pfX7h-bNyb8IUrqT-khOhlFUZULts6E6&new=1",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787507026&ver=6922&signature=wIXjLtoWBRnpNBpWuAa2Sj3xw32Z0sCyqsT5YcwcGdcWOLj7NI4l9RSxMabq-cMV6j6-OJKW-wXVsT0wFmn9cQryprisqdaXtM9mQ2HweezQqzxOPb9xqdYu2QJU1Nu1&new=1",
    "summary": "> 本期全球 数据合规 动态以＂执法加码＂与＂制度落地＂双线并行.欧盟荷兰数据保护局对Uber作出8.25亿欧元处罚,刷新GDPR史上...",
    "time": "2026-08-23T16:57:22+08:00",
    "date": "2026-08-23",
@@ -22,7 +22,7 @@
    "tags": [
     "GDPR",
     "数据合规",
-    "处罚"
+    "执法"
    ],
    "importance": 16.5,
    "kw_score": 12.0,
@@ -401,8 +401,31 @@
    "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
   },
   {
+   "title": "【全球 数据合规 周报】——荷兰AP对Uber开出8.25…",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787505368&ver=6922&signature=wIXjLtoWBRnpNBpWuAa2Sj3xw32Z0sCyqsT5YcwcGdcWOLj7NI4l9RSxMabq-cMVr8b0QutwfF7qL5XIf0jAPMJC-Qg-imo*pfX7h-bNyb8IUrqT-khOhlFUZULts6E6&new=1",
+   "summary": "> 本期全球 数据合规 动态以＂执法加码＂与＂制度落地＂双线并行.欧盟荷兰数据保护局对Uber作出8.25亿欧元处罚,刷新GDPR史上...",
+   "time": "2026-08-23T16:57:22+08:00",
+   "date": "2026-08-23",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "执法处罚",
+   "heat": 17.5,
+   "hot": false,
+   "tags": [
+    "GDPR",
+    "数据合规",
+    "处罚"
+   ],
+   "importance": 16.5,
+   "kw_score": 12.0,
+   "weight": 2.0,
+   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
+  },
+  {
    "title": "2026 数据合规 年中盘点…",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787505368&ver=6922&signature=Qoa04OP3E*qwuz0Pltelk7lHsUdNHGVt5MX5Z2kwCrcgkx-fpPt5WgN47XxgvQlI1xQ6Baaw*0y1hLL894S*mzKQkpa2oQoNHJ46p9mvX-kIFFOHnsxPVZXH2V8kHYc*&new=1",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787507026&ver=6922&signature=Qoa04OP3E*qwuz0Pltelk7lHsUdNHGVt5MX5Z2kwCrcgkx-fpPt5WgN47XxgvQlIowQdjRLSzIg*OwZkrDJtNb9bPZvRr2kx29e9KsQszDw8ayNyTZv0VoU*av2VMK7*&new=1",
    "summary": "执法前沿 · 案例解读2026年上半年即将收尾, 数据合规 领域的执法节奏没有丝毫放缓.从年初国家网信办连续发布的多批次App违法...",
    "time": "2026-08-23T12:01:10+08:00",
    "date": "2026-08-23",
@@ -411,7 +434,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 15.3,
+   "heat": 15.2,
    "hot": false,
    "tags": [
     "数据合规",
@@ -434,7 +457,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 15.3,
+   "heat": 15.2,
    "hot": false,
    "tags": [
     "数据合规",
@@ -457,7 +480,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 15.3,
+   "heat": 15.2,
    "hot": false,
    "tags": [
     "数据合规",
@@ -480,7 +503,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 15.3,
+   "heat": 15.2,
    "hot": false,
    "tags": [
     "数据合规",
@@ -503,7 +526,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 15.3,
+   "heat": 15.2,
    "hot": false,
    "tags": [
     "数据合规",
@@ -526,7 +549,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 15.3,
+   "heat": 15.2,
    "hot": false,
    "tags": [
     "数据合规",
@@ -549,7 +572,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 15.3,
+   "heat": 15.2,
    "hot": false,
    "tags": [
     "数据合规",
@@ -572,7 +595,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 15.3,
+   "heat": 15.2,
    "hot": false,
    "tags": [
     "数据合规",
@@ -595,7 +618,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 15.3,
+   "heat": 15.2,
    "hot": false,
    "tags": [
     "数据合规",
@@ -618,7 +641,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 15.3,
+   "heat": 15.2,
    "hot": false,
    "tags": [
     "数据合规",
@@ -641,7 +664,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 15.3,
+   "heat": 15.2,
    "hot": false,
    "tags": [
     "数据合规",
@@ -664,7 +687,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 15.3,
+   "heat": 15.2,
    "hot": false,
    "tags": [
     "数据合规",
@@ -687,7 +710,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 15.3,
+   "heat": 15.2,
    "hot": false,
    "tags": [
     "数据合规",
@@ -710,7 +733,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 15.3,
+   "heat": 15.2,
    "hot": false,
    "tags": [
     "数据合规",
@@ -733,7 +756,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 15.3,
+   "heat": 15.2,
    "hot": false,
    "tags": [
     "数据合规",
@@ -756,7 +779,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 15.3,
+   "heat": 15.2,
    "hot": false,
    "tags": [
     "数据合规",
@@ -779,7 +802,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 15.3,
+   "heat": 15.2,
    "hot": false,
    "tags": [
     "数据合规",
@@ -802,7 +825,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 15.3,
+   "heat": 15.2,
    "hot": false,
    "tags": [
     "数据合规",
@@ -825,7 +848,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 15.3,
+   "heat": 15.2,
    "hot": false,
    "tags": [
     "数据合规",
@@ -848,7 +871,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 15.3,
+   "heat": 15.2,
    "hot": false,
    "tags": [
     "数据合规",
@@ -871,7 +894,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 15.3,
+   "heat": 15.2,
    "hot": false,
    "tags": [
     "数据合规",
@@ -894,7 +917,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 15.3,
+   "heat": 15.2,
    "hot": false,
    "tags": [
     "数据合规",
@@ -917,7 +940,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 15.3,
+   "heat": 15.2,
    "hot": false,
    "tags": [
     "数据合规",
@@ -930,8 +953,31 @@
    "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
   },
   {
+   "title": "2026 数据合规 年中盘点…",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787505368&ver=6922&signature=Qoa04OP3E*qwuz0Pltelk7lHsUdNHGVt5MX5Z2kwCrcgkx-fpPt5WgN47XxgvQlI1xQ6Baaw*0y1hLL894S*mzKQkpa2oQoNHJ46p9mvX-kIFFOHnsxPVZXH2V8kHYc*&new=1",
+   "summary": "执法前沿 · 案例解读2026年上半年即将收尾, 数据合规 领域的执法节奏没有丝毫放缓.从年初国家网信办连续发布的多批次App违法...",
+   "time": "2026-08-23T12:01:10+08:00",
+   "date": "2026-08-23",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "执法处罚",
+   "heat": 15.2,
+   "hot": false,
+   "tags": [
+    "数据合规",
+    "网信办",
+    "执法"
+   ],
+   "importance": 14.5,
+   "kw_score": 10.0,
+   "weight": 2.0,
+   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
+  },
+  {
    "title": "数据 及人工智能 合规 资讯(2026/8/23): 数据 资产持续火热;TikTokyou叕被砍4亿刀",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787505368&ver=6922&signature=CRcpw3h-iXHm31a*REOM431v0jD0Gve9GSYpOZNAsUq1Eo-m9Ls43z7rXZ8EEl28vRDDxf-j8tPdvrvTK8dHnJjcxz09HcfQVVJh20irJG9k0bXv3cHdSTIMAnVK6xPP&new=1",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787507026&ver=6922&signature=CRcpw3h-iXHm31a*REOM431v0jD0Gve9GSYpOZNAsUq1Eo-m9Ls43z7rXZ8EEl28mi3Uysd1Bbm-7QlHk3Z22ShPVbx5Qgo4SPDNi3eDzlU2n-gXWCox5MWyqLgtnAu1&new=1",
    "summary": "每日 数据合规 资讯2026年8月23日 · 数据合规 资讯日报国内方面,数据要素市场持续升温:上海数据交易所8月单月交易额突破1亿元...",
    "time": "2026-08-23T08:04:23+08:00",
    "date": "2026-08-23",
@@ -1252,6 +1298,29 @@
    "reason": "行业合规实践动态，可作为制度建设与对标参考。"
   },
   {
+   "title": "数据 及人工智能 合规 资讯(2026/8/23): 数据 资产持续火热;TikTokyou叕被砍4亿刀",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787505368&ver=6922&signature=CRcpw3h-iXHm31a*REOM431v0jD0Gve9GSYpOZNAsUq1Eo-m9Ls43z7rXZ8EEl28vRDDxf-j8tPdvrvTK8dHnJjcxz09HcfQVVJh20irJG9k0bXv3cHdSTIMAnVK6xPP&new=1",
+   "summary": "每日 数据合规 资讯2026年8月23日 · 数据合规 资讯日报国内方面,数据要素市场持续升温:上海数据交易所8月单月交易额突破1亿元...",
+   "time": "2026-08-23T08:04:23+08:00",
+   "date": "2026-08-23",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "行业实践",
+   "heat": 12.0,
+   "hot": false,
+   "tags": [
+    "数据要素",
+    "数据合规",
+    "合规"
+   ],
+   "importance": 9.0,
+   "kw_score": 7.0,
+   "weight": 2.0,
+   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
+  },
+  {
    "title": "300美元的智能戒指真能追踪睡眠？Oura因监测准确性面临集体诉讼",
    "url": "https://www.cnbeta.com.tw/articles/tech/1574486.htm",
    "summary": "本周，知名智能戒指制造商Oura在旧金山面临一项拟议的集体诉讼，其核心卖点——睡眠监测功能的准确性遭到强烈质疑。提起诉讼的克拉克森律师事务所（Clarkson Law Firm）在诉状中指出，Oura智能戒指无法直接检测评估睡眠质量或识别睡眠阶段所需的生理信号，而是依赖于人工智能生成的估算数据，这种估算的准确率被指责为“和抛硬币猜正反面的概率差不多”。…",
@@ -1262,11 +1331,11 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 7.6,
+   "heat": 7.5,
    "hot": false,
    "tags": [
-    "诉讼",
-    "起诉"
+    "起诉",
+    "诉讼"
    ],
    "importance": 7.0,
    "kw_score": 3.0,
@@ -3289,8 +3358,8 @@
    "hot": false,
    "tags": [
     "settlement",
-    "lawsuit",
-    "privacy"
+    "privacy",
+    "consent"
    ],
    "importance": 12.0,
    "kw_score": 8.0,
@@ -3953,7 +4022,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 11.4,
+   "heat": 11.3,
    "hot": false,
    "tags": [
     "class action",
@@ -4047,8 +4116,8 @@
    "heat": 9.2,
    "hot": false,
    "tags": [
-    "GDPR",
-    "fine"
+    "fine",
+    "GDPR"
    ],
    "importance": 9.5,
    "kw_score": 5.0,
@@ -4066,39 +4135,16 @@
    ],
    "region": "国际",
    "category": "执法处罚",
-   "heat": 8.8,
+   "heat": 8.7,
    "hot": false,
    "tags": [
-    "GDPR",
-    "fine"
+    "fine",
+    "GDPR"
    ],
    "importance": 9.5,
    "kw_score": 5.0,
    "weight": 2.0,
    "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
-  },
-  {
-   "title": "《小型个人信息处理者个人信息保护简化措施规定》即将施行——合规减负路线图与监管新格局展望",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbVg2bE5pWDg3QmZhejExcTZnbzVoZUIxZ0hJLWdsOHdTb3RXanhJY1lVck1xV3g4enZIX1hHcVlaZ1BUQm1Bd1hxa242N2pVeTJiQmlhNXREclBqN3Vsc3VFbEctSDdIT1VXZDNlT3pTVjFKd2dWYVYzLVdzU0tjWXFTMWFBWkRIUU00?oc=5",
-   "summary": "",
-   "time": "2026-08-22T03:34:36+08:00",
-   "date": "2026-08-22",
-   "sources": [
-    "Lexology"
-   ],
-   "region": "国内",
-   "category": "个人信息保护",
-   "heat": 8.5,
-   "hot": false,
-   "tags": [
-    "个人信息",
-    "监管",
-    "合规"
-   ],
-   "importance": 7.0,
-   "kw_score": 5.0,
-   "weight": 2.0,
-   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
   },
   {
    "title": "River City Data Data Breach Lawsuit Investigation",
@@ -4165,29 +4211,6 @@
     "lawsuit"
    ],
    "importance": 9.5,
-   "kw_score": 5.0,
-   "weight": 2.0,
-   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
-  },
-  {
-   "title": "TikTok 4亿美元和解儿童隐私诉讼！美司法部指控其非法收集13岁以下用户数据",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1xV0hVMklrMmUxaVNSS2pTTWptOWtWNDJCQ1dUTUFPR3ZCcGs3enp6UmxVcUl1V2FhUnBrNFZWWUpkX3ZuNUFyN05n?oc=5",
-   "summary": "",
-   "time": "2026-08-22T03:43:47+08:00",
-   "date": "2026-08-22",
-   "sources": [
-    "区块周刊BlockWeeks"
-   ],
-   "region": "国内",
-   "category": "诉讼仲裁",
-   "heat": 8.5,
-   "hot": false,
-   "tags": [
-    "诉讼",
-    "和解",
-    "隐私"
-   ],
-   "importance": 12.5,
    "kw_score": 5.0,
    "weight": 2.0,
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
@@ -4284,26 +4307,50 @@
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
   },
   {
-   "title": "Uber faces Europe’s second-largest GDPR fine over driver suspensions (UBER:NYSE)",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSkNJRmg3MHQyQlI0LVFzdy1IdXNPS2Q1MGVZRkhGLTM5NUtHdWxEUm4zWl9DNlVBTDU2VlZhZzRoZUQzVjNPWjZEMUR0eDVLUHNIQVExZTV4YTYwb3JKTE81bU5hWUp0d1pYMjREalNMNTdoWXFSM1ZFalhBQmNqY1pZdmtBUXIzRDhWN3R6WmZMMll3TS1sYzFpS3dpOVVYY3B0Z1NWYmk?oc=5",
+   "title": "TikTok 4亿美元和解儿童隐私诉讼！美司法部指控其非法收集13岁以下用户数据",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1xV0hVMklrMmUxaVNSS2pTTWptOWtWNDJCQ1dUTUFPR3ZCcGs3enp6UmxVcUl1V2FhUnBrNFZWWUpkX3ZuNUFyN05n?oc=5",
    "summary": "",
-   "time": "2026-08-22T00:08:35+08:00",
+   "time": "2026-08-22T03:43:47+08:00",
    "date": "2026-08-22",
    "sources": [
-    "Seeking Alpha"
+    "区块周刊BlockWeeks"
    ],
-   "region": "国际",
-   "category": "执法处罚",
-   "heat": 8.3,
+   "region": "国内",
+   "category": "诉讼仲裁",
+   "heat": 8.4,
    "hot": false,
    "tags": [
-    "GDPR",
-    "fine"
+    "诉讼",
+    "和解",
+    "隐私"
    ],
-   "importance": 9.5,
+   "importance": 12.5,
    "kw_score": 5.0,
    "weight": 2.0,
-   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
+   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
+  },
+  {
+   "title": "《小型个人信息处理者个人信息保护简化措施规定》即将施行——合规减负路线图与监管新格局展望",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbVg2bE5pWDg3QmZhejExcTZnbzVoZUIxZ0hJLWdsOHdTb3RXanhJY1lVck1xV3g4enZIX1hHcVlaZ1BUQm1Bd1hxa242N2pVeTJiQmlhNXREclBqN3Vsc3VFbEctSDdIT1VXZDNlT3pTVjFKd2dWYVYzLVdzU0tjWXFTMWFBWkRIUU00?oc=5",
+   "summary": "",
+   "time": "2026-08-22T03:34:36+08:00",
+   "date": "2026-08-22",
+   "sources": [
+    "Lexology"
+   ],
+   "region": "国内",
+   "category": "个人信息保护",
+   "heat": 8.4,
+   "hot": false,
+   "tags": [
+    "个人信息",
+    "监管",
+    "合规"
+   ],
+   "importance": 7.0,
+   "kw_score": 5.0,
+   "weight": 2.0,
+   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
   },
   {
    "title": "HUT 8 Mining Corp. Data Breach Lawsuit Investigation",
@@ -4329,6 +4376,28 @@
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
   },
   {
+   "title": "Uber faces Europe’s second-largest GDPR fine over driver suspensions (UBER:NYSE)",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSkNJRmg3MHQyQlI0LVFzdy1IdXNPS2Q1MGVZRkhGLTM5NUtHdWxEUm4zWl9DNlVBTDU2VlZhZzRoZUQzVjNPWjZEMUR0eDVLUHNIQVExZTV4YTYwb3JKTE81bU5hWUp0d1pYMjREalNMNTdoWXFSM1ZFalhBQmNqY1pZdmtBUXIzRDhWN3R6WmZMMll3TS1sYzFpS3dpOVVYY3B0Z1NWYmk?oc=5",
+   "summary": "",
+   "time": "2026-08-22T00:08:35+08:00",
+   "date": "2026-08-22",
+   "sources": [
+    "Seeking Alpha"
+   ],
+   "region": "国际",
+   "category": "执法处罚",
+   "heat": 8.2,
+   "hot": false,
+   "tags": [
+    "fine",
+    "GDPR"
+   ],
+   "importance": 9.5,
+   "kw_score": 5.0,
+   "weight": 2.0,
+   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
+  },
+  {
    "title": "使用胁迫密码删除手机数据的美国公民被控妨碍联邦执法的重罪",
    "url": "https://www.solidot.org/story?sid=85162",
    "summary": "2025 年 1 月，Samuel Tunick 从多米尼加共和国度假返回美国时，在亚特兰大 Hartsfield-Jackson 国际机场被拦下，美国海关和边境保护局官员要求搜查他的手机。他最终交出了手机以及一个密码，该密码删除了手机上的数据。他的 Pixel 智能手机运行的是安全加固的 Android 操作系统 GrapheneOS，它内置了被称为胁…",
@@ -4339,7 +4408,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 8.0,
+   "heat": 7.9,
    "hot": false,
    "tags": [
     "起诉",
@@ -4350,6 +4419,29 @@
    "kw_score": 4.0,
    "weight": 1.5,
    "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
+  },
+  {
+   "title": "中央网络安全和信息化委员会：加快推进人工智能、反网络暴力、数字经济等新兴领域立法",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB2WU8tbXc3RVQtRjNteG9TNGlPcGt3X3lRYVlwbUhpbzhaNVp5d2FtYmtSYU9vRkp6ZjlGd0Zmdmp2Ql9KRkFnNU1wd2YxU1h4N3gwcElLV3AxeWtkSGxRSTdR?oc=5",
+   "summary": "",
+   "time": "2026-08-22T03:16:53+08:00",
+   "date": "2026-08-22",
+   "sources": [
+    "新京报",
+    "CryptoRank"
+   ],
+   "region": "国内",
+   "category": "行业实践",
+   "heat": 7.4,
+   "hot": false,
+   "tags": [
+    "网络安全",
+    "立法"
+   ],
+   "importance": 6.0,
+   "kw_score": 2.0,
+   "weight": 2.0,
+   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
   },
   {
    "title": "中央网络安全和信息化委员会：加快推进人工智能、反网络暴力、数字经济等新兴领域立法",
@@ -4406,11 +4498,11 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 6.1,
+   "heat": 6.0,
    "hot": false,
    "tags": [
-    "法院",
-    "泄露"
+    "泄露",
+    "法院"
    ],
    "importance": 3.5,
    "kw_score": 2.0,
@@ -4428,11 +4520,11 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 5.4,
+   "heat": 5.3,
    "hot": false,
    "tags": [
-    "法院",
-    "泄露"
+    "泄露",
+    "法院"
    ],
    "importance": 6.0,
    "kw_score": 2.0,
@@ -4450,7 +4542,7 @@
    ],
    "region": "国际",
    "category": "立法监管",
-   "heat": 5.4,
+   "heat": 5.3,
    "hot": false,
    "tags": [
     "privacy"
@@ -4513,7 +4605,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 14.9,
+   "heat": 14.8,
    "hot": false,
    "tags": [
     "个人信息保护法",
@@ -4536,7 +4628,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 14.9,
+   "heat": 14.8,
    "hot": false,
    "tags": [
     "个人信息保护法",
@@ -4559,7 +4651,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 14.9,
+   "heat": 14.8,
    "hot": false,
    "tags": [
     "个人信息保护法",
@@ -4582,7 +4674,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 14.9,
+   "heat": 14.8,
    "hot": false,
    "tags": [
     "个人信息保护法",
@@ -4605,7 +4697,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 14.9,
+   "heat": 14.8,
    "hot": false,
    "tags": [
     "个人信息保护法",
@@ -4628,7 +4720,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 14.9,
+   "heat": 14.8,
    "hot": false,
    "tags": [
     "个人信息保护法",
@@ -4651,7 +4743,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 14.9,
+   "heat": 14.8,
    "hot": false,
    "tags": [
     "个人信息保护法",
@@ -5069,7 +5161,7 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 12.9,
+   "heat": 12.8,
    "hot": false,
    "tags": [
     "数据合规",
@@ -5092,7 +5184,7 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 12.9,
+   "heat": 12.8,
    "hot": false,
    "tags": [
     "数据合规",
@@ -5115,7 +5207,7 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 12.9,
+   "heat": 12.8,
    "hot": false,
    "tags": [
     "数据合规",
@@ -5138,7 +5230,7 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 12.9,
+   "heat": 12.8,
    "hot": false,
    "tags": [
     "数据安全",
@@ -5161,7 +5253,7 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 12.9,
+   "heat": 12.8,
    "hot": false,
    "tags": [
     "数据安全",
@@ -5184,7 +5276,7 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 12.9,
+   "heat": 12.8,
    "hot": false,
    "tags": [
     "数据安全",
@@ -5207,7 +5299,7 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 12.9,
+   "heat": 12.8,
    "hot": false,
    "tags": [
     "数据安全",
@@ -5230,7 +5322,7 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 12.9,
+   "heat": 12.8,
    "hot": false,
    "tags": [
     "数据合规",
@@ -6932,7 +7024,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 9.0,
+   "heat": 8.9,
    "hot": false,
    "tags": [
     "数据合规",
@@ -6955,7 +7047,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 9.0,
+   "heat": 8.9,
    "hot": false,
    "tags": [
     "数据合规",
@@ -6978,7 +7070,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 9.0,
+   "heat": 8.9,
    "hot": false,
    "tags": [
     "数据合规",
@@ -7001,7 +7093,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 9.0,
+   "heat": 8.9,
    "hot": false,
    "tags": [
     "数据安全",
@@ -7024,7 +7116,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 9.0,
+   "heat": 8.9,
    "hot": false,
    "tags": [
     "数据安全",
@@ -7047,7 +7139,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 9.0,
+   "heat": 8.9,
    "hot": false,
    "tags": [
     "数据合规",
@@ -7070,7 +7162,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 9.0,
+   "heat": 8.9,
    "hot": false,
    "tags": [
     "数据安全",
@@ -7093,7 +7185,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 9.0,
+   "heat": 8.9,
    "hot": false,
    "tags": [
     "数据合规",
@@ -7116,7 +7208,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 9.0,
+   "heat": 8.9,
    "hot": false,
    "tags": [
     "数据合规",
@@ -7139,11 +7231,11 @@
    ],
    "region": "国际",
    "category": "执法处罚",
-   "heat": 8.3,
+   "heat": 8.2,
    "hot": false,
    "tags": [
-    "GDPR",
-    "fine"
+    "fine",
+    "GDPR"
    ],
    "importance": 9.5,
    "kw_score": 5.0,
@@ -7276,8 +7368,8 @@
    "heat": 7.9,
    "hot": false,
    "tags": [
-    "GDPR",
-    "fine"
+    "fine",
+    "GDPR"
    ],
    "importance": 9.5,
    "kw_score": 5.0,
@@ -7365,8 +7457,8 @@
    "heat": 7.1,
    "hot": false,
    "tags": [
-    "GDPR",
-    "fine"
+    "fine",
+    "GDPR"
    ],
    "importance": 9.5,
    "kw_score": 5.0,
@@ -7419,28 +7511,6 @@
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
   },
   {
-   "title": "长和再提国际仲裁 就巴拿马运河港口争端索偿15亿美元",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SWFkyYzJHZklLZjZlN1JuaS1rNnhKbzRacXptVHZkZ2NTOXl3T3VUMFl0V243aTVEWWljT1JsSW5zYUFVS0MwekFhcE9xQWFBS3NXU0lFS3RKRmFLT2o4UHZhaDRpbUJyUkRnby13?oc=5",
-   "summary": "",
-   "time": "2026-08-21T07:36:00+08:00",
-   "date": "2026-08-21",
-   "sources": [
-    "联合早报",
-    "早晨报"
-   ],
-   "region": "国内",
-   "category": "诉讼仲裁",
-   "heat": 6.4,
-   "hot": false,
-   "tags": [
-    "仲裁"
-   ],
-   "importance": 11.5,
-   "kw_score": 2.0,
-   "weight": 2.0,
-   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
-  },
-  {
    "title": "Ninth Circuit Precedent Rejects Forum Non Conveniens in International Arbitration Enforcement Actions",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUWlILWJxTlNTdndwYlZFck5zSDZOMEx4dWpQY0t0NWdnXzdMTDl0VzNRaFFVOXpGTklBVUF2QnhERG96SHhYUEZBZWkzUTBGLWVkSGt3eWdNeXNjdlpvbE9HdzJtSW1Kbzk2UTFUTGJvemRNeXhlX2NWWWdxd1h5bHFrOHFPUGtKSlQwSWtqZmNhb1JWMUlmN1paUjZ4TENtdnJjWlUxYmtvTFdBWS1yd9IBtgFBVV95cUxQaUJ2a01KNmRtZW05dE5vWDhhMkJFRnVQbWVpVWdQc2JlMG5VSUJvTjJZSWVlQlBsQWVxZnFMUFY3T1p0TjN4aTBoLWZ4dVRDS1dfWHJ1T0EzczhNaHJPSXJpakg4YVZpRDR6MjEyQ0xYVEJ1WWRZY1pGcGxTLTNRQWxwVWxiZDhqd2dJSWVtbHJ1d09mbWhuS2FiNTNuUm1lNXB6RmpobkRhdzhEYmN6ZDk0UVFnUQ?oc=5",
    "summary": "Ninth Circuit Precedent Rejects Forum Non Conveniens in International Arbitration Enforcement Actions The National Law Review",
@@ -7459,28 +7529,6 @@
    ],
    "importance": 8.5,
    "kw_score": 4.0,
-   "weight": 2.0,
-   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
-  },
-  {
-   "title": "长和再提国际仲裁 就巴拿马运河港口争端索偿15亿美元",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBOQWlyUWdCZmstZnN4NUFYZ1U2dWpwMk4zZUVLUVZKa2xtempnZlp0RzB0WEpRb1hvUVJWV2RtN0Q2aFJnX2hGcnBRTXJob2dJOVhYc01nWkdtRzVZaXZndWphc2F6ZGJs?oc=5",
-   "summary": "",
-   "time": "2026-08-21T07:36:00+08:00",
-   "date": "2026-08-21",
-   "sources": [
-    "早晨报",
-    "联合早报"
-   ],
-   "region": "国内",
-   "category": "诉讼仲裁",
-   "heat": 6.4,
-   "hot": false,
-   "tags": [
-    "仲裁"
-   ],
-   "importance": 11.5,
-   "kw_score": 2.0,
    "weight": 2.0,
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
   },
@@ -7529,24 +7577,46 @@
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
   },
   {
-   "title": "Apollo Global Management Data Breach Impacts SSNs; Lawsuit Possible",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSGlaMkhFZWFObEtxVWo4MFdxSTBkZFJJWFU3Z3BKamRKa0VqRVBmWV9LY29pSy1YV29icjJwLWppRnVXZEMtMUFabGpRX2NYMGNBeHpvdDBDdFZZa2ZxY1dyaGFqcklCeUx2T09TcUFXWVVEUUltdGhBeDNlSzUteEtBMjFndVgxRllaZkhR?oc=5",
+   "title": "长和再提国际仲裁 就巴拿马运河港口争端索偿15亿美元",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SWFkyYzJHZklLZjZlN1JuaS1rNnhKbzRacXptVHZkZ2NTOXl3T3VUMFl0V243aTVEWWljT1JsSW5zYUFVS0MwekFhcE9xQWFBS3NXU0lFS3RKRmFLT2o4UHZhaDRpbUJyUkRnby13?oc=5",
    "summary": "",
-   "time": "2026-08-21T04:19:45+08:00",
+   "time": "2026-08-21T07:36:00+08:00",
    "date": "2026-08-21",
    "sources": [
-    "ClassAction.org"
+    "联合早报",
+    "早晨报"
    ],
-   "region": "国际",
+   "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 6.2,
+   "heat": 6.3,
    "hot": false,
    "tags": [
-    "data breach",
-    "lawsuit"
+    "仲裁"
    ],
-   "importance": 8.5,
-   "kw_score": 4.0,
+   "importance": 11.5,
+   "kw_score": 2.0,
+   "weight": 2.0,
+   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
+  },
+  {
+   "title": "长和再提国际仲裁 就巴拿马运河港口争端索偿15亿美元",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBOQWlyUWdCZmstZnN4NUFYZ1U2dWpwMk4zZUVLUVZKa2xtempnZlp0RzB0WEpRb1hvUVJWV2RtN0Q2aFJnX2hGcnBRTXJob2dJOVhYc01nWkdtRzVZaXZndWphc2F6ZGJs?oc=5",
+   "summary": "",
+   "time": "2026-08-21T07:36:00+08:00",
+   "date": "2026-08-21",
+   "sources": [
+    "早晨报",
+    "联合早报"
+   ],
+   "region": "国内",
+   "category": "诉讼仲裁",
+   "heat": 6.3,
+   "hot": false,
+   "tags": [
+    "仲裁"
+   ],
+   "importance": 11.5,
+   "kw_score": 2.0,
    "weight": 2.0,
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
   },
@@ -7573,24 +7643,24 @@
    "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
   },
   {
-   "title": "索赔超15亿美元，长江和记对巴拿马启动国际仲裁",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KbkpvbXpVNi1iZ01EWVd4clc3YTZhNUppenAyTmtRS2ZjSXM2NkxjVHVoRVhDMklFUTNydG92aEh1LXFmZXVGc09EX2tKSS0ycXZwMnJGQ1Q5NEZaMVNxUg?oc=5",
+   "title": "Apollo Global Management Data Breach Impacts SSNs; Lawsuit Possible",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSGlaMkhFZWFObEtxVWo4MFdxSTBkZFJJWFU3Z3BKamRKa0VqRVBmWV9LY29pSy1YV29icjJwLWppRnVXZEMtMUFabGpRX2NYMGNBeHpvdDBDdFZZa2ZxY1dyaGFqcklCeUx2T09TcUFXWVVEUUltdGhBeDNlSzUteEtBMjFndVgxRllaZkhR?oc=5",
    "summary": "",
-   "time": "2026-08-21T00:04:00+08:00",
+   "time": "2026-08-21T04:19:45+08:00",
    "date": "2026-08-21",
    "sources": [
-    "thepaper.cn",
-    "新浪财经"
+    "ClassAction.org"
    ],
-   "region": "国内",
+   "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 6.0,
+   "heat": 6.1,
    "hot": false,
    "tags": [
-    "仲裁"
+    "data breach",
+    "lawsuit"
    ],
-   "importance": 11.5,
-   "kw_score": 2.0,
+   "importance": 8.5,
+   "kw_score": 4.0,
    "weight": 2.0,
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
   },
@@ -7617,26 +7687,26 @@
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
   },
   {
-   "title": "中央网络安全和信息化委员会：加快推进人工智能、反网络暴力、数字经济等新兴领域立法",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB2WU8tbXc3RVQtRjNteG9TNGlPcGt3X3lRYVlwbUhpbzhaNVp5d2FtYmtSYU9vRkp6ZjlGd0Zmdmp2Ql9KRkFnNU1wd2YxU1h4N3gwcElLV3AxeWtkSGxRSTdR?oc=5",
+   "title": "索赔超15亿美元，长江和记对巴拿马启动国际仲裁",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KbkpvbXpVNi1iZ01EWVd4clc3YTZhNUppenAyTmtRS2ZjSXM2NkxjVHVoRVhDMklFUTNydG92aEh1LXFmZXVGc09EX2tKSS0ycXZwMnJGQ1Q5NEZaMVNxUg?oc=5",
    "summary": "",
-   "time": "2026-08-21T22:58:00+08:00",
+   "time": "2026-08-21T00:04:00+08:00",
    "date": "2026-08-21",
    "sources": [
-    "新京报"
+    "thepaper.cn",
+    "新浪财经"
    ],
    "region": "国内",
-   "category": "行业实践",
-   "heat": 5.2,
+   "category": "诉讼仲裁",
+   "heat": 6.0,
    "hot": false,
    "tags": [
-    "网络安全",
-    "立法"
+    "仲裁"
    ],
-   "importance": 4.0,
+   "importance": 11.5,
    "kw_score": 2.0,
    "weight": 2.0,
-   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
+   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
   },
   {
    "title": "长和对巴拿马提国际仲裁 专家：出了名的耗时",
@@ -7649,49 +7719,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 5.0,
-   "hot": false,
-   "tags": [
-    "仲裁"
-   ],
-   "importance": 6.5,
-   "kw_score": 2.0,
-   "weight": 2.0,
-   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
-  },
-  {
-   "title": "2港口被接管，长和启动国际仲裁向巴拿马索偿15亿美元",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WNG8xaXJpR3RXckIwY2VjM3FCcEVuZm5UNk5MeDFhdXpyWlBId1oxbnFRTmkzVF85SDdGZVI3Q184UWFpaUl2bTF2aWdUMUJIZ2l1c3JHd0dOemdVWGg0UTJB?oc=5",
-   "summary": "",
-   "time": "2026-08-21T14:58:46+08:00",
-   "date": "2026-08-21",
-   "sources": [
-    "今日悉尼"
-   ],
-   "region": "国内",
-   "category": "诉讼仲裁",
-   "heat": 4.8,
-   "hot": false,
-   "tags": [
-    "仲裁"
-   ],
-   "importance": 9.5,
-   "kw_score": 2.0,
-   "weight": 2.0,
-   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
-  },
-  {
-   "title": "2港口被接管 長和啟動國際仲裁向巴拿馬索償15億美元",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pMWlhdzBlVVlQUG1MQ2R6dS1sUUFMNHNJRDY5MHhCX214WXdVVWhGUWxiczJsQm9LV29mV3VWMWNNaFFNVlhEUkhJcEhGakFkQ0kzVzB6MEVEaTZkbjZ0cjVBRXZ5U1VwVEHSAWdBVV95cUxOYW9LM09jdGE1U0lXVmxZVTkwbE9Zb2R5M3BOYmRkN1djUVJBWGx4ZllUSDdTVzVjelM0WEVnNFV1bkJsVHVBM1lZb1hReTQzMFotNnhXYnNfMUh2VWs0NkRXQ0NGTzA0?oc=5",
-   "summary": "",
-   "time": "2026-08-21T14:13:30+08:00",
-   "date": "2026-08-21",
-   "sources": [
-    "世界新聞網"
-   ],
-   "region": "国内",
-   "category": "诉讼仲裁",
-   "heat": 4.7,
+   "heat": 4.9,
    "hot": false,
    "tags": [
     "仲裁"
@@ -7723,8 +7751,50 @@
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
   },
   {
+   "title": "2港口被接管 長和啟動國際仲裁向巴拿馬索償15億美元",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pMWlhdzBlVVlQUG1MQ2R6dS1sUUFMNHNJRDY5MHhCX214WXdVVWhGUWxiczJsQm9LV29mV3VWMWNNaFFNVlhEUkhJcEhGakFkQ0kzVzB6MEVEaTZkbjZ0cjVBRXZ5U1VwVEHSAWdBVV95cUxOYW9LM09jdGE1U0lXVmxZVTkwbE9Zb2R5M3BOYmRkN1djUVJBWGx4ZllUSDdTVzVjelM0WEVnNFV1bkJsVHVBM1lZb1hReTQzMFotNnhXYnNfMUh2VWs0NkRXQ0NGTzA0?oc=5",
+   "summary": "",
+   "time": "2026-08-21T14:13:30+08:00",
+   "date": "2026-08-21",
+   "sources": [
+    "世界新聞網"
+   ],
+   "region": "国内",
+   "category": "诉讼仲裁",
+   "heat": 4.7,
+   "hot": false,
+   "tags": [
+    "仲裁"
+   ],
+   "importance": 6.5,
+   "kw_score": 2.0,
+   "weight": 2.0,
+   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
+  },
+  {
+   "title": "2港口被接管，长和启动国际仲裁向巴拿马索偿15亿美元",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WNG8xaXJpR3RXckIwY2VjM3FCcEVuZm5UNk5MeDFhdXpyWlBId1oxbnFRTmkzVF85SDdGZVI3Q184UWFpaUl2bTF2aWdUMUJIZ2l1c3JHd0dOemdVWGg0UTJB?oc=5",
+   "summary": "",
+   "time": "2026-08-21T14:58:46+08:00",
+   "date": "2026-08-21",
+   "sources": [
+    "今日悉尼"
+   ],
+   "region": "国内",
+   "category": "诉讼仲裁",
+   "heat": 4.7,
+   "hot": false,
+   "tags": [
+    "仲裁"
+   ],
+   "importance": 9.5,
+   "kw_score": 2.0,
+   "weight": 2.0,
+   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
+  },
+  {
    "title": "Spain Faces Bid To Enforce €8.9M Solar Arbitration Award",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOFBMV1pkRllNc0FwcnR2aXJ1TjhwbFNRN2NxcU9FSV9NV21IT0JncGl1T0d1ZWNFdU9IMy1TSE5KMVVoZkZ6LU5rVDh4MzdXN1BzYXFXMnRSU2pFY3o1emZhUXNMcEVuZFY4LWk5OTRwVzVsTnlQVWN0QkpSdGdiS1RoYmlmc0RPVzBBWGpJVVA4SnBqbHZ0SXJJd1VySGhfV1NLY9IBVkFVX3lxTE1OZTl4bXZ3SDloQlpFSlBBQUZkWkJLZHBvRjZ0U0QyNGdMUnQ5Q0E3cjdCaWVqU0R2VGhScTZjT21LOVNyQWQzQ3E2bkVsZl9VMUR6QV9B?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOLXpoU1Q2dEZtcV9EVDgxWmloYWlEdVZOdlRHbXd5WnhuVkdhdElFNVRUQXZQR05BMnNwQ045WlFfVEVPaTJYdHYtOTBXSHpTX3VybWh0MzgyM2ZrNTBNTjl3YkZ3WjJLdkk5UWVCSUFPNzdlUEpHWHJNNDFvQWlMb1g0OTRyNWdybzh3d3JYMTVGYnpWeTFENFplUE9tSGpSQVBlUUU3TkxnTjZtXzY3eVZBanQtcHVMdXZYR3VqU21ZVFlmdTVSNml0TUMtSllmQUZwdW5VcjNmclNPY25OcVRKOEtqd9IBVkFVX3lxTE1OZTl4bXZ3SDloQlpFSlBBQUZkWkJLZHBvRjZ0U0QyNGdMUnQ5Q0E3cjdCaWVqU0R2VGhScTZjT21LOVNyQWQzQ3E2bkVsZl9VMUR6QV9B?oc=5",
    "summary": "",
    "time": "2026-08-21T06:14:00+08:00",
    "date": "2026-08-21",
@@ -7745,7 +7815,7 @@
   },
   {
    "title": "Spain Faces Bid To Enforce €8.9M Solar Arbitration Award",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOLXpoU1Q2dEZtcV9EVDgxWmloYWlEdVZOdlRHbXd5WnhuVkdhdElFNVRUQXZQR05BMnNwQ045WlFfVEVPaTJYdHYtOTBXSHpTX3VybWh0MzgyM2ZrNTBNTjl3YkZ3WjJLdkk5UWVCSUFPNzdlUEpHWHJNNDFvQWlMb1g0OTRyNWdybzh3d3JYMTVGYnpWeTFENFplUE9tSGpSQVBlUUU3TkxnTjZtXzY3eVZBanQtcHVMdXZYR3VqU21ZVFlmdTVSNml0TUMtSllmQUZwdW5VcjNmclNPY25OcVRKOEtqd9IBVkFVX3lxTE1OZTl4bXZ3SDloQlpFSlBBQUZkWkJLZHBvRjZ0U0QyNGdMUnQ5Q0E3cjdCaWVqU0R2VGhScTZjT21LOVNyQWQzQ3E2bkVsZl9VMUR6QV9B?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOFBMV1pkRllNc0FwcnR2aXJ1TjhwbFNRN2NxcU9FSV9NV21IT0JncGl1T0d1ZWNFdU9IMy1TSE5KMVVoZkZ6LU5rVDh4MzdXN1BzYXFXMnRSU2pFY3o1emZhUXNMcEVuZFY4LWk5OTRwVzVsTnlQVWN0QkpSdGdiS1RoYmlmc0RPVzBBWGpJVVA4SnBqbHZ0SXJJd1VySGhfV1NLY9IBVkFVX3lxTE1OZTl4bXZ3SDloQlpFSlBBQUZkWkJLZHBvRjZ0U0QyNGdMUnQ5Q0E3cjdCaWVqU0R2VGhScTZjT21LOVNyQWQzQ3E2bkVsZl9VMUR6QV9B?oc=5",
    "summary": "",
    "time": "2026-08-21T06:14:00+08:00",
    "date": "2026-08-21",
@@ -7775,7 +7845,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 4.1,
+   "heat": 4.0,
    "hot": false,
    "tags": [
     "仲裁"
@@ -7796,7 +7866,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 4.1,
+   "heat": 4.0,
    "hot": false,
    "tags": [
     "仲裁"
@@ -7817,7 +7887,7 @@
    ],
    "region": "国际",
    "category": "行业实践",
-   "heat": 2.8,
+   "heat": 2.7,
    "hot": false,
    "tags": [],
    "importance": 1.5,
@@ -10467,8 +10537,8 @@
    "hot": false,
    "tags": [
     "regulation",
-    "GDPR",
-    "fine"
+    "fine",
+    "GDPR"
    ],
    "importance": 10.5,
    "kw_score": 6.0,
@@ -10476,14 +10546,14 @@
    "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
   },
   {
-   "title": "长和就巴拿马港口经营权毁约启动国际仲裁 索赔金额超15亿美元",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5wSzA2MjU4a29UTmVCeEZqakY3dzBGZzZ5NnZzdERjSWdVWFhRa3VMcGgwa2pCelo5U0xUOUtrbnUxX2Z6WkdGdEJTdmRaaE0ySDVZczBTV0JlQ2tNOEQ5bjBhRV9GTU43Q0lYYXhGMS1UR2M5cThWTQ?oc=5",
+   "title": "长和就巴拿马港口经营权毁约启动国际仲裁，索赔金额超15亿美元",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcXRfbmdqa1ZoenViaHpleVZtRkdaTE51QUhWWlFPSUh5THlZQVQ3VGZScjF6VFpBSzlsNnY4Y3NmazhqRFlFZl96dDMtSmxQVVp4WV9KUmMzcExROFNfeExMYWtHSDNmX0pwNnZkWmQtc0tqcGxlY0RDek5wMWdXZGtlZ3k3Sm51ZzRpbTM1SGNnc2VMOXRUZEVSZjRjNjFDOHBjWTEwYXNjS0tFYkZRbmd4ODRkWlc3LVpKSTVraFg1ZlZKbXVETTFGdHBlcU5rWHhzUFc2MDMxWVBwQy1qVmd4NGU?oc=5",
    "summary": "",
    "time": "2026-08-20T22:07:35+08:00",
    "date": "2026-08-20",
    "sources": [
-    "新浪财经",
     "手机新浪网",
+    "新浪财经",
     "搜狐网"
    ],
    "region": "国内",
@@ -10591,6 +10661,29 @@
    "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
   },
   {
+   "title": "长和就巴拿马港口经营权毁约启动国际仲裁 索赔金额超15亿美元",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5wSzA2MjU4a29UTmVCeEZqakY3dzBGZzZ5NnZzdERjSWdVWFhRa3VMcGgwa2pCelo5U0xUOUtrbnUxX2Z6WkdGdEJTdmRaaE0ySDVZczBTV0JlQ2tNOEQ5bjBhRV9GTU43Q0lYYXhGMS1UR2M5cThWTQ?oc=5",
+   "summary": "",
+   "time": "2026-08-20T22:07:35+08:00",
+   "date": "2026-08-20",
+   "sources": [
+    "新浪财经",
+    "手机新浪网",
+    "搜狐网"
+   ],
+   "region": "国内",
+   "category": "诉讼仲裁",
+   "heat": 8.0,
+   "hot": false,
+   "tags": [
+    "仲裁"
+   ],
+   "importance": 13.5,
+   "kw_score": 2.0,
+   "weight": 2.0,
+   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
+  },
+  {
    "title": "反法新规下 数据 获取的裁判规则与企业 合规 启示|实务探讨",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787218144&ver=6916&signature=zpCbOtw96upl-S1JR1Xlp8znMj*mSjc0Z0m0jyTad1XzlnwWN0-SAzlPEf09YBdRNHS-VRB-7tkpm7A5rhnZNsi2iZiD6xqPJzplmw9qWsrtEFH8tudd6OPtRH88oM28&new=1",
    "summary": "与此同时,企业还应建立 数据合规 更新机制.互联网平台的数据规则、开放接口政策以及技术管理措施往往处于动态调整过程中,企业...",
@@ -10681,29 +10774,6 @@
    "kw_score": 6.0,
    "weight": 2.0,
    "reason": "行业合规实践动态，可作为制度建设与对标参考。"
-  },
-  {
-   "title": "长和就巴拿马港口经营权毁约启动国际仲裁，索赔金额超15亿美元",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcXRfbmdqa1ZoenViaHpleVZtRkdaTE51QUhWWlFPSUh5THlZQVQ3VGZScjF6VFpBSzlsNnY4Y3NmazhqRFlFZl96dDMtSmxQVVp4WV9KUmMzcExROFNfeExMYWtHSDNmX0pwNnZkWmQtc0tqcGxlY0RDek5wMWdXZGtlZ3k3Sm51ZzRpbTM1SGNnc2VMOXRUZEVSZjRjNjFDOHBjWTEwYXNjS0tFYkZRbmd4ODRkWlc3LVpKSTVraFg1ZlZKbXVETTFGdHBlcU5rWHhzUFc2MDMxWVBwQy1qVmd4NGU?oc=5",
-   "summary": "",
-   "time": "2026-08-20T22:07:35+08:00",
-   "date": "2026-08-20",
-   "sources": [
-    "手机新浪网",
-    "新浪财经",
-    "搜狐网"
-   ],
-   "region": "国内",
-   "category": "诉讼仲裁",
-   "heat": 8.0,
-   "hot": false,
-   "tags": [
-    "仲裁"
-   ],
-   "importance": 13.5,
-   "kw_score": 2.0,
-   "weight": 2.0,
-   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
   },
   {
    "title": "GDPR fines hit €225 million in Q2 2026 despite strict regulations",
@@ -10889,14 +10959,14 @@
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
   },
   {
-   "title": "长和公告：就巴拿马违反投资保护条约启动国际仲裁程序，寻求逾15亿美元损害赔偿",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5qX0FGNTdyLXEzRy1iLUVUdXR5aXRXMEVhNDdVZVlGM0VoVDNNQjNFZEUwMzJaYjlUejRoNmtTNG5vR0JBTW5SeU5uN1VyQQ?oc=5",
+   "title": "长和就港口争议展开国际仲裁 向巴拿马索偿逾15亿美元",
+   "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQM09MZVA5Z0JCMWZVR2Q0TjZIdXhtUUw2YXlyWFF6b3RfbndyWmhMQWNuUDFxb3MzVklQNHA5dUFrbkNaX083WFo3WlJfNFgwWDV1VUpFMUEzU0U5VkU5LXZpVWZtU0dCOVVzamd0bDA5VEpKOHN3TXhCQzR4REY3TE92bWhjVkZySVB4RTN6ckNvRS1lNWV5MG9wYmFiaWx6SWFpYk5ZWll1WF9JQmdZTHQ2R1J3TFZRTTBBU24wcTh2WnM0bWc1UEhlTzNPNEE5dHVzMmpUR25FUklzUEJxczJuZVBzSXZVSTBqbnZ5dTlzZG96YzBzRmNvV0Q4X0F3dkdZNS13Q1J5WHNiRmd3NHBaOTYzTE14dEx3eExFN0Z1RlpUWEZPcDNnSnhiaXlleWNLcVNzek1HTjdKS0c4ZmdWeE1pN1F2ZUJaWlJNdFZOMDNTOERSNGt0TWpvT0hDdExzSk1BcExoWXJ2ZlM3em1TRjJfZWN6akhlZDJEWWJZeDA?oc=5",
    "summary": "",
-   "time": "2026-08-20T09:10:00+08:00",
+   "time": "2026-08-20T18:00:13+08:00",
    "date": "2026-08-20",
    "sources": [
-    "川观新闻",
-    "搜狐网"
+    "RFI",
+    "文学城"
    ],
    "region": "国内",
    "category": "诉讼仲裁",
@@ -10911,14 +10981,14 @@
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
   },
   {
-   "title": "长和就港口争议展开国际仲裁 向巴拿马索偿逾15亿美元",
-   "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQM09MZVA5Z0JCMWZVR2Q0TjZIdXhtUUw2YXlyWFF6b3RfbndyWmhMQWNuUDFxb3MzVklQNHA5dUFrbkNaX083WFo3WlJfNFgwWDV1VUpFMUEzU0U5VkU5LXZpVWZtU0dCOVVzamd0bDA5VEpKOHN3TXhCQzR4REY3TE92bWhjVkZySVB4RTN6ckNvRS1lNWV5MG9wYmFiaWx6SWFpYk5ZWll1WF9JQmdZTHQ2R1J3TFZRTTBBU24wcTh2WnM0bWc1UEhlTzNPNEE5dHVzMmpUR25FUklzUEJxczJuZVBzSXZVSTBqbnZ5dTlzZG96YzBzRmNvV0Q4X0F3dkdZNS13Q1J5WHNiRmd3NHBaOTYzTE14dEx3eExFN0Z1RlpUWEZPcDNnSnhiaXlleWNLcVNzek1HTjdKS0c4ZmdWeE1pN1F2ZUJaWlJNdFZOMDNTOERSNGt0TWpvT0hDdExzSk1BcExoWXJ2ZlM3em1TRjJfZWN6akhlZDJEWWJZeDA?oc=5",
+   "title": "长和公告：就巴拿马违反投资保护条约启动国际仲裁程序，寻求逾15亿美元损害赔偿",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5qX0FGNTdyLXEzRy1iLUVUdXR5aXRXMEVhNDdVZVlGM0VoVDNNQjNFZEUwMzJaYjlUejRoNmtTNG5vR0JBTW5SeU5uN1VyQQ?oc=5",
    "summary": "",
-   "time": "2026-08-20T18:00:13+08:00",
+   "time": "2026-08-20T09:10:00+08:00",
    "date": "2026-08-20",
    "sources": [
-    "RFI",
-    "文学城"
+    "川观新闻",
+    "搜狐网"
    ],
    "region": "国内",
    "category": "诉讼仲裁",
@@ -11020,13 +11090,13 @@
    "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
   },
   {
-   "title": "长和再提国际仲裁 就巴拿马运河港口争端索偿15亿美元",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LdWlsc0xSd192LXlpcWN2akxxRDF5UVpjYVZpSzhZVm9Eb3BCQVFMbkVZc2RnSkFLbThFbWhraTI4U3RDWEljamxWSzJGUlNJZW9qOVVkXzZIa3pzcUt5bU1IUEp6RTVjVWc?oc=5",
+   "title": "长和启动国际仲裁指控巴拿马违反条约，索赔超15亿美元",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05Ynp2MUtncm03Sm9KMnlKTmQwNjRDb0d5SXpUNFIyWl9pOHdKb1UwRUNDMmx0bUg2UDd1bkRGNTFKWGx4c2NOMkpDTDU5c1JGUkE3Y0R1Nk9scTJWc2kxdw?oc=5",
    "summary": "",
-   "time": "2026-08-20T21:27:22+08:00",
+   "time": "2026-08-20T09:43:41+08:00",
    "date": "2026-08-20",
    "sources": [
-    "联合早报"
+    "东方财富"
    ],
    "region": "国内",
    "category": "诉讼仲裁",
@@ -11041,13 +11111,34 @@
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
   },
   {
-   "title": "长江和记对巴拿马提起第二起仲裁，索赔累计超35亿美元",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQempoanhabU01ZURGWVNubjh3SE40YUVvNXZyRk9FSk1uaC1lNER6RWpnaURaODhTSDF3b01BeFQ2NkU3aVR2QWFjWVpuZWNhYVBnOHNKSWFyNFlwQWJCaktKOGozV2k5ck1RVFVzbEtvV0RYbGtpckJnQnUweGEyN2VIajl5WnVQ?oc=5",
+   "title": "长江和记和向巴拿马发起国际仲裁，索赔超15亿美元！",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE50WXVNM3dkemV1YktWUENidGJxN2pabFNBM3JvM00zQnhQeHhSU1Vkd3NYdjNGM2YwOXB5Y0M1M05nYldpaEswWmgxMXdoeEF2eHc?oc=5",
    "summary": "",
-   "time": "2026-08-20T18:51:00+08:00",
+   "time": "2026-08-20T19:06:00+08:00",
    "date": "2026-08-20",
    "sources": [
     "搜狐网"
+   ],
+   "region": "国内",
+   "category": "诉讼仲裁",
+   "heat": 4.0,
+   "hot": false,
+   "tags": [
+    "仲裁"
+   ],
+   "importance": 9.5,
+   "kw_score": 2.0,
+   "weight": 2.0,
+   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
+  },
+  {
+   "title": "长和再提国际仲裁 就巴拿马运河港口争端索偿15亿美元",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LdWlsc0xSd192LXlpcWN2akxxRDF5UVpjYVZpSzhZVm9Eb3BCQVFMbkVZc2RnSkFLbThFbWhraTI4U3RDWEljamxWSzJGUlNJZW9qOVVkXzZIa3pzcUt5bU1IUEp6RTVjVWc?oc=5",
+   "summary": "",
+   "time": "2026-08-20T21:27:22+08:00",
+   "date": "2026-08-20",
+   "sources": [
+    "联合早报"
    ],
    "region": "国内",
    "category": "诉讼仲裁",
@@ -11083,10 +11174,10 @@
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
   },
   {
-   "title": "长和发布新公告：向巴拿马展开国际仲裁，索偿超过15亿美元",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVFlDcUIwRWVRSFRHel9VZHhlZUhWdEJ4VDhybGdhMmNlY3I5dUpXRktiMnBTbUJ2bzk2cFU2ZkZHRGFQNjlHWFJzVGstTjY5cHpkc3dXZlNCVkpXWnRscUZ5T2FiZEY3ZEs3SjZQSEMxdWZ6aUNldHItZV9pWjBVYk5XU3hmRjZHcWR6Ug?oc=5",
+   "title": "长江和记对巴拿马提起第二起仲裁，索赔累计超35亿美元",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQempoanhabU01ZURGWVNubjh3SE40YUVvNXZyRk9FSk1uaC1lNER6RWpnaURaODhTSDF3b01BeFQ2NkU3aVR2QWFjWVpuZWNhYVBnOHNKSWFyNFlwQWJCaktKOGozV2k5ck1RVFVzbEtvV0RYbGtpckJnQnUweGEyN2VIajl5WnVQ?oc=5",
    "summary": "",
-   "time": "2026-08-20T10:34:31+08:00",
+   "time": "2026-08-20T18:51:00+08:00",
    "date": "2026-08-20",
    "sources": [
     "搜狐网"
@@ -11104,10 +11195,10 @@
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
   },
   {
-   "title": "#媒体原创 绝不退让！长和启动国际仲裁，明确提出超15亿美元的损害赔偿! 8月20日，长江和记实业在港交所公告，由于多番尝试寻求解决方案无果，公司已就巴拿马共和国违反投资保护条约启动国际仲裁程序，并就该国的投资毁弃行为寻求超过15亿美元的损害赔偿 |",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qTVQzVkdRQVdidUV4TENMOTVHUkp6NEVfcVAzYzRDTVFTWjZrSEIzbXZOeWFDVktrSmY2UFppU2FZeVVvaVZibHI4ZHdMbVZ0dEE?oc=5",
+   "title": "长和发布新公告：向巴拿马展开国际仲裁，索偿超过15亿美元",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVFlDcUIwRWVRSFRHel9VZHhlZUhWdEJ4VDhybGdhMmNlY3I5dUpXRktiMnBTbUJ2bzk2cFU2ZkZHRGFQNjlHWFJzVGstTjY5cHpkc3dXZlNCVkpXWnRscUZ5T2FiZEY3ZEs3SjZQSEMxdWZ6aUNldHItZV9pWjBVYk5XU3hmRjZHcWR6Ug?oc=5",
    "summary": "",
-   "time": "2026-08-20T13:54:20+08:00",
+   "time": "2026-08-20T10:34:31+08:00",
    "date": "2026-08-20",
    "sources": [
     "搜狐网"
@@ -11461,31 +11552,10 @@
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
   },
   {
-   "title": "长江和记实业：就巴拿马港口事项启动国际仲裁",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOckVTWHRvTUJvemFraHZROUxRUjBnM1p4TjBVTGJLdTN5MU1qbWt1eWZoMVpaTkFZM3F5SkNJMndqVG8xMHdNS1FTeTF6NDRhVmI2ZjlaS0cxbW9qaDNDN1R3YWNPelVJaHYzQlJCVGhOdVRrTUlnOHN4d0lTeDhtSnBCSEl1RTdiZXZWbEktTlY4d3B3RXI4WmIzbThkbUdOd09fYkFrdXhSMDZEU3J2NkcxQXFHT2tRNHM0RkU5dXNOV2xo?oc=5",
+   "title": "#媒体原创 绝不退让！长和启动国际仲裁，明确提出超15亿美元的损害赔偿! 8月20日，长江和记实业在港交所公告，由于多番尝试寻求解决方案无果，公司已就巴拿马共和国违反投资保护条约启动国际仲裁程序，并就该国的投资毁弃行为寻求超过15亿美元的损害赔偿 |",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qTVQzVkdRQVdidUV4TENMOTVHUkp6NEVfcVAzYzRDTVFTWjZrSEIzbXZOeWFDVktrSmY2UFppU2FZeVVvaVZibHI4ZHdMbVZ0dEE?oc=5",
    "summary": "",
-   "time": "2026-08-20T08:14:03+08:00",
-   "date": "2026-08-20",
-   "sources": [
-    "富途牛牛"
-   ],
-   "region": "国内",
-   "category": "诉讼仲裁",
-   "heat": 4.0,
-   "hot": false,
-   "tags": [
-    "仲裁"
-   ],
-   "importance": 6.5,
-   "kw_score": 2.0,
-   "weight": 2.0,
-   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
-  },
-  {
-   "title": "长江和记和向巴拿马发起国际仲裁，索赔超15亿美元！",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE50WXVNM3dkemV1YktWUENidGJxN2pabFNBM3JvM00zQnhQeHhSU1Vkd3NYdjNGM2YwOXB5Y0M1M05nYldpaEswWmgxMXdoeEF2eHc?oc=5",
-   "summary": "",
-   "time": "2026-08-20T19:06:00+08:00",
+   "time": "2026-08-20T13:54:20+08:00",
    "date": "2026-08-20",
    "sources": [
     "搜狐网"
@@ -11503,13 +11573,13 @@
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
   },
   {
-   "title": "长和启动国际仲裁指控巴拿马违反条约，索赔超15亿美元",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05Ynp2MUtncm03Sm9KMnlKTmQwNjRDb0d5SXpUNFIyWl9pOHdKb1UwRUNDMmx0bUg2UDd1bkRGNTFKWGx4c2NOMkpDTDU5c1JGUkE3Y0R1Nk9scTJWc2kxdw?oc=5",
+   "title": "长江和记实业：就巴拿马港口事项启动国际仲裁",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOckVTWHRvTUJvemFraHZROUxRUjBnM1p4TjBVTGJLdTN5MU1qbWt1eWZoMVpaTkFZM3F5SkNJMndqVG8xMHdNS1FTeTF6NDRhVmI2ZjlaS0cxbW9qaDNDN1R3YWNPelVJaHYzQlJCVGhOdVRrTUlnOHN4d0lTeDhtSnBCSEl1RTdiZXZWbEktTlY4d3B3RXI4WmIzbThkbUdOd09fYkFrdXhSMDZEU3J2NkcxQXFHT2tRNHM0RkU5dXNOV2xo?oc=5",
    "summary": "",
-   "time": "2026-08-20T09:43:41+08:00",
+   "time": "2026-08-20T08:14:03+08:00",
    "date": "2026-08-20",
    "sources": [
-    "东方财富"
+    "富途牛牛"
    ],
    "region": "国内",
    "category": "诉讼仲裁",
@@ -11518,7 +11588,7 @@
    "tags": [
     "仲裁"
    ],
-   "importance": 9.5,
+   "importance": 6.5,
    "kw_score": 2.0,
    "weight": 2.0,
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
@@ -15016,7 +15086,7 @@
    "time": "2026-08-18T07:09:00+08:00",
    "date": "2026-08-18",
    "sources": [
-    "腾讯新闻"
+    "QQ News"
    ],
    "region": "国内",
    "category": "跨境数据",
@@ -15943,8 +16013,8 @@
    "heat": 8.0,
    "hot": false,
    "tags": [
-    "enforcement",
     "arbitration",
+    "enforcement",
     "court"
    ],
    "importance": 10.5,
@@ -15998,6 +16068,28 @@
    "reason": "行业合规实践动态，可作为制度建设与对标参考。"
   },
   {
+   "title": "CalPrivacy Settles with Two Data Brokers over Registration Failures and Privacy Violations",
+   "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/calprivacy-settles-with-two-data-brokers-over-registration-failures-and-privacy-violations",
+   "summary": "On August 11, 2026, and August 13, 2026, the California Privacy Protection Agency (“CalPrivacy”) announced settlements with two data brokers, LocateSmarter LLC (“LocateSmarter”)…",
+   "time": "2026-08-18T21:00:05+08:00",
+   "date": "2026-08-18",
+   "sources": [
+    "Hunton 隐私与信息安全博客"
+   ],
+   "region": "国际",
+   "category": "个人信息保护",
+   "heat": 7.0,
+   "hot": false,
+   "tags": [
+    "settlement",
+    "privacy"
+   ],
+   "importance": 7.0,
+   "kw_score": 4.0,
+   "weight": 3.0,
+   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
+  },
+  {
    "title": "Karnataka high court admits Qatar Holding plea for enforcement of arbitration award against debt-laden Byju’s",
    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQTUxJOGFSV3V0c01vN1cxR2I2M3dYLVZiUTFKb0NfUFhNeWNZZWp5ejhoZXpPLVR4RTlqbjF2bWxPUXJ6WS1uTkRiZ0c0ZXlmQ3hqQjVYdV9lX0hqT1RYYVJsSk9mcUVIaXh6cFFUWnRUVFB4UTJTQlNfZ0dCNXF5VlpkVnV1OEFKZnR1OVYtU1ozb3dwYWh2R21NRzc0eldxQXhleFROUGRRbTVUME1pdGNBSG95NDNWMGIza1BCMnBKVk9XVTBLcUYwTkZJeEgwZzlWVGREcE5FUm1scTRzZTJYS0RXSXBrY3diNFozbl9WbVRHTEZKdnN30gH_AUFVX3lxTE9jbnhGQllLclpVSmh6S1ZRTHdKVTNtdHN3MzZvSnlGNDUxeWkxNTVXRHp5SDlBWlpSaUNhLVFGbnRQeFJBXzZSQ0FaXzNSckI4bVA1T2FqQm1wdzFVRlZyeGtCREswZEo2T21hbFpVOFh1WXV2dmVYZ2NsV3puOWk5ZlhuYWswVGpCQVNONHBDbzhkUXRISmQ4LTAwVlEyNmRFRWhXWGlNTVNjSHdNSG01ZVpMZFdUVWt2RjBXTUY5ZFBsT2t1RG1kdTBQV1ZpbC03VHdmaFhqOVZZalp1Rlh3RHFTcEYxcnJ1azgyWU11aTVTMy1NNWE5Z1hiU1hnNA?oc=5",
    "summary": "Karnataka high court admits Qatar Holding plea for enforcement of arbitration award against debt-laden Byju’s livemint.com",
@@ -16019,28 +16111,6 @@
    "kw_score": 5.0,
    "weight": 2.0,
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
-  },
-  {
-   "title": "CalPrivacy Settles with Two Data Brokers over Registration Failures and Privacy Violations",
-   "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/calprivacy-settles-with-two-data-brokers-over-registration-failures-and-privacy-violations",
-   "summary": "On August 11, 2026, and August 13, 2026, the California Privacy Protection Agency (“CalPrivacy”) announced settlements with two data brokers, LocateSmarter LLC (“LocateSmarter”)…",
-   "time": "2026-08-18T21:00:05+08:00",
-   "date": "2026-08-18",
-   "sources": [
-    "Hunton 隐私与信息安全博客"
-   ],
-   "region": "国际",
-   "category": "个人信息保护",
-   "heat": 7.0,
-   "hot": false,
-   "tags": [
-    "settlement",
-    "privacy"
-   ],
-   "importance": 7.0,
-   "kw_score": 4.0,
-   "weight": 3.0,
-   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
   },
   {
    "title": "Rivers Casino Philadelphia Data Breach Lawsuit Moves Forward",
@@ -16173,14 +16243,34 @@
    "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
   },
   {
+   "title": "国家数据局：数据领域国际合作首批试点启动！广东三地入选",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ScTA4NEN6U2tXbzlRSl9FTm5HeHlfcmY0eHdQdTUwWVdHSjVHMEZuSnUwMWR1LXQ0RTVDZFRiUTBudHZveFh4aFBPUGVZUU10MlJiRGM4MkYxcncybm4tbQ?oc=5",
+   "summary": "",
+   "time": "2026-08-18T17:46:33+08:00",
+   "date": "2026-08-18",
+   "sources": [
+    "东方财富",
+    "搜狐网"
+   ],
+   "region": "国内",
+   "category": "行业实践",
+   "heat": 4.0,
+   "hot": false,
+   "tags": [],
+   "importance": 4.0,
+   "kw_score": 0.0,
+   "weight": 2.0,
+   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
+  },
+  {
    "title": "国家数据局：上海数据交易实践经验有力支撑了哈萨克斯坦阿斯塔纳数据交易所建设",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40X3JJZXBuR3NkU0VzUDhQdjRHemZBTXNLa1NyQlVELTRmNHpjdFhyNU5tbGdUd3BhWDBTbU4zS3VZVHItWThDMlplMkRDWFphdVhRbFZFbGVWUU51RXc?oc=5",
    "summary": "",
-   "time": "2026-08-18T19:34:17+08:00",
+   "time": "2026-08-18T19:34:00+08:00",
    "date": "2026-08-18",
    "sources": [
     "thepaper.cn",
-    "搜狐网"
+    "上观新闻"
    ],
    "region": "国内",
    "category": "行业实践",
@@ -16273,26 +16363,6 @@
    "kw_score": 2.0,
    "weight": 2.0,
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
-  },
-  {
-   "title": "国家数据局：数据领域国际合作首批试点启动！广东三地入选",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ScTA4NEN6U2tXbzlRSl9FTm5HeHlfcmY0eHdQdTUwWVdHSjVHMEZuSnUwMWR1LXQ0RTVDZFRiUTBudHZveFh4aFBPUGVZUU10MlJiRGM4MkYxcncybm4tbQ?oc=5",
-   "summary": "",
-   "time": "2026-08-18T17:46:33+08:00",
-   "date": "2026-08-18",
-   "sources": [
-    "东方财富",
-    "搜狐网"
-   ],
-   "region": "国内",
-   "category": "行业实践",
-   "heat": 4.0,
-   "hot": false,
-   "tags": [],
-   "importance": 4.0,
-   "kw_score": 0.0,
-   "weight": 2.0,
-   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
   },
   {
    "title": "国家数据局：上海数据交易实践经验有力支撑阿斯塔纳数据交易所建设",
@@ -19392,12 +19462,12 @@
   },
   {
    "title": "个保法“守门人条款”细化规定征求意见 外部成员任监督委员会负责人",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1QMTNYYldKNmJlWWZTR0IzN19mOE94bk1jOVZqbzc2Vks0aEQzaFVIdDVYREUzRjZjdzVDRUdldWUwbDFoOXhtWE1heDJiNTZBZFVnNTVxRjJ3RjBB?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5mZGwyclhGWVdVSkV3M2NkcjhveEdFT20yQjdqV051amdNakR6OFl2QUx0X3g0dm1odWZzeDRPUHpsX1NSTE1YR21VX0M5WGotZndheXVCVTVhdVlrU1hz?oc=5",
    "summary": "",
    "time": "2026-08-17T17:08:00+08:00",
    "date": "2026-08-17",
    "sources": [
-    "财新"
+    "china.caixin.com"
    ],
    "region": "国内",
    "category": "立法监管",
@@ -19414,12 +19484,12 @@
   },
   {
    "title": "个保法“守门人条款”细化规定征求意见 外部成员任监督委员会负责人",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5mZGwyclhGWVdVSkV3M2NkcjhveEdFT20yQjdqV051amdNakR6OFl2QUx0X3g0dm1odWZzeDRPUHpsX1NSTE1YR21VX0M5WGotZndheXVCVTVhdVlrU1hz?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1QMTNYYldKNmJlWWZTR0IzN19mOE94bk1jOVZqbzc2Vks0aEQzaFVIdDVYREUzRjZjdzVDRUdldWUwbDFoOXhtWE1heDJiNTZBZFVnNTVxRjJ3RjBB?oc=5",
    "summary": "",
    "time": "2026-08-17T17:08:00+08:00",
    "date": "2026-08-17",
    "sources": [
-    "china.caixin.com"
+    "财新"
    ],
    "region": "国内",
    "category": "立法监管",
