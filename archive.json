@@ -23102,8 +23102,8 @@
   "heat": 5.0,
   "hot": false,
   "tags": [
-   "条例",
-   "仲裁"
+   "仲裁",
+   "条例"
   ],
   "importance": 7.5,
   "kw_score": 3.0,
@@ -32137,7 +32137,7 @@
   "tags": [
    "data protection",
    "enforcement",
-   "privacy"
+   "consent"
   ],
   "importance": 14.5,
   "kw_score": 12.0,
@@ -48609,8 +48609,8 @@
   "heat": 7.0,
   "hot": false,
   "tags": [
-   "lawsuit",
    "privacy",
+   "lawsuit",
    "court"
   ],
   "importance": 9.5,
@@ -52076,8 +52076,8 @@
   "heat": 7.0,
   "hot": false,
   "tags": [
-   "fine",
-   "PIPL"
+   "PIPL",
+   "fine"
   ],
   "importance": 9.5,
   "kw_score": 5.0,
@@ -64071,8 +64071,8 @@
   "heat": 8.0,
   "hot": false,
   "tags": [
-   "enforcement",
    "arbitration",
+   "enforcement",
    "court"
   ],
   "importance": 10.5,
@@ -70110,7 +70110,7 @@
    "观点网",
    "新浪财经",
    "搜狐网",
-   "klsescreener.com",
+   "KLSE Screener",
    "Sin Chew Daily",
    "星島頭條",
    "香港01"
@@ -73431,8 +73431,8 @@
   "heat": 6.0,
   "hot": false,
   "tags": [
-   "enforcement",
-   "arbitration"
+   "arbitration",
+   "enforcement"
   ],
   "importance": 8.5,
   "kw_score": 4.0,
@@ -78368,7 +78368,7 @@
   "tags": [
    "settlement",
    "consent",
-   "lawsuit"
+   "privacy"
   ],
   "importance": 12.0,
   "kw_score": 8.0,
@@ -78458,8 +78458,8 @@
   "heat": 10.0,
   "hot": false,
   "tags": [
-   "重要数据",
    "数据合规",
+   "重要数据",
    "合规"
   ],
   "importance": 10.0,
@@ -83293,8 +83293,8 @@
   "hot": false,
   "tags": [
    "个人信息",
-   "法院",
-   "泄露"
+   "泄露",
+   "法院"
   ],
   "importance": 5.5,
   "kw_score": 4.0,
@@ -83840,8 +83840,8 @@
   "hot": false,
   "tags": [
    "FTC",
-   "隐私",
-   "和解"
+   "起诉",
+   "隐私"
   ],
   "importance": 15.0,
   "kw_score": 8.0,
@@ -83971,7 +83971,7 @@
   ],
   "region": "国际",
   "category": "执法处罚",
-  "heat": 9.1,
+  "heat": 9.0,
   "hot": false,
   "tags": [
    "GDPR",
@@ -84171,7 +84171,7 @@
   ],
   "region": "国际",
   "category": "行业实践",
-  "heat": 4.0,
+  "heat": 3.9,
   "hot": false,
   "tags": [],
   "importance": 1.5,
@@ -84330,8 +84330,8 @@
   "heat": 5.0,
   "hot": false,
   "tags": [
-   "个人信息",
-   "征求意见"
+   "征求意见",
+   "个人信息"
   ],
   "importance": 8.0,
   "kw_score": 3.0,
@@ -85678,7 +85678,7 @@
   ],
   "region": "国际",
   "category": "执法处罚",
-  "heat": 11.0,
+  "heat": 10.9,
   "hot": false,
   "tags": [
    "privacy",
@@ -85792,7 +85792,7 @@
   ],
   "region": "国内",
   "category": "执法处罚",
-  "heat": 9.5,
+  "heat": 9.4,
   "hot": false,
   "tags": [
    "人脸识别",
@@ -85815,11 +85815,11 @@
   ],
   "region": "国内",
   "category": "安全事件",
-  "heat": 6.5,
+  "heat": 6.4,
   "hot": false,
   "tags": [
-   "法院",
-   "泄露"
+   "泄露",
+   "法院"
   ],
   "importance": 3.5,
   "kw_score": 2.0,
@@ -86300,7 +86300,7 @@
    "数字中国建设峰会",
    "chinanews.com.cn",
    "网易新闻客户端",
-   "finance.sina.com.cn"
+   "新浪财经"
   ],
   "region": "国内",
   "category": "立法监管",
@@ -87016,11 +87016,11 @@
   ],
   "region": "国内",
   "category": "行业实践",
-  "heat": 11.4,
+  "heat": 11.3,
   "hot": false,
   "tags": [
-   "数据安全",
    "数据合规",
+   "数据安全",
    "合规"
   ],
   "importance": 8.0,
@@ -87932,6 +87932,75 @@
    "数据安全法",
    "个人信息",
    "数据安全"
+  ],
+  "importance": 11.0,
+  "kw_score": 9.0,
+  "weight": 2.0,
+  "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
+ },
+ "https://mp.weixin.qq.com/s?src=11&timestamp=1787694719&ver=6927&signature=BSFfPVUoDFD3no-0ij1fiGM5IMu0Dx5RHno3Z-VT9ppnNH2cDgub31w*lIjoy8CEpkcKsV4g5CDLYHE0r-7Kt3pCBGmPyhZ4jyiHzZWnnnsH9OQE4XKtA7oyvyS92tcH&new=1": {
+  "title": "知识产权保护项目组和 数据合规 与网络安全项目组",
+  "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787694719&ver=6927&signature=BSFfPVUoDFD3no-0ij1fiGM5IMu0Dx5RHno3Z-VT9ppnNH2cDgub31w*lIjoy8CEpkcKsV4g5CDLYHE0r-7Kt3pCBGmPyhZ4jyiHzZWnnnsH9OQE4XKtA7oyvyS92tcH&new=1",
+  "summary": "数据 出境 合规 :评估、申报、备案• 数据 泄露处置与监管应对.适合谁:互联网及数字化企业,涉及个人信息和 数据 业务的企业.项目...",
+  "time": "2026-08-26T00:02:50+08:00",
+  "date": "2026-08-26",
+  "sources": [
+   "微信公众号"
+  ],
+  "region": "国内",
+  "category": "个人信息保护",
+  "heat": 15.7,
+  "hot": false,
+  "tags": [
+   "数据合规",
+   "网络安全",
+   "个人信息"
+  ],
+  "importance": 12.0,
+  "kw_score": 10.0,
+  "weight": 2.0,
+  "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
+ },
+ "https://mp.weixin.qq.com/s?src=11&timestamp=1787694744&ver=6927&signature=1n1PMGHBY5OCzghzHECqlyhU2pJ*h6fRSHd4ehaYSX86WBz5NztjA87IEFUV227ryd2OsVrWV4W4KGbLKpbokeL8fUvnLy73E5bt8H8aTzeQ*vWDNEuCw2Oqut*Mh6To&new=1": {
+  "title": "【权威认证】CCRC-PIPCA 个人信息保护 合规审计师 9月12-13、19-20日",
+  "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787694744&ver=6927&signature=1n1PMGHBY5OCzghzHECqlyhU2pJ*h6fRSHd4ehaYSX86WBz5NztjA87IEFUV227ryd2OsVrWV4W4KGbLKpbokeL8fUvnLy73E5bt8H8aTzeQ*vWDNEuCw2Oqut*Mh6To&new=1",
+  "summary": "CCRC-PIPCA 个人信息保护 合规审计师中国网络安全审查认证和市场监管大数据中心官方权威认证认证课程介绍＂ 个人信息保护 合规...",
+  "time": "2026-08-25T12:02:45+08:00",
+  "date": "2026-08-25",
+  "sources": [
+   "微信公众号"
+  ],
+  "region": "国内",
+  "category": "个人信息保护",
+  "heat": 14.0,
+  "hot": false,
+  "tags": [
+   "网络安全",
+   "合规审计",
+   "个人信息"
+  ],
+  "importance": 11.0,
+  "kw_score": 9.0,
+  "weight": 2.0,
+  "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
+ },
+ "https://mp.weixin.qq.com/s?src=11&timestamp=1787694744&ver=6927&signature=PASM*qGn0nfsB8mCFtNE4RArLqxXhFxoWAvJmDNDic-Uq1M6rjORfJu-vbkzV9e6KzbMzpM2D8xSOF-I9Gv77EjZaxvZHf4TGm1fJaiU1NODadGGJWzi-CQODZkrDNUu&new=1": {
+  "title": "报名系统开启! 个人信息保护 合规管理员&密码技术应用员职工职业技能竞赛系统开放报名啦~",
+  "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1787694744&ver=6927&signature=PASM*qGn0nfsB8mCFtNE4RArLqxXhFxoWAvJmDNDic-Uq1M6rjORfJu-vbkzV9e6KzbMzpM2D8xSOF-I9Gv77EjZaxvZHf4TGm1fJaiU1NODadGGJWzi-CQODZkrDNUu&new=1",
+  "summary": "个人信息保护 、数据安全法律法规、监管规则、安全事件处置上报等;实操:围绕真实业务场景,考察 个人信息保护 合规实务解决能力...",
+  "time": "2026-08-25T23:07:15+08:00",
+  "date": "2026-08-25",
+  "sources": [
+   "微信公众号"
+  ],
+  "region": "国内",
+  "category": "个人信息保护",
+  "heat": 14.6,
+  "hot": false,
+  "tags": [
+   "数据安全法",
+   "数据安全",
+   "个人信息"
   ],
   "importance": 11.0,
   "kw_score": 9.0,
