@@ -1,14 +1,34 @@
 {
- "generated_at": "2026-10-03T22:32:00.289158+08:00",
- "count": 147,
+ "generated_at": "2026-10-04T02:30:21.924598+08:00",
+ "count": 150,
  "highlight_count": 30,
  "errors": [
-  "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）",
-  "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）",
-  "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）",
   "36氪: not well-formed (invalid token): line 9, column 542"
  ],
  "items": [
+  {
+   "title": "$20.5M CVS digital privacy class action settlement",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObXM5SldTenFwUUZ2SUN3OVdLdFAtbnZZZXFyR0x5YU9ibUlJY3ZXc09paXdaVjBRTFhRVUtYMFRud21Kd1Y3T0hNTXNCYVE4SklFd0hxRC10dmxtb0t5YVU0UjExMkFkc3Fad284bVB4TURvaER3b0hxamtfY1pzOE9zd29NRmhUS0FmMFFtY21PRTVLbVNxY3hUQnNTMGt6Z0s1Q1d3SFU5dXFhVVN2ZW1fWnRWaG43SnRNTktFMGo?oc=5",
+   "summary": "",
+   "time": "2026-10-04T02:04:37+08:00",
+   "date": "2026-10-04",
+   "sources": [
+    "Top Class Actions"
+   ],
+   "region": "国际",
+   "category": "诉讼仲裁",
+   "heat": 12.0,
+   "hot": false,
+   "tags": [
+    "class action",
+    "settlement",
+    "privacy"
+   ],
+   "importance": 10.5,
+   "kw_score": 6.0,
+   "weight": 2.0,
+   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
+  },
   {
    "title": "EDPB Publishes Guidelines on GDPR Fines and Other Corrective Powers for Public Consultation",
    "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/edpb-publishes-guidelines-on-gdpr-fines-and-other-corrective-powers-for-public-consultation",
@@ -17,11 +37,11 @@
    "date": "2026-10-03",
    "sources": [
     "Hunton 隐私与信息安全博客",
-    "Hunton Andrews Kurth LLP"
+    "hunton.com"
    ],
    "region": "国际",
    "category": "执法处罚",
-   "heat": 19.8,
+   "heat": 19.5,
    "hot": true,
    "tags": [
     "data protection",
@@ -35,6 +55,29 @@
   },
   {
    "title": "九乐观察|截至26年4月 通过 个人信息保护 合规审计服务认证的专业机构名单(共两批)",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1791052227&ver=7004&signature=7hj2*Yjr-dimQPOyxi071l-3IFN6DHAIujfR9rP6DB2WOYNn8ISHqLCziEm-qc4rwwCKW-lKMJiIBqbWfJv6nwO5lTHr7IxZrwl1xD1rHgC39aOt4fcH279-LO20Ocmv&new=1",
+   "summary": "落实《中华人民共和国 个人信息保护 法》《 个人信息保护 合规审计管理办法》相关要求,中央网信办(国家网信办)数据与技术保障中...",
+   "time": "2026-10-03T08:26:00+08:00",
+   "date": "2026-10-03",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "个人信息保护",
+   "heat": 15.0,
+   "hot": true,
+   "tags": [
+    "合规审计",
+    "个人信息",
+    "网信办"
+   ],
+   "importance": 12.0,
+   "kw_score": 10.0,
+   "weight": 2.0,
+   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
+  },
+  {
+   "title": "九乐观察|截至26年4月 通过 个人信息保护 合规审计服务认证的专业机构名单(共两批)",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1790998820&ver=7003&signature=KDVFFIWcw*eYCKDPrypbSXzeRBTipWEToXcxIFVenwofGBxfEUhLqmVj0ks2tufXf6wNurA9t2OWKPJdl3Wfealh3cTUBGhvFBGQ8-RFZhII5qmsCl4oYavAhrH3xOHL&new=1",
    "summary": "落实《中华人民共和国 个人信息保护 法》《 个人信息保护 合规审计管理办法》相关要求,中央网信办(国家网信办)数据与技术保障中...",
    "time": "2026-10-03T08:26:00+08:00",
@@ -44,7 +87,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 15.2,
+   "heat": 15.0,
    "hot": true,
    "tags": [
     "个人信息",
@@ -67,7 +110,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 15.2,
+   "heat": 15.0,
    "hot": true,
    "tags": [
     "个人信息",
@@ -91,7 +134,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 12.9,
+   "heat": 12.7,
    "hot": false,
    "tags": [
     "class action",
@@ -114,7 +157,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 11.0,
+   "heat": 10.8,
    "hot": false,
    "tags": [
     "class action",
@@ -137,7 +180,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 10.9,
+   "heat": 10.6,
    "hot": false,
    "tags": [
     "class action",
@@ -160,7 +203,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 10.8,
+   "heat": 10.6,
    "hot": false,
    "tags": [
     "class action",
@@ -183,11 +226,11 @@
    ],
    "region": "国际",
    "category": "执法处罚",
-   "heat": 9.8,
+   "heat": 9.5,
    "hot": false,
    "tags": [
-    "GDPR",
-    "fine"
+    "fine",
+    "GDPR"
    ],
    "importance": 9.5,
    "kw_score": 5.0,
@@ -205,7 +248,7 @@
    ],
    "region": "国际",
    "category": "行业实践",
-   "heat": 4.3,
+   "heat": 4.1,
    "hot": false,
    "tags": [],
    "importance": 1.5,
@@ -224,7 +267,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 16.3,
+   "heat": 16.0,
    "hot": true,
    "tags": [
     "个人信息保护法",
@@ -247,7 +290,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 10.8,
+   "heat": 10.6,
    "hot": false,
    "tags": [
     "个人信息",
@@ -270,7 +313,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 10.8,
+   "heat": 10.6,
    "hot": false,
    "tags": [
     "个人信息",
@@ -293,7 +336,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 9.9,
+   "heat": 9.7,
    "hot": false,
    "tags": [
     "数据合规",
@@ -316,7 +359,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 9.6,
+   "heat": 9.4,
    "hot": false,
    "tags": [
     "class action",
@@ -330,6 +373,28 @@
   },
   {
    "title": "【 个人信息保护 】2026年 个人信息保护 系列专项行动取得阶段性成效",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1791052227&ver=7004&signature=K6QNVRRDO3HJdJi4i8NpIEBK3IWLbRTJbWqS35dQzsCh0ORm5EX6AGaC4nHUKTkV8FOu9VeYJNb*PQ*eEiqFNpZx87HvzLg9xsOR5wPM9GTDxd8F9SlsO-q2G2Sv*AOf&new=1",
+   "summary": "2026年 个人信息保护 系列专项行动开展以来,中央网信办、工业和信息化部、公安部会同相关部门,加强系统谋划部署,强化协调联动...",
+   "time": "2026-10-02T20:59:25+08:00",
+   "date": "2026-10-02",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "个人信息保护",
+   "heat": 9.4,
+   "hot": false,
+   "tags": [
+    "个人信息",
+    "网信办"
+   ],
+   "importance": 7.0,
+   "kw_score": 5.0,
+   "weight": 2.0,
+   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
+  },
+  {
+   "title": "【 个人信息保护 】2026年 个人信息保护 系列专项行动取得阶段性成效",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1790954297&ver=7002&signature=mkTStZorK*tKdN*UqapWbpTNFDvjEhS5kn1oBKHSbXreJsuRJoReVnca4PmYc*6Uua8CN2d5M6cr9I7a-dsWGB7jnEEXKS*VURlS6O6RaYeNDAalq1ocDH-ZWCXcNtnh&new=1",
    "summary": "2026年 个人信息保护 系列专项行动开展以来,中央网信办、工业和信息化部、公安部会同相关部门,加强系统谋划部署,强化协调联动...",
    "time": "2026-10-02T20:59:25+08:00",
@@ -339,7 +404,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 9.6,
+   "heat": 9.4,
    "hot": false,
    "tags": [
     "个人信息",
@@ -361,7 +426,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 9.6,
+   "heat": 9.4,
    "hot": false,
    "tags": [
     "个人信息",
@@ -383,7 +448,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 9.6,
+   "heat": 9.4,
    "hot": false,
    "tags": [
     "个人信息",
@@ -405,7 +470,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 9.6,
+   "heat": 9.4,
    "hot": false,
    "tags": [
     "个人信息",
@@ -427,7 +492,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 9.6,
+   "heat": 9.4,
    "hot": false,
    "tags": [
     "个人信息",
@@ -449,7 +514,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 9.5,
+   "heat": 9.3,
    "hot": false,
    "tags": [
     "class action",
@@ -472,7 +537,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 9.5,
+   "heat": 9.3,
    "hot": false,
    "tags": [
     "class action",
@@ -485,27 +550,26 @@
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
   },
   {
-   "title": "$20.5M CVS digital privacy class action settlement",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObXM5SldTenFwUUZ2SUN3OVdLdFAtbnZZZXFyR0x5YU9ibUlJY3ZXc09paXdaVjBRTFhRVUtYMFRud21Kd1Y3T0hNTXNCYVE4SklFd0hxRC10dmxtb0t5YVU0UjExMkFkc3Fad284bVB4TURvaER3b0hxamtfY1pzOE9zd29NRmhUS0FmMFFtY21PRTVLbVNxY3hUQnNTMGt6Z0s1Q1d3SFU5dXFhVVN2ZW1fWnRWaG43SnRNTktFMGo?oc=5",
-   "summary": "",
-   "time": "2026-10-02T01:04:36+08:00",
+   "title": "政策问答-证券投资-《小型个人信息处理者 个人信息保护 简化措施规定》相关",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1791052227&ver=7004&signature=7uxTKS*17Y-11RrehgBk9Uwu2pfBpKTB72mhyt8pLfuziedRBpXAQa5aviXvy*6mNigMH3S5g7PSrCDost8ksdAfkooSUqiQmzR*S*a3ypeYUpjeQjjgeFp5ok2A4KgZ&new=1",
+   "summary": "国家网信办、公安部联合公布的《小型个人信息处理者 个人信息保护 简化措施规定》自9月1日起施行,对连续12个月处理不满10万人...",
+   "time": "2026-10-02T17:00:39+08:00",
    "date": "2026-10-02",
    "sources": [
-    "Top Class Actions"
+    "微信公众号"
    ],
-   "region": "国际",
-   "category": "诉讼仲裁",
-   "heat": 9.5,
+   "region": "国内",
+   "category": "个人信息保护",
+   "heat": 9.1,
    "hot": false,
    "tags": [
-    "class action",
-    "settlement",
-    "privacy"
+    "个人信息",
+    "网信办"
    ],
-   "importance": 10.5,
-   "kw_score": 6.0,
+   "importance": 7.0,
+   "kw_score": 5.0,
    "weight": 2.0,
-   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
+   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
   },
   {
    "title": "政策问答-证券投资-《小型个人信息处理者 个人信息保护 简化措施规定》相关",
@@ -518,7 +582,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 9.4,
+   "heat": 9.1,
    "hot": false,
    "tags": [
     "个人信息",
@@ -540,7 +604,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 9.4,
+   "heat": 9.1,
    "hot": false,
    "tags": [
     "个人信息",
@@ -562,7 +626,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 9.4,
+   "heat": 9.1,
    "hot": false,
    "tags": [
     "个人信息",
@@ -584,7 +648,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 9.4,
+   "heat": 9.1,
    "hot": false,
    "tags": [
     "个人信息",
@@ -606,7 +670,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 9.4,
+   "heat": 9.1,
    "hot": false,
    "tags": [
     "个人信息",
@@ -628,7 +692,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 8.5,
+   "heat": 8.3,
    "hot": false,
    "tags": [
     "class action",
@@ -650,7 +714,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 8.1,
+   "heat": 7.9,
    "hot": false,
    "tags": [
     "个人信息",
@@ -672,7 +736,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 8.1,
+   "heat": 7.9,
    "hot": false,
    "tags": [
     "个人信息",
@@ -694,7 +758,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 8.1,
+   "heat": 7.9,
    "hot": false,
    "tags": [
     "个人信息",
@@ -716,7 +780,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 7.3,
+   "heat": 7.1,
    "hot": false,
    "tags": [
     "个人信息",
@@ -738,7 +802,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 7.2,
+   "heat": 7.0,
    "hot": false,
    "tags": [
     "隐私保护",
@@ -761,7 +825,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 14.9,
+   "heat": 14.7,
    "hot": true,
    "tags": [
     "个人信息保护法",
@@ -784,7 +848,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 14.9,
+   "heat": 14.7,
    "hot": true,
    "tags": [
     "个人信息保护法",
@@ -807,7 +871,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 14.9,
+   "heat": 14.7,
    "hot": true,
    "tags": [
     "个人信息保护法",
@@ -830,7 +894,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 11.8,
+   "heat": 11.6,
    "hot": false,
    "tags": [
     "数据合规",
@@ -853,7 +917,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 11.8,
+   "heat": 11.6,
    "hot": false,
    "tags": [
     "数据合规",
@@ -876,7 +940,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 11.8,
+   "heat": 11.6,
    "hot": false,
    "tags": [
     "数据合规",
@@ -899,7 +963,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 10.9,
+   "heat": 10.7,
    "hot": false,
    "tags": [
     "个人信息",
@@ -922,7 +986,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 10.9,
+   "heat": 10.7,
    "hot": false,
    "tags": [
     "个人信息",
@@ -945,7 +1009,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 10.9,
+   "heat": 10.7,
    "hot": false,
    "tags": [
     "个人信息",
@@ -968,7 +1032,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 9.9,
+   "heat": 9.7,
    "hot": false,
    "tags": [
     "个人信息",
@@ -991,7 +1055,7 @@
    ],
    "region": "国际",
    "category": "执法处罚",
-   "heat": 9.4,
+   "heat": 9.2,
    "hot": false,
    "tags": [
     "class action",
@@ -1014,7 +1078,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 7.7,
+   "heat": 7.5,
    "hot": false,
    "tags": [
     "数据合规",
@@ -1036,7 +1100,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 7.3,
+   "heat": 7.0,
    "hot": false,
    "tags": [
     "dispute resolution",
@@ -1049,28 +1113,6 @@
   },
   {
    "title": "【创文进行时】市委网信办组织开展全市网络安全应急演练",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FX2tXZENHWndRYnlkMXJwcERJcldMOERoV1ZYZm9PdV9PNmE2TG5EWmVIV3FuTkhmNWRhUGJObndQMVVKV2NtX3dzbzE3WUxUcC1IbG9veURndkE?oc=5",
-   "summary": "",
-   "time": "2026-10-01T21:07:24+08:00",
-   "date": "2026-10-01",
-   "sources": [
-    "gzastv.cn"
-   ],
-   "region": "国内",
-   "category": "行业实践",
-   "heat": 7.3,
-   "hot": false,
-   "tags": [
-    "网络安全",
-    "网信办"
-   ],
-   "importance": 6.0,
-   "kw_score": 4.0,
-   "weight": 2.0,
-   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
-  },
-  {
-   "title": "【创文进行时】市委网信办组织开展全市网络安全应急演练",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBudmZEdnVWU0twR1VuMi1sbUFVNkYxb3drdHd0TVFNNmVpWl9CVjdiSFdBUlZHOU1oYWFEWnVhNHlEOWhWbm5tSlBWc2hjeGIzLUw3cGxSMUNHdWs?oc=5",
    "summary": "",
    "time": "2026-10-01T21:07:24+08:00",
@@ -1080,7 +1122,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 7.3,
+   "heat": 7.0,
    "hot": false,
    "tags": [
     "网络安全",
@@ -1102,7 +1144,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 7.1,
+   "heat": 6.9,
    "hot": false,
    "tags": [
     "data breach",
@@ -1124,11 +1166,11 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 5.7,
+   "heat": 5.5,
    "hot": false,
    "tags": [
-    "处罚",
-    "监管"
+    "监管",
+    "处罚"
    ],
    "importance": 7.5,
    "kw_score": 3.0,
@@ -1146,7 +1188,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 5.2,
+   "heat": 5.0,
    "hot": false,
    "tags": [
     "arbitration",
@@ -1164,11 +1206,11 @@
    "time": "2026-10-01T16:53:28+08:00",
    "date": "2026-10-01",
    "sources": [
-    "Addleshaw Goddard LLP"
+    "addleshawgoddard.com"
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 5.0,
+   "heat": 4.8,
    "hot": false,
    "tags": [
     "arbitration"
@@ -1189,7 +1231,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 4.9,
+   "heat": 4.7,
    "hot": false,
    "tags": [
     "个人信息"
@@ -1210,7 +1252,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 4.4,
+   "heat": 4.2,
    "hot": false,
    "tags": [
     "立法",
@@ -1232,7 +1274,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 4.2,
+   "heat": 4.0,
    "hot": false,
    "tags": [
     "仲裁"
@@ -1253,7 +1295,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 4.2,
+   "heat": 4.0,
    "hot": false,
    "tags": [
     "仲裁"
@@ -1274,7 +1316,7 @@
    ],
    "region": "国际",
    "category": "行业实践",
-   "heat": 3.4,
+   "heat": 3.1,
    "hot": false,
    "tags": [],
    "importance": 2.0,
@@ -1293,7 +1335,7 @@
    ],
    "region": "国际",
    "category": "立法监管",
-   "heat": 2.2,
+   "heat": 2.0,
    "hot": false,
    "tags": [],
    "importance": 5.0,
@@ -1312,7 +1354,7 @@
    ],
    "region": "国际",
    "category": "立法监管",
-   "heat": 2.2,
+   "heat": 2.0,
    "hot": false,
    "tags": [],
    "importance": 5.0,
@@ -1666,6 +1708,28 @@
    "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
   },
   {
+   "title": "【创文进行时】市委网信办组织开展全市网络安全应急演练",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FX2tXZENHWndRYnlkMXJwcERJcldMOERoV1ZYZm9PdV9PNmE2TG5EWmVIV3FuTkhmNWRhUGJObndQMVVKV2NtX3dzbzE3WUxUcC1IbG9veURndkE?oc=5",
+   "summary": "",
+   "time": "2026-09-30T22:10:27+08:00",
+   "date": "2026-09-30",
+   "sources": [
+    "gzastv.cn"
+   ],
+   "region": "国内",
+   "category": "行业实践",
+   "heat": 6.0,
+   "hot": false,
+   "tags": [
+    "网络安全",
+    "网信办"
+   ],
+   "importance": 6.0,
+   "kw_score": 4.0,
+   "weight": 2.0,
+   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
+  },
+  {
    "title": "Class action cyberattack lawsuit against Columbus will move forward",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPT3pZeldtMkJkbUZXYTMwWVZZanpoc2NFNFEyMWg2SGE1NE1vcTdzYThOWjJjY28wajFrQXRsbnJheE15MnFHTGFiRkdZZjg1Q29HdzJnM1FMZlF3anNoT1lTWUdGdDhZc0VrSF8yeTJ6bElTcFRZX3RCeXJzUzhNRFA5bzZ1OXdfMDY5ZGY2bnhNVGg5ZWdMNmxWcGcySHFuNm80a0xYWG83cHR1MEt2ZFA2alFlX2p0OFZZ?oc=5",
    "summary": "",
@@ -1776,11 +1840,11 @@
   {
    "title": "Trends in International Arbitration",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9jcm41bFQyaU5GYm5TcFV1U2xUclB6OHE5U3dFc3Fsdjk1QXlENVphNXo3ZVY4d1Vpc3FxWUtmeGdqd01qeVBvdXMwREx3RVg5SVY4b0gyOS1GS0Y1bnktRmNDUFFyc0J3cjhJX3ZWN002aDdxenV6VDlMWUFRdw?oc=5",
-   "summary": "Trends in International Arbitration Gleiss Lutz",
+   "summary": "Trends in International Arbitration gleisslutz.com",
    "time": "2026-09-30T20:00:00+08:00",
    "date": "2026-09-30",
    "sources": [
-    "Gleiss Lutz"
+    "gleisslutz.com"
    ],
    "region": "国际",
    "category": "诉讼仲裁",
@@ -1953,7 +2017,7 @@
    "region": "国内",
    "category": "个人信息保护",
    "heat": 14.0,
-   "hot": true,
+   "hot": false,
    "tags": [
     "个人信息",
     "隐私政策",
@@ -2301,8 +2365,8 @@
    "heat": 7.0,
    "hot": false,
    "tags": [
-    "GDPR",
-    "fine"
+    "fine",
+    "GDPR"
    ],
    "importance": 9.5,
    "kw_score": 5.0,
@@ -2425,7 +2489,7 @@
    "time": "2026-09-29T20:23:00+08:00",
    "date": "2026-09-29",
    "sources": [
-    "shangbaoindonesia.com"
+    "Shangbao Indonesia"
    ],
    "region": "国内",
    "category": "诉讼仲裁",
@@ -3736,11 +3800,11 @@
     "date": "2026-10-03",
     "sources": [
      "Hunton 隐私与信息安全博客",
-     "Hunton Andrews Kurth LLP"
+     "hunton.com"
     ],
     "region": "国际",
     "category": "执法处罚",
-    "heat": 19.8,
+    "heat": 19.5,
     "hot": true,
     "tags": [
      "data protection",
