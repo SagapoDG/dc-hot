@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-08T01:53:30.747328+08:00",
- "count": 109,
+ "generated_at": "2026-10-08T06:36:08.462843+08:00",
+ "count": 108,
  "highlight_count": 30,
  "errors": [
   "36氪: not well-formed (invalid token): line 9, column 542"
@@ -18,7 +18,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 12.6,
+   "heat": 12.3,
    "hot": true,
    "tags": [
     "class action",
@@ -41,7 +41,7 @@
    ],
    "region": "国际",
    "category": "行业实践",
-   "heat": 11.6,
+   "heat": 11.4,
    "hot": false,
    "tags": [
     "data protection",
@@ -64,7 +64,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 10.7,
+   "heat": 10.4,
    "hot": false,
    "tags": [
     "class action",
@@ -87,11 +87,11 @@
    ],
    "region": "国际",
    "category": "执法处罚",
-   "heat": 10.6,
+   "heat": 10.3,
    "hot": false,
    "tags": [
-    "GDPR",
-    "fine"
+    "fine",
+    "GDPR"
    ],
    "importance": 9.5,
    "kw_score": 5.0,
@@ -109,7 +109,7 @@
    ],
    "region": "国际",
    "category": "执法处罚",
-   "heat": 10.6,
+   "heat": 10.3,
    "hot": false,
    "tags": [
     "GDPR",
@@ -131,7 +131,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 9.7,
+   "heat": 9.5,
    "hot": false,
    "tags": [
     "data breach",
@@ -154,7 +154,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 9.0,
+   "heat": 8.7,
    "hot": false,
    "tags": [
     "仲裁"
@@ -163,6 +163,46 @@
    "kw_score": 2.0,
    "weight": 2.0,
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
+  },
+  {
+   "title": "FTC to Launch New Study on Personalized Pricing",
+   "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/federal-trade-commission-to-launch-new-study-on-personalized-pricing",
+   "summary": "Federal Trade Commission Chairman Andrew Ferguson recently announced plans for a new study of personalized pricing under Section 6(b) of the FTC Act. Continue Reading ›",
+   "time": "2026-10-07T21:00:02+08:00",
+   "date": "2026-10-07",
+   "sources": [
+    "Hunton 隐私与信息安全博客"
+   ],
+   "region": "国际",
+   "category": "立法监管",
+   "heat": 8.5,
+   "hot": false,
+   "tags": [
+    "FTC"
+   ],
+   "importance": 8.0,
+   "kw_score": 2.0,
+   "weight": 3.0,
+   "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
+  },
+  {
+   "title": "California Enacts New Law Governing Online Services Accessed by Children",
+   "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/california-enacts-new-law-governing-online-services-accessed-by-children",
+   "summary": "On September 10, 2026, California’s governor signed AB 2246, a bill that repeals and replaces the California Age-Appropriate Design Code Act. Continue Reading ›",
+   "time": "2026-10-07T21:00:01+08:00",
+   "date": "2026-10-07",
+   "sources": [
+    "Hunton 隐私与信息安全博客"
+   ],
+   "region": "国际",
+   "category": "立法监管",
+   "heat": 6.5,
+   "hot": false,
+   "tags": [],
+   "importance": 6.0,
+   "kw_score": 0.0,
+   "weight": 3.0,
+   "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
   },
   {
    "title": "Major data centres to meet strict security, resilience rules with the passing of new Bill",
@@ -175,7 +215,7 @@
    ],
    "region": "国际",
    "category": "行业实践",
-   "heat": 5.4,
+   "heat": 5.1,
    "hot": false,
    "tags": [],
    "importance": 2.0,
@@ -194,7 +234,7 @@
    ],
    "region": "国际",
    "category": "行业实践",
-   "heat": 5.2,
+   "heat": 4.9,
    "hot": false,
    "tags": [
     "cybersecurity"
@@ -216,7 +256,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 14.8,
+   "heat": 14.5,
    "hot": true,
    "tags": [
     "个人信息保护法",
@@ -239,7 +279,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 9.3,
+   "heat": 9.1,
    "hot": false,
    "tags": [
     "class action",
@@ -262,7 +302,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 7.6,
+   "heat": 7.3,
    "hot": false,
    "tags": [
     "data breach",
@@ -284,7 +324,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 5.7,
+   "heat": 5.5,
    "hot": false,
    "tags": [
     "泄露",
@@ -299,14 +339,14 @@
    "title": "California Enacts New Restrictions on AI-Based Employee Monitoring",
    "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/california-enacts-new-restrictions-on-ai-based-employee-monitoring",
    "summary": "On September 30, 2026, California Governor Gavin Newsom signed legislation prohibiting employers from using certain AI-powered workplace surveillance tools to assess employees’ e…",
-   "time": "2026-10-06T21:00:01+08:00",
+   "time": "2026-10-06T21:00:03+08:00",
    "date": "2026-10-06",
    "sources": [
     "Hunton 隐私与信息安全博客"
    ],
    "region": "国际",
    "category": "行业实践",
-   "heat": 5.4,
+   "heat": 5.1,
    "hot": false,
    "tags": [],
    "importance": 3.0,
@@ -325,7 +365,7 @@
    ],
    "region": "国际",
    "category": "行业实践",
-   "heat": 3.8,
+   "heat": 3.6,
    "hot": false,
    "tags": [],
    "importance": 2.0,
@@ -344,7 +384,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 6.5,
+   "heat": 6.2,
    "hot": false,
    "tags": [
     "data breach",
@@ -366,7 +406,7 @@
    ],
    "region": "国际",
    "category": "个人信息保护",
-   "heat": 4.9,
+   "heat": 4.6,
    "hot": false,
    "tags": [
     "privacy"
@@ -655,7 +695,7 @@
    "tags": [
     "data protection",
     "regulation",
-    "GDPR"
+    "EDPB"
    ],
    "importance": 19.5,
    "kw_score": 12.0,
@@ -884,8 +924,8 @@
    "heat": 7.0,
    "hot": false,
    "tags": [
-    "GDPR",
-    "fine"
+    "fine",
+    "GDPR"
    ],
    "importance": 9.5,
    "kw_score": 5.0,
@@ -1176,8 +1216,8 @@
    "heat": 7.0,
    "hot": false,
    "tags": [
-    "GDPR",
-    "fine"
+    "fine",
+    "GDPR"
    ],
    "importance": 9.5,
    "kw_score": 5.0,
@@ -1967,28 +2007,6 @@
    "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
   },
   {
-   "title": "Greece: arbitration reforms boost global appeal for international dispute resolution",
-   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxORmVTS2VZTWN3LXZZYk9pejlMU25WWVN6b20zTF9VeS1TYWxIT2VhUHRIRlVQbndvNllaNThtQldrcnpoRmdTZjRWQ0RrblV5VFROVTRTOFdzcFh5WFhBaDNzZWhsckY1dUxEOER3Vk1GZXlJUHdFalpsUGw2ZjAxc0s5S29vVDNkQUozakZkU2RRSXN2bVl4dng0ZXNEbVN2M3FOUnBPSDdNR1oySmU2ZlBHTm5mMWlLOTg3Z2F3cG1KQ0VBdWV6U0g5THdZbTU3NDRKTmpLUk5iTXZ0cHlmM0IzTFQyNUZlS29jWDRScE56bDlzc0NhYkRSVQ?oc=5",
-   "summary": "",
-   "time": "2026-10-01T03:05:18+08:00",
-   "date": "2026-10-01",
-   "sources": [
-    "Global Arbitration Review"
-   ],
-   "region": "国际",
-   "category": "诉讼仲裁",
-   "heat": 7.0,
-   "hot": false,
-   "tags": [
-    "dispute resolution",
-    "arbitration"
-   ],
-   "importance": 9.5,
-   "kw_score": 5.0,
-   "weight": 2.0,
-   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
-  },
-  {
    "title": "厘清误区! 数据 资产入表不是叫停,而是进入 合规 落地新阶段",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1790835508&ver=6999&signature=I8*dfJsfGYr2NhDvEcA8uPrQXjs-bmDBsJcNlrzEsqQHdexVC6rdp4qNNzZQx2gCH1M7EpeQhE14ok7b668zDSeLbyRYDN4P79Fq4OyK-PsF7Thbc8Gr6p-*4Lhg74RL&new=1",
    "summary": "数据盘点、合规审查、确权登记、价值评估、会计计量、报表披露、后续审计,任何一个环节都离不开财会、评估、 数据合规 跨专业协...",
@@ -2009,6 +2027,28 @@
    "kw_score": 5.0,
    "weight": 2.0,
    "reason": "行业合规实践动态，可作为制度建设与对标参考。"
+  },
+  {
+   "title": "市场研究行业的 个人信息保护 :从问卷到跨境的合规要点",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1791412573&ver=7013&signature=6glCFg3qGdf6PAWy1rnq6llnorm9SBdw4ere7cvidfJs2gl8h2pmX-opab0-4riYmVKddEfTNE66gYIUK-yQ7xEiHxt2Wwh-mh2YvdkWUV1-JAikKRL6VhdBWPmVbBRx&new=1",
+   "summary": "《 个人信息保护 法》第五十一条明确规定,个人信息处理者应当根据个人信息的处理目的、处理方式、个人信息的种类以及对个人权益...",
+   "time": "2026-10-01T10:05:16+08:00",
+   "date": "2026-10-01",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "个人信息保护",
+   "heat": 6.0,
+   "hot": false,
+   "tags": [
+    "个人信息",
+    "合规"
+   ],
+   "importance": 6.0,
+   "kw_score": 4.0,
+   "weight": 2.0,
+   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
   },
   {
    "title": "【创文进行时】市委网信办组织开展全市网络安全应急演练",
@@ -2231,28 +2271,6 @@
    "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
   },
   {
-   "title": "Istanbul discusses impact of sanctions and AI on international arbitration — Anadolu Agency",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeHZWcWdDc2RiZXo2cmRMa29hVE44bU9EVWtIWnNUZ3ZNOFpiNVJNSGhTTkV4UzB4QjhBVVhSTS1xaFdSbnhoUjNHZEVWc3gtc21acFhCZEdVVVd5Uk5PUlFNb1BvbEFvdHRuVm52ZGxTSG9TTGJLVERBcmV6d2NjVnU0WDhZZWFlaXloT2l6a2FwcXEyWnp4QlJHd1R2Z0haM1E0eUhZSUVueHlx?oc=5",
-   "summary": "",
-   "time": "2026-10-01T02:27:17+08:00",
-   "date": "2026-10-01",
-   "sources": [
-    "UA.NEWS"
-   ],
-   "region": "国际",
-   "category": "诉讼仲裁",
-   "heat": 5.0,
-   "hot": false,
-   "tags": [
-    "arbitration",
-    "sanction"
-   ],
-   "importance": 7.5,
-   "kw_score": 3.0,
-   "weight": 2.0,
-   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
-  },
-  {
    "title": "kaiyun官方平台app下载官网因未遵循数据保护要求遭信息监管局行政处罚",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oUGFNTS11SDdoVUphOEt6bXVYZEkzVnV3a0taZ0habXRVZmlMVS1GOUZMdm9rREp3cWgxNnlyQWQtdF9neEV4ajhmWVNCVU1vQU9CQzVPNkZ3Zw?oc=5",
    "summary": "",
@@ -2275,27 +2293,6 @@
    "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
   },
   {
-   "title": "官方：国际仲裁法庭将于10月8日审理非洲杯决赛争议案",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5zTHpUTFM1dUlGTEw3eEJpTE1fQkdPblBmN0Ztd3lDV0hJRzZqMFdTdkVCbFZOTF80V294MzlSbnM5cjRCeXViSUhSTWRrb193UWpzVlVOX0hwdWxpSENicUtCU2FzMmhJLWg0TExQY2ZCS3F3TUthVVR3?oc=5",
-   "summary": "",
-   "time": "2026-10-01T02:02:26+08:00",
-   "date": "2026-10-01",
-   "sources": [
-    "直播吧"
-   ],
-   "region": "国内",
-   "category": "诉讼仲裁",
-   "heat": 4.0,
-   "hot": false,
-   "tags": [
-    "仲裁"
-   ],
-   "importance": 6.5,
-   "kw_score": 2.0,
-   "weight": 2.0,
-   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
-  },
-  {
    "title": "Setting aside arbitration awards: Singapore maintains high threshold",
    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPejFRLVl1TnI3MVBNR21yQzFrR2JVMm80R3A3eEFVZDVNS0lYOEwxb29naWZNOG15Vy1ua3o0QUdoQ25xSnBGRnJ1TnQtV1h2a0J5Z2d6NzR3LTlUdEdpNVRzV0xVb01aSXh0Mi0zQ010bEZXRjl6b094aFU2bGlOS3g4UEJ2ZFJjbXR1VUE0S055bUMwNktCVF94SFRrazhaZHN0d3VpMkoxV0gtODZJeTRucHIxbTZwU3VpZGJoMnNsMXBPRWdyR3NIbkZaRmZNWEJtUUJCYkRIRDRI?oc=5",
    "summary": "",
@@ -2310,27 +2307,6 @@
    "hot": false,
    "tags": [
     "arbitration"
-   ],
-   "importance": 6.5,
-   "kw_score": 2.0,
-   "weight": 2.0,
-   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
-  },
-  {
-   "title": "官方：国际仲裁法庭将于10月8日审理非洲杯决赛争议案",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE82b1lwZjEzT0FLOUdmdHBBR25zeTNZQ1FXb1lUT0d1OTlPVmROd3hQYmxDYXdvaTAyR21ETWpjZnBvd25JU2s1dGxkdzA2UlJHOHpNcm0wY2xFOTM4MDZMclJqXzdKd2V2TWNVM0owNGt5dw?oc=5",
-   "summary": "",
-   "time": "2026-10-01T02:02:26+08:00",
-   "date": "2026-10-01",
-   "sources": [
-    "直播吧"
-   ],
-   "region": "国内",
-   "category": "诉讼仲裁",
-   "heat": 4.0,
-   "hot": false,
-   "tags": [
-    "仲裁"
    ],
    "importance": 6.5,
    "kw_score": 2.0,
@@ -2865,7 +2841,7 @@
     "tags": [
      "data protection",
      "regulation",
-     "GDPR"
+     "EDPB"
     ],
     "importance": 19.5,
     "kw_score": 12.0,
