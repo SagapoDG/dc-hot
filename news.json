@@ -1,13 +1,58 @@
 {
- "generated_at": "2026-10-26T13:43:43.681861+08:00",
- "count": 234,
+ "generated_at": "2026-10-26T20:10:00.400548+08:00",
+ "count": 226,
  "highlight_count": 30,
  "errors": [
   "FTC 美国联邦贸易委员会: HTTP Error 404: Not Found",
-  "微信公众号: 搜狗反爬限流，本轮跳过（通常数十分钟后自动恢复）",
   "36氪: not well-formed (invalid token): line 10, column 168"
  ],
  "items": [
+  {
+   "title": "观点 | 个人信息保护 :从原则合规走向“分层监管+场景治理”",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1793016607&ver=7050&signature=2eNrCkAKeN8SPmjVtpecTWnwhih-zAdgyCR20lh3iXm90WAOmLsEoDlsXXN6sLXnu9DHek9UL-9r3fyftQ77hcbE2Bb7r6IKiRYdaSPW0CEk2huiOHCQQDbz1gkN9Kx1&new=1",
+   "summary": "个人信息保护 已进入“个保法定权利→网络数据条例定运行规则→人脸办法定高危场景→大型处理者规定定系统风险”的四层结构,落...",
+   "time": "2026-10-26T17:57:40+08:00",
+   "date": "2026-10-26",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "个人信息保护",
+   "heat": 14.9,
+   "hot": true,
+   "tags": [
+    "个人信息",
+    "个保法",
+    "监管"
+   ],
+   "importance": 11.0,
+   "kw_score": 9.0,
+   "weight": 2.0,
+   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
+  },
+  {
+   "title": "个人信息保护 合规审计交流会在上海数据金融港成功举办",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1793016607&ver=7050&signature=QiLsGcEWwwZ8U25OcX6hFo6Cwj0Ho60cPW96Yi1oBQg41nIZ6PXzk4PZcdtC865ly6zLlE0VInZCuRyUw457M8tZiLPq5XCzhYaDzrlblzYYpxuACweO7OyS2FB2qKOi&new=1",
+   "summary": "个人信息保护 技术措施以及大型网络平台运营商合规要求等板块.本次会议,来自TÜV南德、兴业证券、南洋商业银行、海通恒信国...",
+   "time": "2026-10-26T11:32:16+08:00",
+   "date": "2026-10-26",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "个人信息保护",
+   "heat": 12.5,
+   "hot": false,
+   "tags": [
+    "个人信息",
+    "合规审计",
+    "合规"
+   ],
+   "importance": 9.0,
+   "kw_score": 7.0,
+   "weight": 2.0,
+   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
+  },
   {
    "title": "个人信息保护 合规 审计交流会在上海 数据 金融港成功举办",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1792993426&ver=7049&signature=XhpCtVlgvQ2ILNkdVoFNQKTt-WC947WOGwKU341FQrbRid*7P-S-qgqJFxRViNodt3Py*k38dzx7pxCidFe65wUKKi-AD6*EwTHLyPRUrEfj1yv6H2yZBWPBqq8YBkH1&new=1",
@@ -19,7 +64,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 12.9,
+   "heat": 12.5,
    "hot": false,
    "tags": [
     "个人信息",
@@ -32,17 +77,39 @@
    "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
   },
   {
+   "title": "上海市网信办、上海市数据局关于印发《上海市推动高水平对外开放 促进数据跨境流动便利化的若干举措》的通知",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaWThyb3RWY256TDNjckdoSGt5RFNYMlhRWjFPM3ZXZlVYdFB0NUwyU3lBdVY3emZ0OGFKdHd0TjA0eEZRSnAybkQzUlpyblNPNFNKOGhRZ1dHUktCTUNFaTV3RVNlaUE?oc=5",
+   "summary": "",
+   "time": "2026-10-26T15:46:04+08:00",
+   "date": "2026-10-26",
+   "sources": [
+    "上海浦东"
+   ],
+   "region": "国内",
+   "category": "跨境数据",
+   "heat": 11.8,
+   "hot": false,
+   "tags": [
+    "数据跨境",
+    "网信办"
+   ],
+   "importance": 11.0,
+   "kw_score": 6.0,
+   "weight": 2.0,
+   "reason": "涉及数据跨境流动规则，可能影响出境安全评估、标准合同备案等合规路径，建议出海/跨国业务团队关注。"
+  },
+  {
    "title": "Nigeria Data Protection Commission calls for privacy-by-design in frontier AI regulation",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYTZ0UDJTVUphRWFGRFBuN29tV2kzQnU5c3U1UzBseEVLZ3RDMUFxdVVJLVRZSEJ4QUdXemRhakhxc29hY0JBRktlRS1IWkhNREs0RmluTDE3RWcwRUFqU2ZKODY2ZnhueHQzN09WTlBIWHdXVkxJREltNHQ5RHZOem5YVl9nOEwtUHRVX3VQaHUtU0xrcVQyV05SWWI5UVYzYno3SWZRbW1pSm9BRk5CdkZvLU5MRWJpZXRFNU5pbmxkRnlYNUE?oc=5",
    "summary": "",
-   "time": "2026-10-26T07:49:16+08:00",
+   "time": "2026-10-26T09:55:46+08:00",
    "date": "2026-10-26",
    "sources": [
     "Tech Review Africa"
    ],
    "region": "国际",
    "category": "个人信息保护",
-   "heat": 11.7,
+   "heat": 11.4,
    "hot": false,
    "tags": [
     "data protection",
@@ -55,6 +122,93 @@
    "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
   },
   {
+   "title": "银行APP合规监管不断趋严，贵阳银行因违法违规收集使用个人信息被通报",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMTNZbWVQY2FWejM4OHFGN1U2ZjhJdlUwYjVQbzJzUGx5dmlLbkJTYWl6LWZkRWZmNUZiazU4Ylp3dVZNT1BYT0ZHblZRRE9kRXh2ZnQwVmVjdkNTeFkzZzQyTklkUHhHZTYzb1pKbXFJd0tPckNyYzczSURMcFF6aVRQTnlUZjI1dXE4?oc=5",
+   "summary": "",
+   "time": "2026-10-26T16:37:40+08:00",
+   "date": "2026-10-26",
+   "sources": [
+    "Sohu"
+   ],
+   "region": "国内",
+   "category": "执法处罚",
+   "heat": 10.8,
+   "hot": false,
+   "tags": [
+    "个人信息",
+    "监管",
+    "合规"
+   ],
+   "importance": 9.5,
+   "kw_score": 5.0,
+   "weight": 2.0,
+   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
+  },
+  {
+   "title": "彭水自治县网信办开展医疗领域 个人信息保护 专项检查",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1793016607&ver=7050&signature=UB6*uGTnDhekQGyPqm-d*mDbkz2YL4IPjZ8jgO9B8AIqcZ5up4TrJgope7GG8UpzPeKclYBvHh3f5q-MS1qx1cIsBOgWpgGAFTxha0llwjbeR5G83WldhvbZH9PUlfZY&new=1",
+   "summary": "2026年10月14日至15日,彭水自治县网信办联合县公安局、县卫生健康委组成检查组,对属地医院开展 个人信息保护 实地检查,督促...",
+   "time": "2026-10-26T11:30:53+08:00",
+   "date": "2026-10-26",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "个人信息保护",
+   "heat": 10.5,
+   "hot": false,
+   "tags": [
+    "个人信息",
+    "网信办"
+   ],
+   "importance": 7.0,
+   "kw_score": 5.0,
+   "weight": 2.0,
+   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
+  },
+  {
+   "title": "Data protection: key compliance updates (12 – 23 Oct)",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZjhuYXFEelppODc1S1hzUUhwZkVZR09Mb2RJejNYdkJFMENtbDVFMndOb19uNkJUNV8yRm91bk1wcnFQRnFfWjJjYTRuNDZWOFdBMVZFOFZGQ0xmVThQV1JyV3h2ZkY4bHlMTVMySHBEc2ptVy1Baml2UVRvT1RRVjdqclZBclEtd0JYUXNn?oc=5",
+   "summary": "",
+   "time": "2026-10-26T14:22:30+08:00",
+   "date": "2026-10-26",
+   "sources": [
+    "Lexology"
+   ],
+   "region": "国际",
+   "category": "行业实践",
+   "heat": 8.7,
+   "hot": false,
+   "tags": [
+    "data protection"
+   ],
+   "importance": 5.0,
+   "kw_score": 3.0,
+   "weight": 2.0,
+   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
+  },
+  {
+   "title": "国家数据局局长刘烈宏2026年“数据要素×”大赛全国总决赛讲话：三年大赛见证了“三个成为”的积极态势，下一步将聚焦“三个着力”持续发力– 智慧城市行业分析",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iYmxUMGJJRFgyUXVMdlBQQTIxXzdBSTJSS3BrNWx0d1Bkem5OcFQwRnJfVXlycHNPeFV6VkFmYjY0Q1pxY0VVWVlzTmxBY25GVDM1eExyQXk1MkJkakNtdGREdUQ3QQ?oc=5",
+   "summary": "",
+   "time": "2026-10-26T17:15:00+08:00",
+   "date": "2026-10-26",
+   "sources": [
+    "智慧城市行业分析"
+   ],
+   "region": "国内",
+   "category": "行业实践",
+   "heat": 7.8,
+   "hot": false,
+   "tags": [
+    "数据要素"
+   ],
+   "importance": 4.0,
+   "kw_score": 2.0,
+   "weight": 2.0,
+   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
+  },
+  {
    "title": "全球顶级仲裁赛事为何落户深圳？ 从FDI Moot全球赛看深圳高水平开放的法治底气",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZW1CQ1BmaEZ3T0tmUkFXWG0tcGg4eFpFQXd4eS1wN3MtZllUa3RSenBqVzNKY082WmsycXFZWU5YWHNjNHdPamdZWERLQWNic01qaHI2aVAtTlhBU0tyMFVWOFpycnE2VjFQMHpVb0RGYnRqakNTZDJSREV1TkNfYjJiQXdjUXpFQkVWOVFTTQ?oc=5",
    "summary": "",
@@ -65,7 +219,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 7.9,
+   "heat": 7.5,
    "hot": false,
    "tags": [
     "仲裁"
@@ -86,7 +240,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 7.4,
+   "heat": 7.1,
    "hot": false,
    "tags": [
     "data breach"
@@ -107,7 +261,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 7.4,
+   "heat": 7.1,
    "hot": false,
    "tags": [
     "data breach"
@@ -128,36 +282,13 @@
    ],
    "region": "国际",
    "category": "行业实践",
-   "heat": 6.0,
+   "heat": 5.6,
    "hot": false,
    "tags": [],
    "importance": 2.0,
    "kw_score": 0.0,
    "weight": 2.0,
    "reason": "行业合规实践动态，可作为制度建设与对标参考。"
-  },
-  {
-   "title": "数据合规 :个人信息保护,中小企业也躲不开",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1792993426&ver=7049&signature=n8DyHBotPgm*YsSb7ZwXf*StE*O24sYvYhMpbfeilVgsyzTCdHPMS6jUn9uKVYVNMEPAkQ1aLs3Xqeeq-Vn7k6FM6uFuZ4rTjtEqmdyN5YVOleE5*MJn0sq2WXl1tkUr&new=1",
-   "summary": "Day 7| 数据合规 :个人信息保护,中小企业也躲不开《个人信息保护法》自2021年11月1日起施行.很多老板觉得“那是大平台的事”...",
-   "time": "2026-10-25T08:00:25+08:00",
-   "date": "2026-10-25",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "个人信息保护",
-   "heat": 14.3,
-   "hot": false,
-   "tags": [
-    "个人信息保护法",
-    "数据合规",
-    "个人信息"
-   ],
-   "importance": 12.0,
-   "kw_score": 10.0,
-   "weight": 2.0,
-   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
   },
   {
    "title": "数据合规 :个人信息保护,中小企业也躲不开",
@@ -170,7 +301,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 14.3,
+   "heat": 14.0,
    "hot": false,
    "tags": [
     "个人信息保护法",
@@ -193,7 +324,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 14.3,
+   "heat": 14.0,
    "hot": false,
    "tags": [
     "个人信息保护法",
@@ -216,7 +347,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 14.3,
+   "heat": 14.0,
    "hot": false,
    "tags": [
     "个人信息保护法",
@@ -239,7 +370,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 14.3,
+   "heat": 14.0,
    "hot": false,
    "tags": [
     "个人信息保护法",
@@ -262,7 +393,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 14.3,
+   "heat": 14.0,
    "hot": false,
    "tags": [
     "个人信息保护法",
@@ -285,7 +416,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 14.3,
+   "heat": 14.0,
    "hot": false,
    "tags": [
     "个人信息保护法",
@@ -308,7 +439,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 14.3,
+   "heat": 14.0,
    "hot": false,
    "tags": [
     "个人信息保护法",
@@ -321,25 +452,25 @@
    "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
   },
   {
-   "title": "数据合规 必备:DeepSeek隐私政策中的8个黄金法则",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1792993426&ver=7049&signature=85Se2XJSaGlfqUlMdkq8fHmYuoXB--T0p3M0T9QccCuFSwGYtW8-vXtWJJq-ORBcXq8FEjfmUaJIO2WC4VtPlQ77zbAh4zHns9rW1NEoDd0HbevUNAMZphEYXh0rRRIR&new=1",
-   "summary": "当今,隐私政策不仅是企业合规运营的“必修课”,也是用户信任的基石.作为 数据合规 从业人员,理解并提炼隐私政策中的关键点,...",
-   "time": "2026-10-25T17:06:42+08:00",
+   "title": "数据合规 :个人信息保护,中小企业也躲不开",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1792993426&ver=7049&signature=n8DyHBotPgm*YsSb7ZwXf*StE*O24sYvYhMpbfeilVgsyzTCdHPMS6jUn9uKVYVNMEPAkQ1aLs3Xqeeq-Vn7k6FM6uFuZ4rTjtEqmdyN5YVOleE5*MJn0sq2WXl1tkUr&new=1",
+   "summary": "Day 7| 数据合规 :个人信息保护,中小企业也躲不开《个人信息保护法》自2021年11月1日起施行.很多老板觉得“那是大平台的事”...",
+   "time": "2026-10-25T08:00:25+08:00",
    "date": "2026-10-25",
    "sources": [
     "微信公众号"
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 12.9,
+   "heat": 14.0,
    "hot": false,
    "tags": [
+    "个人信息保护法",
     "数据合规",
-    "隐私政策",
-    "合规"
+    "个人信息"
    ],
-   "importance": 10.0,
-   "kw_score": 8.0,
+   "importance": 12.0,
+   "kw_score": 10.0,
    "weight": 2.0,
    "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
   },
@@ -354,7 +485,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 12.9,
+   "heat": 12.5,
    "hot": false,
    "tags": [
     "隐私政策",
@@ -377,7 +508,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 12.9,
+   "heat": 12.5,
    "hot": false,
    "tags": [
     "数据合规",
@@ -400,7 +531,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 12.9,
+   "heat": 12.5,
    "hot": false,
    "tags": [
     "隐私政策",
@@ -423,7 +554,30 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 12.9,
+   "heat": 12.5,
+   "hot": false,
+   "tags": [
+    "数据合规",
+    "隐私政策",
+    "合规"
+   ],
+   "importance": 10.0,
+   "kw_score": 8.0,
+   "weight": 2.0,
+   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
+  },
+  {
+   "title": "数据合规 必备:DeepSeek隐私政策中的8个黄金法则",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1792993426&ver=7049&signature=85Se2XJSaGlfqUlMdkq8fHmYuoXB--T0p3M0T9QccCuFSwGYtW8-vXtWJJq-ORBcXq8FEjfmUaJIO2WC4VtPlQ77zbAh4zHns9rW1NEoDd0HbevUNAMZphEYXh0rRRIR&new=1",
+   "summary": "当今,隐私政策不仅是企业合规运营的“必修课”,也是用户信任的基石.作为 数据合规 从业人员,理解并提炼隐私政策中的关键点,...",
+   "time": "2026-10-25T17:06:42+08:00",
+   "date": "2026-10-25",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "个人信息保护",
+   "heat": 12.5,
    "hot": false,
    "tags": [
     "数据合规",
@@ -446,7 +600,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 12.6,
+   "heat": 12.2,
    "hot": false,
    "tags": [
     "跨境数据",
@@ -469,7 +623,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 12.6,
+   "heat": 12.2,
    "hot": false,
    "tags": [
     "跨境数据",
@@ -492,7 +646,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 12.6,
+   "heat": 12.2,
    "hot": false,
    "tags": [
     "数据合规",
@@ -515,7 +669,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 12.6,
+   "heat": 12.2,
    "hot": false,
    "tags": [
     "数据合规",
@@ -538,7 +692,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 11.4,
+   "heat": 11.1,
    "hot": false,
    "tags": [
     "数据合规",
@@ -561,7 +715,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 11.4,
+   "heat": 11.1,
    "hot": false,
    "tags": [
     "数据合规",
@@ -584,7 +738,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 9.5,
+   "heat": 9.2,
    "hot": false,
    "tags": [
     "个人信息",
@@ -594,6 +748,28 @@
    "kw_score": 5.0,
    "weight": 2.0,
    "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
+  },
+  {
+   "title": "数据安全法草案：主动控制风险，保护国家数字主权。",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaWp4aHRkTXp2Y0txVmRDemFockJFZ3hDMTFFbGhLWFRkN2NLbWQ1WW9Cd2ZaRkx2RkpxQ19saUFvX0xxTUZaS1RLVkU3V29aTTZUVl9fcElLS25mWl9XNUJpeVI5STFXaWNmZW1vLXZDZ2dqV0ltRVVtRHctd0xURHlXWHQxb2g2VFdYdktNTm9JVlI2NHhPNldvYXc2eFBfMllBa2g4QUZ2MXdvTG43YURR?oc=5",
+   "summary": "",
+   "time": "2026-10-25T22:37:46+08:00",
+   "date": "2026-10-25",
+   "sources": [
+    "Vietnam.vn"
+   ],
+   "region": "国内",
+   "category": "行业实践",
+   "heat": 8.8,
+   "hot": false,
+   "tags": [
+    "数据安全法",
+    "数据安全"
+   ],
+   "importance": 6.0,
+   "kw_score": 4.0,
+   "weight": 2.0,
+   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
   },
   {
    "title": "数据安全法草案的一些关键内容",
@@ -606,7 +782,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 8.0,
+   "heat": 7.7,
    "hot": false,
    "tags": [
     "数据安全法",
@@ -628,7 +804,7 @@
    ],
    "region": "国际",
    "category": "立法监管",
-   "heat": 7.1,
+   "heat": 6.8,
    "hot": false,
    "tags": [
     "privacy"
@@ -637,27 +813,6 @@
    "kw_score": 2.0,
    "weight": 2.0,
    "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
-  },
-  {
-   "title": "【深圳特区报】国际投资模拟仲裁大赛全球赛在深开幕",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaVY0bmdnMFZuYWhfaDlua3BSd09ISGNFaVViYmpWWERCY1NiSXl3bENlZjFFdzBUYlRkaW1ld25UdlRCbFRTVzRsR05IOVZMZXFKSWlmNmhybHhIcVFyNHdJbUZkQTZuRzlHckRrZXVGRU5lNDRsekJRVWM1eEJMQkwwX1U2WGlMT1U5MQ?oc=5",
-   "summary": "",
-   "time": "2026-10-25T07:42:00+08:00",
-   "date": "2026-10-25",
-   "sources": [
-    "搜狐网"
-   ],
-   "region": "国内",
-   "category": "诉讼仲裁",
-   "heat": 6.3,
-   "hot": false,
-   "tags": [
-    "仲裁"
-   ],
-   "importance": 6.5,
-   "kw_score": 2.0,
-   "weight": 2.0,
-   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
   },
   {
    "title": "【深圳特区报】国际投资模拟仲裁大赛全球赛在深圳开赛",
@@ -670,7 +825,28 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 6.3,
+   "heat": 6.0,
+   "hot": false,
+   "tags": [
+    "仲裁"
+   ],
+   "importance": 6.5,
+   "kw_score": 2.0,
+   "weight": 2.0,
+   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
+  },
+  {
+   "title": "【深圳特区报】国际投资模拟仲裁大赛全球赛在深开幕",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaVY0bmdnMFZuYWhfaDlua3BSd09ISGNFaVViYmpWWERCY1NiSXl3bENlZjFFdzBUYlRkaW1ld25UdlRCbFRTVzRsR05IOVZMZXFKSWlmNmhybHhIcVFyNHdJbUZkQTZuRzlHckRrZXVGRU5lNDRsekJRVWM1eEJMQkwwX1U2WGlMT1U5MQ?oc=5",
+   "summary": "",
+   "time": "2026-10-25T07:42:00+08:00",
+   "date": "2026-10-25",
+   "sources": [
+    "搜狐网"
+   ],
+   "region": "国内",
+   "category": "诉讼仲裁",
+   "heat": 6.0,
    "hot": false,
    "tags": [
     "仲裁"
@@ -691,7 +867,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 15.7,
+   "heat": 15.3,
    "hot": true,
    "tags": [
     "出境安全评估",
@@ -714,7 +890,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 15.7,
+   "heat": 15.3,
    "hot": true,
    "tags": [
     "出境安全评估",
@@ -737,7 +913,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 15.7,
+   "heat": 15.3,
    "hot": true,
    "tags": [
     "出境安全评估",
@@ -760,7 +936,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 15.7,
+   "heat": 15.3,
    "hot": true,
    "tags": [
     "出境安全评估",
@@ -783,7 +959,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 15.7,
+   "heat": 15.3,
    "hot": true,
    "tags": [
     "出境安全评估",
@@ -806,7 +982,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 15.7,
+   "heat": 15.3,
    "hot": true,
    "tags": [
     "出境安全评估",
@@ -829,7 +1005,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 15.2,
+   "heat": 14.9,
    "hot": true,
    "tags": [
     "网络安全法",
@@ -852,7 +1028,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 15.2,
+   "heat": 14.9,
    "hot": true,
    "tags": [
     "网络安全法",
@@ -875,7 +1051,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 15.2,
+   "heat": 14.9,
    "hot": true,
    "tags": [
     "网络安全法",
@@ -898,8 +1074,8 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 15.2,
-   "hot": true,
+   "heat": 14.9,
+   "hot": false,
    "tags": [
     "网络安全法",
     "数据出境",
@@ -921,7 +1097,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 15.2,
+   "heat": 14.9,
    "hot": false,
    "tags": [
     "网络安全法",
@@ -944,7 +1120,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 15.2,
+   "heat": 14.9,
    "hot": false,
    "tags": [
     "网络安全法",
@@ -967,7 +1143,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 15.2,
+   "heat": 14.9,
    "hot": false,
    "tags": [
     "网络安全法",
@@ -990,7 +1166,7 @@
    ],
    "region": "国内",
    "category": "安全事件",
-   "heat": 15.1,
+   "heat": 14.8,
    "hot": false,
    "tags": [
     "个人信息保护法",
@@ -1013,7 +1189,7 @@
    ],
    "region": "国内",
    "category": "安全事件",
-   "heat": 15.1,
+   "heat": 14.8,
    "hot": false,
    "tags": [
     "个人信息保护法",
@@ -1036,7 +1212,7 @@
    ],
    "region": "国内",
    "category": "安全事件",
-   "heat": 15.1,
+   "heat": 14.8,
    "hot": false,
    "tags": [
     "个人信息保护法",
@@ -1059,7 +1235,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 14.2,
+   "heat": 13.8,
    "hot": false,
    "tags": [
     "合规审计",
@@ -1082,7 +1258,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 14.2,
+   "heat": 13.8,
    "hot": false,
    "tags": [
     "数据要素",
@@ -1105,7 +1281,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 14.2,
+   "heat": 13.8,
    "hot": false,
    "tags": [
     "合规审计",
@@ -1128,7 +1304,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 14.2,
+   "heat": 13.8,
    "hot": false,
    "tags": [
     "数据合规",
@@ -1151,7 +1327,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 14.2,
+   "heat": 13.8,
    "hot": false,
    "tags": [
     "数据要素",
@@ -1174,7 +1350,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 14.2,
+   "heat": 13.8,
    "hot": false,
    "tags": [
     "数据合规",
@@ -1197,7 +1373,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 11.0,
+   "heat": 10.7,
    "hot": false,
    "tags": [
     "争议解决",
@@ -1220,7 +1396,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 8.8,
+   "heat": 8.5,
    "hot": false,
    "tags": [
     "class action",
@@ -1243,7 +1419,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 8.6,
+   "heat": 8.2,
    "hot": false,
    "tags": [
     "数据合规",
@@ -1265,7 +1441,7 @@
    ],
    "region": "国际",
    "category": "执法处罚",
-   "heat": 7.5,
+   "heat": 7.1,
    "hot": false,
    "tags": [
     "privacy",
@@ -1287,7 +1463,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 7.3,
+   "heat": 7.0,
    "hot": false,
    "tags": [
     "data breach",
@@ -1309,7 +1485,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 7.3,
+   "heat": 7.0,
    "hot": false,
    "tags": [
     "data breach",
@@ -1331,7 +1507,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 7.2,
+   "heat": 6.9,
    "hot": false,
    "tags": [
     "data breach",
@@ -1353,7 +1529,7 @@
    ],
    "region": "国际",
    "category": "执法处罚",
-   "heat": 6.7,
+   "heat": 6.4,
    "hot": false,
    "tags": [
     "privacy",
@@ -1375,7 +1551,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 6.6,
+   "heat": 6.2,
    "hot": false,
    "tags": [
     "class action",
@@ -1397,7 +1573,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 6.1,
+   "heat": 5.7,
    "hot": false,
    "tags": [
     "数据安全",
@@ -1413,14 +1589,14 @@
    "title": "2026年“数据要素×”大赛全国总决赛颁奖仪式在青岛顺利举办",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB0QkpJN2xWd0RqeHJNUE1lTU1ZLWd2X3NiQTJEUWxQNzVHYVIxb2M2cVpvc3Jma0JHRDRnS1ZPUTROUGV4QUZGR3JCMzBGT0NpVTdTRmtHZmM2VTBTRU1BYWwzaXgtd2hnQ3NCVGVwV2NkWmVFRUdHSnJNZEhEQQ?oc=5",
    "summary": "",
-   "time": "2026-10-24T09:05:46+08:00",
+   "time": "2026-10-24T09:02:39+08:00",
    "date": "2026-10-24",
    "sources": [
     "国家数据局"
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 5.1,
+   "heat": 4.7,
    "hot": false,
    "tags": [
     "数据要素"
@@ -1441,7 +1617,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 4.9,
+   "heat": 4.6,
    "hot": false,
    "tags": [
     "data breach"
@@ -1462,7 +1638,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 3.1,
+   "heat": 2.8,
    "hot": false,
    "tags": [],
    "importance": 2.0,
@@ -1481,7 +1657,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 3.1,
+   "heat": 2.7,
    "hot": false,
    "tags": [],
    "importance": 2.0,
@@ -1500,7 +1676,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 2.7,
+   "heat": 2.3,
    "hot": false,
    "tags": [],
    "importance": 4.5,
@@ -1519,7 +1695,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 2.7,
+   "heat": 2.3,
    "hot": false,
    "tags": [],
    "importance": 4.5,
@@ -1538,12 +1714,12 @@
    ],
    "region": "国际",
    "category": "行业实践",
-   "heat": 14.7,
+   "heat": 14.5,
    "hot": false,
    "tags": [
     "data protection",
-    "consent",
-    "Schrems"
+    "Schrems",
+    "privacy"
    ],
    "importance": 14.5,
    "kw_score": 12.0,
@@ -1574,190 +1750,6 @@
    "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
   },
   {
-   "title": "并购与跨境数据:企业海外投融资的 数据合规 前置功课",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1792764090&ver=7044&signature=xklN2Zhj3YgxQxiU6nCpjsToHNG950Q2UnvVgkWl-QPftgdJN-OCkTvgjUFHS-SOc3kFIV1r2KsPOLXbi070ANyNxwlYUNlMwB70ILRneQd8UfqSt-NCIHO2BQc1bJlC&new=1",
-   "summary": "但 数据合规 风险不会为商业交易让路.把数据跨境评估纳入项目前期尽调清单,避免临近交割阶段爆出合规硬伤.对于出海企业, 数据 ...",
-   "time": "2026-10-23T18:20:30+08:00",
-   "date": "2026-10-23",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "跨境数据",
-   "heat": 13.3,
-   "hot": false,
-   "tags": [
-    "数据跨境",
-    "跨境数据",
-    "数据合规"
-   ],
-   "importance": 16.0,
-   "kw_score": 11.0,
-   "weight": 2.0,
-   "reason": "涉及数据跨境流动规则，可能影响出境安全评估、标准合同备案等合规路径，建议出海/跨国业务团队关注。"
-  },
-  {
-   "title": "并购与跨境数据:企业海外投融资的 数据合规 前置功课",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1792780491&ver=7044&signature=xklN2Zhj3YgxQxiU6nCpjsToHNG950Q2UnvVgkWl-QMd9K5vHJFVH3p5WRTEqPBn-XIZtZe70u3KstpdzipriRw16jRiIxyeRicneV0XIrkCx3b4qTp-FGAE8W2Z6Fmu&new=1",
-   "summary": "但 数据合规 风险不会为商业交易让路.把数据跨境评估纳入项目前期尽调清单,避免临近交割阶段爆出合规硬伤.对于出海企业, 数据 ...",
-   "time": "2026-10-23T18:20:30+08:00",
-   "date": "2026-10-23",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "跨境数据",
-   "heat": 13.3,
-   "hot": false,
-   "tags": [
-    "数据跨境",
-    "数据合规",
-    "跨境数据"
-   ],
-   "importance": 16.0,
-   "kw_score": 11.0,
-   "weight": 2.0,
-   "reason": "涉及数据跨境流动规则，可能影响出境安全评估、标准合同备案等合规路径，建议出海/跨国业务团队关注。"
-  },
-  {
-   "title": "并购与跨境数据:企业海外投融资的 数据合规 前置功课",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1792792130&ver=7045&signature=snefSqB5Sxccm-omvFs1HQchhid4GJZ*yn*lVz-ywLo6Wvg0ajEMmZ8lWPtjAg-DsewfiakLgfYKkbpqvL4noUn7-5NMnsxNiB5sT979o48tP61fPhnK5bmS-AgN9UKT&new=1",
-   "summary": "但 数据合规 风险不会为商业交易让路.把数据跨境评估纳入项目前期尽调清单,避免临近交割阶段爆出合规硬伤.对于出海企业, 数据 ...",
-   "time": "2026-10-23T18:20:30+08:00",
-   "date": "2026-10-23",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "跨境数据",
-   "heat": 13.3,
-   "hot": false,
-   "tags": [
-    "数据跨境",
-    "跨境数据",
-    "数据合规"
-   ],
-   "importance": 16.0,
-   "kw_score": 11.0,
-   "weight": 2.0,
-   "reason": "涉及数据跨境流动规则，可能影响出境安全评估、标准合同备案等合规路径，建议出海/跨国业务团队关注。"
-  },
-  {
-   "title": "并购与跨境数据:企业海外投融资的 数据合规 前置功课",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1792800769&ver=7045&signature=snefSqB5Sxccm-omvFs1HQchhid4GJZ*yn*lVz-ywLqWR1Jv-Q2TbXwRx4yfJNGkI0yiiNLSn8PcTr1tVnpyoKbVV8UJLm92wfCBywVzawSxA7Ns*y-5ybYqHc72CPxz&new=1",
-   "summary": "但 数据合规 风险不会为商业交易让路.把数据跨境评估纳入项目前期尽调清单,避免临近交割阶段爆出合规硬伤.对于出海企业, 数据 ...",
-   "time": "2026-10-23T18:20:30+08:00",
-   "date": "2026-10-23",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "跨境数据",
-   "heat": 13.3,
-   "hot": false,
-   "tags": [
-    "跨境数据",
-    "数据跨境",
-    "数据合规"
-   ],
-   "importance": 16.0,
-   "kw_score": 11.0,
-   "weight": 2.0,
-   "reason": "涉及数据跨境流动规则，可能影响出境安全评估、标准合同备案等合规路径，建议出海/跨国业务团队关注。"
-  },
-  {
-   "title": "有思观察 | 数据资产入表之后: 数据合规 如何讲成资本故事",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1792764090&ver=7044&signature=p9XYF8ZBqQvZRSeHvUlK*yT*ZUDAAAPHGzMpbExwl1g-Kvyi-ivH6na1xpGRH5XjU57QF*XehixeaxqWb-kK4qAIO0m*RNHZKa8o3K5JxIkKAR231gOH1ixZQlv3DOvu&new=1",
-   "summary": "数据合规 三件套 网安法定底线,等级保护是入场券;数安法定分级分类,重要数据另有认定与保护义务;最硬的是个保法——个人...",
-   "time": "2026-10-23T18:00:28+08:00",
-   "date": "2026-10-23",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "行业实践",
-   "heat": 13.2,
-   "hot": false,
-   "tags": [
-    "重要数据",
-    "数据合规",
-    "个保法"
-   ],
-   "importance": 13.0,
-   "kw_score": 11.0,
-   "weight": 2.0,
-   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
-  },
-  {
-   "title": "有思观察 | 数据资产入表之后: 数据合规 如何讲成资本故事",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1792780491&ver=7044&signature=p9XYF8ZBqQvZRSeHvUlK*yT*ZUDAAAPHGzMpbExwl1h4ea**hJ6oSV2GlWqCO2SQiT0ZJSfjOi0SOwDstn*BanoTu9wm2CpJGECI1adWS1TgRfk2WIeEH599PNWeQCtF&new=1",
-   "summary": "数据合规 三件套 网安法定底线,等级保护是入场券;数安法定分级分类,重要数据另有认定与保护义务;最硬的是个保法——个人...",
-   "time": "2026-10-23T18:00:28+08:00",
-   "date": "2026-10-23",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "行业实践",
-   "heat": 13.2,
-   "hot": false,
-   "tags": [
-    "重要数据",
-    "数据合规",
-    "个保法"
-   ],
-   "importance": 13.0,
-   "kw_score": 11.0,
-   "weight": 2.0,
-   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
-  },
-  {
-   "title": "有思观察 | 数据资产入表之后: 数据合规 如何讲成资本故事",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1792792130&ver=7045&signature=s0oilo3gEAO9clgZFm5Vt-MtrUzi4OoGvgjdT6269MqWA0xtKBm8v257WVPIki2-v6kMwi-gi-iwJ2iHC2jyZoAavCbX9grDdyRwpXIeGqmliujClI0cn8mJfQbvCjaV&new=1",
-   "summary": "数据合规 三件套 网安法定底线,等级保护是入场券;数安法定分级分类,重要数据另有认定与保护义务;最硬的是个保法——个人...",
-   "time": "2026-10-23T18:00:28+08:00",
-   "date": "2026-10-23",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "行业实践",
-   "heat": 13.2,
-   "hot": false,
-   "tags": [
-    "重要数据",
-    "数据合规",
-    "个保法"
-   ],
-   "importance": 13.0,
-   "kw_score": 11.0,
-   "weight": 2.0,
-   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
-  },
-  {
-   "title": "有思观察 | 数据资产入表之后: 数据合规 如何讲成资本故事",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1792800769&ver=7045&signature=s0oilo3gEAO9clgZFm5Vt-MtrUzi4OoGvgjdT6269MpnVCtTU5ax*ez2xW80SO9HUHI1-mraotvvKyz5Ykw9cVm7*DDKWlBwJWxzsuDx8rhZ451pWkW58Bx9oeWIY7*2&new=1",
-   "summary": "数据合规 三件套 网安法定底线,等级保护是入场券;数安法定分级分类,重要数据另有认定与保护义务;最硬的是个保法——个人...",
-   "time": "2026-10-23T18:00:28+08:00",
-   "date": "2026-10-23",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "行业实践",
-   "heat": 13.2,
-   "hot": false,
-   "tags": [
-    "重要数据",
-    "数据合规",
-    "个保法"
-   ],
-   "importance": 13.0,
-   "kw_score": 11.0,
-   "weight": 2.0,
-   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
-  },
-  {
    "title": "企业成长通203期丨数据安全法与 个人信息保护 合规分享交流会落地举行",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1792725029&ver=7043&signature=JlmwClEGE5BYZ3UsneBmfmYGLDEDc4MIxwmoalah-q7IF8bSxKK9htLhjz4yXX6E4UdHfXaFd2Do45we-hvMax8fSBMzLyOG5cWUpiXTcXrZn15L1wEnK8tRUEFHfEgb&new=1",
    "summary": "为助力企业防范数字领域数据合规风险,10月22日,数字金融大厦“企业成长通”服务基站举办“数据安全法与 个人信息保护 合规”专...",
@@ -1781,119 +1773,188 @@
    "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
   },
   {
-   "title": "数据 如何 合规 出境:从执法案例看我国 数据 出境规则",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1792764090&ver=7044&signature=41oPDCK7OphavKXrdp-4JpfloR-WnieOp-k6xtX1rihuYIX-q98K7QdiyHya7h9pN9zCnd9vN4IueZ5n8J04YLCbP3OpEZ-uXQ-AkA8kyDXNyULbqh3jr6mOVZQQYXyr&new=1",
-   "summary": "专注 数据合规 、个人信息保护与人工智能合规实务,长期为企业提供 数据合规 顾问服务.拥有的专业资质:国际注册信息系统安全...",
-   "time": "2026-10-23T18:39:41+08:00",
+   "title": "并购与跨境数据:企业海外投融资的 数据合规 前置功课",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1792764090&ver=7044&signature=xklN2Zhj3YgxQxiU6nCpjsToHNG950Q2UnvVgkWl-QPftgdJN-OCkTvgjUFHS-SOc3kFIV1r2KsPOLXbi070ANyNxwlYUNlMwB70ILRneQd8UfqSt-NCIHO2BQc1bJlC&new=1",
+   "summary": "但 数据合规 风险不会为商业交易让路.把数据跨境评估纳入项目前期尽调清单,避免临近交割阶段爆出合规硬伤.对于出海企业, 数据 ...",
+   "time": "2026-10-23T18:20:30+08:00",
    "date": "2026-10-23",
    "sources": [
     "微信公众号"
    ],
    "region": "国内",
-   "category": "执法处罚",
-   "heat": 12.3,
+   "category": "跨境数据",
+   "heat": 13.0,
    "hot": false,
    "tags": [
-    "个人信息",
-    "数据合规",
-    "法案"
+    "数据跨境",
+    "跨境数据",
+    "数据合规"
    ],
-   "importance": 14.5,
-   "kw_score": 10.0,
+   "importance": 16.0,
+   "kw_score": 11.0,
    "weight": 2.0,
-   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
+   "reason": "涉及数据跨境流动规则，可能影响出境安全评估、标准合同备案等合规路径，建议出海/跨国业务团队关注。"
   },
   {
-   "title": "数据 如何 合规 出境:从执法案例看我国 数据 出境规则",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1792780491&ver=7044&signature=41oPDCK7OphavKXrdp-4JpfloR-WnieOp-k6xtX1rijABWhE5VAdtROzj1Rx*3q9M5OAk1ttGh7lt9fcvSfdFQC31uJwUlrKNKfLX-Jc8RuUypOpTcsry48bRKolRTPy&new=1",
-   "summary": "专注 数据合规 、个人信息保护与人工智能合规实务,长期为企业提供 数据合规 顾问服务.拥有的专业资质:国际注册信息系统安全...",
-   "time": "2026-10-23T18:39:41+08:00",
+   "title": "有思观察 | 数据资产入表之后: 数据合规 如何讲成资本故事",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1792764090&ver=7044&signature=p9XYF8ZBqQvZRSeHvUlK*yT*ZUDAAAPHGzMpbExwl1g-Kvyi-ivH6na1xpGRH5XjU57QF*XehixeaxqWb-kK4qAIO0m*RNHZKa8o3K5JxIkKAR231gOH1ixZQlv3DOvu&new=1",
+   "summary": "数据合规 三件套 网安法定底线,等级保护是入场券;数安法定分级分类,重要数据另有认定与保护义务;最硬的是个保法——个人...",
+   "time": "2026-10-23T18:00:28+08:00",
    "date": "2026-10-23",
    "sources": [
     "微信公众号"
    ],
    "region": "国内",
-   "category": "执法处罚",
-   "heat": 12.3,
+   "category": "行业实践",
+   "heat": 13.0,
    "hot": false,
    "tags": [
+    "重要数据",
     "数据合规",
-    "个人信息",
-    "法案"
+    "个保法"
    ],
-   "importance": 14.5,
-   "kw_score": 10.0,
+   "importance": 13.0,
+   "kw_score": 11.0,
    "weight": 2.0,
-   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
+   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
   },
   {
-   "title": "数据 如何 合规 出境:从执法案例看我国 数据 出境规则",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1792792130&ver=7045&signature=1VIUGOKTrAtpjdO39RZgfMw1PNcy*PG3WfgpVl1vEvCI3xYTAEsVp8ekzi3X-tcKzs6rcFZJ0VEKJICU3u6azhfz7pThdnEXbidD9zlwd53Bu18cXjk7CbcCoZDh14EI&new=1",
-   "summary": "专注 数据合规 、个人信息保护与人工智能合规实务,长期为企业提供 数据合规 顾问服务.拥有的专业资质:国际注册信息系统安全...",
-   "time": "2026-10-23T18:39:41+08:00",
+   "title": "并购与跨境数据:企业海外投融资的 数据合规 前置功课",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1792780491&ver=7044&signature=xklN2Zhj3YgxQxiU6nCpjsToHNG950Q2UnvVgkWl-QMd9K5vHJFVH3p5WRTEqPBn-XIZtZe70u3KstpdzipriRw16jRiIxyeRicneV0XIrkCx3b4qTp-FGAE8W2Z6Fmu&new=1",
+   "summary": "但 数据合规 风险不会为商业交易让路.把数据跨境评估纳入项目前期尽调清单,避免临近交割阶段爆出合规硬伤.对于出海企业, 数据 ...",
+   "time": "2026-10-23T18:20:30+08:00",
    "date": "2026-10-23",
    "sources": [
     "微信公众号"
    ],
    "region": "国内",
-   "category": "执法处罚",
-   "heat": 12.3,
+   "category": "跨境数据",
+   "heat": 13.0,
    "hot": false,
    "tags": [
+    "数据跨境",
     "数据合规",
-    "个人信息",
-    "法案"
+    "跨境数据"
    ],
-   "importance": 14.5,
-   "kw_score": 10.0,
+   "importance": 16.0,
+   "kw_score": 11.0,
    "weight": 2.0,
-   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
+   "reason": "涉及数据跨境流动规则，可能影响出境安全评估、标准合同备案等合规路径，建议出海/跨国业务团队关注。"
   },
   {
-   "title": "数据 如何 合规 出境:从执法案例看我国 数据 出境规则",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1792800769&ver=7045&signature=1VIUGOKTrAtpjdO39RZgfMw1PNcy*PG3WfgpVl1vEvDEOLMBHIwlhV2xFCa-ryrUPNyp2M93FhK2zminthRw86MmvzyVFrwmBOPfkr49KsaH57L4itKDgViUr*6EYiPC&new=1",
-   "summary": "专注 数据合规 、个人信息保护与人工智能合规实务,长期为企业提供 数据合规 顾问服务.拥有的专业资质:国际注册信息系统安全...",
-   "time": "2026-10-23T18:39:41+08:00",
+   "title": "有思观察 | 数据资产入表之后: 数据合规 如何讲成资本故事",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1792780491&ver=7044&signature=p9XYF8ZBqQvZRSeHvUlK*yT*ZUDAAAPHGzMpbExwl1h4ea**hJ6oSV2GlWqCO2SQiT0ZJSfjOi0SOwDstn*BanoTu9wm2CpJGECI1adWS1TgRfk2WIeEH599PNWeQCtF&new=1",
+   "summary": "数据合规 三件套 网安法定底线,等级保护是入场券;数安法定分级分类,重要数据另有认定与保护义务;最硬的是个保法——个人...",
+   "time": "2026-10-23T18:00:28+08:00",
    "date": "2026-10-23",
    "sources": [
     "微信公众号"
    ],
    "region": "国内",
-   "category": "执法处罚",
-   "heat": 12.3,
+   "category": "行业实践",
+   "heat": 13.0,
    "hot": false,
    "tags": [
+    "重要数据",
     "数据合规",
-    "个人信息",
-    "合规"
+    "个保法"
    ],
-   "importance": 14.5,
-   "kw_score": 10.0,
+   "importance": 13.0,
+   "kw_score": 11.0,
    "weight": 2.0,
-   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
+   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
   },
   {
-   "title": "深圳网信部门通报近期 个人信息保护 部分执法案例",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1792848459&ver=7046&signature=EMB9oDkEsZjVRS3BS5oVKd7ArG2sVBojIwyiJ3fnQIzq8PV8dsUcW99okIXKsT7YaD3o4JCrhkiGATryvnVdknpZMMxvInLewI*xDSvRYmbekagDxt85Fgx*AYeu7cfP&new=1",
-   "summary": "近段时间以来,深圳网信部门认真贯彻落实《网络安全法》《 个人信息保护 法》《网络数据安全管理条例》等法律法规,持续加大 个人 ...",
-   "time": "2026-10-23T18:17:20+08:00",
+   "title": "并购与跨境数据:企业海外投融资的 数据合规 前置功课",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1792792130&ver=7045&signature=snefSqB5Sxccm-omvFs1HQchhid4GJZ*yn*lVz-ywLo6Wvg0ajEMmZ8lWPtjAg-DsewfiakLgfYKkbpqvL4noUn7-5NMnsxNiB5sT979o48tP61fPhnK5bmS-AgN9UKT&new=1",
+   "summary": "但 数据合规 风险不会为商业交易让路.把数据跨境评估纳入项目前期尽调清单,避免临近交割阶段爆出合规硬伤.对于出海企业, 数据 ...",
+   "time": "2026-10-23T18:20:30+08:00",
    "date": "2026-10-23",
    "sources": [
     "微信公众号"
    ],
    "region": "国内",
-   "category": "执法处罚",
-   "heat": 12.3,
+   "category": "跨境数据",
+   "heat": 13.0,
    "hot": false,
    "tags": [
-    "网络安全法",
-    "数据安全",
-    "个人信息"
+    "数据跨境",
+    "跨境数据",
+    "数据合规"
    ],
-   "importance": 14.5,
-   "kw_score": 10.0,
+   "importance": 16.0,
+   "kw_score": 11.0,
    "weight": 2.0,
-   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
+   "reason": "涉及数据跨境流动规则，可能影响出境安全评估、标准合同备案等合规路径，建议出海/跨国业务团队关注。"
+  },
+  {
+   "title": "有思观察 | 数据资产入表之后: 数据合规 如何讲成资本故事",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1792792130&ver=7045&signature=s0oilo3gEAO9clgZFm5Vt-MtrUzi4OoGvgjdT6269MqWA0xtKBm8v257WVPIki2-v6kMwi-gi-iwJ2iHC2jyZoAavCbX9grDdyRwpXIeGqmliujClI0cn8mJfQbvCjaV&new=1",
+   "summary": "数据合规 三件套 网安法定底线,等级保护是入场券;数安法定分级分类,重要数据另有认定与保护义务;最硬的是个保法——个人...",
+   "time": "2026-10-23T18:00:28+08:00",
+   "date": "2026-10-23",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "行业实践",
+   "heat": 13.0,
+   "hot": false,
+   "tags": [
+    "重要数据",
+    "数据合规",
+    "个保法"
+   ],
+   "importance": 13.0,
+   "kw_score": 11.0,
+   "weight": 2.0,
+   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
+  },
+  {
+   "title": "并购与跨境数据:企业海外投融资的 数据合规 前置功课",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1792800769&ver=7045&signature=snefSqB5Sxccm-omvFs1HQchhid4GJZ*yn*lVz-ywLqWR1Jv-Q2TbXwRx4yfJNGkI0yiiNLSn8PcTr1tVnpyoKbVV8UJLm92wfCBywVzawSxA7Ns*y-5ybYqHc72CPxz&new=1",
+   "summary": "但 数据合规 风险不会为商业交易让路.把数据跨境评估纳入项目前期尽调清单,避免临近交割阶段爆出合规硬伤.对于出海企业, 数据 ...",
+   "time": "2026-10-23T18:20:30+08:00",
+   "date": "2026-10-23",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "跨境数据",
+   "heat": 13.0,
+   "hot": false,
+   "tags": [
+    "跨境数据",
+    "数据跨境",
+    "数据合规"
+   ],
+   "importance": 16.0,
+   "kw_score": 11.0,
+   "weight": 2.0,
+   "reason": "涉及数据跨境流动规则，可能影响出境安全评估、标准合同备案等合规路径，建议出海/跨国业务团队关注。"
+  },
+  {
+   "title": "有思观察 | 数据资产入表之后: 数据合规 如何讲成资本故事",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1792800769&ver=7045&signature=s0oilo3gEAO9clgZFm5Vt-MtrUzi4OoGvgjdT6269MpnVCtTU5ax*ez2xW80SO9HUHI1-mraotvvKyz5Ykw9cVm7*DDKWlBwJWxzsuDx8rhZ451pWkW58Bx9oeWIY7*2&new=1",
+   "summary": "数据合规 三件套 网安法定底线,等级保护是入场券;数安法定分级分类,重要数据另有认定与保护义务;最硬的是个保法——个人...",
+   "time": "2026-10-23T18:00:28+08:00",
+   "date": "2026-10-23",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "行业实践",
+   "heat": 13.0,
+   "hot": false,
+   "tags": [
+    "重要数据",
+    "数据合规",
+    "个保法"
+   ],
+   "importance": 13.0,
+   "kw_score": 11.0,
+   "weight": 2.0,
+   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
   },
   {
    "title": "数据 时代企业 合规 与风险化解高级研修班",
@@ -1942,6 +2003,121 @@
    "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
   },
   {
+   "title": "数据 如何 合规 出境:从执法案例看我国 数据 出境规则",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1792764090&ver=7044&signature=41oPDCK7OphavKXrdp-4JpfloR-WnieOp-k6xtX1rihuYIX-q98K7QdiyHya7h9pN9zCnd9vN4IueZ5n8J04YLCbP3OpEZ-uXQ-AkA8kyDXNyULbqh3jr6mOVZQQYXyr&new=1",
+   "summary": "专注 数据合规 、个人信息保护与人工智能合规实务,长期为企业提供 数据合规 顾问服务.拥有的专业资质:国际注册信息系统安全...",
+   "time": "2026-10-23T18:39:41+08:00",
+   "date": "2026-10-23",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "执法处罚",
+   "heat": 12.0,
+   "hot": false,
+   "tags": [
+    "个人信息",
+    "数据合规",
+    "法案"
+   ],
+   "importance": 14.5,
+   "kw_score": 10.0,
+   "weight": 2.0,
+   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
+  },
+  {
+   "title": "数据 如何 合规 出境:从执法案例看我国 数据 出境规则",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1792780491&ver=7044&signature=41oPDCK7OphavKXrdp-4JpfloR-WnieOp-k6xtX1rijABWhE5VAdtROzj1Rx*3q9M5OAk1ttGh7lt9fcvSfdFQC31uJwUlrKNKfLX-Jc8RuUypOpTcsry48bRKolRTPy&new=1",
+   "summary": "专注 数据合规 、个人信息保护与人工智能合规实务,长期为企业提供 数据合规 顾问服务.拥有的专业资质:国际注册信息系统安全...",
+   "time": "2026-10-23T18:39:41+08:00",
+   "date": "2026-10-23",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "执法处罚",
+   "heat": 12.0,
+   "hot": false,
+   "tags": [
+    "数据合规",
+    "个人信息",
+    "法案"
+   ],
+   "importance": 14.5,
+   "kw_score": 10.0,
+   "weight": 2.0,
+   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
+  },
+  {
+   "title": "数据 如何 合规 出境:从执法案例看我国 数据 出境规则",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1792792130&ver=7045&signature=1VIUGOKTrAtpjdO39RZgfMw1PNcy*PG3WfgpVl1vEvCI3xYTAEsVp8ekzi3X-tcKzs6rcFZJ0VEKJICU3u6azhfz7pThdnEXbidD9zlwd53Bu18cXjk7CbcCoZDh14EI&new=1",
+   "summary": "专注 数据合规 、个人信息保护与人工智能合规实务,长期为企业提供 数据合规 顾问服务.拥有的专业资质:国际注册信息系统安全...",
+   "time": "2026-10-23T18:39:41+08:00",
+   "date": "2026-10-23",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "执法处罚",
+   "heat": 12.0,
+   "hot": false,
+   "tags": [
+    "数据合规",
+    "个人信息",
+    "法案"
+   ],
+   "importance": 14.5,
+   "kw_score": 10.0,
+   "weight": 2.0,
+   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
+  },
+  {
+   "title": "数据 如何 合规 出境:从执法案例看我国 数据 出境规则",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1792800769&ver=7045&signature=1VIUGOKTrAtpjdO39RZgfMw1PNcy*PG3WfgpVl1vEvDEOLMBHIwlhV2xFCa-ryrUPNyp2M93FhK2zminthRw86MmvzyVFrwmBOPfkr49KsaH57L4itKDgViUr*6EYiPC&new=1",
+   "summary": "专注 数据合规 、个人信息保护与人工智能合规实务,长期为企业提供 数据合规 顾问服务.拥有的专业资质:国际注册信息系统安全...",
+   "time": "2026-10-23T18:39:41+08:00",
+   "date": "2026-10-23",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "执法处罚",
+   "heat": 12.0,
+   "hot": false,
+   "tags": [
+    "数据合规",
+    "个人信息",
+    "合规"
+   ],
+   "importance": 14.5,
+   "kw_score": 10.0,
+   "weight": 2.0,
+   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
+  },
+  {
+   "title": "深圳网信部门通报近期 个人信息保护 部分执法案例",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1792848459&ver=7046&signature=EMB9oDkEsZjVRS3BS5oVKd7ArG2sVBojIwyiJ3fnQIzq8PV8dsUcW99okIXKsT7YaD3o4JCrhkiGATryvnVdknpZMMxvInLewI*xDSvRYmbekagDxt85Fgx*AYeu7cfP&new=1",
+   "summary": "近段时间以来,深圳网信部门认真贯彻落实《网络安全法》《 个人信息保护 法》《网络数据安全管理条例》等法律法规,持续加大 个人 ...",
+   "time": "2026-10-23T18:17:20+08:00",
+   "date": "2026-10-23",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "执法处罚",
+   "heat": 12.0,
+   "hot": false,
+   "tags": [
+    "网络安全法",
+    "数据安全",
+    "个人信息"
+   ],
+   "importance": 14.5,
+   "kw_score": 10.0,
+   "weight": 2.0,
+   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
+  },
+  {
    "title": "合规动态| 数据合规 、竞争(2026.10.05~2026.10.18)",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1792725002&ver=7043&signature=I4us*IPU97QgpqLR6k3aeIf-m-9yySHxSI9i7-UwHs8vRoP1rinLQnDo*LUSaQhZMoSzNpsvLdUh70QGCV0mbANVwv7YS54Devw6x3dCpYFA6Ny06p-Ht62RDskB9XbP&new=1",
    "summary": "合规动态(2026.10.05~2026.10.18)速览 数据合规 DATA COMPLIANCE01中共中央、国务院印发《关于发展新质生产力的意见》上海...",
@@ -1988,6 +2164,29 @@
    "reason": "行业合规实践动态，可作为制度建设与对标参考。"
   },
   {
+   "title": "“智兴天府专家行”走进金牛青羊：专家“把脉”产业痛点，数据合规成出海必修课",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iSEs3NmJlT3hZc0c4RnVaT2JXeDJ0Wmc5bFJCSEl0OGhySXVNb2pMbFNsRTVSc1VCME15MUtRalV0TTFkaUpSbzRsb2tDeVBsQWdHQ0g3M1VlQjJQaUtHSTNoUQ?oc=5",
+   "summary": "",
+   "time": "2026-10-23T10:10:32+08:00",
+   "date": "2026-10-23",
+   "sources": [
+    "四川新闻",
+    "川观新闻"
+   ],
+   "region": "国内",
+   "category": "行业实践",
+   "heat": 9.0,
+   "hot": false,
+   "tags": [
+    "数据合规",
+    "合规"
+   ],
+   "importance": 9.0,
+   "kw_score": 5.0,
+   "weight": 2.0,
+   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
+  },
+  {
    "title": "招标公告 | 数据 要素 合规 管理平台一期与二期建设服务项目",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1792745054&ver=7043&signature=dyxoJJye9QhB7ugMfCDj5k-jACxnOV52cpwkaMXHS6Ut3gN0eQdueu4NCLGWK3y0*jESvijhr-PiC0vG-Obf-I2alN24eIG9jPSVdKfjt3R9S6Oz7cZ2b5xROceD-4zn&new=1",
    "summary": "建立一套 数据合规 管理平台,支持招标人对数据要素合规管理及此后相关服务业务的要求.具体采购需求详见招标文件第五章《采购需...",
@@ -2024,8 +2223,8 @@
    "heat": 8.5,
    "hot": false,
    "tags": [
-    "privacy",
     "lawsuit",
+    "privacy",
     "court"
    ],
    "importance": 14.0,
@@ -2044,7 +2243,7 @@
    ],
    "region": "国际",
    "category": "跨境数据",
-   "heat": 8.2,
+   "heat": 8.0,
    "hot": false,
    "tags": [
     "data transfer",
@@ -2077,28 +2276,6 @@
    "kw_score": 6.0,
    "weight": 2.0,
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
-  },
-  {
-   "title": "“智兴天府专家行”走进金牛青羊：专家“把脉”产业痛点，数据合规成出海必修课",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iSEs3NmJlT3hZc0c4RnVaT2JXeDJ0Wmc5bFJCSEl0OGhySXVNb2pMbFNsRTVSc1VCME15MUtRalV0TTFkaUpSbzRsb2tDeVBsQWdHQ0g3M1VlQjJQaUtHSTNoUQ?oc=5",
-   "summary": "",
-   "time": "2026-10-23T10:10:32+08:00",
-   "date": "2026-10-23",
-   "sources": [
-    "四川新闻"
-   ],
-   "region": "国内",
-   "category": "行业实践",
-   "heat": 7.0,
-   "hot": false,
-   "tags": [
-    "数据合规",
-    "合规"
-   ],
-   "importance": 7.0,
-   "kw_score": 5.0,
-   "weight": 2.0,
-   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
   },
   {
    "title": "French publisher Reworld Media risks fine for GDPR violation",
@@ -2177,7 +2354,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 6.5,
+   "heat": 6.2,
    "hot": false,
    "tags": [
     "data breach",
@@ -2221,7 +2398,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 5.4,
+   "heat": 5.0,
    "hot": false,
    "tags": [
     "隐私",
@@ -2243,11 +2420,11 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 4.8,
+   "heat": 4.5,
    "hot": false,
    "tags": [
-    "立法",
     "法案",
+    "立法",
     "隐私"
    ],
    "importance": 7.5,
@@ -2266,7 +2443,7 @@
    ],
    "region": "国际",
    "category": "执法处罚",
-   "heat": 4.5,
+   "heat": 4.2,
    "hot": false,
    "tags": [
     "fine"
@@ -2287,7 +2464,7 @@
    ],
    "region": "国际",
    "category": "个人信息保护",
-   "heat": 4.5,
+   "heat": 4.1,
    "hot": false,
    "tags": [
     "privacy"
@@ -2308,7 +2485,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 4.4,
+   "heat": 4.1,
    "hot": false,
    "tags": [
     "arbitration"
@@ -2392,7 +2569,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 2.2,
+   "heat": 2.0,
    "hot": false,
    "tags": [],
    "importance": 2.0,
@@ -2884,29 +3061,6 @@
    "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
   },
   {
-   "title": "张军会见香港国际仲裁中心联合主席杜淦堃一行",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWmVyNzc1SnBsMlkyRi1JMVdZYU92RHhjYl9FaHBrZDcwRVpsT2VzamVLc0pNa2NqZlNJaWZpRGU2b3dVaE1QVS1FM2tkYnZ3ZDJ0TzBjZlQzaUxKVzRJUy1xVDZpLThhem82Y291X2FRLWRyZ3ZhSWNMckpCNktzanpNa2Z3cnl4b1E?oc=5",
-   "summary": "",
-   "time": "2026-10-22T14:40:29+08:00",
-   "date": "2026-10-22",
-   "sources": [
-    "华人头条",
-    "中华人民共和国司法部",
-    "ThePaper.cn"
-   ],
-   "region": "国内",
-   "category": "诉讼仲裁",
-   "heat": 8.0,
-   "hot": false,
-   "tags": [
-    "仲裁"
-   ],
-   "importance": 10.5,
-   "kw_score": 2.0,
-   "weight": 2.0,
-   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
-  },
-  {
    "title": "Kisco Senior Living $1.8M Data Breach Class Action Lawsuit",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ORjNrZ1FvWVBlX24zVDJFX0JHWTdnVkNsblk2cE9zaktNb2p0NlBoRHdmRzI4aXA1czZLZWJadTRQZ3NEYUw0WG03NTVaaUtMWmZvX0tyS1VxZFpUZ1dMbW1PelZwUQ?oc=5",
    "summary": "",
@@ -2926,6 +3080,29 @@
    ],
    "importance": 10.5,
    "kw_score": 6.0,
+   "weight": 2.0,
+   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
+  },
+  {
+   "title": "张军会见香港国际仲裁中心联合主席杜淦堃一行",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWmVyNzc1SnBsMlkyRi1JMVdZYU92RHhjYl9FaHBrZDcwRVpsT2VzamVLc0pNa2NqZlNJaWZpRGU2b3dVaE1QVS1FM2tkYnZ3ZDJ0TzBjZlQzaUxKVzRJUy1xVDZpLThhem82Y291X2FRLWRyZ3ZhSWNMckpCNktzanpNa2Z3cnl4b1E?oc=5",
+   "summary": "",
+   "time": "2026-10-22T14:40:29+08:00",
+   "date": "2026-10-22",
+   "sources": [
+    "华人头条",
+    "中华人民共和国司法部",
+    "ThePaper.cn"
+   ],
+   "region": "国内",
+   "category": "诉讼仲裁",
+   "heat": 8.0,
+   "hot": false,
+   "tags": [
+    "仲裁"
+   ],
+   "importance": 10.5,
+   "kw_score": 2.0,
    "weight": 2.0,
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
   },
@@ -3067,28 +3244,6 @@
    "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
   },
   {
-   "title": "UK data breach litigation and the search for a sustainable claims model",
-   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNS0hZbFc5LWhpbzJQWmZ2SEZ2TmZxQ0c3YTNkODE2LXFxRVFlUGhMa0c4ekdKZXRHMUtBRVFqb01XV3llb0xlMWRqVUZXR2VmWFdheFRyaVhReWFJX3NYd2FtUDkyQW1QajVSXzFsRHlTdXVHajNyMGJDbFFRaTVaMVRRV2RXbTVEb2w4TC1IR2cwME90V0h3REwtb3B3bXd5UFI3eEM3UmJBWU1QSjFvSVNRM2kyOFpGX19LSFhybmhNUWZBWldzOThTY2FwbkZSeWQtWThMQ2VXRDhNalF0R2l1b25nSldwaG9JcmRnck84NVk2elE?oc=5",
-   "summary": "",
-   "time": "2026-10-22T16:49:55+08:00",
-   "date": "2026-10-22",
-   "sources": [
-    "Local Government Lawyer"
-   ],
-   "region": "国际",
-   "category": "诉讼仲裁",
-   "heat": 6.0,
-   "hot": false,
-   "tags": [
-    "data breach",
-    "litigation"
-   ],
-   "importance": 8.5,
-   "kw_score": 4.0,
-   "weight": 2.0,
-   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
-  },
-  {
    "title": "Pentagon hit with class action over data breach affecting millions of military members",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOGZMZ3YzV2F0WmE0eUdxQkZnS24taEt0LW1KeG9wdVB4LUFha2F2SFJ6NmZvcUdNcEdZTUxZTkRLaUxqMnYtNmJQN0NQc09IYU5DbGtkbW9SRFhCUEpIbVh0VjBRTXR2dnhvOTdOdldzYWUyX3ltTTMzdmxUenFXNXpWa1FhOW9yQ3NqZVJ2cnA5QVJkN1FrbFZwQ0p2alpUdGQtN0hrOUNCTkVFR2dscWdXd1ZTSWVSWWh5RjRRQUE5SkhhSTc0?oc=5",
    "summary": "",
@@ -3214,6 +3369,28 @@
    "tags": [
     "data breach",
     "lawsuit"
+   ],
+   "importance": 8.5,
+   "kw_score": 4.0,
+   "weight": 2.0,
+   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
+  },
+  {
+   "title": "UK data breach litigation and the search for a sustainable claims model",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNS0hZbFc5LWhpbzJQWmZ2SEZ2TmZxQ0c3YTNkODE2LXFxRVFlUGhMa0c4ekdKZXRHMUtBRVFqb01XV3llb0xlMWRqVUZXR2VmWFdheFRyaVhReWFJX3NYd2FtUDkyQW1QajVSXzFsRHlTdXVHajNyMGJDbFFRaTVaMVRRV2RXbTVEb2w4TC1IR2cwME90V0h3REwtb3B3bXd5UFI3eEM3UmJBWU1QSjFvSVNRM2kyOFpGX19LSFhybmhNUWZBWldzOThTY2FwbkZSeWQtWThMQ2VXRDhNalF0R2l1b25nSldwaG9JcmRnck84NVk2elE?oc=5",
+   "summary": "",
+   "time": "2026-10-22T16:49:55+08:00",
+   "date": "2026-10-22",
+   "sources": [
+    "Local Government Lawyer"
+   ],
+   "region": "国际",
+   "category": "诉讼仲裁",
+   "heat": 6.0,
+   "hot": false,
+   "tags": [
+    "data breach",
+    "litigation"
    ],
    "importance": 8.5,
    "kw_score": 4.0,
@@ -3428,7 +3605,7 @@
    "tags": [
     "data protection",
     "enforcement",
-    "consent"
+    "Schrems"
    ],
    "importance": 14.5,
    "kw_score": 12.0,
@@ -3805,29 +3982,6 @@
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
   },
   {
-   "title": "Redfin Faces Class-Action Lawsuit Over Data Breach",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaTJjN1J3ZGdCWkNJWmp4T0tPRGVkODZPWXFhMk1DQlpyWDZHTGNMc1hIWG1XekxyOHR5QlpmWFRaNGpYNDVscmpRWVY3dDJzX3dhaDM1blA2WktoTWZpLXJTQzdTOGVqVWJ1YXJrckJMM0g0eXBkNnpqN0xnN3FhcU1aODFkMUMxMTRQUDRaNy0?oc=5",
-   "summary": "",
-   "time": "2026-10-21T03:28:02+08:00",
-   "date": "2026-10-21",
-   "sources": [
-    "RISMedia",
-    "WOWK 13 News"
-   ],
-   "region": "国际",
-   "category": "诉讼仲裁",
-   "heat": 8.0,
-   "hot": false,
-   "tags": [
-    "data breach",
-    "lawsuit"
-   ],
-   "importance": 10.5,
-   "kw_score": 4.0,
-   "weight": 2.0,
-   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
-  },
-  {
    "title": "【 数据合规 与网络安全委】举办数据知识产权赋能产业高质量发展讨论会暨2025年终总结会",
    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1792594142&ver=7040&signature=CZiusRQCdb0J8SJvdPx9G0E*n27cglZ93wQjHRoHuJ1cOvtc7JEgV89k333C6EjoU**Vwr6Pup5t4LwEPpZgNhddABHlks8mSTj-kubDtwBP-UoMHGSo5m7pPu5fOGrs&new=1",
    "summary": "2025年12月25日,市律协 数据合规 与网络安全专业委员会举办数据知识产权赋能产业高质量发展讨论会暨2025年终总结会.市律协副...",
@@ -3872,6 +4026,29 @@
    "kw_score": 6.0,
    "weight": 2.0,
    "reason": "行业合规实践动态，可作为制度建设与对标参考。"
+  },
+  {
+   "title": "Redfin Faces Class-Action Lawsuit Over Data Breach",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaTJjN1J3ZGdCWkNJWmp4T0tPRGVkODZPWXFhMk1DQlpyWDZHTGNMc1hIWG1XekxyOHR5QlpmWFRaNGpYNDVscmpRWVY3dDJzX3dhaDM1blA2WktoTWZpLXJTQzdTOGVqVWJ1YXJrckJMM0g0eXBkNnpqN0xnN3FhcU1aODFkMUMxMTRQUDRaNy0?oc=5",
+   "summary": "",
+   "time": "2026-10-21T03:28:02+08:00",
+   "date": "2026-10-21",
+   "sources": [
+    "RISMedia",
+    "WOWK 13 News"
+   ],
+   "region": "国际",
+   "category": "诉讼仲裁",
+   "heat": 8.0,
+   "hot": false,
+   "tags": [
+    "data breach",
+    "lawsuit"
+   ],
+   "importance": 10.5,
+   "kw_score": 4.0,
+   "weight": 2.0,
+   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
   },
   {
    "title": "Heritage Pediatrics Data Breach Lawsuit Investigation",
@@ -4166,8 +4343,8 @@
    "hot": false,
    "tags": [
     "enforcement",
-    "GDPR",
-    "fine"
+    "fine",
+    "GDPR"
    ],
    "importance": 14.5,
    "kw_score": 10.0,
@@ -4862,235 +5039,6 @@
    "reason": "行业合规实践动态，可作为制度建设与对标参考。"
   },
   {
-   "title": "医疗圈注意了 2026彻查医疗 数据合规",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1792411099&ver=7036&signature=l9hog85I2u5Q*M9Ysp18GC-iP7ww5vv6zlvq8JygcPwBO1Vw4Lq4hqu6dCJZUHDMWUqTFO6sE95z6urmuihxhZvRbDp6xjGXy*pNVQBozAhyRrB*G*VqVGnRHPuNgzuI&new=1",
-   "summary": "到了2026年,医疗 数据合规 字字带刀.新规把数据分成三级,核心和重要数据必须境内存储,想出境得经过双重审批.严禁用微信、网...",
-   "time": "2026-10-19T19:32:19+08:00",
-   "date": "2026-10-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "行业实践",
-   "heat": 11.0,
-   "hot": false,
-   "tags": [
-    "数据合规",
-    "重要数据",
-    "新规"
-   ],
-   "importance": 11.0,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
-  },
-  {
-   "title": "医疗圈注意了 2026彻查医疗 数据合规",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1792434791&ver=7036&signature=l9hog85I2u5Q*M9Ysp18GC-iP7ww5vv6zlvq8JygcPz7hECtL*43CoEiayz6An8kDsJZY9GsqAVJ6qubB0fdTkkkRNdwAnXywn2GrSM8lY73KdW6hTCOOjL94EamR3-t&new=1",
-   "summary": "到了2026年,医疗 数据合规 字字带刀.新规把数据分成三级,核心和重要数据必须境内存储,想出境得经过双重审批.严禁用微信、网...",
-   "time": "2026-10-19T19:32:19+08:00",
-   "date": "2026-10-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "行业实践",
-   "heat": 11.0,
-   "hot": false,
-   "tags": [
-    "重要数据",
-    "数据合规",
-    "合规"
-   ],
-   "importance": 11.0,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
-  },
-  {
-   "title": "医疗圈注意了 2026彻查医疗 数据合规",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1792450011&ver=7037&signature=PZRW27l0vuBzAhCocATk3zeiKrsru7ZX*RV0L1TCqD2Mu7SaxcLOod0y-KicS-rqbwO-VmnXRBFWiAVvGyoQJ4PuGwiDSchrxIBjEPygE-4l6SSieqqu8dAweSY8mbld&new=1",
-   "summary": "到了2026年,医疗 数据合规 字字带刀.新规把数据分成三级,核心和重要数据必须境内存储,想出境得经过双重审批.严禁用微信、网...",
-   "time": "2026-10-19T19:32:19+08:00",
-   "date": "2026-10-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "行业实践",
-   "heat": 11.0,
-   "hot": false,
-   "tags": [
-    "数据合规",
-    "重要数据",
-    "合规"
-   ],
-   "importance": 11.0,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
-  },
-  {
-   "title": "医疗圈注意了 2026彻查医疗 数据合规",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1792459832&ver=7037&signature=PZRW27l0vuBzAhCocATk3zeiKrsru7ZX*RV0L1TCqD2Mu7SaxcLOod0y-KicS-rqN1x78oFALgvZ0vfrfZupNcbuDX4OHg3-w4U9R19CA2LUPGKZgV9osjtYxWIC5UIx&new=1",
-   "summary": "到了2026年,医疗 数据合规 字字带刀.新规把数据分成三级,核心和重要数据必须境内存储,想出境得经过双重审批.严禁用微信、网...",
-   "time": "2026-10-19T19:32:19+08:00",
-   "date": "2026-10-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "行业实践",
-   "heat": 11.0,
-   "hot": false,
-   "tags": [
-    "重要数据",
-    "数据合规",
-    "新规"
-   ],
-   "importance": 11.0,
-   "kw_score": 9.0,
-   "weight": 2.0,
-   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
-  },
-  {
-   "title": "跨境“数”通站—— 数据 出境 合规 沙龙(第3期)暨2026第十四届“东升杯”国际创业大赛第四赛季季度决赛大模型专场路演活动圆满举行",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1792411099&ver=7036&signature=aBWw6bt2NSSPhijMH6KWjfGJ-Ylhbf-t*BAia2tw8rDtCTMfXPtPbA1h-kKJZ-QOjIl2IYEEdpf68mxphl8OYUsUdzeTRIjO6WULVbuutnt86lc78qwRzLyswXYsRUt1&new=1",
-   "summary": "围绕数据出境合规风险防控与企业出海合规架构两个专题展开分享,旨在帮助企业将 数据合规 要求嵌入全球化经营的关键环节.同时,...",
-   "time": "2026-10-19T17:57:35+08:00",
-   "date": "2026-10-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "跨境数据",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "数据合规",
-    "数据出境",
-    "合规"
-   ],
-   "importance": 13.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "涉及数据跨境流动规则，可能影响出境安全评估、标准合同备案等合规路径，建议出海/跨国业务团队关注。"
-  },
-  {
-   "title": "意大利数据保护机构因员工 数据合规 问题对一家安保公司进行处罚",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1792411099&ver=7036&signature=SXvv5lf0t6CRPYqtHgee2cd-lQaL8sriNCe0ixseFFb9X3UAcR2nAA*xPd8Fe2ionHcWCpkgIATyNfbB*TcdB8j9VEgERTpUl1Q-CRlYDcSHNL5dM4cdINbJVD6Kw4-3&new=1",
-   "summary": "意大利数据保护机构因员工 数据合规 问题对一家安保公司进行处罚2026年9月30日,意大利数据保护监管机构公布了一起因员工 数据合 ...",
-   "time": "2026-10-19T18:00:52+08:00",
-   "date": "2026-10-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "执法处罚",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "数据合规",
-    "处罚",
-    "监管"
-   ],
-   "importance": 12.5,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
-  },
-  {
-   "title": "意大利数据保护机构因员工 数据合规 问题对一家安保公司进行处罚",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1792434791&ver=7036&signature=SXvv5lf0t6CRPYqtHgee2cd-lQaL8sriNCe0ixseFFYVavs32WXrCwF1-z3Cpgo*iBZaANrDC5XS4CJ17Nm3AMCW6ZbUSX9p3-xb-qtT**74Ws3Md6jPyALh1y-EbouA&new=1",
-   "summary": "意大利数据保护机构因员工 数据合规 问题对一家安保公司进行处罚2026年9月30日,意大利数据保护监管机构公布了一起因员工 数据合 ...",
-   "time": "2026-10-19T18:00:52+08:00",
-   "date": "2026-10-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "执法处罚",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "数据合规",
-    "处罚",
-    "合规"
-   ],
-   "importance": 12.5,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
-  },
-  {
-   "title": "意大利数据保护机构因员工 数据合规 问题对一家安保公司进行处罚",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1792450011&ver=7037&signature=AhGkSdOZbKWAz9ylLeMV8HsPJuHfEqjTagH3Oa8S6rH7WYX-mNIPv9-KI-bKb7NgIEEuCsI57iLFc*mD25o3lOlqJvqv*PPwdyri5fLE4n5AxYLDeKpNO4HgG4eHRMs0&new=1",
-   "summary": "意大利数据保护机构因员工 数据合规 问题对一家安保公司进行处罚2026年9月30日,意大利数据保护监管机构公布了一起因员工 数据合 ...",
-   "time": "2026-10-19T18:00:52+08:00",
-   "date": "2026-10-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "执法处罚",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "数据合规",
-    "合规",
-    "监管"
-   ],
-   "importance": 12.5,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
-  },
-  {
-   "title": "跨境“数”通站—— 数据 出境 合规 沙龙(第3期)暨2026第十四届“东升杯”国际创业大赛第四赛季季度决赛大模型专场路演活动圆满举行",
-   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1792450011&ver=7037&signature=W8tpYhA946MCd1n9mM9HcYeEWrMSN6oswfu*FDo5jMV*sBQ7ehZtVU3PZTZiUy-x*D3TN4Jx2yPYRiInd3FeZ94nDd75jK8qtr2AJAgGyDnBB43TSQ5alQ3Eos4N6MTr&new=1",
-   "summary": "围绕数据出境合规风险防控与企业出海合规架构两个专题展开分享,旨在帮助企业将 数据合规 要求嵌入全球化经营的关键环节.同时,...",
-   "time": "2026-10-19T17:57:35+08:00",
-   "date": "2026-10-19",
-   "sources": [
-    "微信公众号"
-   ],
-   "region": "国内",
-   "category": "跨境数据",
-   "heat": 10.0,
-   "hot": false,
-   "tags": [
-    "数据合规",
-    "数据出境",
-    "合规"
-   ],
-   "importance": 13.0,
-   "kw_score": 8.0,
-   "weight": 2.0,
-   "reason": "涉及数据跨境流动规则，可能影响出境安全评估、标准合同备案等合规路径，建议出海/跨国业务团队关注。"
-  },
-  {
-   "title": "CRO数据处罚对药企BD临床数据出境的影响",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSTVTRFVzZXhjdWhSYmpBZWFheklWdVBIVUU4Ukg2NGJLVzZHcXBsaFdOUFJ1aTlXTUNhb1A3LUE5VGpVa3RZTmhxZHBDbXpYaFRpLWFhZHczQjRKamdHNldMLVRzZHl0ZGttSjlDSnZyLTRIUnozR0NRUVdBY25jNGRZUXVydDY4dkVF?oc=5",
-   "summary": "",
-   "time": "2026-10-19T15:00:00+08:00",
-   "date": "2026-10-19",
-   "sources": [
-    "Lexology"
-   ],
-   "region": "国内",
-   "category": "跨境数据",
-   "heat": 7.0,
-   "hot": false,
-   "tags": [
-    "数据出境",
-    "处罚"
-   ],
-   "importance": 10.0,
-   "kw_score": 5.0,
-   "weight": 2.0,
-   "reason": "涉及数据跨境流动规则，可能影响出境安全评估、标准合同备案等合规路径，建议出海/跨国业务团队关注。"
-  },
-  {
    "title": "Conduent Agrees to Pay $80m to Settle Data Breach Class Action",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQM2pfdklDZzF0VWpyX05rUnQyLTlVejdvUU5XbHNoeUlDOXlWRkx2UmtrWkJSSVlROWtoYzhrWEc5WnAzR2t0bEhNWkY3TVN4RG5qVTlDYVVrMWlSdEdzMnJERTVoSVh0YkRaaTVzZ0ozanVVUW5QYVV4Y1N3Zm1lZl93NjI?oc=5",
    "summary": "",
@@ -5111,130 +5059,6 @@
    "kw_score": 4.0,
    "weight": 2.0,
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
-  },
-  {
-   "title": "Saudi consultation proposes data protection reform",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQT3VzT1d5TkhmcHRyRnc4cnhWOUctYXhJc0lfR0hGaU9Va0RwSFNYczdlOGdUdjJVYnlkTHpLRWtTMmM5YTBydGZWU3ZYeV9rNklnT2tvNVlIT2ttN3VtRVo2MEVSR0kxbnZ5ZGxPZG80UW55dUhCTXQ1UTg0UmR1cWR4YUNQVy0zRzl5NERxRF8xbm50UVk1Qzhha1JOdw?oc=5",
-   "summary": "",
-   "time": "2026-10-19T17:45:39+08:00",
-   "date": "2026-10-19",
-   "sources": [
-    "Pinsent Masons"
-   ],
-   "region": "国际",
-   "category": "行业实践",
-   "heat": 5.0,
-   "hot": false,
-   "tags": [
-    "data protection"
-   ],
-   "importance": 5.0,
-   "kw_score": 3.0,
-   "weight": 2.0,
-   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
-  },
-  {
-   "title": "Nigeria’s Data Protection Audit Return: Blessing Udo advocates emulation",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcHlFSWhRYXB4YlR1blA5aEFjTjEzdTEzdUwtaDhtR3A4YzlxcC13Z2daelNCX05WU2t4WnFsSk8ybl9OTEtYNno5OWpZTDlhR21NYlUtT2cyN25hWW9TVG9UZ1VHTzhWVGY5d2xGZ2ZJb3YxcFUyUlZiel82VDE0WjZuSHJncEVEeVlRUXlEd0FJZmJZaTI0cWJWeUxTbXlJNWktWVdwaWtrbkZoMVJEaXdFVkJjd9IBuwFBVV95cUxQVFhUdXlxYmh0ME9tUUk0RDV0QkNNcTZWaWNGQXpFZVVsazA2dEItZVF0eGp4U3ZnUmtRWTF1R0lEYVBUYnpaY1RLUkN4bmhCTTcxZW5IMnVtQ1hzaHJxWlZ3Zk1ESDVOR0lHSzEwTk1PaWNVMmxObVBYM1RPWXZhampWellBdFhLTkd2bTd0amt2cUhSTU5qTDItQlYtOGladHpmNnVhR3pOYWpvcnJCNHJrMG1pTF96R1Bz?oc=5",
-   "summary": "",
-   "time": "2026-10-19T16:48:16+08:00",
-   "date": "2026-10-19",
-   "sources": [
-    "Businessday NG"
-   ],
-   "region": "国际",
-   "category": "行业实践",
-   "heat": 5.0,
-   "hot": false,
-   "tags": [
-    "data protection"
-   ],
-   "importance": 5.0,
-   "kw_score": 3.0,
-   "weight": 2.0,
-   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
-  },
-  {
-   "title": "法治护航！厦门以“仲裁友好”滋养营商沃土",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZ09ERldZX21jR2hFbjl0NDNWYW9XamlHRTMzLTI4OUp3cXY0Ynp3dUVSd25mX1o0YzI3MkdFcUg5Y0pQMzF5Vkx1QnU2bmkxUGd4bFpEeXUwUGlrbWZld0Z3d2pfcXNUMFlwTVVjT1dDUnJwcmlkbVhJVzgtV3c3MndpdFFwQ09adDI4Y2RB?oc=5",
-   "summary": "",
-   "time": "2026-10-19T15:00:00+08:00",
-   "date": "2026-10-19",
-   "sources": [
-    "华人头条"
-   ],
-   "region": "国内",
-   "category": "诉讼仲裁",
-   "heat": 4.0,
-   "hot": false,
-   "tags": [
-    "仲裁"
-   ],
-   "importance": 6.5,
-   "kw_score": 2.0,
-   "weight": 2.0,
-   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
-  },
-  {
-   "title": "韩国个人信息保护委员会发布个人信息保护指引",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVVAtY3VwUVlfdDJSY01UYXBhcFRrSzhBTnhkbzEySVJTNXVGc0laNTRsQWRZNVRNdDRuNjNVQ3U5dGNlZHVsdDN4V3JDOTdneTdxcmg4MlRscmdsbFNjTVFFUkZ6bENiRFhWRzUxMzlDTUpHZ1FXV2Vzbmp4aDZVdEVjc29QRXlvd1kwMllqeGd2MHZta29vNkxyWm9ZcWZXQXVBTG5nTTBfdGVLWUt5LTdjR3dLY0k?oc=5",
-   "summary": "",
-   "time": "2026-10-19T13:58:18+08:00",
-   "date": "2026-10-19",
-   "sources": [
-    "디지털투데이"
-   ],
-   "region": "国内",
-   "category": "立法监管",
-   "heat": 4.0,
-   "hot": false,
-   "tags": [
-    "个人信息"
-   ],
-   "importance": 7.0,
-   "kw_score": 2.0,
-   "weight": 2.0,
-   "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
-  },
-  {
-   "title": "How Kenya’s New Data Guidance Addresses Global Transfers",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdHk2VkduWWJveFAtR0MzcDV6YWFFeExkTVBfNHh3b2FkN0VDRDhfQ3JaSC0wNEc4Rms2SGtyR0JYSzM2NFJCeGxUc0NUc05XaTlldGVQdHRHaG42UlZ1NzQ1ZnF6dUNPQUFVTDNOcWoxdGQxeHBScVZ5cW13SVltVmJodTFoSWVjTFVFQkxGc2lQZExSRTJqSHhn?oc=5",
-   "summary": "",
-   "time": "2026-10-19T17:30:23+08:00",
-   "date": "2026-10-19",
-   "sources": [
-    "TechAfrica News"
-   ],
-   "region": "国际",
-   "category": "行业实践",
-   "heat": 3.0,
-   "hot": false,
-   "tags": [
-    "guidance"
-   ],
-   "importance": 3.0,
-   "kw_score": 1.0,
-   "weight": 2.0,
-   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
-  },
-  {
-   "title": "Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic",
-   "url": "https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html",
-   "summary": "A fake Web3 accelerator has been observed pushing information stealers and backdoors to Windows and macOS systems using malicious npm packages under the pretext of offering free…",
-   "time": "2026-10-19T18:06:40+08:00",
-   "date": "2026-10-19",
-   "sources": [
-    "The Hacker News"
-   ],
-   "region": "国际",
-   "category": "行业实践",
-   "heat": 1.5,
-   "hot": false,
-   "tags": [],
-   "importance": 1.5,
-   "kw_score": 0.0,
-   "weight": 1.5,
-   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
   }
  ],
  "highlights": {
@@ -5651,7 +5475,7 @@
     "tags": [
      "data protection",
      "regulation",
-     "EDPB"
+     "GDPR"
     ],
     "importance": 19.5,
     "kw_score": 12.0,
@@ -5674,8 +5498,8 @@
     "hot": false,
     "tags": [
      "data protection",
-     "consent",
-     "privacy"
+     "privacy",
+     "consent"
     ],
     "importance": 19.0,
     "kw_score": 12.0,
