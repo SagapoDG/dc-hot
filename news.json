@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-15T17:43:13.269359+08:00",
- "count": 176,
+ "generated_at": "2026-11-16T00:45:53.043721+08:00",
+ "count": 183,
  "highlight_count": 30,
  "errors": [
   "EDPB 欧盟数据保护委员会: HTTP Error 503: Service Unavailable",
@@ -8,6 +8,98 @@
   "36氪: not well-formed (invalid token): line 10, column 168"
  ],
  "items": [
+  {
+   "title": "9月1日|《小型个人信息处理者 个人信息保护 简化措施规定》施行",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1794761158&ver=7090&signature=5dWFvD1c4pc*6yLj3GY25P1c5LItd7CdA9DYJ0LTTVi0jIY1nH4d3HGuZSX*MilHaFYq9NnwPcDTo8wT-oBYbYmVzHfbJDWatcgCu-OeWW1BgCsgh*Cz0-WjPBOJP*jm&new=1",
+   "summary": "通过 个人信息保护 认证者在认证有效期内可免予合规审计;附件提供《合规审计自查表》《影响评估表》.同时把＂首违不罚＂落实到...",
+   "time": "2026-11-15T16:35:14+08:00",
+   "date": "2026-11-15",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "个人信息保护",
+   "heat": 12.5,
+   "hot": false,
+   "tags": [
+    "个人信息",
+    "合规审计",
+    "合规"
+   ],
+   "importance": 9.0,
+   "kw_score": 7.0,
+   "weight": 2.0,
+   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
+  },
+  {
+   "title": "Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent",
+   "url": "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html",
+   "summary": "Meta was fined €805 million in Italy yesterday over a Facebook for Android feature that suggests photos and videos from users' phone galleries for them to post. The Garante, Ital…",
+   "time": "2026-11-15T19:27:31+08:00",
+   "date": "2026-11-15",
+   "sources": [
+    "The Hacker News"
+   ],
+   "region": "国际",
+   "category": "执法处罚",
+   "heat": 12.2,
+   "hot": false,
+   "tags": [
+    "data protection",
+    "consent",
+    "fine"
+   ],
+   "importance": 11.0,
+   "kw_score": 7.0,
+   "weight": 1.5,
+   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
+  },
+  {
+   "title": "2026年医疗行业 个人信息保护 ＂罚单风暴＂透视",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1794761158&ver=7090&signature=IhgJiekAMx6M6mO5PPUfJCKJR4m6Uym-AHNq4I6Gn5*r4MGTPS6u2dcUuqQrTn7vTn5UjJ6MKfoNhMiycwoEUdrHmNpmRnL0lAfPSq4nrrCyfSHcYon2WcmWw5OKn6Kx&new=1",
+   "summary": "2026年金融业 个人信息保护 ＂罚单风暴＂透视:超7000万罚款背后的合规警示与个保审计实战指南酒店行业 个人信息保护 ＂第一刀＂...",
+   "time": "2026-11-15T07:37:48+08:00",
+   "date": "2026-11-15",
+   "sources": [
+    "微信公众号"
+   ],
+   "region": "国内",
+   "category": "个人信息保护",
+   "heat": 12.0,
+   "hot": false,
+   "tags": [
+    "个人信息",
+    "指南",
+    "罚款"
+   ],
+   "importance": 9.0,
+   "kw_score": 7.0,
+   "weight": 2.0,
+   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
+  },
+  {
+   "title": "意大利因 Meta 侵犯用户隐私对其处以 8.05 亿欧元罚款",
+   "url": "https://www.solidot.org/story?sid=85892",
+   "summary": "因 Meta 的 Android 版 Facebook 应用未经用户明确同意或充分披露的情况下访问用户的手机相册和视频，意大利监管机构对其处以 8.05 亿欧元罚款。调查人员发现，该功能默认开启，而 Facebook 在申请访问用户相册权限时，将该权限与多种不同用途的应用功能捆绑在一起，通过单一授权请求获取访问权。意大利要求 Meta 在 60 天内禁用…",
+   "time": "2026-11-15T21:51:56+08:00",
+   "date": "2026-11-15",
+   "sources": [
+    "Solidot"
+   ],
+   "region": "国内",
+   "category": "执法处罚",
+   "heat": 11.3,
+   "hot": false,
+   "tags": [
+    "监管",
+    "处罚",
+    "罚款"
+   ],
+   "importance": 13.0,
+   "kw_score": 6.0,
+   "weight": 1.5,
+   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
+  },
   {
    "title": "Digital Personal Data Protection Act, 2023 (DPDP Act): Your Data, Your Privacy — Or The State’s Surveillance?",
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNN0xHUGVxTWRBZEVkbTZGdUR5ampHNS1idFcxVG5iekQxWldLQzByUndFTWQ0Q3lpcUx5bTFzWGI5WHllelkwVFVETy1IcXJDZmw5TEhkUENPcUlJRGh6d3puZlViUlZKVERuVU45enhadFcwbGZXTDM3NGN3MFM3c3hXMVUzYjRGNzFxYkY3VzREdlFYcmc3OEstUkg4al9sMFdCSG9HVVlvbVprZHd3aUFkQTNKaEh2d2FidmpScUFRVFQ5eF9FLVhMM3Y3TDVBWWpoNQ?oc=5",
@@ -19,7 +111,7 @@
    ],
    "region": "国际",
    "category": "立法监管",
-   "heat": 10.3,
+   "heat": 9.9,
    "hot": false,
    "tags": [
     "data protection",
@@ -31,26 +123,26 @@
    "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
   },
   {
-   "title": "Waste Management Data Breach Lawsuit Filed After Social Security Numbers Exposed",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLTBfS0swX3VlSEVmTVZqal83ZjFfRXN6ZUJOLVFMTFVqNDlDS2NPd1UyZ0Utb1hCMlNhdHROcmFKcndsczJOcUZMclVTY2lqXzJPaVQ0U2tWOUJkY0R5eHFEb0VVU2U1aW13TEp5RDFjSWZDLWtTS0czYUNkR2t1U3ZETmI1bTZvSzMxM3RrWjdmUVNfejV1ZlotYkRNRl9DTzRQNmxISUc?oc=5",
-   "summary": "",
-   "time": "2026-11-15T05:00:00+08:00",
+   "title": "2026年医疗行业 个人信息保护 ＂罚单风暴＂透视:从5万罚款到责令停业,医疗机构如何过好＂个保审计＂这道关?",
+   "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1794761158&ver=7090&signature=IhgJiekAMx6M6mO5PPUfJCKJR4m6Uym-AHNq4I6Gn59QSwNMQyIzgg6soB6og1NqAmkZlZZI28p1gy8AUgj5gLYvaYPNutgOT3P7VIgyjGXVdWIC9H-Hc8*-u14cetZO&new=1",
+   "summary": "当病历、检验报告、就诊记录成为泄密重灾区,当＂内部人＂成为最大风险源,医疗行业的 个人信息保护 已从＂道德约束＂走向＂强制...",
+   "time": "2026-11-15T07:27:25+08:00",
    "date": "2026-11-15",
    "sources": [
-    "openclassactions.com"
+    "微信公众号"
    ],
-   "region": "国际",
-   "category": "诉讼仲裁",
-   "heat": 9.3,
+   "region": "国内",
+   "category": "执法处罚",
+   "heat": 9.0,
    "hot": false,
    "tags": [
-    "data breach",
-    "lawsuit"
+    "个人信息",
+    "罚款"
    ],
    "importance": 8.5,
    "kw_score": 4.0,
    "weight": 2.0,
-   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
+   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
   },
   {
    "title": "BrainPOP Student Data Tracking Class Action Lawsuit",
@@ -63,7 +155,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 9.3,
+   "heat": 9.0,
    "hot": false,
    "tags": [
     "class action",
@@ -73,6 +165,93 @@
    "kw_score": 4.0,
    "weight": 2.0,
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
+  },
+  {
+   "title": "Renkim Data Breach Settlement — $40 Cash or Up to $4,000, Plus Credit Monitoring",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZ2xBZVNyR0xKMHZKcy1OMDNxQ01nc255eU9BY2hHQXBYbnhOTFdMcHRQVDFSZTBMYWltNVlJY0U2b21MQWhKemlGS05OVWtzY0NxRDViYi1wM2ZSOXg2Q25EWFFneTBrZ1p2YjVzZHhKb2I1eEdtdDd2WnpJV3JEMGp3cWtLckZqZlgxc2dzOEpCUQ?oc=5",
+   "summary": "",
+   "time": "2026-11-15T07:13:42+08:00",
+   "date": "2026-11-15",
+   "sources": [
+    "openclassactions.com"
+   ],
+   "region": "国际",
+   "category": "诉讼仲裁",
+   "heat": 9.0,
+   "hot": false,
+   "tags": [
+    "data breach",
+    "settlement"
+   ],
+   "importance": 8.5,
+   "kw_score": 4.0,
+   "weight": 2.0,
+   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
+  },
+  {
+   "title": "Waste Management Data Breach Lawsuit Filed After Social Security Numbers Exposed",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLTBfS0swX3VlSEVmTVZqal83ZjFfRXN6ZUJOLVFMTFVqNDlDS2NPd1UyZ0Utb1hCMlNhdHROcmFKcndsczJOcUZMclVTY2lqXzJPaVQ0U2tWOUJkY0R5eHFEb0VVU2U1aW13TEp5RDFjSWZDLWtTS0czYUNkR2t1U3ZETmI1bTZvSzMxM3RrWjdmUVNfejV1ZlotYkRNRl9DTzRQNmxISUc?oc=5",
+   "summary": "",
+   "time": "2026-11-15T05:00:00+08:00",
+   "date": "2026-11-15",
+   "sources": [
+    "openclassactions.com"
+   ],
+   "region": "国际",
+   "category": "诉讼仲裁",
+   "heat": 8.9,
+   "hot": false,
+   "tags": [
+    "data breach",
+    "lawsuit"
+   ],
+   "importance": 8.5,
+   "kw_score": 4.0,
+   "weight": 2.0,
+   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
+  },
+  {
+   "title": "High Court questions ODPC's authority to award compensation for data privacy violations",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BdEFxbnZJbEdHZXlZQzRodkFKMFNRUUNDQTNFdnNrVnVWUWM2VlJtOUdwdVBFM3ZZc3lFR09vZEhnLW93b2lOankzT1hoQ3NxLUtIZUJNMG11cjZRT3l0YTNRQTlkOThqUmlGdTI4NDc?oc=5",
+   "summary": "",
+   "time": "2026-11-15T21:41:51+08:00",
+   "date": "2026-11-15",
+   "sources": [
+    "TechTrendsKE"
+   ],
+   "region": "国际",
+   "category": "诉讼仲裁",
+   "heat": 8.8,
+   "hot": false,
+   "tags": [
+    "privacy",
+    "court"
+   ],
+   "importance": 7.5,
+   "kw_score": 3.0,
+   "weight": 2.0,
+   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
+  },
+  {
+   "title": "访谈：宋京熙个人信息保护委员会主席谈AI时代的角色扩展",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5hVWpCV1VUeEQ3NHhPbEtvWjBUT25xSDhHTndGNDY2MFJsNEFKY3ZwSFFXa3lyN0NuTDhVNndqYzEyVW1GZ3ZsSXBwT19kUnVkQTAyY2pRZ1BMUXpOalo3LXpB?oc=5",
+   "summary": "",
+   "time": "2026-11-15T17:08:20+08:00",
+   "date": "2026-11-15",
+   "sources": [
+    "亚洲日报"
+   ],
+   "region": "国内",
+   "category": "个人信息保护",
+   "heat": 7.6,
+   "hot": false,
+   "tags": [
+    "个人信息"
+   ],
+   "importance": 4.0,
+   "kw_score": 2.0,
+   "weight": 2.0,
+   "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
   },
   {
    "title": "访谈：宋京熙个人信息保护委员会主席谈AI时代的角色扩展",
@@ -85,7 +264,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 8.0,
+   "heat": 7.6,
    "hot": false,
    "tags": [
     "个人信息"
@@ -106,7 +285,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 15.3,
+   "heat": 14.9,
    "hot": true,
    "tags": [
     "数据合规",
@@ -129,7 +308,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 15.3,
+   "heat": 14.9,
    "hot": true,
    "tags": [
     "EDPB",
@@ -152,7 +331,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 15.3,
+   "heat": 14.9,
    "hot": true,
    "tags": [
     "EDPB",
@@ -175,7 +354,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 15.3,
+   "heat": 14.9,
    "hot": true,
    "tags": [
     "数据安全",
@@ -198,7 +377,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 15.3,
+   "heat": 14.9,
    "hot": true,
    "tags": [
     "数据合规",
@@ -221,7 +400,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 13.4,
+   "heat": 13.0,
    "hot": true,
    "tags": [
     "个人信息",
@@ -244,8 +423,8 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 13.4,
-   "hot": true,
+   "heat": 13.0,
+   "hot": false,
    "tags": [
     "个人信息",
     "数据安全",
@@ -267,7 +446,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 13.4,
+   "heat": 13.0,
    "hot": false,
    "tags": [
     "个人信息",
@@ -290,7 +469,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 13.4,
+   "heat": 13.0,
    "hot": false,
    "tags": [
     "数据安全",
@@ -313,7 +492,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 13.1,
+   "heat": 12.7,
    "hot": false,
    "tags": [
     "数据出境",
@@ -336,7 +515,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 13.1,
+   "heat": 12.7,
    "hot": false,
    "tags": [
     "数据出境",
@@ -359,7 +538,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 13.1,
+   "heat": 12.7,
    "hot": false,
    "tags": [
     "网络安全",
@@ -382,7 +561,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 13.1,
+   "heat": 12.7,
    "hot": false,
    "tags": [
     "数据出境",
@@ -405,7 +584,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 12.7,
+   "heat": 12.3,
    "hot": false,
    "tags": [
     "数据合规",
@@ -429,7 +608,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 12.0,
+   "heat": 11.6,
    "hot": false,
    "tags": [
     "class action",
@@ -452,7 +631,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 11.6,
+   "heat": 11.2,
    "hot": false,
    "tags": [
     "个人信息",
@@ -475,7 +654,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 10.3,
+   "heat": 9.9,
    "hot": false,
    "tags": [
     "class action",
@@ -498,7 +677,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 10.0,
+   "heat": 9.6,
    "hot": false,
    "tags": [
     "class action",
@@ -521,7 +700,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 9.9,
+   "heat": 9.5,
    "hot": false,
    "tags": [
     "class action",
@@ -544,7 +723,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 9.1,
+   "heat": 8.7,
    "hot": false,
    "tags": [
     "数据合规",
@@ -566,7 +745,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 9.0,
+   "heat": 8.6,
    "hot": false,
    "tags": [
     "investigation",
@@ -589,7 +768,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 9.0,
+   "heat": 8.6,
    "hot": false,
    "tags": [
     "investigation",
@@ -612,7 +791,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 9.0,
+   "heat": 8.6,
    "hot": false,
    "tags": [
     "investigation",
@@ -635,7 +814,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 9.0,
+   "heat": 8.6,
    "hot": false,
    "tags": [
     "数据安全法",
@@ -657,7 +836,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 8.9,
+   "heat": 8.5,
    "hot": false,
    "tags": [
     "investigation",
@@ -673,14 +852,14 @@
    "title": "Premier Business Solutions Data Breach Lawsuit Investigation",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSjV2bW1Qa1ZPTDFGUXpxNUhGRC1xSzRsMXVxeF9jMTdSXzRZREtEbGNqU2lTb2VQbi1uZ2N6SkNHWENVMmtBdmN4QlFONG9IbHUxTVdRd0lkOV8yMFZRcmh6VWpzdnlyMVZtWWxCZlI3ZGJucTlpS2JtVjg1Y3RZdDhMYVZ5U3c3cFFaR1FR?oc=5",
    "summary": "",
-   "time": "2026-11-14T02:13:07+08:00",
+   "time": "2026-11-14T02:22:06+08:00",
    "date": "2026-11-14",
    "sources": [
     "Claim Depot"
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 8.8,
+   "heat": 8.4,
    "hot": false,
    "tags": [
     "investigation",
@@ -703,7 +882,7 @@
    ],
    "region": "国际",
    "category": "执法处罚",
-   "heat": 8.7,
+   "heat": 8.3,
    "hot": false,
    "tags": [
     "fine",
@@ -725,7 +904,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 8.7,
+   "heat": 8.3,
    "hot": false,
    "tags": [
     "investigation",
@@ -748,7 +927,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 7.9,
+   "heat": 7.5,
    "hot": false,
    "tags": [
     "data breach",
@@ -770,7 +949,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 7.9,
+   "heat": 7.5,
    "hot": false,
    "tags": [
     "data breach",
@@ -792,7 +971,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 7.7,
+   "heat": 7.3,
    "hot": false,
    "tags": [
     "data breach",
@@ -814,7 +993,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 6.4,
+   "heat": 6.0,
    "hot": false,
    "tags": [
     "罚款"
@@ -835,7 +1014,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 6.0,
+   "heat": 5.6,
    "hot": false,
    "tags": [
     "lawsuit"
@@ -856,7 +1035,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 4.2,
+   "heat": 3.8,
    "hot": false,
    "tags": [],
    "importance": 2.0,
@@ -875,7 +1054,7 @@
    ],
    "region": "国内",
    "category": "立法监管",
-   "heat": 14.9,
+   "heat": 14.5,
    "hot": true,
    "tags": [
     "出境安全评估",
@@ -898,7 +1077,7 @@
    ],
    "region": "国内",
    "category": "执法处罚",
-   "heat": 12.9,
+   "heat": 12.5,
    "hot": false,
    "tags": [
     "网络安全法",
@@ -921,7 +1100,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 12.6,
+   "heat": 12.2,
    "hot": false,
    "tags": [
     "数据合规",
@@ -944,7 +1123,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 12.6,
+   "heat": 12.2,
    "hot": false,
    "tags": [
     "数据跨境",
@@ -967,7 +1146,7 @@
    ],
    "region": "国际",
    "category": "执法处罚",
-   "heat": 11.6,
+   "heat": 11.2,
    "hot": false,
    "tags": [
     "data protection",
@@ -990,7 +1169,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 11.6,
+   "heat": 11.2,
    "hot": false,
    "tags": [
     "data compliance",
@@ -1013,7 +1192,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 11.6,
+   "heat": 11.2,
    "hot": false,
    "tags": [
     "个人信息",
@@ -1036,7 +1215,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 11.6,
+   "heat": 11.2,
    "hot": false,
    "tags": [
     "个人信息",
@@ -1059,7 +1238,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 11.6,
+   "heat": 11.2,
    "hot": false,
    "tags": [
     "data compliance",
@@ -1082,7 +1261,7 @@
    ],
    "region": "国际",
    "category": "执法处罚",
-   "heat": 10.5,
+   "heat": 10.1,
    "hot": false,
    "tags": [
     "fine",
@@ -1105,7 +1284,7 @@
    ],
    "region": "国际",
    "category": "执法处罚",
-   "heat": 9.4,
+   "heat": 9.0,
    "hot": false,
    "tags": [
     "privacy",
@@ -1128,7 +1307,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 9.3,
+   "heat": 8.9,
    "hot": false,
    "tags": [
     "网络安全",
@@ -1151,7 +1330,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 8.6,
+   "heat": 8.2,
    "hot": false,
    "tags": [
     "class action",
@@ -1174,7 +1353,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 8.5,
+   "heat": 8.1,
    "hot": false,
    "tags": [
     "class action",
@@ -1197,7 +1376,7 @@
    ],
    "region": "国际",
    "category": "执法处罚",
-   "heat": 8.5,
+   "heat": 8.1,
    "hot": false,
    "tags": [
     "data protection",
@@ -1219,7 +1398,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 8.4,
+   "heat": 8.0,
    "hot": false,
    "tags": [
     "数据合规",
@@ -1229,28 +1408,6 @@
    "kw_score": 5.0,
    "weight": 2.0,
    "reason": "行业合规实践动态，可作为制度建设与对标参考。"
-  },
-  {
-   "title": "Access Dental Data Breach Exposes SSNs; Lawsuit Possible",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRU1JaGRvQURwZWlxbGZKT0dMT0ZyOXNVVkVLZzdGNW0wUXBiU05md0tEUTB5Mk11Q0RZd1hrZENlay1McVoxd2hJcmd6dkEyZ0oxVkFpSXZGYmlEWllqNjk2X3FjZ1NmYkxiTGlDRUZwdV80eTB3dmZISktYeUhFeWpn?oc=5",
-   "summary": "",
-   "time": "2026-11-13T23:29:15+08:00",
-   "date": "2026-11-13",
-   "sources": [
-    "ClassAction.org"
-   ],
-   "region": "国际",
-   "category": "诉讼仲裁",
-   "heat": 7.7,
-   "hot": false,
-   "tags": [
-    "data breach",
-    "lawsuit"
-   ],
-   "importance": 8.5,
-   "kw_score": 4.0,
-   "weight": 2.0,
-   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
   },
   {
    "title": "Uber Data Breach Lawsuit Investigation",
@@ -1263,7 +1420,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 7.7,
+   "heat": 7.3,
    "hot": false,
    "tags": [
     "investigation",
@@ -1286,7 +1443,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 7.7,
+   "heat": 7.3,
    "hot": false,
    "tags": [
     "investigation",
@@ -1309,10 +1466,32 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 7.7,
+   "heat": 7.3,
    "hot": false,
    "tags": [
     "privacy",
+    "lawsuit"
+   ],
+   "importance": 8.5,
+   "kw_score": 4.0,
+   "weight": 2.0,
+   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
+  },
+  {
+   "title": "Access Dental Data Breach Exposes SSNs; Lawsuit Possible",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRU1JaGRvQURwZWlxbGZKT0dMT0ZyOXNVVkVLZzdGNW0wUXBiU05md0tEUTB5Mk11Q0RZd1hrZENlay1McVoxd2hJcmd6dkEyZ0oxVkFpSXZGYmlEWllqNjk2X3FjZ1NmYkxiTGlDRUZwdV80eTB3dmZISktYeUhFeWpn?oc=5",
+   "summary": "",
+   "time": "2026-11-13T23:29:15+08:00",
+   "date": "2026-11-13",
+   "sources": [
+    "ClassAction.org"
+   ],
+   "region": "国际",
+   "category": "诉讼仲裁",
+   "heat": 7.3,
+   "hot": false,
+   "tags": [
+    "data breach",
     "lawsuit"
    ],
    "importance": 8.5,
@@ -1331,7 +1510,7 @@
    ],
    "region": "国际",
    "category": "执法处罚",
-   "heat": 7.6,
+   "heat": 7.2,
    "hot": false,
    "tags": [
     "privacy",
@@ -1353,7 +1532,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 7.5,
+   "heat": 7.1,
    "hot": false,
    "tags": [
     "data breach",
@@ -1363,28 +1542,6 @@
    "kw_score": 4.0,
    "weight": 2.0,
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
-  },
-  {
-   "title": "2026年体育数据合规观察：半岛bandao体育平台治理路径受关注",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rcEN0dzBlVTJ0Ui1Gek1SQ1d6LUY5dTdzSDh6dEpmM1lyclhhSU9tdjgySHA4N3h2OEVOaVNMVGpjT2gwNzFocFFPY0lwcXQ4aTA5U25hTnp1c2c4dWlkME1TX1h2QzA?oc=5",
-   "summary": "",
-   "time": "2026-11-13T00:05:33+08:00",
-   "date": "2026-11-13",
-   "sources": [
-    "www.jn001.com"
-   ],
-   "region": "国内",
-   "category": "行业实践",
-   "heat": 7.4,
-   "hot": false,
-   "tags": [
-    "数据合规",
-    "合规"
-   ],
-   "importance": 7.0,
-   "kw_score": 5.0,
-   "weight": 2.0,
-   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
   },
   {
    "title": "Myriad Genetics Data Breach Lawsuit Investigation",
@@ -1397,7 +1554,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 7.4,
+   "heat": 7.0,
    "hot": false,
    "tags": [
     "investigation",
@@ -1420,7 +1577,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 7.4,
+   "heat": 7.0,
    "hot": false,
    "tags": [
     "investigation",
@@ -1433,6 +1590,28 @@
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
   },
   {
+   "title": "2026年体育数据合规观察：半岛bandao体育平台治理路径受关注",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rcEN0dzBlVTJ0Ui1Gek1SQ1d6LUY5dTdzSDh6dEpmM1lyclhhSU9tdjgySHA4N3h2OEVOaVNMVGpjT2gwNzFocFFPY0lwcXQ4aTA5U25hTnp1c2c4dWlkME1TX1h2QzA?oc=5",
+   "summary": "",
+   "time": "2026-11-13T00:05:33+08:00",
+   "date": "2026-11-13",
+   "sources": [
+    "www.jn001.com"
+   ],
+   "region": "国内",
+   "category": "行业实践",
+   "heat": 7.0,
+   "hot": false,
+   "tags": [
+    "数据合规",
+    "合规"
+   ],
+   "importance": 7.0,
+   "kw_score": 5.0,
+   "weight": 2.0,
+   "reason": "行业合规实践动态，可作为制度建设与对标参考。"
+  },
+  {
    "title": "Vanderbilt Cyberattack Class Action Lawsuit Filed",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQjQxNkh2UnBfYnBxbGVzUFV6WUUxcEhiVEVuSWRJTm9EeW1jRXljUnUyWnRtYmdrRUVERVVWSkhQVlIzdncybEpacDdMSGFPQ1pMdE9UeW1BLVhwLVp4Ti1Nbk5ORUFkMVdVOXNoc1hLQm42bVBja0toRnFtaF8zYnlRRGtUSE1sRlZCalc3R0NUUkx4LVI3TFNWd2ZVTktMamRGWDNwWE1iZ3FzWnYxYUN1Nk05aGlHdVlkYXFTQQ?oc=5",
    "summary": "",
@@ -1443,32 +1622,10 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 6.8,
+   "heat": 6.4,
    "hot": false,
    "tags": [
     "class action",
-    "lawsuit"
-   ],
-   "importance": 8.5,
-   "kw_score": 4.0,
-   "weight": 2.0,
-   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
-  },
-  {
-   "title": "Southwire Data Breach Exposes SSNs, Medical Info; Lawsuit Possible",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBzbGtVcjJYYlBoaTlPdG4zME5CcjRjOHl0TlIwUU1nbmJOU21IM29CdXlVQXhHSGp4TDFXSDBaRm9uanBrTy1lTnJTeW03YnRRYWRuMHM1UXVIRi15YUduSlcwWW5kQVR2THd0ZUo4R3FnNTNaaHcwQjR2Y2o?oc=5",
-   "summary": "",
-   "time": "2026-11-13T04:57:05+08:00",
-   "date": "2026-11-13",
-   "sources": [
-    "ClassAction.org"
-   ],
-   "region": "国际",
-   "category": "诉讼仲裁",
-   "heat": 6.6,
-   "hot": false,
-   "tags": [
-    "data breach",
     "lawsuit"
    ],
    "importance": 8.5,
@@ -1487,7 +1644,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 6.6,
+   "heat": 6.2,
    "hot": false,
    "tags": [
     "class action",
@@ -1509,7 +1666,7 @@
    ],
    "region": "国际",
    "category": "个人信息保护",
-   "heat": 6.6,
+   "heat": 6.2,
    "hot": false,
    "tags": [
     "privacy"
@@ -1518,6 +1675,28 @@
    "kw_score": 2.0,
    "weight": 3.0,
    "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
+  },
+  {
+   "title": "Southwire Data Breach Exposes SSNs, Medical Info; Lawsuit Possible",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBzbGtVcjJYYlBoaTlPdG4zME5CcjRjOHl0TlIwUU1nbmJOU21IM29CdXlVQXhHSGp4TDFXSDBaRm9uanBrTy1lTnJTeW03YnRRYWRuMHM1UXVIRi15YUduSlcwWW5kQVR2THd0ZUo4R3FnNTNaaHcwQjR2Y2o?oc=5",
+   "summary": "",
+   "time": "2026-11-13T04:57:05+08:00",
+   "date": "2026-11-13",
+   "sources": [
+    "ClassAction.org"
+   ],
+   "region": "国际",
+   "category": "诉讼仲裁",
+   "heat": 6.2,
+   "hot": false,
+   "tags": [
+    "data breach",
+    "lawsuit"
+   ],
+   "importance": 8.5,
+   "kw_score": 4.0,
+   "weight": 2.0,
+   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
   },
   {
    "title": "Bethany Village Data Breach Exposes SSNs; Lawsuit Possible",
@@ -1530,7 +1709,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 6.4,
+   "heat": 6.0,
    "hot": false,
    "tags": [
     "data breach",
@@ -1552,7 +1731,7 @@
    ],
    "region": "国内",
    "category": "行业实践",
-   "heat": 5.9,
+   "heat": 5.5,
    "hot": false,
    "tags": [
     "网信办"
@@ -1573,7 +1752,7 @@
    ],
    "region": "国际",
    "category": "跨境数据",
-   "heat": 5.4,
+   "heat": 5.0,
    "hot": false,
    "tags": [
     "arbitration"
@@ -1594,7 +1773,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 5.1,
+   "heat": 4.7,
    "hot": false,
    "tags": [
     "arbitration"
@@ -1615,7 +1794,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 4.8,
+   "heat": 4.4,
    "hot": false,
    "tags": [
     "lawsuit"
@@ -1636,7 +1815,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 4.7,
+   "heat": 4.3,
    "hot": false,
    "tags": [
     "仲裁"
@@ -1657,7 +1836,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 4.6,
+   "heat": 4.2,
    "hot": false,
    "tags": [
     "data breach"
@@ -1678,7 +1857,7 @@
    ],
    "region": "国际",
    "category": "安全事件",
-   "heat": 2.6,
+   "heat": 2.2,
    "hot": false,
    "tags": [],
    "importance": 1.5,
@@ -1698,7 +1877,7 @@
    "region": "国内",
    "category": "个人信息保护",
    "heat": 13.0,
-   "hot": false,
+   "hot": true,
    "tags": [
     "个人信息保护法",
     "数据合规",
@@ -1720,7 +1899,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 12.3,
+   "heat": 12.0,
    "hot": false,
    "tags": [
     "data compliance",
@@ -1743,7 +1922,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 12.3,
+   "heat": 12.0,
    "hot": false,
    "tags": [
     "data compliance",
@@ -1766,7 +1945,7 @@
    ],
    "region": "国内",
    "category": "跨境数据",
-   "heat": 12.3,
+   "heat": 12.0,
    "hot": false,
    "tags": [
     "data compliance",
@@ -1789,7 +1968,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 10.3,
+   "heat": 10.0,
    "hot": false,
    "tags": [
     "数据安全",
@@ -1812,7 +1991,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 10.3,
+   "heat": 10.0,
    "hot": false,
    "tags": [
     "个人信息",
@@ -1835,7 +2014,7 @@
    ],
    "region": "国内",
    "category": "个人信息保护",
-   "heat": 10.3,
+   "heat": 10.0,
    "hot": false,
    "tags": [
     "数据跨境",
@@ -1848,10 +2027,10 @@
    "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
   },
   {
-   "title": "$4.6M Washington Gastroenterology data breach class action settlement",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPXy1VQU8tb01ENUwxeHJoTWhHQ3dyMnhDUzlfVVRlS3poTzdiQ3dDSFBSU25ObHJZX0ktcTV5cFMxcThCZVVLS3hyekp4S2FKUXEyTlJ3V1UyY2t0Q25LaFFsUXJxVncxQm1fODVPdEY4NThwNFduZmIzNl9POV9adDdvTW44R3V4eDY4RERRRFpUUktaUkplNC1XQXhEcWJxekVBZUNDQzN5cUlVVVRCOTYxM0NtRDVfRGc4UjBfLXFKWVFGV0pfdXg4VGtqTUZ0Wlo1UWNvN256UQ?oc=5",
+   "title": "$16.1M Columbia University data breach class action settlement",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcWkzZ0xQTzk4YUlmU0xqcWpjaG5PZ2FNSGlQYURBSnI3WUtUOW00c0c5RGdLcy11Nm5nRTFGOUJPRS1LQXhiNnV6dGRMa24zUDJSVWkyaG9vZEtyQ3Y4SUc2NGZqOW5PNUF2TWt4cVNNc1N1SVhuTzgxUTlwV0lHNUNTQkRjeUdoSWhnVEt2bnVod1JRZTJoTVVNbTZPLW1DUVdQbi1nVEhYZU96aVZwa0dhMWlTckRHc2M3STBuTTJDYUhiRWN3QXNPc3YwYzBz?oc=5",
    "summary": "",
-   "time": "2026-11-12T00:06:24+08:00",
+   "time": "2026-11-12T03:08:30+08:00",
    "date": "2026-11-12",
    "sources": [
     "Top Class Actions"
@@ -1871,10 +2050,10 @@
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
   },
   {
-   "title": "$16.1M Columbia University data breach class action settlement",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcWkzZ0xQTzk4YUlmU0xqcWpjaG5PZ2FNSGlQYURBSnI3WUtUOW00c0c5RGdLcy11Nm5nRTFGOUJPRS1LQXhiNnV6dGRMa24zUDJSVWkyaG9vZEtyQ3Y4SUc2NGZqOW5PNUF2TWt4cVNNc1N1SVhuTzgxUTlwV0lHNUNTQkRjeUdoSWhnVEt2bnVod1JRZTJoTVVNbTZPLW1DUVdQbi1nVEhYZU96aVZwa0dhMWlTckRHc2M3STBuTTJDYUhiRWN3QXNPc3YwYzBz?oc=5",
+   "title": "$4.6M Washington Gastroenterology data breach class action settlement",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPXy1VQU8tb01ENUwxeHJoTWhHQ3dyMnhDUzlfVVRlS3poTzdiQ3dDSFBSU25ObHJZX0ktcTV5cFMxcThCZVVLS3hyekp4S2FKUXEyTlJ3V1UyY2t0Q25LaFFsUXJxVncxQm1fODVPdEY4NThwNFduZmIzNl9POV9adDdvTW44R3V4eDY4RERRRFpUUktaUkplNC1XQXhEcWJxekVBZUNDQzN5cUlVVVRCOTYxM0NtRDVfRGc4UjBfLXFKWVFGV0pfdXg4VGtqTUZ0Wlo1UWNvN256UQ?oc=5",
    "summary": "",
-   "time": "2026-11-12T03:08:30+08:00",
+   "time": "2026-11-12T00:06:24+08:00",
    "date": "2026-11-12",
    "sources": [
     "Top Class Actions"
@@ -2009,26 +2188,26 @@
    "reason": "涉及个人信息处理规则与隐私保护实践，与日常数据合规运营直接相关。"
   },
   {
-   "title": "DotHouse Health Data Breach Settlement: Est. $40 or $2,000",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMjRmTGdKTS00ZG5iQ3lxWmVfYzZvUE5QMXlaZmJrTy0tMjVTRkN3TzlZcFFQZUJPeWdhcld5VUdTa0hkOEg5TDFvZ2R6aHI4NUVibFY2ak80RWh5Q0QxVUY4TG55cUE3NVpyV2pLdXcxeXNnbG9jRjNuSy1XZ3VjZExnbnJDWVZocGRzZE11VGhNendUV3ItSnhJSUl1Zw?oc=5",
+   "title": "擅自收集居民登记号码、未加密保存……个人信息保护委员会处罚8家虚拟运营商- 阿视亚经济",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9yYzBqNWZpdG5FNjFfSGVCSGcyMVlYQTFhNWZkTUx2WTlYMXhuYU05emhrMEJTOE1RS29VeEdRRVlOY1lEZTlfSDFfQkUwTmNXdDdfZ25OVklIamtwZlNKOUVleW8?oc=5",
    "summary": "",
-   "time": "2026-11-12T20:34:53+08:00",
+   "time": "2026-11-12T09:00:00+08:00",
    "date": "2026-11-12",
    "sources": [
-    "openclassactions.com"
+    "아시아경제"
    ],
-   "region": "国际",
-   "category": "诉讼仲裁",
-   "heat": 6.2,
+   "region": "国内",
+   "category": "执法处罚",
+   "heat": 6.0,
    "hot": false,
    "tags": [
-    "data breach",
-    "settlement"
+    "个人信息",
+    "处罚"
    ],
    "importance": 8.5,
    "kw_score": 4.0,
    "weight": 2.0,
-   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
+   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
   },
   {
    "title": "Vanguard Faces Class Actions Over Data Breach",
@@ -2163,26 +2342,26 @@
    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
   },
   {
-   "title": "擅自收集居民登记号码、未加密保存……个人信息保护委员会处罚8家虚拟运营商- 阿视亚经济",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9yYzBqNWZpdG5FNjFfSGVCSGcyMVlYQTFhNWZkTUx2WTlYMXhuYU05emhrMEJTOE1RS29VeEdRRVlOY1lEZTlfSDFfQkUwTmNXdDdfZ25OVklIamtwZlNKOUVleW8?oc=5",
+   "title": "DotHouse Health Data Breach Settlement: Est. $40 or $2,000",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMjRmTGdKTS00ZG5iQ3lxWmVfYzZvUE5QMXlaZmJrTy0tMjVTRkN3TzlZcFFQZUJPeWdhcld5VUdTa0hkOEg5TDFvZ2R6aHI4NUVibFY2ak80RWh5Q0QxVUY4TG55cUE3NVpyV2pLdXcxeXNnbG9jRjNuSy1XZ3VjZExnbnJDWVZocGRzZE11VGhNendUV3ItSnhJSUl1Zw?oc=5",
    "summary": "",
-   "time": "2026-11-12T09:00:00+08:00",
+   "time": "2026-11-12T20:34:53+08:00",
    "date": "2026-11-12",
    "sources": [
-    "아시아경제"
+    "openclassactions.com"
    ],
-   "region": "国内",
-   "category": "执法处罚",
+   "region": "国际",
+   "category": "诉讼仲裁",
    "heat": 6.0,
    "hot": false,
    "tags": [
-    "个人信息",
-    "处罚"
+    "data breach",
+    "settlement"
    ],
    "importance": 8.5,
    "kw_score": 4.0,
    "weight": 2.0,
-   "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
+   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
   },
   {
    "title": "Vanderbilt faces class action lawsuit after cyberattack; law professor says victims could receive as little as $20",
@@ -2217,7 +2396,7 @@
    ],
    "region": "国际",
    "category": "行业实践",
-   "heat": 5.3,
+   "heat": 5.0,
    "hot": false,
    "tags": [
     "arbitration"
@@ -2238,7 +2417,7 @@
    ],
    "region": "国内",
    "category": "诉讼仲裁",
-   "heat": 5.1,
+   "heat": 5.0,
    "hot": false,
    "tags": [
     "仲裁",
@@ -2260,7 +2439,7 @@
    ],
    "region": "国际",
    "category": "行业实践",
-   "heat": 5.1,
+   "heat": 5.0,
    "hot": false,
    "tags": [
     "GDPR"
@@ -2281,7 +2460,7 @@
    ],
    "region": "国际",
    "category": "诉讼仲裁",
-   "heat": 4.1,
+   "heat": 4.0,
    "hot": false,
    "tags": [
     "lawsuit"
@@ -3480,8 +3659,8 @@
    "heat": 6.0,
    "hot": false,
    "tags": [
-    "enforcement",
-    "arbitration"
+    "arbitration",
+    "enforcement"
    ],
    "importance": 8.5,
    "kw_score": 4.0,
@@ -3932,28 +4111,6 @@
    "kw_score": 1.0,
    "weight": 1.5,
    "reason": "行业合规实践动态，可作为制度建设与对标参考。"
-  },
-  {
-   "title": "LG 因其智能电视监视用户面临法律诉讼",
-   "url": "https://www.solidot.org/story?sid=85829",
-   "summary": "今年 9 月，研究人员报告 LG 智能电视会在屏幕关闭但没有断电的待机状态下扫描家庭网络，寻找手机和智能手表等设备和记录麦克风音频。除了内部 IP 地址，智能电视还会收集邻近 Wi-Fi 网络的名称、信号强度以及位置数据。收集的数据会发送到 LG 的定向广告部门 LG Ad Solutions。LG 对该报告予以否认。消费者保护组织对此并不买账。葡萄牙的…",
-   "time": "2026-11-08T23:23:44+08:00",
-   "date": "2026-11-08",
-   "sources": [
-    "Solidot"
-   ],
-   "region": "国内",
-   "category": "诉讼仲裁",
-   "heat": 4.5,
-   "hot": false,
-   "tags": [
-    "法院",
-    "诉讼"
-   ],
-   "importance": 7.0,
-   "kw_score": 3.0,
-   "weight": 1.5,
-   "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
   }
  ],
  "highlights": {
@@ -3980,29 +4137,6 @@
     "kw_score": 12.0,
     "weight": 3.0,
     "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
-   },
-   {
-    "title": "神经 数据 出境的 合规 路径:安全评估、标准合同与认证的适用界分及条款设计",
-    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1789567174&ver=6970&signature=ERfmRAypTX6ZMBt2zGKdEElx5zwd7ic6P9JersnN9sw-A2ZFh4LVPamJf7whyEwh78LnwzzRMqtk9w9c4tIn6TNW6irQ2eTpSjgbkwX7Rfot4533nEJp3IAzhR23eyRZ&new=1",
-    "summary": "神经 数据 一旦出境,须先完成“敏感个人信息+可能的重要 数据 ”双重定性,再依《中华人民共和国个人信息保护法》第三十八条在“...",
-    "time": "2026-09-16T18:58:54+08:00",
-    "date": "2026-09-16",
-    "sources": [
-     "微信公众号"
-    ],
-    "region": "国内",
-    "category": "跨境数据",
-    "heat": 17.8,
-    "hot": false,
-    "tags": [
-     "个人信息保护法",
-     "安全评估",
-     "个人信息"
-    ],
-    "importance": 17.0,
-    "kw_score": 12.0,
-    "weight": 2.0,
-    "reason": "涉及数据跨境流动规则，可能影响出境安全评估、标准合同备案等合规路径，建议出海/跨国业务团队关注。"
    },
    {
     "title": "涉外实务: 数据合规 与数据跨境实务",
@@ -4302,6 +4436,29 @@
     "kw_score": 11.0,
     "weight": 2.0,
     "reason": "涉及数据跨境流动规则，可能影响出境安全评估、标准合同备案等合规路径，建议出海/跨国业务团队关注。"
+   },
+   {
+    "title": "数据合规 落地实操07:企业数据留存与销毁合规|留存期限、自动清理、纸质销毁、台账模板全套落地",
+    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1791907970&ver=7024&signature=mQHShWGwxDuI3EPvK4xKAmGiglOziWkLvKmfQ3XJbHAdsk-dP4jDVAGIAlgkdeoDCRWobZaZ0Otw9nvnTulGMjQ6f5WGNAuIHB1-egHyY4CPGtyEGafTzyGyZlNg*Oz5&new=1",
+    "summary": "系列: 数据合规 落地实操|律师实务·可直接落地·监管迎检可用大家好,我是陈佳律师.翻看网信办、市监的处罚卷宗,有一类违规非...",
+    "time": "2026-10-13T21:33:01+08:00",
+    "date": "2026-10-13",
+    "sources": [
+     "微信公众号"
+    ],
+    "region": "国内",
+    "category": "立法监管",
+    "heat": 16.9,
+    "hot": false,
+    "tags": [
+     "数据合规",
+     "网信办",
+     "监管"
+    ],
+    "importance": 16.0,
+    "kw_score": 11.0,
+    "weight": 2.0,
+    "reason": "立法/监管新动向，可能调整合规义务边界，建议跟进后续落地细则。"
    }
   ],
   "cases": [
@@ -4566,29 +4723,6 @@
     "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
    },
    {
-    "title": "【周报】 数据 与AI 合规 速递|Uber 8.25 亿 GDPR 罚单,中外 AI 与个人信息执法同步收紧",
-    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1789567174&ver=6970&signature=elKwRhAMUjO6PMB3Xs3eWU7seJZc1fKpDQEdFYhLe1WKPeFcFFi7Jey4ra7wLWMJSF4olZZSsMyGMRcbxJC0sE-Xie*K9dLQ*Ty1kGgIKZZUfEkPzA3NXHEkg6lvifZe&new=1",
-    "summary": "(3)跟踪Delaware HB 380(2027年1月生效)等新的州法变化,适用门槛降低将纳入更多中型企业. 数据合规 周报(中美欧英)",
-    "time": "2026-09-16T20:23:42+08:00",
-    "date": "2026-09-16",
-    "sources": [
-     "微信公众号"
-    ],
-    "region": "国内",
-    "category": "执法处罚",
-    "heat": 17.9,
-    "hot": false,
-    "tags": [
-     "GDPR",
-     "数据合规",
-     "个人信息"
-    ],
-    "importance": 16.5,
-    "kw_score": 12.0,
-    "weight": 2.0,
-    "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
-   },
-   {
     "title": "合规动态| 数据合规 、竞争(2026.09.07~2026.09.20)",
     "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1790046268&ver=6981&signature=Ydw2XpSSHJ1r6eXTIGE7COdioz6rzFek4UyA5-W8YKlek6r4xx5Dem6tEAkL7BROyOx9tPThKND1WEY2l9CBujxahPnJ34dyO9gurUeftWOy6uVvOfXprbFaQaWycoGd&new=1",
     "summary": "合规动态(2026.09.07~2026.09.20)速览 数据合规 DATA COMPLIANCE01国家网信办公布数据安全、个人信息保护执法典型案例最高...",
@@ -4656,6 +4790,29 @@
     "kw_score": 12.0,
     "weight": 2.0,
     "reason": "监管执法动态，反映当前执法重点与尺度，可对照排查自身合规风险。"
+   },
+   {
+    "title": "企业 数据合规 |个人信息侵权诉讼:用户维权与企业抗辩的攻防之道",
+    "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1791534280&ver=7015&signature=DhL3MgOPvQr-yEE4yAHGYYxRbeKIP1SrGxhVVAZJ*itiNBA*i5EoXWDpH2syG9t8DafFAXp-eTk-F1UP0s9hepqZ3f7q6n*8KBQv7Bd7SeMja8-3ucTzQXnsuscPOtDa&new=1",
+    "summary": "包括 数据合规 管理制度、操作流程、隐私政策、影响评估报告;二是技术层,包括加密与去标识化方案、权限设置、访问日志、安全认...",
+    "time": "2026-10-09T16:03:15+08:00",
+    "date": "2026-10-09",
+    "sources": [
+     "微信公众号"
+    ],
+    "region": "国内",
+    "category": "诉讼仲裁",
+    "heat": 18.0,
+    "hot": false,
+    "tags": [
+     "个人信息",
+     "数据合规",
+     "隐私政策"
+    ],
+    "importance": 16.5,
+    "kw_score": 12.0,
+    "weight": 2.0,
+    "reason": "典型争议解决案例，裁判口径与程序策略对类案处理具有参考价值。"
    }
   ]
  }
